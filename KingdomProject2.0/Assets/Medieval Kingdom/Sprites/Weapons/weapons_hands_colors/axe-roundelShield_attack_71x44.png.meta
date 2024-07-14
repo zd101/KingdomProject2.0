@@ -1,0 +1,3414 @@
+fileFormatVersion: 2
+guid: 3f8b14c9dbd521f49a1237f2a862a8bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5804385626589683796
+    second: axe-roundelShield_attack_71x44_0
+  - first:
+      213: 4492879999445534201
+    second: axe-roundelShield_attack_71x44_1
+  - first:
+      213: 8573287077703063600
+    second: axe-roundelShield_attack_71x44_2
+  - first:
+      213: -8179679431716899757
+    second: axe-roundelShield_attack_71x44_3
+  - first:
+      213: -6279019787507383069
+    second: axe-roundelShield_attack_71x44_4
+  - first:
+      213: -7095331205878323516
+    second: axe-roundelShield_attack_71x44_5
+  - first:
+      213: -7614705479241000859
+    second: axe-roundelShield_attack_71x44_6
+  - first:
+      213: 4345397261204028533
+    second: axe-roundelShield_attack_71x44_7
+  - first:
+      213: -8355542132527029227
+    second: axe-roundelShield_attack_71x44_8
+  - first:
+      213: 5632978389040542411
+    second: axe-roundelShield_attack_71x44_9
+  - first:
+      213: 6156306231933932847
+    second: axe-roundelShield_attack_71x44_10
+  - first:
+      213: 2716321913323622281
+    second: axe-roundelShield_attack_71x44_11
+  - first:
+      213: -3415260481359557501
+    second: axe-roundelShield_attack_71x44_12
+  - first:
+      213: -683277684975569926
+    second: axe-roundelShield_attack_71x44_13
+  - first:
+      213: 2784448762474519805
+    second: axe-roundelShield_attack_71x44_14
+  - first:
+      213: 596748937269523075
+    second: axe-roundelShield_attack_71x44_15
+  - first:
+      213: 8570118750637702425
+    second: axe-roundelShield_attack_71x44_16
+  - first:
+      213: 1106593030027141149
+    second: axe-roundelShield_attack_71x44_17
+  - first:
+      213: -176372640850547164
+    second: axe-roundelShield_attack_71x44_18
+  - first:
+      213: -4592240540745645401
+    second: axe-roundelShield_attack_71x44_19
+  - first:
+      213: 7060489170758119862
+    second: axe-roundelShield_attack_71x44_20
+  - first:
+      213: -964202505225402158
+    second: axe-roundelShield_attack_71x44_21
+  - first:
+      213: 1168572141727684160
+    second: axe-roundelShield_attack_71x44_22
+  - first:
+      213: 7202295199176948868
+    second: axe-roundelShield_attack_71x44_23
+  - first:
+      213: 7538700522285076719
+    second: axe-roundelShield_attack_71x44_24
+  - first:
+      213: 1643410092411729841
+    second: axe-roundelShield_attack_71x44_25
+  - first:
+      213: 616422112661973270
+    second: axe-roundelShield_attack_71x44_26
+  - first:
+      213: -2343792788471821239
+    second: axe-roundelShield_attack_71x44_27
+  - first:
+      213: 2723508987443197886
+    second: axe-roundelShield_attack_71x44_28
+  - first:
+      213: -1129053799978370295
+    second: axe-roundelShield_attack_71x44_29
+  - first:
+      213: -9153084643356378166
+    second: axe-roundelShield_attack_71x44_30
+  - first:
+      213: -6579071753689441522
+    second: axe-roundelShield_attack_71x44_31
+  - first:
+      213: -1352407584549817671
+    second: axe-roundelShield_attack_71x44_32
+  - first:
+      213: -8406216017552594890
+    second: axe-roundelShield_attack_71x44_33
+  - first:
+      213: -1635574739486304347
+    second: axe-roundelShield_attack_71x44_34
+  - first:
+      213: 5862918453700095796
+    second: axe-roundelShield_attack_71x44_35
+  - first:
+      213: 2836911014507567314
+    second: axe-roundelShield_attack_71x44_36
+  - first:
+      213: 3282275934591885531
+    second: axe-roundelShield_attack_71x44_37
+  - first:
+      213: -1422283995053927477
+    second: axe-roundelShield_attack_71x44_38
+  - first:
+      213: 5376745789451499103
+    second: axe-roundelShield_attack_71x44_39
+  - first:
+      213: -1393192406216213174
+    second: axe-roundelShield_attack_71x44_40
+  - first:
+      213: 6312640945818901712
+    second: axe-roundelShield_attack_71x44_41
+  - first:
+      213: -6406229708796738254
+    second: axe-roundelShield_attack_71x44_42
+  - first:
+      213: 8198697838900079916
+    second: axe-roundelShield_attack_71x44_43
+  - first:
+      213: -7289965358729058675
+    second: axe-roundelShield_attack_71x44_44
+  - first:
+      213: 4401241008460723806
+    second: axe-roundelShield_attack_71x44_45
+  - first:
+      213: -4324729932436085609
+    second: axe-roundelShield_attack_71x44_46
+  - first:
+      213: -7214780486563060382
+    second: axe-roundelShield_attack_71x44_47
+  - first:
+      213: -6258864833956607577
+    second: axe-roundelShield_attack_71x44_48
+  - first:
+      213: 7176960690708735179
+    second: axe-roundelShield_attack_71x44_49
+  - first:
+      213: 5730605772524977434
+    second: axe-roundelShield_attack_71x44_50
+  - first:
+      213: 7443765695343363896
+    second: axe-roundelShield_attack_71x44_51
+  - first:
+      213: -2653314407742848428
+    second: axe-roundelShield_attack_71x44_52
+  - first:
+      213: 314100514437145313
+    second: axe-roundelShield_attack_71x44_53
+  - first:
+      213: 6498042408786740127
+    second: axe-roundelShield_attack_71x44_54
+  - first:
+      213: -1656860184862095556
+    second: axe-roundelShield_attack_71x44_55
+  - first:
+      213: 353605955848991156
+    second: axe-roundelShield_attack_71x44_56
+  - first:
+      213: 2999695753750357906
+    second: axe-roundelShield_attack_71x44_57
+  - first:
+      213: -1048963088160694628
+    second: axe-roundelShield_attack_71x44_58
+  - first:
+      213: 8836048778988763653
+    second: axe-roundelShield_attack_71x44_59
+  - first:
+      213: -7805960405848545703
+    second: axe-roundelShield_attack_71x44_60
+  - first:
+      213: -3840749418091777260
+    second: axe-roundelShield_attack_71x44_61
+  - first:
+      213: 2636998737881273760
+    second: axe-roundelShield_attack_71x44_62
+  - first:
+      213: 428960541493466354
+    second: axe-roundelShield_attack_71x44_63
+  - first:
+      213: -293891952778893490
+    second: axe-roundelShield_attack_71x44_64
+  - first:
+      213: -6784872503238706384
+    second: axe-roundelShield_attack_71x44_65
+  - first:
+      213: 7969855785555083884
+    second: axe-roundelShield_attack_71x44_66
+  - first:
+      213: 8711401503231505131
+    second: axe-roundelShield_attack_71x44_67
+  - first:
+      213: -3070633688129730734
+    second: axe-roundelShield_attack_71x44_68
+  - first:
+      213: -4533492876625869164
+    second: axe-roundelShield_attack_71x44_69
+  - first:
+      213: -8261667324438664053
+    second: axe-roundelShield_attack_71x44_70
+  - first:
+      213: -4597800353264358874
+    second: axe-roundelShield_attack_71x44_71
+  - first:
+      213: -5033179919769271734
+    second: axe-roundelShield_attack_71x44_72
+  - first:
+      213: 8070656839358927870
+    second: axe-roundelShield_attack_71x44_73
+  - first:
+      213: 2726179176475396679
+    second: axe-roundelShield_attack_71x44_74
+  - first:
+      213: -5578016468438522330
+    second: axe-roundelShield_attack_71x44_75
+  - first:
+      213: -614415149930581756
+    second: axe-roundelShield_attack_71x44_76
+  - first:
+      213: -5324856058108682521
+    second: axe-roundelShield_attack_71x44_77
+  - first:
+      213: 5357344661829204692
+    second: axe-roundelShield_attack_71x44_78
+  - first:
+      213: 5426960893450323383
+    second: axe-roundelShield_attack_71x44_79
+  - first:
+      213: -8119590591123486622
+    second: axe-roundelShield_attack_71x44_80
+  - first:
+      213: -4758321910223750385
+    second: axe-roundelShield_attack_71x44_81
+  - first:
+      213: -5409454313727177753
+    second: axe-roundelShield_attack_71x44_82
+  - first:
+      213: -1754927787860396454
+    second: axe-roundelShield_attack_71x44_83
+  - first:
+      213: 7322683024552799663
+    second: axe-roundelShield_attack_71x44_84
+  - first:
+      213: -3500755931247734040
+    second: axe-roundelShield_attack_71x44_85
+  - first:
+      213: -1511735941611112683
+    second: axe-roundelShield_attack_71x44_86
+  - first:
+      213: -6435966979059768704
+    second: axe-roundelShield_attack_71x44_87
+  - first:
+      213: -815583796993184279
+    second: axe-roundelShield_attack_71x44_88
+  - first:
+      213: 4471560394490321724
+    second: axe-roundelShield_attack_71x44_89
+  - first:
+      213: -262631949572873269
+    second: axe-roundelShield_attack_71x44_90
+  - first:
+      213: -7706771836500432655
+    second: axe-roundelShield_attack_71x44_91
+  - first:
+      213: -659469123099038132
+    second: axe-roundelShield_attack_71x44_92
+  - first:
+      213: -9189244537933398289
+    second: axe-roundelShield_attack_71x44_93
+  - first:
+      213: -7794991813959143757
+    second: axe-roundelShield_attack_71x44_94
+  - first:
+      213: 653654923201899037
+    second: axe-roundelShield_attack_71x44_95
+  - first:
+      213: 4020935784633786036
+    second: axe-roundelShield_attack_71x44_96
+  - first:
+      213: 8065458487256629454
+    second: axe-roundelShield_attack_71x44_97
+  - first:
+      213: -3142028868785385794
+    second: axe-roundelShield_attack_71x44_98
+  - first:
+      213: 8897861817719090059
+    second: axe-roundelShield_attack_71x44_99
+  - first:
+      213: -5316323460644259978
+    second: axe-roundelShield_attack_71x44_100
+  - first:
+      213: 8226300586015786561
+    second: axe-roundelShield_attack_71x44_101
+  - first:
+      213: 1308089196246462312
+    second: axe-roundelShield_attack_71x44_102
+  - first:
+      213: -5341896206135308807
+    second: axe-roundelShield_attack_71x44_103
+  - first:
+      213: -7162091858705184884
+    second: axe-roundelShield_attack_71x44_104
+  - first:
+      213: -7328956708483926050
+    second: axe-roundelShield_attack_71x44_105
+  - first:
+      213: 6651281808209779578
+    second: axe-roundelShield_attack_71x44_106
+  - first:
+      213: 3660896898686517120
+    second: axe-roundelShield_attack_71x44_107
+  - first:
+      213: -7755838834844857180
+    second: axe-roundelShield_attack_71x44_108
+  - first:
+      213: -3586510991866167049
+    second: axe-roundelShield_attack_71x44_109
+  - first:
+      213: 6869433381458261403
+    second: axe-roundelShield_attack_71x44_110
+  - first:
+      213: -8272949971170354637
+    second: axe-roundelShield_attack_71x44_111
+  - first:
+      213: -8613229062353301620
+    second: axe-roundelShield_attack_71x44_112
+  - first:
+      213: -3962585762758963811
+    second: axe-roundelShield_attack_71x44_113
+  - first:
+      213: 1418432564104943456
+    second: axe-roundelShield_attack_71x44_114
+  - first:
+      213: 542067748285028134
+    second: axe-roundelShield_attack_71x44_115
+  - first:
+      213: -917227976587169163
+    second: axe-roundelShield_attack_71x44_116
+  - first:
+      213: 6295379132070866054
+    second: axe-roundelShield_attack_71x44_117
+  - first:
+      213: -2755429246813685565
+    second: axe-roundelShield_attack_71x44_118
+  - first:
+      213: 6253664206307995163
+    second: axe-roundelShield_attack_71x44_119
+  - first:
+      213: -6812766787197872918
+    second: axe-roundelShield_attack_71x44_120
+  - first:
+      213: -8053594231896796567
+    second: axe-roundelShield_attack_71x44_121
+  - first:
+      213: -4479063306406597859
+    second: axe-roundelShield_attack_71x44_122
+  - first:
+      213: 7332546546401365571
+    second: axe-roundelShield_attack_71x44_123
+  - first:
+      213: -8853206110122332479
+    second: axe-roundelShield_attack_71x44_124
+  - first:
+      213: -4558252985914150219
+    second: axe-roundelShield_attack_71x44_125
+  - first:
+      213: -5102128895699740023
+    second: axe-roundelShield_attack_71x44_126
+  - first:
+      213: 7093746884324892811
+    second: axe-roundelShield_attack_71x44_127
+  - first:
+      213: 3296578833110161534
+    second: axe-roundelShield_attack_71x44_128
+  - first:
+      213: -5252910281855610281
+    second: axe-roundelShield_attack_71x44_129
+  - first:
+      213: -8100762077057182801
+    second: axe-roundelShield_attack_71x44_130
+  - first:
+      213: 2758377515533276169
+    second: axe-roundelShield_attack_71x44_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450e24479f15d8050800000000000000
+      internalID: 5804385626589683796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f588612e8ae95e30800000000000000
+      internalID: 4492879999445534201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03810f78c2f6af670800000000000000
+      internalID: 8573287077703063600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f1f705e0fb7e80800000000000000
+      internalID: -8179679431716899757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e449fb55c07cd8a0800000000000000
+      internalID: -6279019787507383069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6e0e56cd1588d90800000000000000
+      internalID: -7095331205878323516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5689e9806b1235690800000000000000
+      internalID: -7614705479241000859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c750249c3fd4c30800000000000000
+      internalID: 4345397261204028533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514aae433b62b0c80800000000000000
+      internalID: -8355542132527029227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2b632000c5c2e40800000000000000
+      internalID: 5632978389040542411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2512f286e79f6550800000000000000
+      internalID: 6156306231933932847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8343736052b520800000000000000
+      internalID: 2716321913323622281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c4221efae8a90d0800000000000000
+      internalID: -3415260481359557501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af37410d0928486f0800000000000000
+      internalID: -683277684975569926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcd196956954a620800000000000000
+      internalID: 2784448762474519805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382ba0a2ff3184800800000000000000
+      internalID: 596748937269523075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dbca6e89d2fe670800000000000000
+      internalID: 8570118750637702425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10e0b17f786b5f00800000000000000
+      internalID: 1106593030027141149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e610284066d8df0800000000000000
+      internalID: -176372640850547164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a245b51f851540c0800000000000000
+      internalID: -4592240540745645401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1b7832e75ebf160800000000000000
+      internalID: 7060489170758119862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d88f781ee67e92f0800000000000000
+      internalID: -964202505225402158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046981aeb2a973010800000000000000
+      internalID: 1168572141727684160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c71720351b3f360800000000000000
+      internalID: 7202295199176948868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe09adaee28de9860800000000000000
+      internalID: 7538700522285076719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b73e7a95c09ec610800000000000000
+      internalID: 1643410092411729841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619a9e045a8fd8800800000000000000
+      internalID: 616422112661973270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cc30870ec297fd0800000000000000
+      internalID: -2343792788471821239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b22b8ef8dbc520800000000000000
+      internalID: 2723508987443197886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_29
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bfbf70d8bc450f0800000000000000
+      internalID: -1129053799978370295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbf8a11306b9f080800000000000000
+      internalID: -9153084643356378166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bd881f81172b4a0800000000000000
+      internalID: -6579071753689441522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_32
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b23d5b97784b3de0800000000000000
+      internalID: -1352407584549817671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6382490f11f175b80800000000000000
+      internalID: -8406216017552594890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a71159a0754d49e0800000000000000
+      internalID: -1635574739486304347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f60e345454d5150800000000000000
+      internalID: 5862918453700095796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8dd1f798bbe5720800000000000000
+      internalID: 2836911014507567314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0a920829cfc8d20800000000000000
+      internalID: 3282275934591885531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc35619fd38034ce0800000000000000
+      internalID: -1422283995053927477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5675dbeec90e9a40800000000000000
+      internalID: 5376745789451499103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_40
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4df5b353e26aace0800000000000000
+      internalID: -1393192406216213174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_41
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc1f129e710b9750800000000000000
+      internalID: 6312640945818901712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235cd9185008817a0800000000000000
+      internalID: -6406229708796738254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2de664fe30a7c170800000000000000
+      internalID: 8198697838900079916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d862d005127d4da90800000000000000
+      internalID: -7289965358729058675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56fe20e069541d30800000000000000
+      internalID: 4401241008460723806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794e5a33a097bf3c0800000000000000
+      internalID: -4324729932436085609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2652dfd7f53ffdb90800000000000000
+      internalID: -7214780486563060382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_48
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a905da289b0429a0800000000000000
+      internalID: -6258864833956607577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_49
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4e2a819bfa99360800000000000000
+      internalID: 7176960690708735179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d772b8693378f40800000000000000
+      internalID: 5730605772524977434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8370e2e06719d4760800000000000000
+      internalID: 7443765695343363896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452cf01aa988d2bd0800000000000000
+      internalID: -2653314407742848428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_53
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e22bc2f0c8eb5400800000000000000
+      internalID: 314100514437145313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_54
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f934827842fad2a50800000000000000
+      internalID: 6498042408786740127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_55
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c378ec6b076a109e0800000000000000
+      internalID: -1656860184862095556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b177dc4eb248e400800000000000000
+      internalID: 353605955848991156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a98c156f01a920800000000000000
+      internalID: 2999695753750357906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e5fa301a55171f0800000000000000
+      internalID: -1048963088160694628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_59
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a36a19c83ff9a70800000000000000
+      internalID: 8836048778988763653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95622ae5e58aba390800000000000000
+      internalID: -7805960405848545703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_61
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413f95fd0cae2bac0800000000000000
+      internalID: -3840749418091777260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a511947160889420800000000000000
+      internalID: 2636998737881273760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_63
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4906af659f3f500800000000000000
+      internalID: 428960541493466354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_64
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47a44873d2ebebf0800000000000000
+      internalID: -293891952778893490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_65
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b3426f76a47d1a0800000000000000
+      internalID: -6784872503238706384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c624a116c9d9a9e60800000000000000
+      internalID: 7969855785555083884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_67
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2faef138d15e870800000000000000
+      internalID: 8711401503231505131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2570ea7fdeae265d0800000000000000
+      internalID: -3070633688129730734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_69
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49683f88f3cc511c0800000000000000
+      internalID: -4533492876625869164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_70
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ca1623759a85d80800000000000000
+      internalID: -8261667324438664053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_71
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a238b50f45130c0800000000000000
+      internalID: -4597800353264358874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a420687a78d862ab0800000000000000
+      internalID: -5033179919769271734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_73
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3d01e92abb00070800000000000000
+      internalID: 8070656839358927870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_74
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a02ef548555d520800000000000000
+      internalID: 2726179176475396679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_75
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62661775397e692b0800000000000000
+      internalID: -5578016468438522330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_76
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f4cb2da82977f0800000000000000
+      internalID: -614415149930581756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_77
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee5850a0af4a16b0800000000000000
+      internalID: -5324856058108682521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da3aa3e59c195a40800000000000000
+      internalID: 5357344661829204692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_79
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b50b08ed20705b40800000000000000
+      internalID: 5426960893450323383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_80
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680b76706b615f80800000000000000
+      internalID: -8119590591123486622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_81
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb72eee6b07fdb0800000000000000
+      internalID: -4758321910223750385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_82
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb469156f1cde4b0800000000000000
+      internalID: -5409454313727177753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_83
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a567e16997e35a7e0800000000000000
+      internalID: -1754927787860396454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_84
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fada041e9656f9560800000000000000
+      internalID: 7322683024552799663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_85
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e213a04701da6fc0800000000000000
+      internalID: -3500755931247734040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_86
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517341eab2c350be0800000000000000
+      internalID: -1511735941611112683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_87
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082affab12adea6a0800000000000000
+      internalID: -6435966979059768704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed28a79bd67ea4f0800000000000000
+      internalID: -815583796993184279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b1d49cc7c2e0e30800000000000000
+      internalID: 4471560394490321724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc36a0322a1fa5cf0800000000000000
+      internalID: -262631949572873269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f82860d8db0c0590800000000000000
+      internalID: -7706771836500432655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_92
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee759935819d6f0800000000000000
+      internalID: -659469123099038132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feef74a87ce397080800000000000000
+      internalID: -9189244537933398289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be23edae30a2d390800000000000000
+      internalID: -7794991813959143757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_95
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a622f70bf321900800000000000000
+      internalID: 653654923201899037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bed0c3dacb3dc730800000000000000
+      internalID: 4020935784633786036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_97
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec04793f2c34eef60800000000000000
+      internalID: 8065458487256629454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_98
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe460a14654564d0800000000000000
+      internalID: -3142028868785385794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_99
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b68a92e2e8b7b70800000000000000
+      internalID: 8897861817719090059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6773939caff9836b0800000000000000
+      internalID: -5316323460644259978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1460f055cc0b92270800000000000000
+      internalID: 8226300586015786561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86febc48134472210800000000000000
+      internalID: 1308089196246462312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd4c4ef3b5cdd5b0800000000000000
+      internalID: -5341896206135308807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_104
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c870921a6632b9c90800000000000000
+      internalID: -7162091858705184884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_105
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7799044b05a4a90800000000000000
+      internalID: -7328956708483926050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_106
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b9c5780991e4c50800000000000000
+      internalID: 6651281808209779578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_107
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ff985455e1ec230800000000000000
+      internalID: 3660896898686517120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_108
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac84e10ca9bd5490800000000000000
+      internalID: -7755838834844857180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_109
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f088ca41472a3ec0800000000000000
+      internalID: -3586510991866167049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95b70eb341255f50800000000000000
+      internalID: 6869433381458261403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a10db45d3903d80800000000000000
+      internalID: -8272949971170354637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_112
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f4c597dc9a77880800000000000000
+      internalID: -8613229062353301620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d4bb25e311209c0800000000000000
+      internalID: -3962585762758963811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_114
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675251e6e84fa310800000000000000
+      internalID: 1418432564104943456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_115
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62799bcbebfc58700800000000000000
+      internalID: 542067748285028134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_116
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572b875d30a5543f0800000000000000
+      internalID: -917227976587169163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_117
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cad7d57fdad5750800000000000000
+      internalID: 6295379132070866054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_118
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8b2fbe2bfb2c9d0800000000000000
+      internalID: -2755429246813685565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_119
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e2099567a79c650800000000000000
+      internalID: 6253664206307995163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_120
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4dd7fd3b03471a0800000000000000
+      internalID: -6812766787197872918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_121
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96218a247b2eb3090800000000000000
+      internalID: -8053594231896796567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1be52767ab27d1c0800000000000000
+      internalID: -4479063306406597859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_123
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e45450c3072c560800000000000000
+      internalID: 7332546546401365571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_124
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce27daf2f7132580800000000000000
+      internalID: -8853206110122332479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_125
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2393a5f05ddb0c0800000000000000
+      internalID: -4558252985914150219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_126
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a9f853dc89139b0800000000000000
+      internalID: -5102128895699740023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_127
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8028bef43d027260800000000000000
+      internalID: 7093746884324892811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_128
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e785a919bfccfbd20800000000000000
+      internalID: 3296578833110161534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_129
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752dff40ee9e917b0800000000000000
+      internalID: -5252910281855610281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_130
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31d038fcf449f80800000000000000
+      internalID: -8100762077057182801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-roundelShield_attack_71x44_131
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90419c16cb9b74620800000000000000
+      internalID: 2758377515533276169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      axe-roundelShield_attack_71x44_0: 5804385626589683796
+      axe-roundelShield_attack_71x44_1: 4492879999445534201
+      axe-roundelShield_attack_71x44_10: 6156306231933932847
+      axe-roundelShield_attack_71x44_100: -5316323460644259978
+      axe-roundelShield_attack_71x44_101: 8226300586015786561
+      axe-roundelShield_attack_71x44_102: 1308089196246462312
+      axe-roundelShield_attack_71x44_103: -5341896206135308807
+      axe-roundelShield_attack_71x44_104: -7162091858705184884
+      axe-roundelShield_attack_71x44_105: -7328956708483926050
+      axe-roundelShield_attack_71x44_106: 6651281808209779578
+      axe-roundelShield_attack_71x44_107: 3660896898686517120
+      axe-roundelShield_attack_71x44_108: -7755838834844857180
+      axe-roundelShield_attack_71x44_109: -3586510991866167049
+      axe-roundelShield_attack_71x44_11: 2716321913323622281
+      axe-roundelShield_attack_71x44_110: 6869433381458261403
+      axe-roundelShield_attack_71x44_111: -8272949971170354637
+      axe-roundelShield_attack_71x44_112: -8613229062353301620
+      axe-roundelShield_attack_71x44_113: -3962585762758963811
+      axe-roundelShield_attack_71x44_114: 1418432564104943456
+      axe-roundelShield_attack_71x44_115: 542067748285028134
+      axe-roundelShield_attack_71x44_116: -917227976587169163
+      axe-roundelShield_attack_71x44_117: 6295379132070866054
+      axe-roundelShield_attack_71x44_118: -2755429246813685565
+      axe-roundelShield_attack_71x44_119: 6253664206307995163
+      axe-roundelShield_attack_71x44_12: -3415260481359557501
+      axe-roundelShield_attack_71x44_120: -6812766787197872918
+      axe-roundelShield_attack_71x44_121: -8053594231896796567
+      axe-roundelShield_attack_71x44_122: -4479063306406597859
+      axe-roundelShield_attack_71x44_123: 7332546546401365571
+      axe-roundelShield_attack_71x44_124: -8853206110122332479
+      axe-roundelShield_attack_71x44_125: -4558252985914150219
+      axe-roundelShield_attack_71x44_126: -5102128895699740023
+      axe-roundelShield_attack_71x44_127: 7093746884324892811
+      axe-roundelShield_attack_71x44_128: 3296578833110161534
+      axe-roundelShield_attack_71x44_129: -5252910281855610281
+      axe-roundelShield_attack_71x44_13: -683277684975569926
+      axe-roundelShield_attack_71x44_130: -8100762077057182801
+      axe-roundelShield_attack_71x44_131: 2758377515533276169
+      axe-roundelShield_attack_71x44_14: 2784448762474519805
+      axe-roundelShield_attack_71x44_15: 596748937269523075
+      axe-roundelShield_attack_71x44_16: 8570118750637702425
+      axe-roundelShield_attack_71x44_17: 1106593030027141149
+      axe-roundelShield_attack_71x44_18: -176372640850547164
+      axe-roundelShield_attack_71x44_19: -4592240540745645401
+      axe-roundelShield_attack_71x44_2: 8573287077703063600
+      axe-roundelShield_attack_71x44_20: 7060489170758119862
+      axe-roundelShield_attack_71x44_21: -964202505225402158
+      axe-roundelShield_attack_71x44_22: 1168572141727684160
+      axe-roundelShield_attack_71x44_23: 7202295199176948868
+      axe-roundelShield_attack_71x44_24: 7538700522285076719
+      axe-roundelShield_attack_71x44_25: 1643410092411729841
+      axe-roundelShield_attack_71x44_26: 616422112661973270
+      axe-roundelShield_attack_71x44_27: -2343792788471821239
+      axe-roundelShield_attack_71x44_28: 2723508987443197886
+      axe-roundelShield_attack_71x44_29: -1129053799978370295
+      axe-roundelShield_attack_71x44_3: -8179679431716899757
+      axe-roundelShield_attack_71x44_30: -9153084643356378166
+      axe-roundelShield_attack_71x44_31: -6579071753689441522
+      axe-roundelShield_attack_71x44_32: -1352407584549817671
+      axe-roundelShield_attack_71x44_33: -8406216017552594890
+      axe-roundelShield_attack_71x44_34: -1635574739486304347
+      axe-roundelShield_attack_71x44_35: 5862918453700095796
+      axe-roundelShield_attack_71x44_36: 2836911014507567314
+      axe-roundelShield_attack_71x44_37: 3282275934591885531
+      axe-roundelShield_attack_71x44_38: -1422283995053927477
+      axe-roundelShield_attack_71x44_39: 5376745789451499103
+      axe-roundelShield_attack_71x44_4: -6279019787507383069
+      axe-roundelShield_attack_71x44_40: -1393192406216213174
+      axe-roundelShield_attack_71x44_41: 6312640945818901712
+      axe-roundelShield_attack_71x44_42: -6406229708796738254
+      axe-roundelShield_attack_71x44_43: 8198697838900079916
+      axe-roundelShield_attack_71x44_44: -7289965358729058675
+      axe-roundelShield_attack_71x44_45: 4401241008460723806
+      axe-roundelShield_attack_71x44_46: -4324729932436085609
+      axe-roundelShield_attack_71x44_47: -7214780486563060382
+      axe-roundelShield_attack_71x44_48: -6258864833956607577
+      axe-roundelShield_attack_71x44_49: 7176960690708735179
+      axe-roundelShield_attack_71x44_5: -7095331205878323516
+      axe-roundelShield_attack_71x44_50: 5730605772524977434
+      axe-roundelShield_attack_71x44_51: 7443765695343363896
+      axe-roundelShield_attack_71x44_52: -2653314407742848428
+      axe-roundelShield_attack_71x44_53: 314100514437145313
+      axe-roundelShield_attack_71x44_54: 6498042408786740127
+      axe-roundelShield_attack_71x44_55: -1656860184862095556
+      axe-roundelShield_attack_71x44_56: 353605955848991156
+      axe-roundelShield_attack_71x44_57: 2999695753750357906
+      axe-roundelShield_attack_71x44_58: -1048963088160694628
+      axe-roundelShield_attack_71x44_59: 8836048778988763653
+      axe-roundelShield_attack_71x44_6: -7614705479241000859
+      axe-roundelShield_attack_71x44_60: -7805960405848545703
+      axe-roundelShield_attack_71x44_61: -3840749418091777260
+      axe-roundelShield_attack_71x44_62: 2636998737881273760
+      axe-roundelShield_attack_71x44_63: 428960541493466354
+      axe-roundelShield_attack_71x44_64: -293891952778893490
+      axe-roundelShield_attack_71x44_65: -6784872503238706384
+      axe-roundelShield_attack_71x44_66: 7969855785555083884
+      axe-roundelShield_attack_71x44_67: 8711401503231505131
+      axe-roundelShield_attack_71x44_68: -3070633688129730734
+      axe-roundelShield_attack_71x44_69: -4533492876625869164
+      axe-roundelShield_attack_71x44_7: 4345397261204028533
+      axe-roundelShield_attack_71x44_70: -8261667324438664053
+      axe-roundelShield_attack_71x44_71: -4597800353264358874
+      axe-roundelShield_attack_71x44_72: -5033179919769271734
+      axe-roundelShield_attack_71x44_73: 8070656839358927870
+      axe-roundelShield_attack_71x44_74: 2726179176475396679
+      axe-roundelShield_attack_71x44_75: -5578016468438522330
+      axe-roundelShield_attack_71x44_76: -614415149930581756
+      axe-roundelShield_attack_71x44_77: -5324856058108682521
+      axe-roundelShield_attack_71x44_78: 5357344661829204692
+      axe-roundelShield_attack_71x44_79: 5426960893450323383
+      axe-roundelShield_attack_71x44_8: -8355542132527029227
+      axe-roundelShield_attack_71x44_80: -8119590591123486622
+      axe-roundelShield_attack_71x44_81: -4758321910223750385
+      axe-roundelShield_attack_71x44_82: -5409454313727177753
+      axe-roundelShield_attack_71x44_83: -1754927787860396454
+      axe-roundelShield_attack_71x44_84: 7322683024552799663
+      axe-roundelShield_attack_71x44_85: -3500755931247734040
+      axe-roundelShield_attack_71x44_86: -1511735941611112683
+      axe-roundelShield_attack_71x44_87: -6435966979059768704
+      axe-roundelShield_attack_71x44_88: -815583796993184279
+      axe-roundelShield_attack_71x44_89: 4471560394490321724
+      axe-roundelShield_attack_71x44_9: 5632978389040542411
+      axe-roundelShield_attack_71x44_90: -262631949572873269
+      axe-roundelShield_attack_71x44_91: -7706771836500432655
+      axe-roundelShield_attack_71x44_92: -659469123099038132
+      axe-roundelShield_attack_71x44_93: -9189244537933398289
+      axe-roundelShield_attack_71x44_94: -7794991813959143757
+      axe-roundelShield_attack_71x44_95: 653654923201899037
+      axe-roundelShield_attack_71x44_96: 4020935784633786036
+      axe-roundelShield_attack_71x44_97: 8065458487256629454
+      axe-roundelShield_attack_71x44_98: -3142028868785385794
+      axe-roundelShield_attack_71x44_99: 8897861817719090059
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

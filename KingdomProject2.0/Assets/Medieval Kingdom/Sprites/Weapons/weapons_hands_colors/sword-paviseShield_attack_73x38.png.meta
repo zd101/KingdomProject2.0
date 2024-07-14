@@ -1,0 +1,5214 @@
+fileFormatVersion: 2
+guid: 8f7e05104c7e3aa45a3c975e39b86638
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2096147410220430599
+    second: sword-paviseShield_attack_73x38_0
+  - first:
+      213: -3984825627950254537
+    second: sword-paviseShield_attack_73x38_1
+  - first:
+      213: -3735517629577393118
+    second: sword-paviseShield_attack_73x38_2
+  - first:
+      213: 4443664228127740788
+    second: sword-paviseShield_attack_73x38_3
+  - first:
+      213: -5734953668836182632
+    second: sword-paviseShield_attack_73x38_4
+  - first:
+      213: 4640114121703432936
+    second: sword-paviseShield_attack_73x38_5
+  - first:
+      213: 5508364623411146427
+    second: sword-paviseShield_attack_73x38_6
+  - first:
+      213: 1685699462359783226
+    second: sword-paviseShield_attack_73x38_7
+  - first:
+      213: 3753734340387732225
+    second: sword-paviseShield_attack_73x38_8
+  - first:
+      213: 6843640699448025651
+    second: sword-paviseShield_attack_73x38_9
+  - first:
+      213: 6103936648075692323
+    second: sword-paviseShield_attack_73x38_10
+  - first:
+      213: -7406425300309982278
+    second: sword-paviseShield_attack_73x38_11
+  - first:
+      213: 8962912198972507267
+    second: sword-paviseShield_attack_73x38_12
+  - first:
+      213: -7309359441087035916
+    second: sword-paviseShield_attack_73x38_13
+  - first:
+      213: -2339898116692272681
+    second: sword-paviseShield_attack_73x38_14
+  - first:
+      213: 3791432740071120699
+    second: sword-paviseShield_attack_73x38_15
+  - first:
+      213: -3568543983625162475
+    second: sword-paviseShield_attack_73x38_16
+  - first:
+      213: 5088652441760828497
+    second: sword-paviseShield_attack_73x38_17
+  - first:
+      213: 8843043278539469567
+    second: sword-paviseShield_attack_73x38_18
+  - first:
+      213: 4661298873266698290
+    second: sword-paviseShield_attack_73x38_19
+  - first:
+      213: 6209655733354849998
+    second: sword-paviseShield_attack_73x38_20
+  - first:
+      213: 8619284176522051937
+    second: sword-paviseShield_attack_73x38_21
+  - first:
+      213: 8116750114278554628
+    second: sword-paviseShield_attack_73x38_22
+  - first:
+      213: 4318483124943053091
+    second: sword-paviseShield_attack_73x38_23
+  - first:
+      213: -1406287426364834546
+    second: sword-paviseShield_attack_73x38_24
+  - first:
+      213: -8503150332088060539
+    second: sword-paviseShield_attack_73x38_25
+  - first:
+      213: 551367569872570184
+    second: sword-paviseShield_attack_73x38_26
+  - first:
+      213: -3013454122868861735
+    second: sword-paviseShield_attack_73x38_27
+  - first:
+      213: 5879053437428973904
+    second: sword-paviseShield_attack_73x38_28
+  - first:
+      213: -1094637325181282931
+    second: sword-paviseShield_attack_73x38_29
+  - first:
+      213: -3941632205209180402
+    second: sword-paviseShield_attack_73x38_30
+  - first:
+      213: 6989516280428644889
+    second: sword-paviseShield_attack_73x38_31
+  - first:
+      213: 6814317299406364430
+    second: sword-paviseShield_attack_73x38_32
+  - first:
+      213: 4066310873083785654
+    second: sword-paviseShield_attack_73x38_33
+  - first:
+      213: -5417287892478441529
+    second: sword-paviseShield_attack_73x38_34
+  - first:
+      213: 2072279986885730247
+    second: sword-paviseShield_attack_73x38_35
+  - first:
+      213: -3659216180370662494
+    second: sword-paviseShield_attack_73x38_36
+  - first:
+      213: -7542007346842565915
+    second: sword-paviseShield_attack_73x38_37
+  - first:
+      213: 6920207311442886530
+    second: sword-paviseShield_attack_73x38_38
+  - first:
+      213: -7638000490799179603
+    second: sword-paviseShield_attack_73x38_39
+  - first:
+      213: 1618576270374479874
+    second: sword-paviseShield_attack_73x38_40
+  - first:
+      213: -2859613105320508241
+    second: sword-paviseShield_attack_73x38_41
+  - first:
+      213: -2572137691721757871
+    second: sword-paviseShield_attack_73x38_42
+  - first:
+      213: -646314535439180215
+    second: sword-paviseShield_attack_73x38_43
+  - first:
+      213: -3074248976767420659
+    second: sword-paviseShield_attack_73x38_44
+  - first:
+      213: -8037209672186548763
+    second: sword-paviseShield_attack_73x38_45
+  - first:
+      213: -6360911263376371201
+    second: sword-paviseShield_attack_73x38_46
+  - first:
+      213: -2478407761674272596
+    second: sword-paviseShield_attack_73x38_47
+  - first:
+      213: -5245509865760870880
+    second: sword-paviseShield_attack_73x38_48
+  - first:
+      213: -9067427098477711313
+    second: sword-paviseShield_attack_73x38_49
+  - first:
+      213: 6010864299044483564
+    second: sword-paviseShield_attack_73x38_50
+  - first:
+      213: 8080119228089142696
+    second: sword-paviseShield_attack_73x38_51
+  - first:
+      213: 6802853412813399395
+    second: sword-paviseShield_attack_73x38_52
+  - first:
+      213: 6714051835116490971
+    second: sword-paviseShield_attack_73x38_53
+  - first:
+      213: -1190591269897951578
+    second: sword-paviseShield_attack_73x38_54
+  - first:
+      213: -494486799418162366
+    second: sword-paviseShield_attack_73x38_55
+  - first:
+      213: 7872060617832538036
+    second: sword-paviseShield_attack_73x38_56
+  - first:
+      213: 3286387874272440493
+    second: sword-paviseShield_attack_73x38_57
+  - first:
+      213: 8670556625119095574
+    second: sword-paviseShield_attack_73x38_58
+  - first:
+      213: -69361671922839930
+    second: sword-paviseShield_attack_73x38_59
+  - first:
+      213: -7304587489226527694
+    second: sword-paviseShield_attack_73x38_60
+  - first:
+      213: -9221911999563499749
+    second: sword-paviseShield_attack_73x38_61
+  - first:
+      213: 3772841430527167592
+    second: sword-paviseShield_attack_73x38_62
+  - first:
+      213: 3788462928319396696
+    second: sword-paviseShield_attack_73x38_63
+  - first:
+      213: 6990268703033040900
+    second: sword-paviseShield_attack_73x38_64
+  - first:
+      213: -9103469733883720044
+    second: sword-paviseShield_attack_73x38_65
+  - first:
+      213: 611203807221123281
+    second: sword-paviseShield_attack_73x38_66
+  - first:
+      213: 5665723491329744355
+    second: sword-paviseShield_attack_73x38_67
+  - first:
+      213: 1654249664264851891
+    second: sword-paviseShield_attack_73x38_68
+  - first:
+      213: -7895837681997163621
+    second: sword-paviseShield_attack_73x38_69
+  - first:
+      213: -7794207992563552071
+    second: sword-paviseShield_attack_73x38_70
+  - first:
+      213: 5579266379140257981
+    second: sword-paviseShield_attack_73x38_71
+  - first:
+      213: 2545767234652340516
+    second: sword-paviseShield_attack_73x38_72
+  - first:
+      213: 2796740972411205884
+    second: sword-paviseShield_attack_73x38_73
+  - first:
+      213: 2864152709757600025
+    second: sword-paviseShield_attack_73x38_74
+  - first:
+      213: 9042340346781251952
+    second: sword-paviseShield_attack_73x38_75
+  - first:
+      213: -8058330037406810206
+    second: sword-paviseShield_attack_73x38_76
+  - first:
+      213: -5993162271690679185
+    second: sword-paviseShield_attack_73x38_77
+  - first:
+      213: -1932601881508924391
+    second: sword-paviseShield_attack_73x38_78
+  - first:
+      213: 1013590357722877088
+    second: sword-paviseShield_attack_73x38_79
+  - first:
+      213: 3630535179707696304
+    second: sword-paviseShield_attack_73x38_80
+  - first:
+      213: -7451440574670723456
+    second: sword-paviseShield_attack_73x38_81
+  - first:
+      213: -8816224617339483252
+    second: sword-paviseShield_attack_73x38_82
+  - first:
+      213: 6683162118443391271
+    second: sword-paviseShield_attack_73x38_83
+  - first:
+      213: 271831023337371647
+    second: sword-paviseShield_attack_73x38_84
+  - first:
+      213: 2284093709912639568
+    second: sword-paviseShield_attack_73x38_85
+  - first:
+      213: 2101043773556434274
+    second: sword-paviseShield_attack_73x38_86
+  - first:
+      213: -3671962038613971260
+    second: sword-paviseShield_attack_73x38_87
+  - first:
+      213: 6612457713576283446
+    second: sword-paviseShield_attack_73x38_88
+  - first:
+      213: 4962273702977449274
+    second: sword-paviseShield_attack_73x38_89
+  - first:
+      213: 7279139701824865357
+    second: sword-paviseShield_attack_73x38_90
+  - first:
+      213: -5654782343162773011
+    second: sword-paviseShield_attack_73x38_91
+  - first:
+      213: 2401456990197191389
+    second: sword-paviseShield_attack_73x38_92
+  - first:
+      213: 5060010835313580465
+    second: sword-paviseShield_attack_73x38_93
+  - first:
+      213: 5154394396841144460
+    second: sword-paviseShield_attack_73x38_94
+  - first:
+      213: -5985388292841119750
+    second: sword-paviseShield_attack_73x38_95
+  - first:
+      213: 549012964490408071
+    second: sword-paviseShield_attack_73x38_96
+  - first:
+      213: 578022892654144896
+    second: sword-paviseShield_attack_73x38_97
+  - first:
+      213: 8916013800481624891
+    second: sword-paviseShield_attack_73x38_98
+  - first:
+      213: -2187773307481708918
+    second: sword-paviseShield_attack_73x38_99
+  - first:
+      213: -8268408475547432852
+    second: sword-paviseShield_attack_73x38_100
+  - first:
+      213: -3237451673532946907
+    second: sword-paviseShield_attack_73x38_101
+  - first:
+      213: 8541184549498766408
+    second: sword-paviseShield_attack_73x38_102
+  - first:
+      213: 4404792741151259934
+    second: sword-paviseShield_attack_73x38_103
+  - first:
+      213: 2383800181023646220
+    second: sword-paviseShield_attack_73x38_104
+  - first:
+      213: -8755191963380099397
+    second: sword-paviseShield_attack_73x38_105
+  - first:
+      213: -4592994387036426571
+    second: sword-paviseShield_attack_73x38_106
+  - first:
+      213: 8846374742919750641
+    second: sword-paviseShield_attack_73x38_107
+  - first:
+      213: 3009908311961666036
+    second: sword-paviseShield_attack_73x38_108
+  - first:
+      213: -7733649315363655827
+    second: sword-paviseShield_attack_73x38_109
+  - first:
+      213: -2010424199129047232
+    second: sword-paviseShield_attack_73x38_110
+  - first:
+      213: -3939572184999613136
+    second: sword-paviseShield_attack_73x38_111
+  - first:
+      213: 3339747810500326642
+    second: sword-paviseShield_attack_73x38_112
+  - first:
+      213: -29330889794309598
+    second: sword-paviseShield_attack_73x38_113
+  - first:
+      213: -9169246175135374744
+    second: sword-paviseShield_attack_73x38_114
+  - first:
+      213: 8273806455185970263
+    second: sword-paviseShield_attack_73x38_115
+  - first:
+      213: 3052459146832251388
+    second: sword-paviseShield_attack_73x38_116
+  - first:
+      213: -6357176776396553579
+    second: sword-paviseShield_attack_73x38_117
+  - first:
+      213: 5747186723166481965
+    second: sword-paviseShield_attack_73x38_118
+  - first:
+      213: 7021947826376165775
+    second: sword-paviseShield_attack_73x38_119
+  - first:
+      213: -3968944817605137976
+    second: sword-paviseShield_attack_73x38_120
+  - first:
+      213: 7592083239247314297
+    second: sword-paviseShield_attack_73x38_121
+  - first:
+      213: -6492073473365932293
+    second: sword-paviseShield_attack_73x38_122
+  - first:
+      213: 8780613919418025680
+    second: sword-paviseShield_attack_73x38_123
+  - first:
+      213: 3984404033187506931
+    second: sword-paviseShield_attack_73x38_124
+  - first:
+      213: 3264312565624487509
+    second: sword-paviseShield_attack_73x38_125
+  - first:
+      213: 4201091499221524423
+    second: sword-paviseShield_attack_73x38_126
+  - first:
+      213: -8812266621086795598
+    second: sword-paviseShield_attack_73x38_127
+  - first:
+      213: 4372429389338983469
+    second: sword-paviseShield_attack_73x38_128
+  - first:
+      213: 6376421677371687579
+    second: sword-paviseShield_attack_73x38_129
+  - first:
+      213: 4914399806460768421
+    second: sword-paviseShield_attack_73x38_130
+  - first:
+      213: 780143295962484369
+    second: sword-paviseShield_attack_73x38_131
+  - first:
+      213: -3136221756405872101
+    second: sword-paviseShield_attack_73x38_132
+  - first:
+      213: -3218780478689942346
+    second: sword-paviseShield_attack_73x38_133
+  - first:
+      213: 7531891991096298996
+    second: sword-paviseShield_attack_73x38_134
+  - first:
+      213: -166173699503124971
+    second: sword-paviseShield_attack_73x38_135
+  - first:
+      213: 2167832185965481833
+    second: sword-paviseShield_attack_73x38_136
+  - first:
+      213: -5864091472977659627
+    second: sword-paviseShield_attack_73x38_137
+  - first:
+      213: -8519057530212209486
+    second: sword-paviseShield_attack_73x38_138
+  - first:
+      213: -8194032018118522537
+    second: sword-paviseShield_attack_73x38_139
+  - first:
+      213: 5638079414157354854
+    second: sword-paviseShield_attack_73x38_140
+  - first:
+      213: -4851528682944905291
+    second: sword-paviseShield_attack_73x38_141
+  - first:
+      213: -8807738182542655363
+    second: sword-paviseShield_attack_73x38_142
+  - first:
+      213: -6065642563529342011
+    second: sword-paviseShield_attack_73x38_143
+  - first:
+      213: -6685661203929762130
+    second: sword-paviseShield_attack_73x38_144
+  - first:
+      213: -6672379431379429644
+    second: sword-paviseShield_attack_73x38_145
+  - first:
+      213: 2570037938335176440
+    second: sword-paviseShield_attack_73x38_146
+  - first:
+      213: 7482322434940072754
+    second: sword-paviseShield_attack_73x38_147
+  - first:
+      213: 2424675777507685928
+    second: sword-paviseShield_attack_73x38_148
+  - first:
+      213: 6131832545828984090
+    second: sword-paviseShield_attack_73x38_149
+  - first:
+      213: 1262040808395881961
+    second: sword-paviseShield_attack_73x38_150
+  - first:
+      213: 404862419564237921
+    second: sword-paviseShield_attack_73x38_151
+  - first:
+      213: -6854148031643658135
+    second: sword-paviseShield_attack_73x38_152
+  - first:
+      213: 4346304548666651491
+    second: sword-paviseShield_attack_73x38_153
+  - first:
+      213: -9084080824993193133
+    second: sword-paviseShield_attack_73x38_154
+  - first:
+      213: 1938050091787606679
+    second: sword-paviseShield_attack_73x38_155
+  - first:
+      213: 35533606875789738
+    second: sword-paviseShield_attack_73x38_156
+  - first:
+      213: 883058232622344255
+    second: sword-paviseShield_attack_73x38_157
+  - first:
+      213: -811258229059830722
+    second: sword-paviseShield_attack_73x38_158
+  - first:
+      213: -2931173023570256247
+    second: sword-paviseShield_attack_73x38_159
+  - first:
+      213: -1010451880080484063
+    second: sword-paviseShield_attack_73x38_160
+  - first:
+      213: -2475477917114634047
+    second: sword-paviseShield_attack_73x38_161
+  - first:
+      213: -159159501962313907
+    second: sword-paviseShield_attack_73x38_162
+  - first:
+      213: 5642711151903673921
+    second: sword-paviseShield_attack_73x38_163
+  - first:
+      213: -74320325667693183
+    second: sword-paviseShield_attack_73x38_164
+  - first:
+      213: -641033494915045482
+    second: sword-paviseShield_attack_73x38_165
+  - first:
+      213: 9021894511714006297
+    second: sword-paviseShield_attack_73x38_166
+  - first:
+      213: 4883193521834242497
+    second: sword-paviseShield_attack_73x38_167
+  - first:
+      213: -2315847385651873728
+    second: sword-paviseShield_attack_73x38_168
+  - first:
+      213: -7946875032203820167
+    second: sword-paviseShield_attack_73x38_169
+  - first:
+      213: 326427917626597394
+    second: sword-paviseShield_attack_73x38_170
+  - first:
+      213: 1762060122859130418
+    second: sword-paviseShield_attack_73x38_171
+  - first:
+      213: -6596701573775887377
+    second: sword-paviseShield_attack_73x38_172
+  - first:
+      213: -7461064973254562417
+    second: sword-paviseShield_attack_73x38_173
+  - first:
+      213: 75103060522517886
+    second: sword-paviseShield_attack_73x38_174
+  - first:
+      213: -3935910473670278268
+    second: sword-paviseShield_attack_73x38_175
+  - first:
+      213: 1914371212892502585
+    second: sword-paviseShield_attack_73x38_176
+  - first:
+      213: -1181300084732290466
+    second: sword-paviseShield_attack_73x38_177
+  - first:
+      213: -8732985139611476999
+    second: sword-paviseShield_attack_73x38_178
+  - first:
+      213: -6625535221430187094
+    second: sword-paviseShield_attack_73x38_179
+  - first:
+      213: 6708893298927521482
+    second: sword-paviseShield_attack_73x38_180
+  - first:
+      213: -6272858666588924377
+    second: sword-paviseShield_attack_73x38_181
+  - first:
+      213: -8506038371771720476
+    second: sword-paviseShield_attack_73x38_182
+  - first:
+      213: -3865879990536245512
+    second: sword-paviseShield_attack_73x38_183
+  - first:
+      213: 94457292221381391
+    second: sword-paviseShield_attack_73x38_184
+  - first:
+      213: -2288591614362248859
+    second: sword-paviseShield_attack_73x38_185
+  - first:
+      213: 2582809724559677463
+    second: sword-paviseShield_attack_73x38_186
+  - first:
+      213: 2484904781983530000
+    second: sword-paviseShield_attack_73x38_187
+  - first:
+      213: 136730659012534076
+    second: sword-paviseShield_attack_73x38_188
+  - first:
+      213: -3382389063811449236
+    second: sword-paviseShield_attack_73x38_189
+  - first:
+      213: -7165675903464027688
+    second: sword-paviseShield_attack_73x38_190
+  - first:
+      213: -3397909804852436620
+    second: sword-paviseShield_attack_73x38_191
+  - first:
+      213: 1535393832182758013
+    second: sword-paviseShield_attack_73x38_192
+  - first:
+      213: -3804310949734694361
+    second: sword-paviseShield_attack_73x38_193
+  - first:
+      213: -8604389661544977534
+    second: sword-paviseShield_attack_73x38_194
+  - first:
+      213: 6084334995053391705
+    second: sword-paviseShield_attack_73x38_195
+  - first:
+      213: 125875634062730820
+    second: sword-paviseShield_attack_73x38_196
+  - first:
+      213: -9131022552626535827
+    second: sword-paviseShield_attack_73x38_197
+  - first:
+      213: -5858319191218794868
+    second: sword-paviseShield_attack_73x38_198
+  - first:
+      213: 75347908261921378
+    second: sword-paviseShield_attack_73x38_199
+  - first:
+      213: 5540729278571953979
+    second: sword-paviseShield_attack_73x38_200
+  - first:
+      213: -5992284163924113169
+    second: sword-paviseShield_attack_73x38_201
+  - first:
+      213: -7652629221383446525
+    second: sword-paviseShield_attack_73x38_202
+  - first:
+      213: -367497738843551524
+    second: sword-paviseShield_attack_73x38_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fac4f8490df8e2e0800000000000000
+      internalID: -2096147410220430599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736f622343e03b8c0800000000000000
+      internalID: -3984825627950254537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c84dce186c82cc0800000000000000
+      internalID: -3735517629577393118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4731aaa62111bad30800000000000000
+      internalID: 4443664228127740788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89532b5f50a5960b0800000000000000
+      internalID: -5734953668836182632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e22865953ff46040800000000000000
+      internalID: 4640114121703432936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeefbfb074a17c40800000000000000
+      internalID: 5508364623411146427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a379504dabec46710800000000000000
+      internalID: 1685699462359783226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bfef39e71f71430800000000000000
+      internalID: 3753734340387732225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332610df4fe79fe50800000000000000
+      internalID: 6843640699448025651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3294a089a0a85b450800000000000000
+      internalID: 6103936648075692323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3ce872e67173990800000000000000
+      internalID: -7406425300309982278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38485cc4829a26c70800000000000000
+      internalID: 8962912198972507267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f50c52a050ff8a90800000000000000
+      internalID: -7309359441087035916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d993f76f03078fd0800000000000000
+      internalID: -2339898116692272681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f99bd3dffdd9430800000000000000
+      internalID: 3791432740071120699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5113aa2672cf97ec0800000000000000
+      internalID: -3568543983625162475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c04985f668e9640800000000000000
+      internalID: 5088652441760828497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff230c6620dc8ba70800000000000000
+      internalID: 8843043278539469567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2387dfce0a240b040800000000000000
+      internalID: 4661298873266698290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec665144df02d2650800000000000000
+      internalID: 6209655733354849998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_21
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1610eb7aa49dd9770800000000000000
+      internalID: 8619284176522051937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c3f2c793d74a070800000000000000
+      internalID: 8116750114278554628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321efb695855eeb30800000000000000
+      internalID: 4318483124943053091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dfc6b590ddb7ce0800000000000000
+      internalID: -1406287426364834546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585752813ddbef980800000000000000
+      internalID: -8503150332088060539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847ccee22e9d6a700800000000000000
+      internalID: 551367569872570184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41773f07f0e26d0800000000000000
+      internalID: -3013454122868861735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0514e79e3f7969150800000000000000
+      internalID: 5879053437428973904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d859fa207211fc0f0800000000000000
+      internalID: -1094637325181282931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07644d94628c49c0800000000000000
+      internalID: -3941632205209180402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a42c66600cff060800000000000000
+      internalID: 6989516280428644889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f5ae1ea71519e50800000000000000
+      internalID: 6814317299406364430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_33
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1b770e1307e6830800000000000000
+      internalID: 4066310873083785654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74cc22d5de1d4b0800000000000000
+      internalID: -5417287892478441529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf997d2ba732cc10800000000000000
+      internalID: 2072279986885730247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab15a4754ad73dc0800000000000000
+      internalID: -3659216180370662494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2001ef648655790800000000000000
+      internalID: -7542007346842565915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f3d9a82e3890060800000000000000
+      internalID: 6920207311442886530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8d7af750f500690800000000000000
+      internalID: -7638000490799179603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2082c85da86567610800000000000000
+      internalID: 1618576270374479874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_41
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4c156180d9058d0800000000000000
+      internalID: -2859613105320508241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b088ba56eed4cd0800000000000000
+      internalID: -2572137691721757871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_43
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed9f5ba54d707f0800000000000000
+      internalID: -646314535439180215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d077bacf7d21655d0800000000000000
+      internalID: -3074248976767420659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edacf7d268167090800000000000000
+      internalID: -8037209672186548763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff19ba258e089b7a0800000000000000
+      internalID: -6360911263376371201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca085dc954dea9dd0800000000000000
+      internalID: -2478407761674272596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e2489a1943437b0800000000000000
+      internalID: -5245509865760870880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_49
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f203c7068170a2280800000000000000
+      internalID: -9067427098477711313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_50
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1bf99ab31ea6350800000000000000
+      internalID: 6010864299044483564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_51
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad8e0da0a9522070800000000000000
+      internalID: 8080119228089142696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365ebc9c227986e50800000000000000
+      internalID: 6802853412813399395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_53
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd09dab429a1d2d50800000000000000
+      internalID: 6714051835116490971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_54
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a62d0d4c8b2a7fe0800000000000000
+      internalID: -1190591269897951578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_55
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2438f8630ea3329f0800000000000000
+      internalID: -494486799418162366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_56
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf10488c6d2f3d60800000000000000
+      internalID: 7872060617832538036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_57
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f8201c589b9d20800000000000000
+      internalID: 3286387874272440493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b222ddf41045870800000000000000
+      internalID: 8670556625119095574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e03084de3990ff0800000000000000
+      internalID: -69361671922839930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ce3e14164e0aa90800000000000000
+      internalID: -7304587489226527694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17fa1c65ef250080800000000000000
+      internalID: -9221911999563499749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cc27caa43db5430800000000000000
+      internalID: 3772841430527167592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_63
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb63f06f2539430800000000000000
+      internalID: 3788462928319396696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_64
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400a0d0795c620160800000000000000
+      internalID: 6990268703033040900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e4750628af9a180800000000000000
+      internalID: -9103469733883720044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_66
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d808c6df9e6b7800800000000000000
+      internalID: 611203807221123281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_67
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed9b404f71b0ae40800000000000000
+      internalID: 5665723491329744355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1d0581e4315f610800000000000000
+      internalID: 1654249664264851891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b935a6056795c6290800000000000000
+      internalID: -7895837681997163621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03db1502965d390800000000000000
+      internalID: -7794207992563552071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_71
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db85feb26398d6d40800000000000000
+      internalID: 5579266379140257981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_72
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4210846dfc1645320800000000000000
+      internalID: 2545767234652340516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_73
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8b95db81500d620800000000000000
+      internalID: 2796740972411205884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_74
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911039fe6b38fb720800000000000000
+      internalID: 2864152709757600025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_75
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079341413a8dc7d70800000000000000
+      internalID: 9042340346781251952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_76
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afb18d968f0b2090800000000000000
+      internalID: -8058330037406810206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_77
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c9a92caa204dca0800000000000000
+      internalID: -5993162271690679185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b86004d40e25e0800000000000000
+      internalID: -1932601881508924391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_79
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac45d36f0ff01e00800000000000000
+      internalID: 1013590357722877088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b44903b280426230800000000000000
+      internalID: 3630535179707696304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_81
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086a1d9d64a279890800000000000000
+      internalID: -7451440574670723456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_82
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b0d6fbb6a76a580800000000000000
+      internalID: -8816224617339483252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_83
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7295a2ea98c5fbc50800000000000000
+      internalID: 6683162118443391271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_84
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff774f020ecb5c300800000000000000
+      internalID: 271831023337371647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_85
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0580c05a02bb2bf10800000000000000
+      internalID: 2284093709912639568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_86
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265a0642e28682d10800000000000000
+      internalID: 2101043773556434274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_87
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cee1b31bf19a0dc0800000000000000
+      internalID: -3671962038613971260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_88
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d8106914b24cb50800000000000000
+      internalID: 6612457713576283446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_89
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dab3044a98dd440800000000000000
+      internalID: 4962273702977449274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_90
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44c6b50ef2b40560800000000000000
+      internalID: 7279139701824865357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_91
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c1a15b6d2681b0800000000000000
+      internalID: -5654782343162773011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2151cb860b35120800000000000000
+      internalID: 2401456990197191389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_93
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b95e7eab05c83640800000000000000
+      internalID: 5060010835313580465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80faff0566188740800000000000000
+      internalID: 5154394396841144460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff5c624f01afeca0800000000000000
+      internalID: -5985388292841119750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_96
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780f885e16c7e9700800000000000000
+      internalID: 549012964490408071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_97
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08da1b422cc850800800000000000000
+      internalID: 578022892654144896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33103eff4b0cbb70800000000000000
+      internalID: 8916013800481624891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_99
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a876a4c773a1e0800000000000000
+      internalID: -2187773307481708918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_100
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c688a25ac46b04d80800000000000000
+      internalID: -8268408475547432852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_101
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526239d0bd24213d0800000000000000
+      internalID: -3237451673532946907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844cde93812688670800000000000000
+      internalID: 8541184549498766408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_103
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d3a8519a7f02d30800000000000000
+      internalID: 4404792741151259934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c022d6d72a5f41120800000000000000
+      internalID: 2383800181023646220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_105
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6df5adb4f4f7680800000000000000
+      internalID: -8755191963380099397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bea45190f76240c0800000000000000
+      internalID: -4592994387036426571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_107
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f328b565f2a4ca70800000000000000
+      internalID: 8846374742919750641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_108
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f188fc99a755c920800000000000000
+      internalID: 3009908311961666036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_109
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6e4c1cee8ca490800000000000000
+      internalID: -7733649315363655827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_110
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f5013b7d98914e0800000000000000
+      internalID: -2010424199129047232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_111
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da61278f3d359c0800000000000000
+      internalID: -3939572184999613136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b24c50fa295e20800000000000000
+      internalID: 3339747810500326642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_113
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2223ddc06bbc79ff0800000000000000
+      internalID: -29330889794309598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86262f83f2b40c080800000000000000
+      internalID: -9169246175135374744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_115
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75491bd622772d270800000000000000
+      internalID: 8273806455185970263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_116
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf90452eb638c5a20800000000000000
+      internalID: 3052459146832251388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_117
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59245845765c6c7a0800000000000000
+      internalID: -6357176776396553579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_118
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eed24ffdb12cf40800000000000000
+      internalID: 5747186723166481965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_119
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f894a7e1858f27160800000000000000
+      internalID: 7021947826376165775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_120
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a48d77b97be8c0800000000000000
+      internalID: -3968944817605137976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_121
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d78844b7f7c5960800000000000000
+      internalID: 7592083239247314297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_122
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6894c829587e5a0800000000000000
+      internalID: -6492073473365932293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_123
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d603c886d10bd970800000000000000
+      internalID: 8780613919418025680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_124
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa66cf9b527b4730800000000000000
+      internalID: 3984404033187506931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_125
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e34edbbfa2d4d20800000000000000
+      internalID: 3264312565624487509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf1300d5764d4a30800000000000000
+      internalID: 4201091499221524423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_127
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f610923a84b580800000000000000
+      internalID: -8812266621086795598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_128
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c370d0d5dfdac30800000000000000
+      internalID: 4372429389338983469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_129
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9207d95bb99d7850800000000000000
+      internalID: 6376421677371687579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_130
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b75c1694733440800000000000000
+      internalID: 4914399806460768421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_131
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e0fbdb130a3da00800000000000000
+      internalID: 780143295962484369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_132
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8390dde6e974d0800000000000000
+      internalID: -3136221756405872101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_133
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b469bd55389453d0800000000000000
+      internalID: -3218780478689942346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd87e73cd7a68860800000000000000
+      internalID: 7531891991096298996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_135
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e8a1696e1a1bdf0800000000000000
+      internalID: -166173699503124971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f812133efa51e10800000000000000
+      internalID: 2167832185965481833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519f4c6efdf8e9ea0800000000000000
+      internalID: -5864091472977659627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_138
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bca59aef4a36c980800000000000000
+      internalID: -8519057530212209486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_139
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7594ed91b43f84e80800000000000000
+      internalID: -8194032018118522537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_140
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667aa48fa5b7e3e40800000000000000
+      internalID: 5638079414157354854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf337b0e58ebacb0800000000000000
+      internalID: -4851528682944905291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_142
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7086e2d9c0a4c580800000000000000
+      internalID: -8807738182542655363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_143
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c30852c93282dba0800000000000000
+      internalID: -6065642563529342011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_144
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6f723ae82c733a0800000000000000
+      internalID: -6685661203929762130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_145
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6910a4242f663a0800000000000000
+      internalID: -6672379431379429644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6deb563eb9aa320800000000000000
+      internalID: 2570037938335176440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233f98d8c9c86d760800000000000000
+      internalID: 7482322434940072754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f6dde5cd26a120800000000000000
+      internalID: 2424675777507685928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_149
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15d05c6635a81550800000000000000
+      internalID: 6131832545828984090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_150
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edbb7cbd6ba38110800000000000000
+      internalID: 1262040808395881961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_151
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164180db93c5e9500800000000000000
+      internalID: 404862419564237921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_152
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968dfe71eac21e0a0800000000000000
+      internalID: -6854148031643658135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_153
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363b0f495fc215c30800000000000000
+      internalID: 4346304548666651491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_154
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e7538e9cdee180800000000000000
+      internalID: -9084080824993193133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_155
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad9ed4a4655ea10800000000000000
+      internalID: 1938050091787606679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_156
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa97b6f80ad3e7000800000000000000
+      internalID: 35533606875789738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_157
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38607fa8c0414c00800000000000000
+      internalID: 883058232622344255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_158
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb6cb50f4ddb4f0800000000000000
+      internalID: -811258229059830722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_159
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e13e24aa16257d0800000000000000
+      internalID: -2931173023570256247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1295d216e572af1f0800000000000000
+      internalID: -1010451880080484063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0fe0533f555add0800000000000000
+      internalID: -2475477917114634047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_162
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f78e6b64d8acdf0800000000000000
+      internalID: -159159501962313907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_163
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e8a5375efee4e40800000000000000
+      internalID: 5642711151903673921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_164
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d5cfcbe06f7fef0800000000000000
+      internalID: -74320325667693183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_165
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6972676ce679a17f0800000000000000
+      internalID: -641033494915045482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_166
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91572c32245343d70800000000000000
+      internalID: 9021894511714006297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_167
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c13b66c2a694c340800000000000000
+      internalID: 4883193521834242497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_168
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048f33892157cdfd0800000000000000
+      internalID: -2315847385651873728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9730217334707b190800000000000000
+      internalID: -7946875032203820167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21067ea2674b78400800000000000000
+      internalID: 326427917626597394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_171
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e46ef8858147810800000000000000
+      internalID: 1762060122859130418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_172
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f3d59edec374a0800000000000000
+      internalID: -6596701573775887377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_173
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d6d0fefe8f47890800000000000000
+      internalID: -7461064973254562417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_174
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e754dfbe5d1da0100800000000000000
+      internalID: 75103060522517886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_175
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483c42d0746d069c0800000000000000
+      internalID: -3935910473670278268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_176
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af0b0b976319a10800000000000000
+      internalID: 1914371212892502585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_177
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a946ce4dd2b9fe0800000000000000
+      internalID: -1181300084732290466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_178
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb51bce8443ec680800000000000000
+      internalID: -8732985139611476999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_179
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab80d7d1de5d04a0800000000000000
+      internalID: -6625535221430187094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec29ef8e6ca1d50800000000000000
+      internalID: 6708893298927521482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_181
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7269cbb174452f8a0800000000000000
+      internalID: -6272858666588924377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_182
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec54b4fa2b74f980800000000000000
+      internalID: -8506038371771720476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_183
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feebc381a2a95ac0800000000000000
+      internalID: -3865879990536245512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_184
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bfc4528649f4100800000000000000
+      internalID: 94457292221381391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569100e5d0a4d30e0800000000000000
+      internalID: -2288591614362248859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_186
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ddca92cbf7d320800000000000000
+      internalID: 2582809724559677463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_187
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3ccecbb72c7220800000000000000
+      internalID: 2484904781983530000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_188
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fd8585fc3c5e100800000000000000
+      internalID: 136730659012534076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_189
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3a5f21175f01d0800000000000000
+      internalID: -3382389063811449236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_190
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9437e2bb76e8c90800000000000000
+      internalID: -7165675903464027688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_191
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47124fe090338d0d0800000000000000
+      internalID: -3397909804852436620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_192
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a34953e80de4510800000000000000
+      internalID: 1535393832182758013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_193
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7224fe9e85f543bc0800000000000000
+      internalID: -3804310949734694361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b619ad031179880800000000000000
+      internalID: -8604389661544977534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_195
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fa2aa1176ef6450800000000000000
+      internalID: 6084334995053391705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_196
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446af26e8333fb100800000000000000
+      internalID: 125875634062730820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_197
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626d9add57184180800000000000000
+      internalID: -9131022552626535827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_198
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ecc8afbb113bea0800000000000000
+      internalID: -5858319191218794868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_199
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262458af580bb0100800000000000000
+      internalID: 75347908261921378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_200
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f33ed3cef94ec40800000000000000
+      internalID: 5540729278571953979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_201
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8ca182d4127dca0800000000000000
+      internalID: -5992284163924113169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_202
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3006aadb4466cc590800000000000000
+      internalID: -7652629221383446525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-paviseShield_attack_73x38_203
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8887ce0c266eaf0800000000000000
+      internalID: -367497738843551524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sword-paviseShield_attack_73x38_0: -2096147410220430599
+      sword-paviseShield_attack_73x38_1: -3984825627950254537
+      sword-paviseShield_attack_73x38_10: 6103936648075692323
+      sword-paviseShield_attack_73x38_100: -8268408475547432852
+      sword-paviseShield_attack_73x38_101: -3237451673532946907
+      sword-paviseShield_attack_73x38_102: 8541184549498766408
+      sword-paviseShield_attack_73x38_103: 4404792741151259934
+      sword-paviseShield_attack_73x38_104: 2383800181023646220
+      sword-paviseShield_attack_73x38_105: -8755191963380099397
+      sword-paviseShield_attack_73x38_106: -4592994387036426571
+      sword-paviseShield_attack_73x38_107: 8846374742919750641
+      sword-paviseShield_attack_73x38_108: 3009908311961666036
+      sword-paviseShield_attack_73x38_109: -7733649315363655827
+      sword-paviseShield_attack_73x38_11: -7406425300309982278
+      sword-paviseShield_attack_73x38_110: -2010424199129047232
+      sword-paviseShield_attack_73x38_111: -3939572184999613136
+      sword-paviseShield_attack_73x38_112: 3339747810500326642
+      sword-paviseShield_attack_73x38_113: -29330889794309598
+      sword-paviseShield_attack_73x38_114: -9169246175135374744
+      sword-paviseShield_attack_73x38_115: 8273806455185970263
+      sword-paviseShield_attack_73x38_116: 3052459146832251388
+      sword-paviseShield_attack_73x38_117: -6357176776396553579
+      sword-paviseShield_attack_73x38_118: 5747186723166481965
+      sword-paviseShield_attack_73x38_119: 7021947826376165775
+      sword-paviseShield_attack_73x38_12: 8962912198972507267
+      sword-paviseShield_attack_73x38_120: -3968944817605137976
+      sword-paviseShield_attack_73x38_121: 7592083239247314297
+      sword-paviseShield_attack_73x38_122: -6492073473365932293
+      sword-paviseShield_attack_73x38_123: 8780613919418025680
+      sword-paviseShield_attack_73x38_124: 3984404033187506931
+      sword-paviseShield_attack_73x38_125: 3264312565624487509
+      sword-paviseShield_attack_73x38_126: 4201091499221524423
+      sword-paviseShield_attack_73x38_127: -8812266621086795598
+      sword-paviseShield_attack_73x38_128: 4372429389338983469
+      sword-paviseShield_attack_73x38_129: 6376421677371687579
+      sword-paviseShield_attack_73x38_13: -7309359441087035916
+      sword-paviseShield_attack_73x38_130: 4914399806460768421
+      sword-paviseShield_attack_73x38_131: 780143295962484369
+      sword-paviseShield_attack_73x38_132: -3136221756405872101
+      sword-paviseShield_attack_73x38_133: -3218780478689942346
+      sword-paviseShield_attack_73x38_134: 7531891991096298996
+      sword-paviseShield_attack_73x38_135: -166173699503124971
+      sword-paviseShield_attack_73x38_136: 2167832185965481833
+      sword-paviseShield_attack_73x38_137: -5864091472977659627
+      sword-paviseShield_attack_73x38_138: -8519057530212209486
+      sword-paviseShield_attack_73x38_139: -8194032018118522537
+      sword-paviseShield_attack_73x38_14: -2339898116692272681
+      sword-paviseShield_attack_73x38_140: 5638079414157354854
+      sword-paviseShield_attack_73x38_141: -4851528682944905291
+      sword-paviseShield_attack_73x38_142: -8807738182542655363
+      sword-paviseShield_attack_73x38_143: -6065642563529342011
+      sword-paviseShield_attack_73x38_144: -6685661203929762130
+      sword-paviseShield_attack_73x38_145: -6672379431379429644
+      sword-paviseShield_attack_73x38_146: 2570037938335176440
+      sword-paviseShield_attack_73x38_147: 7482322434940072754
+      sword-paviseShield_attack_73x38_148: 2424675777507685928
+      sword-paviseShield_attack_73x38_149: 6131832545828984090
+      sword-paviseShield_attack_73x38_15: 3791432740071120699
+      sword-paviseShield_attack_73x38_150: 1262040808395881961
+      sword-paviseShield_attack_73x38_151: 404862419564237921
+      sword-paviseShield_attack_73x38_152: -6854148031643658135
+      sword-paviseShield_attack_73x38_153: 4346304548666651491
+      sword-paviseShield_attack_73x38_154: -9084080824993193133
+      sword-paviseShield_attack_73x38_155: 1938050091787606679
+      sword-paviseShield_attack_73x38_156: 35533606875789738
+      sword-paviseShield_attack_73x38_157: 883058232622344255
+      sword-paviseShield_attack_73x38_158: -811258229059830722
+      sword-paviseShield_attack_73x38_159: -2931173023570256247
+      sword-paviseShield_attack_73x38_16: -3568543983625162475
+      sword-paviseShield_attack_73x38_160: -1010451880080484063
+      sword-paviseShield_attack_73x38_161: -2475477917114634047
+      sword-paviseShield_attack_73x38_162: -159159501962313907
+      sword-paviseShield_attack_73x38_163: 5642711151903673921
+      sword-paviseShield_attack_73x38_164: -74320325667693183
+      sword-paviseShield_attack_73x38_165: -641033494915045482
+      sword-paviseShield_attack_73x38_166: 9021894511714006297
+      sword-paviseShield_attack_73x38_167: 4883193521834242497
+      sword-paviseShield_attack_73x38_168: -2315847385651873728
+      sword-paviseShield_attack_73x38_169: -7946875032203820167
+      sword-paviseShield_attack_73x38_17: 5088652441760828497
+      sword-paviseShield_attack_73x38_170: 326427917626597394
+      sword-paviseShield_attack_73x38_171: 1762060122859130418
+      sword-paviseShield_attack_73x38_172: -6596701573775887377
+      sword-paviseShield_attack_73x38_173: -7461064973254562417
+      sword-paviseShield_attack_73x38_174: 75103060522517886
+      sword-paviseShield_attack_73x38_175: -3935910473670278268
+      sword-paviseShield_attack_73x38_176: 1914371212892502585
+      sword-paviseShield_attack_73x38_177: -1181300084732290466
+      sword-paviseShield_attack_73x38_178: -8732985139611476999
+      sword-paviseShield_attack_73x38_179: -6625535221430187094
+      sword-paviseShield_attack_73x38_18: 8843043278539469567
+      sword-paviseShield_attack_73x38_180: 6708893298927521482
+      sword-paviseShield_attack_73x38_181: -6272858666588924377
+      sword-paviseShield_attack_73x38_182: -8506038371771720476
+      sword-paviseShield_attack_73x38_183: -3865879990536245512
+      sword-paviseShield_attack_73x38_184: 94457292221381391
+      sword-paviseShield_attack_73x38_185: -2288591614362248859
+      sword-paviseShield_attack_73x38_186: 2582809724559677463
+      sword-paviseShield_attack_73x38_187: 2484904781983530000
+      sword-paviseShield_attack_73x38_188: 136730659012534076
+      sword-paviseShield_attack_73x38_189: -3382389063811449236
+      sword-paviseShield_attack_73x38_19: 4661298873266698290
+      sword-paviseShield_attack_73x38_190: -7165675903464027688
+      sword-paviseShield_attack_73x38_191: -3397909804852436620
+      sword-paviseShield_attack_73x38_192: 1535393832182758013
+      sword-paviseShield_attack_73x38_193: -3804310949734694361
+      sword-paviseShield_attack_73x38_194: -8604389661544977534
+      sword-paviseShield_attack_73x38_195: 6084334995053391705
+      sword-paviseShield_attack_73x38_196: 125875634062730820
+      sword-paviseShield_attack_73x38_197: -9131022552626535827
+      sword-paviseShield_attack_73x38_198: -5858319191218794868
+      sword-paviseShield_attack_73x38_199: 75347908261921378
+      sword-paviseShield_attack_73x38_2: -3735517629577393118
+      sword-paviseShield_attack_73x38_20: 6209655733354849998
+      sword-paviseShield_attack_73x38_200: 5540729278571953979
+      sword-paviseShield_attack_73x38_201: -5992284163924113169
+      sword-paviseShield_attack_73x38_202: -7652629221383446525
+      sword-paviseShield_attack_73x38_203: -367497738843551524
+      sword-paviseShield_attack_73x38_21: 8619284176522051937
+      sword-paviseShield_attack_73x38_22: 8116750114278554628
+      sword-paviseShield_attack_73x38_23: 4318483124943053091
+      sword-paviseShield_attack_73x38_24: -1406287426364834546
+      sword-paviseShield_attack_73x38_25: -8503150332088060539
+      sword-paviseShield_attack_73x38_26: 551367569872570184
+      sword-paviseShield_attack_73x38_27: -3013454122868861735
+      sword-paviseShield_attack_73x38_28: 5879053437428973904
+      sword-paviseShield_attack_73x38_29: -1094637325181282931
+      sword-paviseShield_attack_73x38_3: 4443664228127740788
+      sword-paviseShield_attack_73x38_30: -3941632205209180402
+      sword-paviseShield_attack_73x38_31: 6989516280428644889
+      sword-paviseShield_attack_73x38_32: 6814317299406364430
+      sword-paviseShield_attack_73x38_33: 4066310873083785654
+      sword-paviseShield_attack_73x38_34: -5417287892478441529
+      sword-paviseShield_attack_73x38_35: 2072279986885730247
+      sword-paviseShield_attack_73x38_36: -3659216180370662494
+      sword-paviseShield_attack_73x38_37: -7542007346842565915
+      sword-paviseShield_attack_73x38_38: 6920207311442886530
+      sword-paviseShield_attack_73x38_39: -7638000490799179603
+      sword-paviseShield_attack_73x38_4: -5734953668836182632
+      sword-paviseShield_attack_73x38_40: 1618576270374479874
+      sword-paviseShield_attack_73x38_41: -2859613105320508241
+      sword-paviseShield_attack_73x38_42: -2572137691721757871
+      sword-paviseShield_attack_73x38_43: -646314535439180215
+      sword-paviseShield_attack_73x38_44: -3074248976767420659
+      sword-paviseShield_attack_73x38_45: -8037209672186548763
+      sword-paviseShield_attack_73x38_46: -6360911263376371201
+      sword-paviseShield_attack_73x38_47: -2478407761674272596
+      sword-paviseShield_attack_73x38_48: -5245509865760870880
+      sword-paviseShield_attack_73x38_49: -9067427098477711313
+      sword-paviseShield_attack_73x38_5: 4640114121703432936
+      sword-paviseShield_attack_73x38_50: 6010864299044483564
+      sword-paviseShield_attack_73x38_51: 8080119228089142696
+      sword-paviseShield_attack_73x38_52: 6802853412813399395
+      sword-paviseShield_attack_73x38_53: 6714051835116490971
+      sword-paviseShield_attack_73x38_54: -1190591269897951578
+      sword-paviseShield_attack_73x38_55: -494486799418162366
+      sword-paviseShield_attack_73x38_56: 7872060617832538036
+      sword-paviseShield_attack_73x38_57: 3286387874272440493
+      sword-paviseShield_attack_73x38_58: 8670556625119095574
+      sword-paviseShield_attack_73x38_59: -69361671922839930
+      sword-paviseShield_attack_73x38_6: 5508364623411146427
+      sword-paviseShield_attack_73x38_60: -7304587489226527694
+      sword-paviseShield_attack_73x38_61: -9221911999563499749
+      sword-paviseShield_attack_73x38_62: 3772841430527167592
+      sword-paviseShield_attack_73x38_63: 3788462928319396696
+      sword-paviseShield_attack_73x38_64: 6990268703033040900
+      sword-paviseShield_attack_73x38_65: -9103469733883720044
+      sword-paviseShield_attack_73x38_66: 611203807221123281
+      sword-paviseShield_attack_73x38_67: 5665723491329744355
+      sword-paviseShield_attack_73x38_68: 1654249664264851891
+      sword-paviseShield_attack_73x38_69: -7895837681997163621
+      sword-paviseShield_attack_73x38_7: 1685699462359783226
+      sword-paviseShield_attack_73x38_70: -7794207992563552071
+      sword-paviseShield_attack_73x38_71: 5579266379140257981
+      sword-paviseShield_attack_73x38_72: 2545767234652340516
+      sword-paviseShield_attack_73x38_73: 2796740972411205884
+      sword-paviseShield_attack_73x38_74: 2864152709757600025
+      sword-paviseShield_attack_73x38_75: 9042340346781251952
+      sword-paviseShield_attack_73x38_76: -8058330037406810206
+      sword-paviseShield_attack_73x38_77: -5993162271690679185
+      sword-paviseShield_attack_73x38_78: -1932601881508924391
+      sword-paviseShield_attack_73x38_79: 1013590357722877088
+      sword-paviseShield_attack_73x38_8: 3753734340387732225
+      sword-paviseShield_attack_73x38_80: 3630535179707696304
+      sword-paviseShield_attack_73x38_81: -7451440574670723456
+      sword-paviseShield_attack_73x38_82: -8816224617339483252
+      sword-paviseShield_attack_73x38_83: 6683162118443391271
+      sword-paviseShield_attack_73x38_84: 271831023337371647
+      sword-paviseShield_attack_73x38_85: 2284093709912639568
+      sword-paviseShield_attack_73x38_86: 2101043773556434274
+      sword-paviseShield_attack_73x38_87: -3671962038613971260
+      sword-paviseShield_attack_73x38_88: 6612457713576283446
+      sword-paviseShield_attack_73x38_89: 4962273702977449274
+      sword-paviseShield_attack_73x38_9: 6843640699448025651
+      sword-paviseShield_attack_73x38_90: 7279139701824865357
+      sword-paviseShield_attack_73x38_91: -5654782343162773011
+      sword-paviseShield_attack_73x38_92: 2401456990197191389
+      sword-paviseShield_attack_73x38_93: 5060010835313580465
+      sword-paviseShield_attack_73x38_94: 5154394396841144460
+      sword-paviseShield_attack_73x38_95: -5985388292841119750
+      sword-paviseShield_attack_73x38_96: 549012964490408071
+      sword-paviseShield_attack_73x38_97: 578022892654144896
+      sword-paviseShield_attack_73x38_98: 8916013800481624891
+      sword-paviseShield_attack_73x38_99: -2187773307481708918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

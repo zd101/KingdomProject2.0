@@ -1,0 +1,3414 @@
+fileFormatVersion: 2
+guid: d054a1742b22dee44b4b734ebf5ca2af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7663252369246322531
+    second: axe-buckler_attack_71x44_0
+  - first:
+      213: -3517417698641190891
+    second: axe-buckler_attack_71x44_1
+  - first:
+      213: 4328142025357092932
+    second: axe-buckler_attack_71x44_2
+  - first:
+      213: 6509639359412384276
+    second: axe-buckler_attack_71x44_3
+  - first:
+      213: 4404595267047655205
+    second: axe-buckler_attack_71x44_4
+  - first:
+      213: 2593785591037433704
+    second: axe-buckler_attack_71x44_5
+  - first:
+      213: -6537210318573415348
+    second: axe-buckler_attack_71x44_6
+  - first:
+      213: -5244313906181136406
+    second: axe-buckler_attack_71x44_7
+  - first:
+      213: 2075600898323126252
+    second: axe-buckler_attack_71x44_8
+  - first:
+      213: 962990618047576090
+    second: axe-buckler_attack_71x44_9
+  - first:
+      213: 1552757331797877377
+    second: axe-buckler_attack_71x44_10
+  - first:
+      213: -455857929286018925
+    second: axe-buckler_attack_71x44_11
+  - first:
+      213: 6813556184648092937
+    second: axe-buckler_attack_71x44_12
+  - first:
+      213: -45725483440083965
+    second: axe-buckler_attack_71x44_13
+  - first:
+      213: -8954192714251023188
+    second: axe-buckler_attack_71x44_14
+  - first:
+      213: 8735274850944568393
+    second: axe-buckler_attack_71x44_15
+  - first:
+      213: -3811819533103604729
+    second: axe-buckler_attack_71x44_16
+  - first:
+      213: -3216827004194289298
+    second: axe-buckler_attack_71x44_17
+  - first:
+      213: 647160390182756604
+    second: axe-buckler_attack_71x44_18
+  - first:
+      213: -5733735781032813416
+    second: axe-buckler_attack_71x44_19
+  - first:
+      213: 2157518397692899876
+    second: axe-buckler_attack_71x44_20
+  - first:
+      213: 3838769080720457958
+    second: axe-buckler_attack_71x44_21
+  - first:
+      213: 3873702795450284463
+    second: axe-buckler_attack_71x44_22
+  - first:
+      213: 1040234463557680917
+    second: axe-buckler_attack_71x44_23
+  - first:
+      213: 5147605667759876645
+    second: axe-buckler_attack_71x44_24
+  - first:
+      213: -357699420505359052
+    second: axe-buckler_attack_71x44_25
+  - first:
+      213: 7285237686235101547
+    second: axe-buckler_attack_71x44_26
+  - first:
+      213: -8284215923055864118
+    second: axe-buckler_attack_71x44_27
+  - first:
+      213: 7670128642767004126
+    second: axe-buckler_attack_71x44_28
+  - first:
+      213: 6830890841210914368
+    second: axe-buckler_attack_71x44_29
+  - first:
+      213: -2199847329864170067
+    second: axe-buckler_attack_71x44_30
+  - first:
+      213: -2691106223373917648
+    second: axe-buckler_attack_71x44_31
+  - first:
+      213: 3115405114700624032
+    second: axe-buckler_attack_71x44_32
+  - first:
+      213: 5443092473373316465
+    second: axe-buckler_attack_71x44_33
+  - first:
+      213: 34023895785256829
+    second: axe-buckler_attack_71x44_34
+  - first:
+      213: 2643786901160660738
+    second: axe-buckler_attack_71x44_35
+  - first:
+      213: -9010112312007309723
+    second: axe-buckler_attack_71x44_36
+  - first:
+      213: -930738568569067611
+    second: axe-buckler_attack_71x44_37
+  - first:
+      213: -4982614117216811551
+    second: axe-buckler_attack_71x44_38
+  - first:
+      213: -7327220326927591606
+    second: axe-buckler_attack_71x44_39
+  - first:
+      213: 3374391411636156885
+    second: axe-buckler_attack_71x44_40
+  - first:
+      213: 8074211233373648821
+    second: axe-buckler_attack_71x44_41
+  - first:
+      213: -7636735737347734230
+    second: axe-buckler_attack_71x44_42
+  - first:
+      213: -3532433071587709393
+    second: axe-buckler_attack_71x44_43
+  - first:
+      213: 3591502654715180113
+    second: axe-buckler_attack_71x44_44
+  - first:
+      213: 8856202409107681329
+    second: axe-buckler_attack_71x44_45
+  - first:
+      213: -4743630253394995440
+    second: axe-buckler_attack_71x44_46
+  - first:
+      213: -7533318960792924042
+    second: axe-buckler_attack_71x44_47
+  - first:
+      213: -4705575694380574692
+    second: axe-buckler_attack_71x44_48
+  - first:
+      213: -4704511283624395751
+    second: axe-buckler_attack_71x44_49
+  - first:
+      213: 7335915935343684033
+    second: axe-buckler_attack_71x44_50
+  - first:
+      213: 8814671876467823644
+    second: axe-buckler_attack_71x44_51
+  - first:
+      213: 3027634387202185328
+    second: axe-buckler_attack_71x44_52
+  - first:
+      213: -4643467977108310790
+    second: axe-buckler_attack_71x44_53
+  - first:
+      213: -5917072070663077150
+    second: axe-buckler_attack_71x44_54
+  - first:
+      213: -791141745878315920
+    second: axe-buckler_attack_71x44_55
+  - first:
+      213: 4317154387036701363
+    second: axe-buckler_attack_71x44_56
+  - first:
+      213: 6372238076392568579
+    second: axe-buckler_attack_71x44_57
+  - first:
+      213: -6505876605513869389
+    second: axe-buckler_attack_71x44_58
+  - first:
+      213: 8489147831709960671
+    second: axe-buckler_attack_71x44_59
+  - first:
+      213: -7087614735265117311
+    second: axe-buckler_attack_71x44_60
+  - first:
+      213: 2601146830205895865
+    second: axe-buckler_attack_71x44_61
+  - first:
+      213: -273995209855744789
+    second: axe-buckler_attack_71x44_62
+  - first:
+      213: -7859319715372482247
+    second: axe-buckler_attack_71x44_63
+  - first:
+      213: -1443354111110726151
+    second: axe-buckler_attack_71x44_64
+  - first:
+      213: -917251948612221703
+    second: axe-buckler_attack_71x44_65
+  - first:
+      213: 6772296192295548980
+    second: axe-buckler_attack_71x44_66
+  - first:
+      213: 9188725833547223979
+    second: axe-buckler_attack_71x44_67
+  - first:
+      213: -8244067751341807192
+    second: axe-buckler_attack_71x44_68
+  - first:
+      213: 356214605509187235
+    second: axe-buckler_attack_71x44_69
+  - first:
+      213: 1179748601147491236
+    second: axe-buckler_attack_71x44_70
+  - first:
+      213: -5197240457174703090
+    second: axe-buckler_attack_71x44_71
+  - first:
+      213: -8012557586975016411
+    second: axe-buckler_attack_71x44_72
+  - first:
+      213: 9004444241301310094
+    second: axe-buckler_attack_71x44_73
+  - first:
+      213: 4074090348351059120
+    second: axe-buckler_attack_71x44_74
+  - first:
+      213: -3795367780774831313
+    second: axe-buckler_attack_71x44_75
+  - first:
+      213: 6391502567943904290
+    second: axe-buckler_attack_71x44_76
+  - first:
+      213: -8489359664004265139
+    second: axe-buckler_attack_71x44_77
+  - first:
+      213: 5513813073675847083
+    second: axe-buckler_attack_71x44_78
+  - first:
+      213: -8979453529873559243
+    second: axe-buckler_attack_71x44_79
+  - first:
+      213: 7076861751013979154
+    second: axe-buckler_attack_71x44_80
+  - first:
+      213: 9105565586977028331
+    second: axe-buckler_attack_71x44_81
+  - first:
+      213: 7254268597776860910
+    second: axe-buckler_attack_71x44_82
+  - first:
+      213: 7830499062668563541
+    second: axe-buckler_attack_71x44_83
+  - first:
+      213: -3690532058242986123
+    second: axe-buckler_attack_71x44_84
+  - first:
+      213: 5072843306580534207
+    second: axe-buckler_attack_71x44_85
+  - first:
+      213: -2876783484717130662
+    second: axe-buckler_attack_71x44_86
+  - first:
+      213: 6789171503271367055
+    second: axe-buckler_attack_71x44_87
+  - first:
+      213: -2041454490441253865
+    second: axe-buckler_attack_71x44_88
+  - first:
+      213: -7306699935926274677
+    second: axe-buckler_attack_71x44_89
+  - first:
+      213: -7314810999037577207
+    second: axe-buckler_attack_71x44_90
+  - first:
+      213: -5198155624648830430
+    second: axe-buckler_attack_71x44_91
+  - first:
+      213: -2826156829335522137
+    second: axe-buckler_attack_71x44_92
+  - first:
+      213: 7444760709873742830
+    second: axe-buckler_attack_71x44_93
+  - first:
+      213: 7096321161433958721
+    second: axe-buckler_attack_71x44_94
+  - first:
+      213: 4306398978613980011
+    second: axe-buckler_attack_71x44_95
+  - first:
+      213: -734814723127159876
+    second: axe-buckler_attack_71x44_96
+  - first:
+      213: 7837811041116269213
+    second: axe-buckler_attack_71x44_97
+  - first:
+      213: 1061460839410593196
+    second: axe-buckler_attack_71x44_98
+  - first:
+      213: 1842924890374385100
+    second: axe-buckler_attack_71x44_99
+  - first:
+      213: 7404629377380164668
+    second: axe-buckler_attack_71x44_100
+  - first:
+      213: -2508318188911303029
+    second: axe-buckler_attack_71x44_101
+  - first:
+      213: 8550219403405980800
+    second: axe-buckler_attack_71x44_102
+  - first:
+      213: -4390207824562219266
+    second: axe-buckler_attack_71x44_103
+  - first:
+      213: -4310372647263457244
+    second: axe-buckler_attack_71x44_104
+  - first:
+      213: -4564481025253820965
+    second: axe-buckler_attack_71x44_105
+  - first:
+      213: 123985476297375391
+    second: axe-buckler_attack_71x44_106
+  - first:
+      213: -8244762494315501973
+    second: axe-buckler_attack_71x44_107
+  - first:
+      213: 4799476773087432721
+    second: axe-buckler_attack_71x44_108
+  - first:
+      213: -3748292218958196606
+    second: axe-buckler_attack_71x44_109
+  - first:
+      213: -6254911141399572499
+    second: axe-buckler_attack_71x44_110
+  - first:
+      213: 196393618418819109
+    second: axe-buckler_attack_71x44_111
+  - first:
+      213: 6227770655862979848
+    second: axe-buckler_attack_71x44_112
+  - first:
+      213: -9108557727263727867
+    second: axe-buckler_attack_71x44_113
+  - first:
+      213: 8551417103144756201
+    second: axe-buckler_attack_71x44_114
+  - first:
+      213: -4712229976581443209
+    second: axe-buckler_attack_71x44_115
+  - first:
+      213: -423273569428311812
+    second: axe-buckler_attack_71x44_116
+  - first:
+      213: 389468141802607599
+    second: axe-buckler_attack_71x44_117
+  - first:
+      213: 3240875276692263409
+    second: axe-buckler_attack_71x44_118
+  - first:
+      213: -9050768292160707610
+    second: axe-buckler_attack_71x44_119
+  - first:
+      213: -5854649299014152086
+    second: axe-buckler_attack_71x44_120
+  - first:
+      213: 6174144863184163603
+    second: axe-buckler_attack_71x44_121
+  - first:
+      213: -4476734465835612500
+    second: axe-buckler_attack_71x44_122
+  - first:
+      213: 4062828171537949010
+    second: axe-buckler_attack_71x44_123
+  - first:
+      213: 5599661702699066023
+    second: axe-buckler_attack_71x44_124
+  - first:
+      213: -8132061494518335870
+    second: axe-buckler_attack_71x44_125
+  - first:
+      213: -7919280950836268442
+    second: axe-buckler_attack_71x44_126
+  - first:
+      213: -7341130421192227347
+    second: axe-buckler_attack_71x44_127
+  - first:
+      213: -5128542006713659094
+    second: axe-buckler_attack_71x44_128
+  - first:
+      213: -3971812294644358106
+    second: axe-buckler_attack_71x44_129
+  - first:
+      213: -8659050923124639109
+    second: axe-buckler_attack_71x44_130
+  - first:
+      213: -6403757092691830222
+    second: axe-buckler_attack_71x44_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9007e26298a6a590800000000000000
+      internalID: -7663252369246322531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510e1d93d3f9f2fc0800000000000000
+      internalID: -3517417698641190891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44869d69d36a01c30800000000000000
+      internalID: 4328142025357092932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4123da10282e65a50800000000000000
+      internalID: 6509639359412384276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5270ebf0f04402d30800000000000000
+      internalID: 4404595267047655205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8671059a04afef320800000000000000
+      internalID: 2593785591037433704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d963d9d92745a0800000000000000
+      internalID: -6537210318573415348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef9e63b9447837b0800000000000000
+      internalID: -5244313906181136406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7180025040ecc10800000000000000
+      internalID: 2075600898323126252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1872ce6dda3d5d00800000000000000
+      internalID: 962990618047576090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182223001908c8510800000000000000
+      internalID: 1552757331797877377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3989cd8e0a77ca9f0800000000000000
+      internalID: -455857929286018925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d8d1b004d9e8e50800000000000000
+      internalID: 6813556184648092937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cee524aec8d5ff0800000000000000
+      internalID: -45725483440083965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac4da0fa215cb380800000000000000
+      internalID: -8954192714251023188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c44f9023ee93970800000000000000
+      internalID: 8735274850944568393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cd67d9452b91bc0800000000000000
+      internalID: -3811819533103604729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e698d1712e88b53d0800000000000000
+      internalID: -3216827004194289298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0eb8132fc2bf800800000000000000
+      internalID: 647160390182756604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c979f8fadad60b0800000000000000
+      internalID: -5733735781032813416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422fada3d8b01fd10800000000000000
+      internalID: 2157518397692899876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e08817e32c064530800000000000000
+      internalID: 3838769080720457958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa970403b2822c530800000000000000
+      internalID: 3873702795450284463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f7973bbb7af6e00800000000000000
+      internalID: 1040234463557680917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a6d96e418ff6740800000000000000
+      internalID: 5147605667759876645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d3a60b542390bf0800000000000000
+      internalID: -357699420505359052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f458a31d5a1560800000000000000
+      internalID: 7285237686235101547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6de97728d880d80800000000000000
+      internalID: -8284215923055864118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12dadcc55c17a60800000000000000
+      internalID: 7670128642767004126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_29
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04688d947033cce50800000000000000
+      internalID: 6830890841210914368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5ca5f32829871e0800000000000000
+      internalID: -2199847329864170067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03264fed52547aad0800000000000000
+      internalID: -2691106223373917648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_32
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a07a2912742c3b20800000000000000
+      internalID: 3115405114700624032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d40b04cfb98b40800000000000000
+      internalID: 5443092473373316465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77b72e8d80e87000800000000000000
+      internalID: 34023895785256829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f0381ed2e90b420800000000000000
+      internalID: 2643786901160660738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5664e600796a5f280800000000000000
+      internalID: -9010112312007309723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a76fa1043a5513f0800000000000000
+      internalID: -930738568569067611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e502720cd23adab0800000000000000
+      internalID: -4982614117216811551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4795761feb705a90800000000000000
+      internalID: -7327220326927591606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_40
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9b3bf4c1f34de20800000000000000
+      internalID: 3374391411636156885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_41
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b774b6765c5d0070800000000000000
+      internalID: 8074211233373648821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a258bdbde4dd40690800000000000000
+      internalID: -7636735737347734230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e2c2746d64afec0800000000000000
+      internalID: -3532433071587709393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154bb28c2a497d130800000000000000
+      internalID: 3591502654715180113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13072dd3b2d87ea70800000000000000
+      internalID: 8856202409107681329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0175898da6d3b2eb0800000000000000
+      internalID: -4743630253394995440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67019328156447790800000000000000
+      internalID: -7533318960792924042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_48
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18dbb056df62beb0800000000000000
+      internalID: -4705575694380574692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_49
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c30c1c9e736beb0800000000000000
+      internalID: -4704511283624395751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9a9440da86ec560800000000000000
+      internalID: 7335915935343684033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c149d789e51045a70800000000000000
+      internalID: 8814671876467823644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07891fe1f61540a20800000000000000
+      internalID: 3027634387202185328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_53
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4be8a1a761f8fb0800000000000000
+      internalID: -4643467977108310790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_54
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e20ebd3d4652eda0800000000000000
+      internalID: -5917072070663077150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_55
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cc0f516cc4505f0800000000000000
+      internalID: -791141745878315920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b287dfaa0d99eb30800000000000000
+      internalID: 4317154387036701363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307f897d4ccbe6850800000000000000
+      internalID: 6372238076392568579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b752d762bb76b5a0800000000000000
+      internalID: -6505876605513869389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_59
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd989dab9f28fc570800000000000000
+      internalID: 8489147831709960671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc2b733fbb3ad90800000000000000
+      internalID: -7087614735265117311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_61
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b44e07b241291420800000000000000
+      internalID: 2601146830205895865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4c36eeec2923cf0800000000000000
+      internalID: -273995209855744789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_63
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931cffcfb561ee290800000000000000
+      internalID: -7859319715372482247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_64
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd352a451d28fbe0800000000000000
+      internalID: -1443354111110726151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_65
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f40f6966344543f0800000000000000
+      internalID: -917251948612221703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b18771870cfd50800000000000000
+      internalID: 6772296192295548980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_67
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3990f2679e48f70800000000000000
+      internalID: 9188725833547223979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a4012f00379d80800000000000000
+      internalID: -8244067751341807192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_69
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a65e21eb4781f400800000000000000
+      internalID: 356214605509187235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_70
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a309a72a1f4f5010800000000000000
+      internalID: 1179748601147491236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_71
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0420d12751bfd7b0800000000000000
+      internalID: -5197240457174703090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a3ef5b35dadc090800000000000000
+      internalID: -8012557586975016411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_73
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a8392745636fc70800000000000000
+      internalID: 9004444241301310094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_74
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4ff4c16931a8830800000000000000
+      internalID: 4074090348351059120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_75
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b14f2bc15245bc0800000000000000
+      internalID: -3795367780774831313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_76
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c1b4fc8bd23b850800000000000000
+      internalID: 6391502567943904290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_77
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b0f783d5cbf2a80800000000000000
+      internalID: -8489359664004265139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba58a5ee6cff48c40800000000000000
+      internalID: 5513813073675847083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_79
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53152caf692926380800000000000000
+      internalID: -8979453529873559243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_80
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214bcb98440163260800000000000000
+      internalID: 7076861751013979154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_81
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be879c278a77d5e70800000000000000
+      internalID: 9105565586977028331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_82
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6c2cbdad65ca460800000000000000
+      internalID: 7254268597776860910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_83
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5549364e8658bac60800000000000000
+      internalID: 7830499062668563541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_84
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f4c3475a898ccc0800000000000000
+      internalID: -3690532058242986123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_85
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb363f93c1c566640800000000000000
+      internalID: 5072843306580534207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_86
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c99b999ac9318d0800000000000000
+      internalID: -2876783484717130662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_87
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d1bbf28bf73e50800000000000000
+      internalID: 6789171503271367055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c7f1005fb4ba3e0800000000000000
+      internalID: -2041454490441253865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85bebeee13699a90800000000000000
+      internalID: -7306699935926274677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908be33e6229c7a90800000000000000
+      internalID: -7314810999037577207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2229b9910017cd7b0800000000000000
+      internalID: -5198155624648830430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_92
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a479eb565977c8d0800000000000000
+      internalID: -2826156829335522137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee33fcdeb6a115760800000000000000
+      internalID: 7444760709873742830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149cb579f723b7260800000000000000
+      internalID: 7096321161433958721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_95
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b24650e0763cb30800000000000000
+      internalID: 4306398978613980011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3574c07e96dc5f0800000000000000
+      internalID: -734814723127159876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_97
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aae5a8d9f75cc60800000000000000
+      internalID: 7837811041116269213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_98
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad6e0472011bbe00800000000000000
+      internalID: 1061460839410593196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_99
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdad7e6c62639910800000000000000
+      internalID: 1842924890374385100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34aa24ff2782c660800000000000000
+      internalID: 7404629377380164668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b866a4695e9a03dd0800000000000000
+      internalID: -2508318188911303029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0847aa31f3b78a670800000000000000
+      internalID: 8550219403405980800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef614de6e39d213c0800000000000000
+      internalID: -4390207824562219266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_104
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4203d462aea7e24c0800000000000000
+      internalID: -4310372647263457244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_105
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd53cb1f0b4b7a0c0800000000000000
+      internalID: -4564481025253820965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_106
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e3300422c78b100800000000000000
+      internalID: 123985476297375391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_107
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b666cdca138b49d80800000000000000
+      internalID: -8244762494315501973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_108
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105d9742ba2b9240800000000000000
+      internalID: 4799476773087432721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_109
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280d2ae06146bfbc0800000000000000
+      internalID: -3748292218958196606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defce33f4771239a0800000000000000
+      internalID: -6254911141399572499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e10694fab9b200800000000000000
+      internalID: 196393618418819109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_112
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d70555a6c7d6650800000000000000
+      internalID: 6227770655862979848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f5e4a9107e79180800000000000000
+      internalID: -9108557727263727867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_114
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3a4274c8cbca670800000000000000
+      internalID: 8551417103144756201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_115
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7717ae18dcbca9eb0800000000000000
+      internalID: -4712229976581443209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_116
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f9636eea302af0800000000000000
+      internalID: -423273569428311812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_117
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d973263ba76500800000000000000
+      internalID: 389468141802607599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_118
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1969ca4e6e9fc20800000000000000
+      internalID: 3240875276692263409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_119
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e36469f036356280800000000000000
+      internalID: -9050768292160707610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_120
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6095c75b7b10cea0800000000000000
+      internalID: -5854649299014152086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_121
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31315e18a08fea550800000000000000
+      internalID: 6174144863184163603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6ce1ad8b17fd1c0800000000000000
+      internalID: -4476734465835612500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_123
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25128fb32b0126830800000000000000
+      internalID: 4062828171537949010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_124
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2acbb76aef5bd40800000000000000
+      internalID: 5599661702699066023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_125
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2863a9ff72d152f80800000000000000
+      internalID: -8132061494518335870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_126
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662f2e0feef091290800000000000000
+      internalID: -7919280950836268442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_127
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de50603e6c01f1a90800000000000000
+      internalID: -7341130421192227347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_128
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d9229732c3d8b0800000000000000
+      internalID: -5128542006713659094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_129
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a137f2c941e8c0800000000000000
+      internalID: -3971812294644358106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_130
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a3323201fd4d780800000000000000
+      internalID: -8659050923124639109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-buckler_attack_71x44_131
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a173e4ad84127a0800000000000000
+      internalID: -6403757092691830222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      axe-buckler_attack_71x44_0: -7663252369246322531
+      axe-buckler_attack_71x44_1: -3517417698641190891
+      axe-buckler_attack_71x44_10: 1552757331797877377
+      axe-buckler_attack_71x44_100: 7404629377380164668
+      axe-buckler_attack_71x44_101: -2508318188911303029
+      axe-buckler_attack_71x44_102: 8550219403405980800
+      axe-buckler_attack_71x44_103: -4390207824562219266
+      axe-buckler_attack_71x44_104: -4310372647263457244
+      axe-buckler_attack_71x44_105: -4564481025253820965
+      axe-buckler_attack_71x44_106: 123985476297375391
+      axe-buckler_attack_71x44_107: -8244762494315501973
+      axe-buckler_attack_71x44_108: 4799476773087432721
+      axe-buckler_attack_71x44_109: -3748292218958196606
+      axe-buckler_attack_71x44_11: -455857929286018925
+      axe-buckler_attack_71x44_110: -6254911141399572499
+      axe-buckler_attack_71x44_111: 196393618418819109
+      axe-buckler_attack_71x44_112: 6227770655862979848
+      axe-buckler_attack_71x44_113: -9108557727263727867
+      axe-buckler_attack_71x44_114: 8551417103144756201
+      axe-buckler_attack_71x44_115: -4712229976581443209
+      axe-buckler_attack_71x44_116: -423273569428311812
+      axe-buckler_attack_71x44_117: 389468141802607599
+      axe-buckler_attack_71x44_118: 3240875276692263409
+      axe-buckler_attack_71x44_119: -9050768292160707610
+      axe-buckler_attack_71x44_12: 6813556184648092937
+      axe-buckler_attack_71x44_120: -5854649299014152086
+      axe-buckler_attack_71x44_121: 6174144863184163603
+      axe-buckler_attack_71x44_122: -4476734465835612500
+      axe-buckler_attack_71x44_123: 4062828171537949010
+      axe-buckler_attack_71x44_124: 5599661702699066023
+      axe-buckler_attack_71x44_125: -8132061494518335870
+      axe-buckler_attack_71x44_126: -7919280950836268442
+      axe-buckler_attack_71x44_127: -7341130421192227347
+      axe-buckler_attack_71x44_128: -5128542006713659094
+      axe-buckler_attack_71x44_129: -3971812294644358106
+      axe-buckler_attack_71x44_13: -45725483440083965
+      axe-buckler_attack_71x44_130: -8659050923124639109
+      axe-buckler_attack_71x44_131: -6403757092691830222
+      axe-buckler_attack_71x44_14: -8954192714251023188
+      axe-buckler_attack_71x44_15: 8735274850944568393
+      axe-buckler_attack_71x44_16: -3811819533103604729
+      axe-buckler_attack_71x44_17: -3216827004194289298
+      axe-buckler_attack_71x44_18: 647160390182756604
+      axe-buckler_attack_71x44_19: -5733735781032813416
+      axe-buckler_attack_71x44_2: 4328142025357092932
+      axe-buckler_attack_71x44_20: 2157518397692899876
+      axe-buckler_attack_71x44_21: 3838769080720457958
+      axe-buckler_attack_71x44_22: 3873702795450284463
+      axe-buckler_attack_71x44_23: 1040234463557680917
+      axe-buckler_attack_71x44_24: 5147605667759876645
+      axe-buckler_attack_71x44_25: -357699420505359052
+      axe-buckler_attack_71x44_26: 7285237686235101547
+      axe-buckler_attack_71x44_27: -8284215923055864118
+      axe-buckler_attack_71x44_28: 7670128642767004126
+      axe-buckler_attack_71x44_29: 6830890841210914368
+      axe-buckler_attack_71x44_3: 6509639359412384276
+      axe-buckler_attack_71x44_30: -2199847329864170067
+      axe-buckler_attack_71x44_31: -2691106223373917648
+      axe-buckler_attack_71x44_32: 3115405114700624032
+      axe-buckler_attack_71x44_33: 5443092473373316465
+      axe-buckler_attack_71x44_34: 34023895785256829
+      axe-buckler_attack_71x44_35: 2643786901160660738
+      axe-buckler_attack_71x44_36: -9010112312007309723
+      axe-buckler_attack_71x44_37: -930738568569067611
+      axe-buckler_attack_71x44_38: -4982614117216811551
+      axe-buckler_attack_71x44_39: -7327220326927591606
+      axe-buckler_attack_71x44_4: 4404595267047655205
+      axe-buckler_attack_71x44_40: 3374391411636156885
+      axe-buckler_attack_71x44_41: 8074211233373648821
+      axe-buckler_attack_71x44_42: -7636735737347734230
+      axe-buckler_attack_71x44_43: -3532433071587709393
+      axe-buckler_attack_71x44_44: 3591502654715180113
+      axe-buckler_attack_71x44_45: 8856202409107681329
+      axe-buckler_attack_71x44_46: -4743630253394995440
+      axe-buckler_attack_71x44_47: -7533318960792924042
+      axe-buckler_attack_71x44_48: -4705575694380574692
+      axe-buckler_attack_71x44_49: -4704511283624395751
+      axe-buckler_attack_71x44_5: 2593785591037433704
+      axe-buckler_attack_71x44_50: 7335915935343684033
+      axe-buckler_attack_71x44_51: 8814671876467823644
+      axe-buckler_attack_71x44_52: 3027634387202185328
+      axe-buckler_attack_71x44_53: -4643467977108310790
+      axe-buckler_attack_71x44_54: -5917072070663077150
+      axe-buckler_attack_71x44_55: -791141745878315920
+      axe-buckler_attack_71x44_56: 4317154387036701363
+      axe-buckler_attack_71x44_57: 6372238076392568579
+      axe-buckler_attack_71x44_58: -6505876605513869389
+      axe-buckler_attack_71x44_59: 8489147831709960671
+      axe-buckler_attack_71x44_6: -6537210318573415348
+      axe-buckler_attack_71x44_60: -7087614735265117311
+      axe-buckler_attack_71x44_61: 2601146830205895865
+      axe-buckler_attack_71x44_62: -273995209855744789
+      axe-buckler_attack_71x44_63: -7859319715372482247
+      axe-buckler_attack_71x44_64: -1443354111110726151
+      axe-buckler_attack_71x44_65: -917251948612221703
+      axe-buckler_attack_71x44_66: 6772296192295548980
+      axe-buckler_attack_71x44_67: 9188725833547223979
+      axe-buckler_attack_71x44_68: -8244067751341807192
+      axe-buckler_attack_71x44_69: 356214605509187235
+      axe-buckler_attack_71x44_7: -5244313906181136406
+      axe-buckler_attack_71x44_70: 1179748601147491236
+      axe-buckler_attack_71x44_71: -5197240457174703090
+      axe-buckler_attack_71x44_72: -8012557586975016411
+      axe-buckler_attack_71x44_73: 9004444241301310094
+      axe-buckler_attack_71x44_74: 4074090348351059120
+      axe-buckler_attack_71x44_75: -3795367780774831313
+      axe-buckler_attack_71x44_76: 6391502567943904290
+      axe-buckler_attack_71x44_77: -8489359664004265139
+      axe-buckler_attack_71x44_78: 5513813073675847083
+      axe-buckler_attack_71x44_79: -8979453529873559243
+      axe-buckler_attack_71x44_8: 2075600898323126252
+      axe-buckler_attack_71x44_80: 7076861751013979154
+      axe-buckler_attack_71x44_81: 9105565586977028331
+      axe-buckler_attack_71x44_82: 7254268597776860910
+      axe-buckler_attack_71x44_83: 7830499062668563541
+      axe-buckler_attack_71x44_84: -3690532058242986123
+      axe-buckler_attack_71x44_85: 5072843306580534207
+      axe-buckler_attack_71x44_86: -2876783484717130662
+      axe-buckler_attack_71x44_87: 6789171503271367055
+      axe-buckler_attack_71x44_88: -2041454490441253865
+      axe-buckler_attack_71x44_89: -7306699935926274677
+      axe-buckler_attack_71x44_9: 962990618047576090
+      axe-buckler_attack_71x44_90: -7314810999037577207
+      axe-buckler_attack_71x44_91: -5198155624648830430
+      axe-buckler_attack_71x44_92: -2826156829335522137
+      axe-buckler_attack_71x44_93: 7444760709873742830
+      axe-buckler_attack_71x44_94: 7096321161433958721
+      axe-buckler_attack_71x44_95: 4306398978613980011
+      axe-buckler_attack_71x44_96: -734814723127159876
+      axe-buckler_attack_71x44_97: 7837811041116269213
+      axe-buckler_attack_71x44_98: 1061460839410593196
+      axe-buckler_attack_71x44_99: 1842924890374385100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

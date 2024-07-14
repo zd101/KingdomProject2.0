@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: ca2c1bf578ca2174daa439a2dcac78cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6606196480020137775
+    second: pike-heaterShield_spearwall_56x53_0
+  - first:
+      213: 8340775862615532641
+    second: pike-heaterShield_spearwall_56x53_1
+  - first:
+      213: 1721937575185235711
+    second: pike-heaterShield_spearwall_56x53_2
+  - first:
+      213: 3943293131069359590
+    second: pike-heaterShield_spearwall_56x53_3
+  - first:
+      213: -8439534169119169053
+    second: pike-heaterShield_spearwall_56x53_4
+  - first:
+      213: 8119962940550406334
+    second: pike-heaterShield_spearwall_56x53_5
+  - first:
+      213: 4895597991553370108
+    second: pike-heaterShield_spearwall_56x53_6
+  - first:
+      213: 8521161022165230701
+    second: pike-heaterShield_spearwall_56x53_7
+  - first:
+      213: -537375712518789867
+    second: pike-heaterShield_spearwall_56x53_8
+  - first:
+      213: -6762419907857090788
+    second: pike-heaterShield_spearwall_56x53_9
+  - first:
+      213: 448550674401692777
+    second: pike-heaterShield_spearwall_56x53_10
+  - first:
+      213: 283791395793519014
+    second: pike-heaterShield_spearwall_56x53_11
+  - first:
+      213: 3284326245156111910
+    second: pike-heaterShield_spearwall_56x53_12
+  - first:
+      213: 6427415330526434778
+    second: pike-heaterShield_spearwall_56x53_13
+  - first:
+      213: -2746890842586804938
+    second: pike-heaterShield_spearwall_56x53_14
+  - first:
+      213: -1309718052572165655
+    second: pike-heaterShield_spearwall_56x53_15
+  - first:
+      213: -735534265685197252
+    second: pike-heaterShield_spearwall_56x53_16
+  - first:
+      213: -6366088197508625525
+    second: pike-heaterShield_spearwall_56x53_17
+  - first:
+      213: -1284565837502636552
+    second: pike-heaterShield_spearwall_56x53_18
+  - first:
+      213: -4626516294360419213
+    second: pike-heaterShield_spearwall_56x53_19
+  - first:
+      213: -6735069269882092524
+    second: pike-heaterShield_spearwall_56x53_20
+  - first:
+      213: -5721988091426190061
+    second: pike-heaterShield_spearwall_56x53_21
+  - first:
+      213: -7738029264752216592
+    second: pike-heaterShield_spearwall_56x53_22
+  - first:
+      213: 6334185806299154613
+    second: pike-heaterShield_spearwall_56x53_23
+  - first:
+      213: -241314257439760129
+    second: pike-heaterShield_spearwall_56x53_24
+  - first:
+      213: 6588798695966629884
+    second: pike-heaterShield_spearwall_56x53_25
+  - first:
+      213: 2228476744133635503
+    second: pike-heaterShield_spearwall_56x53_26
+  - first:
+      213: -7774781389020195822
+    second: pike-heaterShield_spearwall_56x53_27
+  - first:
+      213: 2042887804589553640
+    second: pike-heaterShield_spearwall_56x53_28
+  - first:
+      213: 415899999466002527
+    second: pike-heaterShield_spearwall_56x53_29
+  - first:
+      213: -2194307086347345315
+    second: pike-heaterShield_spearwall_56x53_30
+  - first:
+      213: -1493359854378647092
+    second: pike-heaterShield_spearwall_56x53_31
+  - first:
+      213: -2541629628989479198
+    second: pike-heaterShield_spearwall_56x53_32
+  - first:
+      213: -6940426490928817024
+    second: pike-heaterShield_spearwall_56x53_33
+  - first:
+      213: 1017693809424836871
+    second: pike-heaterShield_spearwall_56x53_34
+  - first:
+      213: -2361842838183625085
+    second: pike-heaterShield_spearwall_56x53_35
+  - first:
+      213: -3182447169665547440
+    second: pike-heaterShield_spearwall_56x53_36
+  - first:
+      213: 2846909910354631582
+    second: pike-heaterShield_spearwall_56x53_37
+  - first:
+      213: -7692678198700983525
+    second: pike-heaterShield_spearwall_56x53_38
+  - first:
+      213: 759022428573914135
+    second: pike-heaterShield_spearwall_56x53_39
+  - first:
+      213: 5712803654638517993
+    second: pike-heaterShield_spearwall_56x53_40
+  - first:
+      213: -543553595656101759
+    second: pike-heaterShield_spearwall_56x53_41
+  - first:
+      213: -8655400648683642784
+    second: pike-heaterShield_spearwall_56x53_42
+  - first:
+      213: -4174361418163922003
+    second: pike-heaterShield_spearwall_56x53_43
+  - first:
+      213: -2120002006166452808
+    second: pike-heaterShield_spearwall_56x53_44
+  - first:
+      213: -2868466679857770274
+    second: pike-heaterShield_spearwall_56x53_45
+  - first:
+      213: -2854879047587727501
+    second: pike-heaterShield_spearwall_56x53_46
+  - first:
+      213: -2575679664303586849
+    second: pike-heaterShield_spearwall_56x53_47
+  - first:
+      213: 2278252936206031362
+    second: pike-heaterShield_spearwall_56x53_48
+  - first:
+      213: 2025016406653415552
+    second: pike-heaterShield_spearwall_56x53_49
+  - first:
+      213: 8333346255008754239
+    second: pike-heaterShield_spearwall_56x53_50
+  - first:
+      213: -3521455513059882835
+    second: pike-heaterShield_spearwall_56x53_51
+  - first:
+      213: -5710820649740953628
+    second: pike-heaterShield_spearwall_56x53_52
+  - first:
+      213: -6310027878841240504
+    second: pike-heaterShield_spearwall_56x53_53
+  - first:
+      213: 4853815892947639330
+    second: pike-heaterShield_spearwall_56x53_54
+  - first:
+      213: 4982411761846517085
+    second: pike-heaterShield_spearwall_56x53_55
+  - first:
+      213: 1623405508712381302
+    second: pike-heaterShield_spearwall_56x53_56
+  - first:
+      213: -2122008314839958252
+    second: pike-heaterShield_spearwall_56x53_57
+  - first:
+      213: -606797744326957329
+    second: pike-heaterShield_spearwall_56x53_58
+  - first:
+      213: -665384846743863366
+    second: pike-heaterShield_spearwall_56x53_59
+  - first:
+      213: 5267533969274427004
+    second: pike-heaterShield_spearwall_56x53_60
+  - first:
+      213: -6429380244746911456
+    second: pike-heaterShield_spearwall_56x53_61
+  - first:
+      213: -8491257512300979064
+    second: pike-heaterShield_spearwall_56x53_62
+  - first:
+      213: -439550738166703370
+    second: pike-heaterShield_spearwall_56x53_63
+  - first:
+      213: 8039846118663316850
+    second: pike-heaterShield_spearwall_56x53_64
+  - first:
+      213: -7186224884672123423
+    second: pike-heaterShield_spearwall_56x53_65
+  - first:
+      213: 797895267195400021
+    second: pike-heaterShield_spearwall_56x53_66
+  - first:
+      213: 3513901069159825165
+    second: pike-heaterShield_spearwall_56x53_67
+  - first:
+      213: 1706594690501026622
+    second: pike-heaterShield_spearwall_56x53_68
+  - first:
+      213: -5791583457365398402
+    second: pike-heaterShield_spearwall_56x53_69
+  - first:
+      213: -8669981813118524437
+    second: pike-heaterShield_spearwall_56x53_70
+  - first:
+      213: -8889776329315817726
+    second: pike-heaterShield_spearwall_56x53_71
+  - first:
+      213: -8195198998436463432
+    second: pike-heaterShield_spearwall_56x53_72
+  - first:
+      213: -6129994853097092409
+    second: pike-heaterShield_spearwall_56x53_73
+  - first:
+      213: 2360625002644806751
+    second: pike-heaterShield_spearwall_56x53_74
+  - first:
+      213: -2344788031781317504
+    second: pike-heaterShield_spearwall_56x53_75
+  - first:
+      213: 3231524484455294445
+    second: pike-heaterShield_spearwall_56x53_76
+  - first:
+      213: -352079681811274962
+    second: pike-heaterShield_spearwall_56x53_77
+  - first:
+      213: -112083874731842825
+    second: pike-heaterShield_spearwall_56x53_78
+  - first:
+      213: 2743240746534514962
+    second: pike-heaterShield_spearwall_56x53_79
+  - first:
+      213: -7637519310350453180
+    second: pike-heaterShield_spearwall_56x53_80
+  - first:
+      213: -6578764123576290114
+    second: pike-heaterShield_spearwall_56x53_81
+  - first:
+      213: 3044861809978994801
+    second: pike-heaterShield_spearwall_56x53_82
+  - first:
+      213: 7353619808770364220
+    second: pike-heaterShield_spearwall_56x53_83
+  - first:
+      213: 8384471097628534293
+    second: pike-heaterShield_spearwall_56x53_84
+  - first:
+      213: 2008115976593635482
+    second: pike-heaterShield_spearwall_56x53_85
+  - first:
+      213: -884237729264012335
+    second: pike-heaterShield_spearwall_56x53_86
+  - first:
+      213: -2243184062565705065
+    second: pike-heaterShield_spearwall_56x53_87
+  - first:
+      213: -3586622160164486030
+    second: pike-heaterShield_spearwall_56x53_88
+  - first:
+      213: 5905153672124727466
+    second: pike-heaterShield_spearwall_56x53_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27490c82bcedab50800000000000000
+      internalID: 6606196480020137775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164e95aa47360c370800000000000000
+      internalID: 8340775862615532641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe3056f91d85e710800000000000000
+      internalID: 1721937575185235711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e580a2d53469b630800000000000000
+      internalID: 3943293131069359590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e561e34360c0ea80800000000000000
+      internalID: -8439534169119169053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0e7d4e547efa070800000000000000
+      internalID: 8119962940550406334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf787a17f68a0f340800000000000000
+      internalID: 4895597991553370108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6420187dce314670800000000000000
+      internalID: 8521161022165230701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5152568f2abda88f0800000000000000
+      internalID: -537375712518789867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f5223cee0722a0800000000000000
+      internalID: -6762419907857090788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c897b3672993600800000000000000
+      internalID: 448550674401692777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1c59855ca30f300800000000000000
+      internalID: 283791395793519014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c501a155449d20800000000000000
+      internalID: 3284326245156111910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad59def6034c23950800000000000000
+      internalID: 6427415330526434778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d07d2155511e9d0800000000000000
+      internalID: -2746890842586804938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90580de52f2dde0800000000000000
+      internalID: -1309718052572165655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb4bd7b7bdac5f0800000000000000
+      internalID: -735534265685197252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b01ba638c17a7a0800000000000000
+      internalID: -6366088197508625525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd9d0d3d2e4c2ee0800000000000000
+      internalID: -1284565837502636552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374371f41ff4bcfb0800000000000000
+      internalID: -4626516294360419213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4144707de2a3882a0800000000000000
+      internalID: -6735069269882092524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dc681b52a6790b0800000000000000
+      internalID: -5721988091426190061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5fddca16ffc9490800000000000000
+      internalID: -7738029264752216592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b848cd4e6c87e750800000000000000
+      internalID: 6334185806299154613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e01e16fda6acf0800000000000000
+      internalID: -241314257439760129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd5a9418d107b50800000000000000
+      internalID: 6588798695966629884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faded44bac32dee10800000000000000
+      internalID: 2228476744133635503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214122de48d6a1490800000000000000
+      internalID: -7774781389020195822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7b98472abc95c10800000000000000
+      internalID: 2042887804589553640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58914298d295c500800000000000000
+      internalID: 415899999466002527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e426b4514c81e0800000000000000
+      internalID: -2194307086347345315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc18ee5ef15864be0800000000000000
+      internalID: -1493359854378647092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6697d81515abcd0800000000000000
+      internalID: -2541629628989479198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c1a72e0e6aeaf90800000000000000
+      internalID: -6940426490928817024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709a1e0b0239f1e00800000000000000
+      internalID: 1017693809424836871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eb3c6c37c093fd0800000000000000
+      internalID: -2361842838183625085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05343a7192da5d3d0800000000000000
+      internalID: -3182447169665547440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b1a3ada71428720800000000000000
+      internalID: 2846909910354631582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b39039fed1e3590800000000000000
+      internalID: -7692678198700983525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d3b790e6988a00800000000000000
+      internalID: 759022428573914135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee384af7a4f74f40800000000000000
+      internalID: 5712803654638517993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180288672e8e478f0800000000000000
+      internalID: -543553595656101759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060a682e7f6d1e780800000000000000
+      internalID: -8655400648683642784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab5e3a2860b116c0800000000000000
+      internalID: -4174361418163922003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5455b586d3492e0800000000000000
+      internalID: -2120002006166452808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed09801a0c82138d0800000000000000
+      internalID: -2868466679857770274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377f3dbc1ae6168d0800000000000000
+      internalID: -2854879047587727501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1ccf9edf8514cd0800000000000000
+      internalID: -2575679664303586849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a1d0b89fafd9f10800000000000000
+      internalID: 2278252936206031362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0803aee51bd4a1c10800000000000000
+      internalID: 2025016406653415552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ae028544ef5a370800000000000000
+      internalID: 8333346255008754239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da889bb4ed6412fc0800000000000000
+      internalID: -3521455513059882835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7993450e61fb0b0800000000000000
+      internalID: -5710820649740953628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443bde73174e68a0800000000000000
+      internalID: -6310027878841240504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c1a4886d73c5340800000000000000
+      internalID: 4853815892947639330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df6957915152540800000000000000
+      internalID: 4982411761846517085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bb63185be778610800000000000000
+      internalID: 1623405508712381302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41df9873eac1d82e0800000000000000
+      internalID: -2122008314839958252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe622ee9aa83497f0800000000000000
+      internalID: -606797744326957329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf77ead10414c6f0800000000000000
+      internalID: -665384846743863366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76d7e88c3a0a1940800000000000000
+      internalID: 5267533969274427004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02142f15bb046c6a0800000000000000
+      internalID: -6429380244746911456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cdeeaf74ef82a80800000000000000
+      internalID: -8491257512300979064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa10d6bee666e9f0800000000000000
+      internalID: -439550738166703370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275eabfa275439f60800000000000000
+      internalID: 8039846118663316850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edab09aa86654c90800000000000000
+      internalID: -7186224884672123423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fa521a481b21b00800000000000000
+      internalID: 797895267195400021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ff22ba762e3c030800000000000000
+      internalID: 3513901069159825165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33a1ee34da0fa710800000000000000
+      internalID: 1706594690501026622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ce4b8d78920afa0800000000000000
+      internalID: -5791583457365398402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be329fbf9790ea780800000000000000
+      internalID: -8669981813118524437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207647e478b21a480800000000000000
+      internalID: -8889776329315817726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcbe825eedc44e80800000000000000
+      internalID: -8195198998436463432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cacc22c822edeaa0800000000000000
+      internalID: -6129994853097092409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9c8aceef92c020800000000000000
+      internalID: 2360625002644806751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084561455b3a57fd0800000000000000
+      internalID: -2344788031781317504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de56fe2b56ea8dc20800000000000000
+      internalID: 3231524484455294445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a10115692d1bf0800000000000000
+      internalID: -352079681811274962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f22f8d4f4cc17ef0800000000000000
+      internalID: -112083874731842825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2113196bce2f11620800000000000000
+      internalID: 2743240746534514962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446ff5d07a4120690800000000000000
+      internalID: -7637519310350453180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4b629a2e883b4a0800000000000000
+      internalID: -6578764123576290114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17073fd0fa5814a20800000000000000
+      internalID: 3044861809978994801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339803414e4d0660800000000000000
+      internalID: 7353619808770364220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516adab5a00ab5470800000000000000
+      internalID: 8384471097628534293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9876ac57d24edb10800000000000000
+      internalID: 2008115976593635482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_86
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3783a587e8ab3f0800000000000000
+      internalID: -884237729264012335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a14f0eafb9ed0e0800000000000000
+      internalID: -2243184062565705065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2740ad7e522c93ec0800000000000000
+      internalID: -3586622160164486030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_spearwall_56x53_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0861b5af153f150800000000000000
+      internalID: 5905153672124727466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pike-heaterShield_spearwall_56x53_0: 6606196480020137775
+      pike-heaterShield_spearwall_56x53_1: 8340775862615532641
+      pike-heaterShield_spearwall_56x53_10: 448550674401692777
+      pike-heaterShield_spearwall_56x53_11: 283791395793519014
+      pike-heaterShield_spearwall_56x53_12: 3284326245156111910
+      pike-heaterShield_spearwall_56x53_13: 6427415330526434778
+      pike-heaterShield_spearwall_56x53_14: -2746890842586804938
+      pike-heaterShield_spearwall_56x53_15: -1309718052572165655
+      pike-heaterShield_spearwall_56x53_16: -735534265685197252
+      pike-heaterShield_spearwall_56x53_17: -6366088197508625525
+      pike-heaterShield_spearwall_56x53_18: -1284565837502636552
+      pike-heaterShield_spearwall_56x53_19: -4626516294360419213
+      pike-heaterShield_spearwall_56x53_2: 1721937575185235711
+      pike-heaterShield_spearwall_56x53_20: -6735069269882092524
+      pike-heaterShield_spearwall_56x53_21: -5721988091426190061
+      pike-heaterShield_spearwall_56x53_22: -7738029264752216592
+      pike-heaterShield_spearwall_56x53_23: 6334185806299154613
+      pike-heaterShield_spearwall_56x53_24: -241314257439760129
+      pike-heaterShield_spearwall_56x53_25: 6588798695966629884
+      pike-heaterShield_spearwall_56x53_26: 2228476744133635503
+      pike-heaterShield_spearwall_56x53_27: -7774781389020195822
+      pike-heaterShield_spearwall_56x53_28: 2042887804589553640
+      pike-heaterShield_spearwall_56x53_29: 415899999466002527
+      pike-heaterShield_spearwall_56x53_3: 3943293131069359590
+      pike-heaterShield_spearwall_56x53_30: -2194307086347345315
+      pike-heaterShield_spearwall_56x53_31: -1493359854378647092
+      pike-heaterShield_spearwall_56x53_32: -2541629628989479198
+      pike-heaterShield_spearwall_56x53_33: -6940426490928817024
+      pike-heaterShield_spearwall_56x53_34: 1017693809424836871
+      pike-heaterShield_spearwall_56x53_35: -2361842838183625085
+      pike-heaterShield_spearwall_56x53_36: -3182447169665547440
+      pike-heaterShield_spearwall_56x53_37: 2846909910354631582
+      pike-heaterShield_spearwall_56x53_38: -7692678198700983525
+      pike-heaterShield_spearwall_56x53_39: 759022428573914135
+      pike-heaterShield_spearwall_56x53_4: -8439534169119169053
+      pike-heaterShield_spearwall_56x53_40: 5712803654638517993
+      pike-heaterShield_spearwall_56x53_41: -543553595656101759
+      pike-heaterShield_spearwall_56x53_42: -8655400648683642784
+      pike-heaterShield_spearwall_56x53_43: -4174361418163922003
+      pike-heaterShield_spearwall_56x53_44: -2120002006166452808
+      pike-heaterShield_spearwall_56x53_45: -2868466679857770274
+      pike-heaterShield_spearwall_56x53_46: -2854879047587727501
+      pike-heaterShield_spearwall_56x53_47: -2575679664303586849
+      pike-heaterShield_spearwall_56x53_48: 2278252936206031362
+      pike-heaterShield_spearwall_56x53_49: 2025016406653415552
+      pike-heaterShield_spearwall_56x53_5: 8119962940550406334
+      pike-heaterShield_spearwall_56x53_50: 8333346255008754239
+      pike-heaterShield_spearwall_56x53_51: -3521455513059882835
+      pike-heaterShield_spearwall_56x53_52: -5710820649740953628
+      pike-heaterShield_spearwall_56x53_53: -6310027878841240504
+      pike-heaterShield_spearwall_56x53_54: 4853815892947639330
+      pike-heaterShield_spearwall_56x53_55: 4982411761846517085
+      pike-heaterShield_spearwall_56x53_56: 1623405508712381302
+      pike-heaterShield_spearwall_56x53_57: -2122008314839958252
+      pike-heaterShield_spearwall_56x53_58: -606797744326957329
+      pike-heaterShield_spearwall_56x53_59: -665384846743863366
+      pike-heaterShield_spearwall_56x53_6: 4895597991553370108
+      pike-heaterShield_spearwall_56x53_60: 5267533969274427004
+      pike-heaterShield_spearwall_56x53_61: -6429380244746911456
+      pike-heaterShield_spearwall_56x53_62: -8491257512300979064
+      pike-heaterShield_spearwall_56x53_63: -439550738166703370
+      pike-heaterShield_spearwall_56x53_64: 8039846118663316850
+      pike-heaterShield_spearwall_56x53_65: -7186224884672123423
+      pike-heaterShield_spearwall_56x53_66: 797895267195400021
+      pike-heaterShield_spearwall_56x53_67: 3513901069159825165
+      pike-heaterShield_spearwall_56x53_68: 1706594690501026622
+      pike-heaterShield_spearwall_56x53_69: -5791583457365398402
+      pike-heaterShield_spearwall_56x53_7: 8521161022165230701
+      pike-heaterShield_spearwall_56x53_70: -8669981813118524437
+      pike-heaterShield_spearwall_56x53_71: -8889776329315817726
+      pike-heaterShield_spearwall_56x53_72: -8195198998436463432
+      pike-heaterShield_spearwall_56x53_73: -6129994853097092409
+      pike-heaterShield_spearwall_56x53_74: 2360625002644806751
+      pike-heaterShield_spearwall_56x53_75: -2344788031781317504
+      pike-heaterShield_spearwall_56x53_76: 3231524484455294445
+      pike-heaterShield_spearwall_56x53_77: -352079681811274962
+      pike-heaterShield_spearwall_56x53_78: -112083874731842825
+      pike-heaterShield_spearwall_56x53_79: 2743240746534514962
+      pike-heaterShield_spearwall_56x53_8: -537375712518789867
+      pike-heaterShield_spearwall_56x53_80: -7637519310350453180
+      pike-heaterShield_spearwall_56x53_81: -6578764123576290114
+      pike-heaterShield_spearwall_56x53_82: 3044861809978994801
+      pike-heaterShield_spearwall_56x53_83: 7353619808770364220
+      pike-heaterShield_spearwall_56x53_84: 8384471097628534293
+      pike-heaterShield_spearwall_56x53_85: 2008115976593635482
+      pike-heaterShield_spearwall_56x53_86: -884237729264012335
+      pike-heaterShield_spearwall_56x53_87: -2243184062565705065
+      pike-heaterShield_spearwall_56x53_88: -3586622160164486030
+      pike-heaterShield_spearwall_56x53_89: 5905153672124727466
+      pike-heaterShield_spearwall_56x53_9: -6762419907857090788
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

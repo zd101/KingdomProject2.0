@@ -1,0 +1,5514 @@
+fileFormatVersion: 2
+guid: de5dd482363937d46a7f4f1ff5ad6f36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2340013664945898182
+    second: spear-buckler_attack_71x42_0
+  - first:
+      213: -9089011551616173137
+    second: spear-buckler_attack_71x42_1
+  - first:
+      213: 2817708687663194247
+    second: spear-buckler_attack_71x42_2
+  - first:
+      213: 5443385442353752488
+    second: spear-buckler_attack_71x42_3
+  - first:
+      213: 1571507547816742203
+    second: spear-buckler_attack_71x42_4
+  - first:
+      213: 6156619798473371581
+    second: spear-buckler_attack_71x42_5
+  - first:
+      213: -5643192625259042641
+    second: spear-buckler_attack_71x42_6
+  - first:
+      213: -3217532519155858676
+    second: spear-buckler_attack_71x42_7
+  - first:
+      213: 7179144464818985428
+    second: spear-buckler_attack_71x42_8
+  - first:
+      213: -2113927674337251296
+    second: spear-buckler_attack_71x42_9
+  - first:
+      213: 6543352943331421478
+    second: spear-buckler_attack_71x42_10
+  - first:
+      213: -2613438494097585207
+    second: spear-buckler_attack_71x42_11
+  - first:
+      213: 6812648345637358971
+    second: spear-buckler_attack_71x42_12
+  - first:
+      213: -6288143430022364103
+    second: spear-buckler_attack_71x42_13
+  - first:
+      213: 7716455023561819757
+    second: spear-buckler_attack_71x42_14
+  - first:
+      213: 7964021882547324791
+    second: spear-buckler_attack_71x42_15
+  - first:
+      213: 1658502372620542417
+    second: spear-buckler_attack_71x42_16
+  - first:
+      213: 2214719296581280087
+    second: spear-buckler_attack_71x42_17
+  - first:
+      213: 2476667757331958996
+    second: spear-buckler_attack_71x42_18
+  - first:
+      213: 6837917338368702541
+    second: spear-buckler_attack_71x42_19
+  - first:
+      213: 4398879567072713463
+    second: spear-buckler_attack_71x42_20
+  - first:
+      213: 4369412688629887278
+    second: spear-buckler_attack_71x42_21
+  - first:
+      213: -3156502719495982425
+    second: spear-buckler_attack_71x42_22
+  - first:
+      213: 8288928865206146348
+    second: spear-buckler_attack_71x42_23
+  - first:
+      213: -1020886200694205318
+    second: spear-buckler_attack_71x42_24
+  - first:
+      213: -651405747694336091
+    second: spear-buckler_attack_71x42_25
+  - first:
+      213: -8341922316161956645
+    second: spear-buckler_attack_71x42_26
+  - first:
+      213: -2681247654370170640
+    second: spear-buckler_attack_71x42_27
+  - first:
+      213: 5715353768788075207
+    second: spear-buckler_attack_71x42_28
+  - first:
+      213: 7127130480044520299
+    second: spear-buckler_attack_71x42_29
+  - first:
+      213: 7522250843606794973
+    second: spear-buckler_attack_71x42_30
+  - first:
+      213: 2111356231810006042
+    second: spear-buckler_attack_71x42_31
+  - first:
+      213: -2240318943111369607
+    second: spear-buckler_attack_71x42_32
+  - first:
+      213: -3600057044047732696
+    second: spear-buckler_attack_71x42_33
+  - first:
+      213: 482073027060137643
+    second: spear-buckler_attack_71x42_34
+  - first:
+      213: -6315159939930881091
+    second: spear-buckler_attack_71x42_35
+  - first:
+      213: 8224038981938740664
+    second: spear-buckler_attack_71x42_36
+  - first:
+      213: 3000439364291996878
+    second: spear-buckler_attack_71x42_37
+  - first:
+      213: 192571109981901777
+    second: spear-buckler_attack_71x42_38
+  - first:
+      213: -4448049194232216502
+    second: spear-buckler_attack_71x42_39
+  - first:
+      213: 6542127939183978665
+    second: spear-buckler_attack_71x42_40
+  - first:
+      213: -1484979347287497613
+    second: spear-buckler_attack_71x42_41
+  - first:
+      213: -8270301850106663463
+    second: spear-buckler_attack_71x42_42
+  - first:
+      213: 6064732629011790197
+    second: spear-buckler_attack_71x42_43
+  - first:
+      213: -1064259276052213525
+    second: spear-buckler_attack_71x42_44
+  - first:
+      213: 5998311067226389266
+    second: spear-buckler_attack_71x42_45
+  - first:
+      213: -6041048374417226035
+    second: spear-buckler_attack_71x42_46
+  - first:
+      213: -7900285311909913192
+    second: spear-buckler_attack_71x42_47
+  - first:
+      213: 7138068246546066663
+    second: spear-buckler_attack_71x42_48
+  - first:
+      213: 4341412646415905017
+    second: spear-buckler_attack_71x42_49
+  - first:
+      213: -1869453190485156697
+    second: spear-buckler_attack_71x42_50
+  - first:
+      213: 7314345758797339069
+    second: spear-buckler_attack_71x42_51
+  - first:
+      213: 2664073673909473690
+    second: spear-buckler_attack_71x42_52
+  - first:
+      213: -5454823014719198350
+    second: spear-buckler_attack_71x42_53
+  - first:
+      213: -8541221791514466158
+    second: spear-buckler_attack_71x42_54
+  - first:
+      213: -7372164806658830841
+    second: spear-buckler_attack_71x42_55
+  - first:
+      213: 7478254405364790934
+    second: spear-buckler_attack_71x42_56
+  - first:
+      213: 3292307699958249262
+    second: spear-buckler_attack_71x42_57
+  - first:
+      213: 3092412810074591320
+    second: spear-buckler_attack_71x42_58
+  - first:
+      213: -5868145299973686745
+    second: spear-buckler_attack_71x42_59
+  - first:
+      213: 8968898673916187523
+    second: spear-buckler_attack_71x42_60
+  - first:
+      213: -3522555268455194655
+    second: spear-buckler_attack_71x42_61
+  - first:
+      213: -9198863115052981836
+    second: spear-buckler_attack_71x42_62
+  - first:
+      213: 4923638677967021976
+    second: spear-buckler_attack_71x42_63
+  - first:
+      213: -1756964444643447798
+    second: spear-buckler_attack_71x42_64
+  - first:
+      213: -8322432397212352215
+    second: spear-buckler_attack_71x42_65
+  - first:
+      213: 5361698424364286958
+    second: spear-buckler_attack_71x42_66
+  - first:
+      213: 7197564827689881571
+    second: spear-buckler_attack_71x42_67
+  - first:
+      213: -9143637133082315711
+    second: spear-buckler_attack_71x42_68
+  - first:
+      213: -6276868997111339883
+    second: spear-buckler_attack_71x42_69
+  - first:
+      213: 7654370342089552175
+    second: spear-buckler_attack_71x42_70
+  - first:
+      213: 7265365837657825497
+    second: spear-buckler_attack_71x42_71
+  - first:
+      213: -3551648792442136059
+    second: spear-buckler_attack_71x42_72
+  - first:
+      213: -8048158933521156106
+    second: spear-buckler_attack_71x42_73
+  - first:
+      213: -4094453983402280458
+    second: spear-buckler_attack_71x42_74
+  - first:
+      213: 2993051205288564205
+    second: spear-buckler_attack_71x42_75
+  - first:
+      213: -3130379700367412527
+    second: spear-buckler_attack_71x42_76
+  - first:
+      213: 5056220977655008718
+    second: spear-buckler_attack_71x42_77
+  - first:
+      213: -789441500863680455
+    second: spear-buckler_attack_71x42_78
+  - first:
+      213: 4988250210706507751
+    second: spear-buckler_attack_71x42_79
+  - first:
+      213: 877377351856327681
+    second: spear-buckler_attack_71x42_80
+  - first:
+      213: 9194802412737618366
+    second: spear-buckler_attack_71x42_81
+  - first:
+      213: -4630593103906396548
+    second: spear-buckler_attack_71x42_82
+  - first:
+      213: 7635828562520210235
+    second: spear-buckler_attack_71x42_83
+  - first:
+      213: 2080139894906346316
+    second: spear-buckler_attack_71x42_84
+  - first:
+      213: -7882456588503356259
+    second: spear-buckler_attack_71x42_85
+  - first:
+      213: -710850783034771790
+    second: spear-buckler_attack_71x42_86
+  - first:
+      213: 5693707006625799239
+    second: spear-buckler_attack_71x42_87
+  - first:
+      213: 8433595516523796730
+    second: spear-buckler_attack_71x42_88
+  - first:
+      213: 7013224481188491091
+    second: spear-buckler_attack_71x42_89
+  - first:
+      213: 719150970073587330
+    second: spear-buckler_attack_71x42_90
+  - first:
+      213: 620005270206080648
+    second: spear-buckler_attack_71x42_91
+  - first:
+      213: -8599266585306229374
+    second: spear-buckler_attack_71x42_92
+  - first:
+      213: 541301702547450822
+    second: spear-buckler_attack_71x42_93
+  - first:
+      213: -8494871632959314732
+    second: spear-buckler_attack_71x42_94
+  - first:
+      213: 6665255491731345202
+    second: spear-buckler_attack_71x42_95
+  - first:
+      213: -570497660661124744
+    second: spear-buckler_attack_71x42_96
+  - first:
+      213: 1841600664593538913
+    second: spear-buckler_attack_71x42_97
+  - first:
+      213: 8235815838849760658
+    second: spear-buckler_attack_71x42_98
+  - first:
+      213: 8761494052439107767
+    second: spear-buckler_attack_71x42_99
+  - first:
+      213: -667783669135009556
+    second: spear-buckler_attack_71x42_100
+  - first:
+      213: -1112591795788621737
+    second: spear-buckler_attack_71x42_101
+  - first:
+      213: -470823381862396426
+    second: spear-buckler_attack_71x42_102
+  - first:
+      213: -7880867435573443242
+    second: spear-buckler_attack_71x42_103
+  - first:
+      213: 7905319602547244819
+    second: spear-buckler_attack_71x42_104
+  - first:
+      213: -6233680017277449602
+    second: spear-buckler_attack_71x42_105
+  - first:
+      213: 6227630653811182459
+    second: spear-buckler_attack_71x42_106
+  - first:
+      213: -5853424901352530122
+    second: spear-buckler_attack_71x42_107
+  - first:
+      213: 3179653973048513140
+    second: spear-buckler_attack_71x42_108
+  - first:
+      213: -4297777430416732378
+    second: spear-buckler_attack_71x42_109
+  - first:
+      213: -1397788561046576789
+    second: spear-buckler_attack_71x42_110
+  - first:
+      213: 4027005052661978211
+    second: spear-buckler_attack_71x42_111
+  - first:
+      213: 7886029405607786346
+    second: spear-buckler_attack_71x42_112
+  - first:
+      213: 1832405848877049663
+    second: spear-buckler_attack_71x42_113
+  - first:
+      213: 3130573157402635415
+    second: spear-buckler_attack_71x42_114
+  - first:
+      213: -7025640253661652047
+    second: spear-buckler_attack_71x42_115
+  - first:
+      213: 4780715655242173087
+    second: spear-buckler_attack_71x42_116
+  - first:
+      213: 6146978679994957928
+    second: spear-buckler_attack_71x42_117
+  - first:
+      213: 5577486666462452344
+    second: spear-buckler_attack_71x42_118
+  - first:
+      213: -4227014446154266914
+    second: spear-buckler_attack_71x42_119
+  - first:
+      213: 4245949359818726805
+    second: spear-buckler_attack_71x42_120
+  - first:
+      213: 8925430200694591064
+    second: spear-buckler_attack_71x42_121
+  - first:
+      213: 1472726795640790966
+    second: spear-buckler_attack_71x42_122
+  - first:
+      213: 1599756273797756450
+    second: spear-buckler_attack_71x42_123
+  - first:
+      213: -6496628644233501351
+    second: spear-buckler_attack_71x42_124
+  - first:
+      213: -1844523001619281033
+    second: spear-buckler_attack_71x42_125
+  - first:
+      213: -3269837066014236364
+    second: spear-buckler_attack_71x42_126
+  - first:
+      213: -8412722354249268759
+    second: spear-buckler_attack_71x42_127
+  - first:
+      213: 5789216839515093334
+    second: spear-buckler_attack_71x42_128
+  - first:
+      213: 8620904984577521374
+    second: spear-buckler_attack_71x42_129
+  - first:
+      213: 3154885101587192549
+    second: spear-buckler_attack_71x42_130
+  - first:
+      213: -6925860549127318944
+    second: spear-buckler_attack_71x42_131
+  - first:
+      213: -3491656921633417796
+    second: spear-buckler_attack_71x42_132
+  - first:
+      213: -5780548173097400739
+    second: spear-buckler_attack_71x42_133
+  - first:
+      213: -2504755958476615652
+    second: spear-buckler_attack_71x42_134
+  - first:
+      213: 1622814597581187606
+    second: spear-buckler_attack_71x42_135
+  - first:
+      213: 931753494507111200
+    second: spear-buckler_attack_71x42_136
+  - first:
+      213: -8864874341882161499
+    second: spear-buckler_attack_71x42_137
+  - first:
+      213: -8946954390264790867
+    second: spear-buckler_attack_71x42_138
+  - first:
+      213: 4056106971927277352
+    second: spear-buckler_attack_71x42_139
+  - first:
+      213: -385228033497507326
+    second: spear-buckler_attack_71x42_140
+  - first:
+      213: 7103157634702613193
+    second: spear-buckler_attack_71x42_141
+  - first:
+      213: -1412439771632977957
+    second: spear-buckler_attack_71x42_142
+  - first:
+      213: -1386259890051124300
+    second: spear-buckler_attack_71x42_143
+  - first:
+      213: -9059853209292469709
+    second: spear-buckler_attack_71x42_144
+  - first:
+      213: 3673056920092792382
+    second: spear-buckler_attack_71x42_145
+  - first:
+      213: 6670736575375240257
+    second: spear-buckler_attack_71x42_146
+  - first:
+      213: 764198906152959954
+    second: spear-buckler_attack_71x42_147
+  - first:
+      213: -8698220942382950941
+    second: spear-buckler_attack_71x42_148
+  - first:
+      213: 4264600059336350379
+    second: spear-buckler_attack_71x42_149
+  - first:
+      213: -5038445857168487493
+    second: spear-buckler_attack_71x42_150
+  - first:
+      213: -6207217523045549610
+    second: spear-buckler_attack_71x42_151
+  - first:
+      213: -6339144255648968297
+    second: spear-buckler_attack_71x42_152
+  - first:
+      213: -8678345137744912051
+    second: spear-buckler_attack_71x42_153
+  - first:
+      213: 6083349484045897311
+    second: spear-buckler_attack_71x42_154
+  - first:
+      213: -8853874028765901842
+    second: spear-buckler_attack_71x42_155
+  - first:
+      213: -1686539130348271911
+    second: spear-buckler_attack_71x42_156
+  - first:
+      213: -1654564073710313054
+    second: spear-buckler_attack_71x42_157
+  - first:
+      213: -255572606318663682
+    second: spear-buckler_attack_71x42_158
+  - first:
+      213: -5906077117118771856
+    second: spear-buckler_attack_71x42_159
+  - first:
+      213: -7080311582273144225
+    second: spear-buckler_attack_71x42_160
+  - first:
+      213: -8376285761290768987
+    second: spear-buckler_attack_71x42_161
+  - first:
+      213: -3147961109759997618
+    second: spear-buckler_attack_71x42_162
+  - first:
+      213: -247783935494526131
+    second: spear-buckler_attack_71x42_163
+  - first:
+      213: -6568261895369711077
+    second: spear-buckler_attack_71x42_164
+  - first:
+      213: 6611363488199564275
+    second: spear-buckler_attack_71x42_165
+  - first:
+      213: 3563592426541519231
+    second: spear-buckler_attack_71x42_166
+  - first:
+      213: 6904614597803424266
+    second: spear-buckler_attack_71x42_167
+  - first:
+      213: 8092292773998415971
+    second: spear-buckler_attack_71x42_168
+  - first:
+      213: -7656439247783076275
+    second: spear-buckler_attack_71x42_169
+  - first:
+      213: -5203555450406689989
+    second: spear-buckler_attack_71x42_170
+  - first:
+      213: -8815586666055206325
+    second: spear-buckler_attack_71x42_171
+  - first:
+      213: -6400802467031142011
+    second: spear-buckler_attack_71x42_172
+  - first:
+      213: 5946234813957392178
+    second: spear-buckler_attack_71x42_173
+  - first:
+      213: -1741369160141072854
+    second: spear-buckler_attack_71x42_174
+  - first:
+      213: -1936028604700497425
+    second: spear-buckler_attack_71x42_175
+  - first:
+      213: 2278194071981487619
+    second: spear-buckler_attack_71x42_176
+  - first:
+      213: -2319707663703580289
+    second: spear-buckler_attack_71x42_177
+  - first:
+      213: -5191860198907120194
+    second: spear-buckler_attack_71x42_178
+  - first:
+      213: 3026156097964351079
+    second: spear-buckler_attack_71x42_179
+  - first:
+      213: 2153189603669114522
+    second: spear-buckler_attack_71x42_180
+  - first:
+      213: 5711277596460723564
+    second: spear-buckler_attack_71x42_181
+  - first:
+      213: 9182212776471110804
+    second: spear-buckler_attack_71x42_182
+  - first:
+      213: 4590437116593264700
+    second: spear-buckler_attack_71x42_183
+  - first:
+      213: -4235334245354822462
+    second: spear-buckler_attack_71x42_184
+  - first:
+      213: -7451019884518064665
+    second: spear-buckler_attack_71x42_185
+  - first:
+      213: -2887255830113157811
+    second: spear-buckler_attack_71x42_186
+  - first:
+      213: 8447146914163275066
+    second: spear-buckler_attack_71x42_187
+  - first:
+      213: 2479790127565910538
+    second: spear-buckler_attack_71x42_188
+  - first:
+      213: -1534431736059614390
+    second: spear-buckler_attack_71x42_189
+  - first:
+      213: 2954748539111669986
+    second: spear-buckler_attack_71x42_190
+  - first:
+      213: -3503597075358201180
+    second: spear-buckler_attack_71x42_191
+  - first:
+      213: -3108707613673548057
+    second: spear-buckler_attack_71x42_192
+  - first:
+      213: -5385786696117469910
+    second: spear-buckler_attack_71x42_193
+  - first:
+      213: 41183641744869911
+    second: spear-buckler_attack_71x42_194
+  - first:
+      213: -2753847364143653814
+    second: spear-buckler_attack_71x42_195
+  - first:
+      213: 64685324672554253
+    second: spear-buckler_attack_71x42_196
+  - first:
+      213: -4700606244367364570
+    second: spear-buckler_attack_71x42_197
+  - first:
+      213: 2917350562809181888
+    second: spear-buckler_attack_71x42_198
+  - first:
+      213: 5028526799471212383
+    second: spear-buckler_attack_71x42_199
+  - first:
+      213: -5027267332377544888
+    second: spear-buckler_attack_71x42_200
+  - first:
+      213: -209151301904001218
+    second: spear-buckler_attack_71x42_201
+  - first:
+      213: 1203898596476150724
+    second: spear-buckler_attack_71x42_202
+  - first:
+      213: -6359337350556737327
+    second: spear-buckler_attack_71x42_203
+  - first:
+      213: 6949311012687864761
+    second: spear-buckler_attack_71x42_204
+  - first:
+      213: 8379623514020227532
+    second: spear-buckler_attack_71x42_205
+  - first:
+      213: -5694096425688536243
+    second: spear-buckler_attack_71x42_206
+  - first:
+      213: -5744452009689896029
+    second: spear-buckler_attack_71x42_207
+  - first:
+      213: 6151520178672253501
+    second: spear-buckler_attack_71x42_208
+  - first:
+      213: -8593484228472344131
+    second: spear-buckler_attack_71x42_209
+  - first:
+      213: -8708108340924429857
+    second: spear-buckler_attack_71x42_210
+  - first:
+      213: -2760118874312890845
+    second: spear-buckler_attack_71x42_211
+  - first:
+      213: -4551070335428529106
+    second: spear-buckler_attack_71x42_212
+  - first:
+      213: -7484544506424180556
+    second: spear-buckler_attack_71x42_213
+  - first:
+      213: 7502887578781330987
+    second: spear-buckler_attack_71x42_214
+  - first:
+      213: -4910472009657654178
+    second: spear-buckler_attack_71x42_215
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3df65b38f9968fd0800000000000000
+      internalID: -2340013664945898182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabfe7246285dd180800000000000000
+      internalID: -9089011551616173137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78062b06f138a1720800000000000000
+      internalID: 2817708687663194247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a92703383aca8b40800000000000000
+      internalID: 5443385442353752488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d467dd9cd1fc510800000000000000
+      internalID: 1571507547816742203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf64296615b07550800000000000000
+      internalID: 6156619798473371581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a45cc43a5fa1b0800000000000000
+      internalID: -5643192625259042641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03827698370953d0800000000000000
+      internalID: -3217532519155858676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95fb0aad171a360800000000000000
+      internalID: 7179144464818985428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020b242faf1d9a2e0800000000000000
+      internalID: -2113927674337251296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62da64375d8aeca50800000000000000
+      internalID: 6543352943331421478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb4bf449833bbbd0800000000000000
+      internalID: -2613438494097585207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d0e5d43936b8e50800000000000000
+      internalID: 6812648345637358971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9348fcccdd60cb8a0800000000000000
+      internalID: -6288143430022364103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d664eacd5fa561b60800000000000000
+      internalID: 7716455023561819757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777cbacf4b3e58e60800000000000000
+      internalID: 7964021882547324791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1a03bee1f240710800000000000000
+      internalID: 1658502372620542417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512ee557734cbe10800000000000000
+      internalID: 2214719296581280087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4f6e0434ee5220800000000000000
+      internalID: 2476667757331958996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4873f4279925ee50800000000000000
+      internalID: 6837917338368702541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_20
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad715f8a5fb0d30800000000000000
+      internalID: 4398879567072713463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e217edea0b543ac30800000000000000
+      internalID: 4369412688629887278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a233ef1089d134d0800000000000000
+      internalID: -3156502719495982425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_23
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c251813e2e0380370800000000000000
+      internalID: 8288928865206146348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74168bc86515d1f0800000000000000
+      internalID: -1020886200694205318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7080c7cedb5f6f0800000000000000
+      internalID: -651405747694336091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd44341d9d98b3c80800000000000000
+      internalID: -8341922316161956645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8aa66d67b4acad0800000000000000
+      internalID: -2681247654370170640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2ad42b8f3015f40800000000000000
+      internalID: 5715353768788075207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63b9e21967a8e260800000000000000
+      internalID: 7127130480044520299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c094a947646860800000000000000
+      internalID: 7522250843606794973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cb75f6e4b0d4d10800000000000000
+      internalID: 2111356231810006042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ca44c7ac9c8e0e0800000000000000
+      internalID: -2240318943111369607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820646e31370a0ec0800000000000000
+      internalID: -3600057044047732696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae77bd2ddaa0b600800000000000000
+      internalID: 482073027060137643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_35
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db384a86e7b0c58a0800000000000000
+      internalID: -6315159939930881091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd7c6991e7a12270800000000000000
+      internalID: 8224038981938740664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc29be64b3b3a920800000000000000
+      internalID: 3000439364291996878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3597c77662ca200800000000000000
+      internalID: 192571109981901777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44835a13da5542c0800000000000000
+      internalID: -4448049194232216502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a82832f2be4aca50800000000000000
+      internalID: 6542127939183978665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3742322c62b446be0800000000000000
+      internalID: -1484979347287497613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_42
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dde227094cf93d80800000000000000
+      internalID: -8270301850106663463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f7f991324a2450800000000000000
+      internalID: 6064732629011790197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05efdb3ddfa31f0800000000000000
+      internalID: -1064259276052213525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_45
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bb25e92284e3350800000000000000
+      internalID: 5998311067226389266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_46
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc609e3a282e92ca0800000000000000
+      internalID: -6041048374417226035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_47
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d9f57cd5c8c5290800000000000000
+      internalID: -7900285311909913192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_48
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecafd940438f0360800000000000000
+      internalID: 7138068246546066663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_49
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f03205dccbcf3c30800000000000000
+      internalID: 4341412646415905017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_50
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac59e06a3e5e06e0800000000000000
+      internalID: -1869453190485156697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_51
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9108de6b6c18560800000000000000
+      internalID: 7314345758797339069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9118dc34e0b8f420800000000000000
+      internalID: 2664073673909473690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b69077e539c44b0800000000000000
+      internalID: -5454823014719198350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29864f0b80c777980800000000000000
+      internalID: -8541221791514466158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_55
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ec671fa2fc0b990800000000000000
+      internalID: -7372164806658830841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_56
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b4cb92c818c760800000000000000
+      internalID: 7478254405364790934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_57
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277b43e860a0bd20800000000000000
+      internalID: 3292307699958249262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8501d5301157aea20800000000000000
+      internalID: 3092412810074591320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_59
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ab0b0c0f8209ea0800000000000000
+      internalID: -5868145299973686745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_60
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831f3d13dde77c70800000000000000
+      internalID: 8968898673916187523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_61
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef1c0a85ae5d1fc0800000000000000
+      internalID: -3522555268455194655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e2d90cb2175080800000000000000
+      internalID: -9198863115052981836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89729928a47445440800000000000000
+      internalID: 4923638677967021976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c290a75220e97e0800000000000000
+      internalID: -1756964444643447798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_65
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92184f034d7c08c80800000000000000
+      internalID: -8322432397212352215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_66
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee341093f44986a40800000000000000
+      internalID: 5361698424364286958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_67
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef0d429313e2e360800000000000000
+      internalID: 7197564827689881571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_68
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144be87f8764b1180800000000000000
+      internalID: -9143637133082315711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_69
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594248547e414e8a0800000000000000
+      internalID: -6276868997111339883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_70
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2178838549c93a60800000000000000
+      internalID: 7654370342089552175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_71
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d06adc5cb3c3d460800000000000000
+      internalID: 7265365837657825497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9a8f9d3206bec0800000000000000
+      internalID: -3551648792442136059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b59747123f4090800000000000000
+      internalID: -8048158933521156106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9bf12abc39d27c0800000000000000
+      internalID: -4094453983402280458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_75
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de597cd9634798920800000000000000
+      internalID: 2993051205288564205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_76
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2b18b7f38ae84d0800000000000000
+      internalID: -3130379700367412527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_77
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd410fa03e4b2640800000000000000
+      internalID: 5056220977655008718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_78
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930b11a33275b05f0800000000000000
+      internalID: -789441500863680455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_79
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7cde34323d93540800000000000000
+      internalID: 4988250210706507751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_80
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c8e5f8d021d2c00800000000000000
+      internalID: 877377351856327681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_81
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1612704108a9f70800000000000000
+      internalID: 9194802412737618366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_82
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76294e1b14dcbfb0800000000000000
+      internalID: -4630593103906396548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_83
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7cca0f99e7f960800000000000000
+      internalID: 7635828562520210235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_84
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bd20f96342edc10800000000000000
+      internalID: 2080139894906346316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_85
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ce1dcee73eb9290800000000000000
+      internalID: -7882456588503356259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_86
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b677e4aafc8226f0800000000000000
+      internalID: -710850783034771790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_87
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c55112b5c140f40800000000000000
+      internalID: 5693707006625799239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af85abd60762a0570800000000000000
+      internalID: 8433595516523796730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f205b028af35160800000000000000
+      internalID: 7013224481188491091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e1d1f3fffeaf900800000000000000
+      internalID: 719150970073587330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886e0812283ba9800800000000000000
+      internalID: 620005270206080648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_92
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859fedf99449a880800000000000000
+      internalID: -8599266585306229374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba7a0d707138700800000000000000
+      internalID: 541301702547450822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4eae0f1472c1a80800000000000000
+      internalID: -8494871632959314732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_95
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f4ed14e8ebf7c50800000000000000
+      internalID: 6665255491731345202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8713a17766f2518f0800000000000000
+      internalID: -570497660661124744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_97
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f98371c0eae8910800000000000000
+      internalID: 1841600664593538913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dfc26cede7b4270800000000000000
+      internalID: 8235815838849760658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8a4599b64179970800000000000000
+      internalID: 8761494052439107767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_100
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8966e7a4e8bb6f0800000000000000
+      internalID: -667783669135009556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758510018a74f80f0800000000000000
+      internalID: -1112591795788621737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_102
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdc424f0ac4779f0800000000000000
+      internalID: -470823381862396426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_103
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65583bc62d881a290800000000000000
+      internalID: -7880867435573443242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_104
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fb2c95b4655bd60800000000000000
+      internalID: 7905319602547244819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_105
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a0abe3d058d79a0800000000000000
+      internalID: -6233680017277449602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_106
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bcfb0951dfc6650800000000000000
+      internalID: 6227630653811182459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_107
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd473a01574cea0800000000000000
+      internalID: -5853424901352530122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47257342176602c20800000000000000
+      internalID: 3179653973048513140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_109
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fc158923a3b54c0800000000000000
+      internalID: -4297777430416732378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_110
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61e6b3a5be0a9ce0800000000000000
+      internalID: -1397788561046576789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_111
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364de9862cbc2e730800000000000000
+      internalID: 4027005052661978211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_112
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67798166fdc07d60800000000000000
+      internalID: 7886029405607786346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_113
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f372aaa39630e6910800000000000000
+      internalID: 1832405848877049663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_114
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c6b5e33b7027b20800000000000000
+      internalID: 3130573157402635415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_115
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbdfc8a969ef7e90800000000000000
+      internalID: -7025640253661652047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_116
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9acbd22f83885240800000000000000
+      internalID: 4780715655242173087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_117
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860cff69a847e4550800000000000000
+      internalID: 6146978679994957928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_118
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ad8f58296376d40800000000000000
+      internalID: 5577486666462452344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_119
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6c784c1c0a655c0800000000000000
+      internalID: -4227014446154266914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_120
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dda4e5274acea30800000000000000
+      internalID: 4245949359818726805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_121
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ec1f38a7f7ddb70800000000000000
+      internalID: 8925430200694591064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_122
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf5e51c73d207410800000000000000
+      internalID: 1472726795640790966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_123
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226faeaead9733610800000000000000
+      internalID: 1599756273797756450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955a5de2ba657d5a0800000000000000
+      internalID: -6496628644233501351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_125
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b027c4a10f666e0800000000000000
+      internalID: -1844523001619281033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_126
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431e0d643843f92d0800000000000000
+      internalID: -3269837066014236364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_127
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e10cf06791004b80800000000000000
+      internalID: -8412722354249268759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_128
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659b10ffa0e675050800000000000000
+      internalID: 5789216839515093334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_129
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed63320786b93a770800000000000000
+      internalID: 8620904984577521374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_130
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ead64bd84768cb20800000000000000
+      internalID: 3154885101587192549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_131
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062df5d768662ef90800000000000000
+      internalID: -6925860549127318944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_132
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5918487842b8fc0800000000000000
+      internalID: -3491656921633417796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_133
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d560f7f201e57cfa0800000000000000
+      internalID: -5780548173097400739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1055fdf9b15d3dd0800000000000000
+      internalID: -2504755958476615652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_135
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a25294745658610800000000000000
+      internalID: 1622814597581187606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023435addd04eec00800000000000000
+      internalID: 931753494507111200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_137
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a693a111c3a9f480800000000000000
+      internalID: -8864874341882161499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_138
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da045a2926806d380800000000000000
+      internalID: -8946954390264790867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_139
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fe5b00dcf2a4830800000000000000
+      internalID: 4056106971927277352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_140
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20adbd1052567aaf0800000000000000
+      internalID: -385228033497507326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_141
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca9d001c3c739260800000000000000
+      internalID: 7103157634702613193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_142
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7be29d281066ce0800000000000000
+      internalID: -1412439771632977957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_143
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3712789f303cce0800000000000000
+      internalID: -1386259890051124300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a80fed18fe44280800000000000000
+      internalID: -9059853209292469709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_145
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36dbe1eec159f230800000000000000
+      internalID: 3673056920092792382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_146
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c627d7297339c50800000000000000
+      internalID: 6670736575375240257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_147
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3df23bdafa9a00800000000000000
+      internalID: 764198906152959954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_148
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e596675326b94780800000000000000
+      internalID: -8698220942382950941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_149
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa5addb827ee2b30800000000000000
+      internalID: 4264600059336350379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_150
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb0f6f0038d31ab0800000000000000
+      internalID: -5038445857168487493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_151
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d93a4fcc888bd9a0800000000000000
+      internalID: -6207217523045549610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_152
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791d51eb2e5d608a0800000000000000
+      internalID: -6339144255648968297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_153
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e97ab313509780800000000000000
+      internalID: -8678345137744912051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_154
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e8c11ff166c6450800000000000000
+      internalID: 6083349484045897311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_155
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb0a5d0b78b02580800000000000000
+      internalID: -8853874028765901842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_156
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d68bcbb8953898e0800000000000000
+      internalID: -1686539130348271911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_157
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1af50cdbec909e0800000000000000
+      internalID: -1654564073710313054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_158
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef72e029116047cf0800000000000000
+      internalID: -255572606318663682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_159
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d821a5726690ea0800000000000000
+      internalID: -5906077117118771856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a7687012eadbd90800000000000000
+      internalID: -7080311582273144225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_161
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ade915ca7471cb80800000000000000
+      internalID: -8376285761290768987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_162
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49c20e9c023054d0800000000000000
+      internalID: -3147961109759997618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_163
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4beccfc2d1bf8cf0800000000000000
+      internalID: -247783935494526131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_164
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1221c63b98d8d4a0800000000000000
+      internalID: -6568261895369711077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_165
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5f13601840cb50800000000000000
+      internalID: 6611363488199564275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_166
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7197446e6c647130800000000000000
+      internalID: 3563592426541519231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_167
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0abc0df46e12df50800000000000000
+      internalID: 6904614597803424266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_168
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d2a437699d4070800000000000000
+      internalID: 8092292773998415971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_169
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ed787d11ddeb590800000000000000
+      internalID: -7656439247783076275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33267133e149c7b0800000000000000
+      internalID: -5203555450406689989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_171
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4afb1b52aeb8a580800000000000000
+      internalID: -8815586666055206325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_172
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5813a23b118cb27a0800000000000000
+      internalID: -6400802467031142011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_173
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237cdfc0f05458250800000000000000
+      internalID: 5946234813957392178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_174
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2698fa99f965d7e0800000000000000
+      internalID: -1741369160141072854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_175
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e4d5dd38d125e0800000000000000
+      internalID: -1936028604700497425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_176
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3067bd52075cd9f10800000000000000
+      internalID: 2278194071981487619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_177
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7162329b2ebecfd0800000000000000
+      internalID: -2319707663703580289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_178
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5f6a028aec2f7b0800000000000000
+      internalID: -5191860198907120194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_179
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e1c0610f01ff920800000000000000
+      internalID: 3026156097964351079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ef2c4598aa1ed10800000000000000
+      internalID: 2153189603669114522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_181
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d20bed6b8824f40800000000000000
+      internalID: 5711277596460723564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_182
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4942d99eed5cd6f70800000000000000
+      internalID: 9182212776471110804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_183
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c385f428c3284bf30800000000000000
+      internalID: 4590437116593264700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_184
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4249091f11935c0800000000000000
+      internalID: -4235334245354822462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_185
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edbde864e8a89890800000000000000
+      internalID: -7451019884518064665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_186
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dfd6eae186ee7d0800000000000000
+      internalID: -2887255830113157811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_187
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a353d301d5b4a3570800000000000000
+      internalID: 8447146914163275066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_188
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0236178bfbf96220800000000000000
+      internalID: 2479790127565910538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_189
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ba410477a94bae0800000000000000
+      internalID: -1534431736059614390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_190
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e00b523420610920800000000000000
+      internalID: 2954748539111669986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_191
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa4d27d509b06fc0800000000000000
+      internalID: -3503597075358201180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_192
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e69f6065e6abd4d0800000000000000
+      internalID: -3108707613673548057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_193
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2db4e5f887d145b0800000000000000
+      internalID: -5385786696117469910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_194
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a82c0dd40529000800000000000000
+      internalID: 41183641744869911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_195
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c529ea96e58c9d0800000000000000
+      internalID: -2753847364143653814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05d947c5fec5e000800000000000000
+      internalID: 64685324672554253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_197
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e008f868714ceb0800000000000000
+      internalID: -4700606244367364570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_198
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6f68d41e28c7820800000000000000
+      internalID: 2917350562809181888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_199
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57730a5b7ae8c540800000000000000
+      internalID: 5028526799471212383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_200
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847f5be2ffe8b3ab0800000000000000
+      internalID: -5027267332377544888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_201
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3793b1cff1f81df0800000000000000
+      internalID: -209151301904001218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_202
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c36d8c156b15b010800000000000000
+      internalID: 1203898596476150724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_203
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d021357f581fb7a0800000000000000
+      internalID: -6359337350556737327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_204
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b368f80c89e07060800000000000000
+      internalID: 6949311012687864761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_205
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9afa850376a4470800000000000000
+      internalID: 8379623514020227532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b630e28718af0b0800000000000000
+      internalID: -5694096425688536243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_207
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aba725255b9740b0800000000000000
+      internalID: -5744452009689896029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_208
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a3866a2079e5550800000000000000
+      internalID: 6151520178672253501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_209
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1fbfadf9fcdb880800000000000000
+      internalID: -8593484228472344131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_210
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd94599f995962780800000000000000
+      internalID: -8708108340924429857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_211
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326aabee18612b9d0800000000000000
+      internalID: -2760118874312890845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_212
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24f6fc74a957d0c0800000000000000
+      internalID: -4551070335428529106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_213
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b04cfc1d6e812890800000000000000
+      internalID: -7484544506424180556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_214
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ea3fa308c9f1860800000000000000
+      internalID: 7502887578781330987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_attack_71x42_215
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e546bd859bf7adbb0800000000000000
+      internalID: -4910472009657654178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spear-buckler_attack_71x42_0: -2340013664945898182
+      spear-buckler_attack_71x42_1: -9089011551616173137
+      spear-buckler_attack_71x42_10: 6543352943331421478
+      spear-buckler_attack_71x42_100: -667783669135009556
+      spear-buckler_attack_71x42_101: -1112591795788621737
+      spear-buckler_attack_71x42_102: -470823381862396426
+      spear-buckler_attack_71x42_103: -7880867435573443242
+      spear-buckler_attack_71x42_104: 7905319602547244819
+      spear-buckler_attack_71x42_105: -6233680017277449602
+      spear-buckler_attack_71x42_106: 6227630653811182459
+      spear-buckler_attack_71x42_107: -5853424901352530122
+      spear-buckler_attack_71x42_108: 3179653973048513140
+      spear-buckler_attack_71x42_109: -4297777430416732378
+      spear-buckler_attack_71x42_11: -2613438494097585207
+      spear-buckler_attack_71x42_110: -1397788561046576789
+      spear-buckler_attack_71x42_111: 4027005052661978211
+      spear-buckler_attack_71x42_112: 7886029405607786346
+      spear-buckler_attack_71x42_113: 1832405848877049663
+      spear-buckler_attack_71x42_114: 3130573157402635415
+      spear-buckler_attack_71x42_115: -7025640253661652047
+      spear-buckler_attack_71x42_116: 4780715655242173087
+      spear-buckler_attack_71x42_117: 6146978679994957928
+      spear-buckler_attack_71x42_118: 5577486666462452344
+      spear-buckler_attack_71x42_119: -4227014446154266914
+      spear-buckler_attack_71x42_12: 6812648345637358971
+      spear-buckler_attack_71x42_120: 4245949359818726805
+      spear-buckler_attack_71x42_121: 8925430200694591064
+      spear-buckler_attack_71x42_122: 1472726795640790966
+      spear-buckler_attack_71x42_123: 1599756273797756450
+      spear-buckler_attack_71x42_124: -6496628644233501351
+      spear-buckler_attack_71x42_125: -1844523001619281033
+      spear-buckler_attack_71x42_126: -3269837066014236364
+      spear-buckler_attack_71x42_127: -8412722354249268759
+      spear-buckler_attack_71x42_128: 5789216839515093334
+      spear-buckler_attack_71x42_129: 8620904984577521374
+      spear-buckler_attack_71x42_13: -6288143430022364103
+      spear-buckler_attack_71x42_130: 3154885101587192549
+      spear-buckler_attack_71x42_131: -6925860549127318944
+      spear-buckler_attack_71x42_132: -3491656921633417796
+      spear-buckler_attack_71x42_133: -5780548173097400739
+      spear-buckler_attack_71x42_134: -2504755958476615652
+      spear-buckler_attack_71x42_135: 1622814597581187606
+      spear-buckler_attack_71x42_136: 931753494507111200
+      spear-buckler_attack_71x42_137: -8864874341882161499
+      spear-buckler_attack_71x42_138: -8946954390264790867
+      spear-buckler_attack_71x42_139: 4056106971927277352
+      spear-buckler_attack_71x42_14: 7716455023561819757
+      spear-buckler_attack_71x42_140: -385228033497507326
+      spear-buckler_attack_71x42_141: 7103157634702613193
+      spear-buckler_attack_71x42_142: -1412439771632977957
+      spear-buckler_attack_71x42_143: -1386259890051124300
+      spear-buckler_attack_71x42_144: -9059853209292469709
+      spear-buckler_attack_71x42_145: 3673056920092792382
+      spear-buckler_attack_71x42_146: 6670736575375240257
+      spear-buckler_attack_71x42_147: 764198906152959954
+      spear-buckler_attack_71x42_148: -8698220942382950941
+      spear-buckler_attack_71x42_149: 4264600059336350379
+      spear-buckler_attack_71x42_15: 7964021882547324791
+      spear-buckler_attack_71x42_150: -5038445857168487493
+      spear-buckler_attack_71x42_151: -6207217523045549610
+      spear-buckler_attack_71x42_152: -6339144255648968297
+      spear-buckler_attack_71x42_153: -8678345137744912051
+      spear-buckler_attack_71x42_154: 6083349484045897311
+      spear-buckler_attack_71x42_155: -8853874028765901842
+      spear-buckler_attack_71x42_156: -1686539130348271911
+      spear-buckler_attack_71x42_157: -1654564073710313054
+      spear-buckler_attack_71x42_158: -255572606318663682
+      spear-buckler_attack_71x42_159: -5906077117118771856
+      spear-buckler_attack_71x42_16: 1658502372620542417
+      spear-buckler_attack_71x42_160: -7080311582273144225
+      spear-buckler_attack_71x42_161: -8376285761290768987
+      spear-buckler_attack_71x42_162: -3147961109759997618
+      spear-buckler_attack_71x42_163: -247783935494526131
+      spear-buckler_attack_71x42_164: -6568261895369711077
+      spear-buckler_attack_71x42_165: 6611363488199564275
+      spear-buckler_attack_71x42_166: 3563592426541519231
+      spear-buckler_attack_71x42_167: 6904614597803424266
+      spear-buckler_attack_71x42_168: 8092292773998415971
+      spear-buckler_attack_71x42_169: -7656439247783076275
+      spear-buckler_attack_71x42_17: 2214719296581280087
+      spear-buckler_attack_71x42_170: -5203555450406689989
+      spear-buckler_attack_71x42_171: -8815586666055206325
+      spear-buckler_attack_71x42_172: -6400802467031142011
+      spear-buckler_attack_71x42_173: 5946234813957392178
+      spear-buckler_attack_71x42_174: -1741369160141072854
+      spear-buckler_attack_71x42_175: -1936028604700497425
+      spear-buckler_attack_71x42_176: 2278194071981487619
+      spear-buckler_attack_71x42_177: -2319707663703580289
+      spear-buckler_attack_71x42_178: -5191860198907120194
+      spear-buckler_attack_71x42_179: 3026156097964351079
+      spear-buckler_attack_71x42_18: 2476667757331958996
+      spear-buckler_attack_71x42_180: 2153189603669114522
+      spear-buckler_attack_71x42_181: 5711277596460723564
+      spear-buckler_attack_71x42_182: 9182212776471110804
+      spear-buckler_attack_71x42_183: 4590437116593264700
+      spear-buckler_attack_71x42_184: -4235334245354822462
+      spear-buckler_attack_71x42_185: -7451019884518064665
+      spear-buckler_attack_71x42_186: -2887255830113157811
+      spear-buckler_attack_71x42_187: 8447146914163275066
+      spear-buckler_attack_71x42_188: 2479790127565910538
+      spear-buckler_attack_71x42_189: -1534431736059614390
+      spear-buckler_attack_71x42_19: 6837917338368702541
+      spear-buckler_attack_71x42_190: 2954748539111669986
+      spear-buckler_attack_71x42_191: -3503597075358201180
+      spear-buckler_attack_71x42_192: -3108707613673548057
+      spear-buckler_attack_71x42_193: -5385786696117469910
+      spear-buckler_attack_71x42_194: 41183641744869911
+      spear-buckler_attack_71x42_195: -2753847364143653814
+      spear-buckler_attack_71x42_196: 64685324672554253
+      spear-buckler_attack_71x42_197: -4700606244367364570
+      spear-buckler_attack_71x42_198: 2917350562809181888
+      spear-buckler_attack_71x42_199: 5028526799471212383
+      spear-buckler_attack_71x42_2: 2817708687663194247
+      spear-buckler_attack_71x42_20: 4398879567072713463
+      spear-buckler_attack_71x42_200: -5027267332377544888
+      spear-buckler_attack_71x42_201: -209151301904001218
+      spear-buckler_attack_71x42_202: 1203898596476150724
+      spear-buckler_attack_71x42_203: -6359337350556737327
+      spear-buckler_attack_71x42_204: 6949311012687864761
+      spear-buckler_attack_71x42_205: 8379623514020227532
+      spear-buckler_attack_71x42_206: -5694096425688536243
+      spear-buckler_attack_71x42_207: -5744452009689896029
+      spear-buckler_attack_71x42_208: 6151520178672253501
+      spear-buckler_attack_71x42_209: -8593484228472344131
+      spear-buckler_attack_71x42_21: 4369412688629887278
+      spear-buckler_attack_71x42_210: -8708108340924429857
+      spear-buckler_attack_71x42_211: -2760118874312890845
+      spear-buckler_attack_71x42_212: -4551070335428529106
+      spear-buckler_attack_71x42_213: -7484544506424180556
+      spear-buckler_attack_71x42_214: 7502887578781330987
+      spear-buckler_attack_71x42_215: -4910472009657654178
+      spear-buckler_attack_71x42_22: -3156502719495982425
+      spear-buckler_attack_71x42_23: 8288928865206146348
+      spear-buckler_attack_71x42_24: -1020886200694205318
+      spear-buckler_attack_71x42_25: -651405747694336091
+      spear-buckler_attack_71x42_26: -8341922316161956645
+      spear-buckler_attack_71x42_27: -2681247654370170640
+      spear-buckler_attack_71x42_28: 5715353768788075207
+      spear-buckler_attack_71x42_29: 7127130480044520299
+      spear-buckler_attack_71x42_3: 5443385442353752488
+      spear-buckler_attack_71x42_30: 7522250843606794973
+      spear-buckler_attack_71x42_31: 2111356231810006042
+      spear-buckler_attack_71x42_32: -2240318943111369607
+      spear-buckler_attack_71x42_33: -3600057044047732696
+      spear-buckler_attack_71x42_34: 482073027060137643
+      spear-buckler_attack_71x42_35: -6315159939930881091
+      spear-buckler_attack_71x42_36: 8224038981938740664
+      spear-buckler_attack_71x42_37: 3000439364291996878
+      spear-buckler_attack_71x42_38: 192571109981901777
+      spear-buckler_attack_71x42_39: -4448049194232216502
+      spear-buckler_attack_71x42_4: 1571507547816742203
+      spear-buckler_attack_71x42_40: 6542127939183978665
+      spear-buckler_attack_71x42_41: -1484979347287497613
+      spear-buckler_attack_71x42_42: -8270301850106663463
+      spear-buckler_attack_71x42_43: 6064732629011790197
+      spear-buckler_attack_71x42_44: -1064259276052213525
+      spear-buckler_attack_71x42_45: 5998311067226389266
+      spear-buckler_attack_71x42_46: -6041048374417226035
+      spear-buckler_attack_71x42_47: -7900285311909913192
+      spear-buckler_attack_71x42_48: 7138068246546066663
+      spear-buckler_attack_71x42_49: 4341412646415905017
+      spear-buckler_attack_71x42_5: 6156619798473371581
+      spear-buckler_attack_71x42_50: -1869453190485156697
+      spear-buckler_attack_71x42_51: 7314345758797339069
+      spear-buckler_attack_71x42_52: 2664073673909473690
+      spear-buckler_attack_71x42_53: -5454823014719198350
+      spear-buckler_attack_71x42_54: -8541221791514466158
+      spear-buckler_attack_71x42_55: -7372164806658830841
+      spear-buckler_attack_71x42_56: 7478254405364790934
+      spear-buckler_attack_71x42_57: 3292307699958249262
+      spear-buckler_attack_71x42_58: 3092412810074591320
+      spear-buckler_attack_71x42_59: -5868145299973686745
+      spear-buckler_attack_71x42_6: -5643192625259042641
+      spear-buckler_attack_71x42_60: 8968898673916187523
+      spear-buckler_attack_71x42_61: -3522555268455194655
+      spear-buckler_attack_71x42_62: -9198863115052981836
+      spear-buckler_attack_71x42_63: 4923638677967021976
+      spear-buckler_attack_71x42_64: -1756964444643447798
+      spear-buckler_attack_71x42_65: -8322432397212352215
+      spear-buckler_attack_71x42_66: 5361698424364286958
+      spear-buckler_attack_71x42_67: 7197564827689881571
+      spear-buckler_attack_71x42_68: -9143637133082315711
+      spear-buckler_attack_71x42_69: -6276868997111339883
+      spear-buckler_attack_71x42_7: -3217532519155858676
+      spear-buckler_attack_71x42_70: 7654370342089552175
+      spear-buckler_attack_71x42_71: 7265365837657825497
+      spear-buckler_attack_71x42_72: -3551648792442136059
+      spear-buckler_attack_71x42_73: -8048158933521156106
+      spear-buckler_attack_71x42_74: -4094453983402280458
+      spear-buckler_attack_71x42_75: 2993051205288564205
+      spear-buckler_attack_71x42_76: -3130379700367412527
+      spear-buckler_attack_71x42_77: 5056220977655008718
+      spear-buckler_attack_71x42_78: -789441500863680455
+      spear-buckler_attack_71x42_79: 4988250210706507751
+      spear-buckler_attack_71x42_8: 7179144464818985428
+      spear-buckler_attack_71x42_80: 877377351856327681
+      spear-buckler_attack_71x42_81: 9194802412737618366
+      spear-buckler_attack_71x42_82: -4630593103906396548
+      spear-buckler_attack_71x42_83: 7635828562520210235
+      spear-buckler_attack_71x42_84: 2080139894906346316
+      spear-buckler_attack_71x42_85: -7882456588503356259
+      spear-buckler_attack_71x42_86: -710850783034771790
+      spear-buckler_attack_71x42_87: 5693707006625799239
+      spear-buckler_attack_71x42_88: 8433595516523796730
+      spear-buckler_attack_71x42_89: 7013224481188491091
+      spear-buckler_attack_71x42_9: -2113927674337251296
+      spear-buckler_attack_71x42_90: 719150970073587330
+      spear-buckler_attack_71x42_91: 620005270206080648
+      spear-buckler_attack_71x42_92: -8599266585306229374
+      spear-buckler_attack_71x42_93: 541301702547450822
+      spear-buckler_attack_71x42_94: -8494871632959314732
+      spear-buckler_attack_71x42_95: 6665255491731345202
+      spear-buckler_attack_71x42_96: -570497660661124744
+      spear-buckler_attack_71x42_97: 1841600664593538913
+      spear-buckler_attack_71x42_98: 8235815838849760658
+      spear-buckler_attack_71x42_99: 8761494052439107767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

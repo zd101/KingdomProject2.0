@@ -1,0 +1,3414 @@
+fileFormatVersion: 2
+guid: e790a5be880476e429372b0266f5aa17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3228908946028431896
+    second: axe_attack_71x44_0
+  - first:
+      213: -5642746293020124230
+    second: axe_attack_71x44_1
+  - first:
+      213: -6554059048015082379
+    second: axe_attack_71x44_2
+  - first:
+      213: 1946588600940509369
+    second: axe_attack_71x44_3
+  - first:
+      213: -7004900150143508593
+    second: axe_attack_71x44_4
+  - first:
+      213: 7904991358833489659
+    second: axe_attack_71x44_5
+  - first:
+      213: -6472466501698031264
+    second: axe_attack_71x44_6
+  - first:
+      213: -7752803372983324149
+    second: axe_attack_71x44_7
+  - first:
+      213: -2007622575137461423
+    second: axe_attack_71x44_8
+  - first:
+      213: -2002431548249177578
+    second: axe_attack_71x44_9
+  - first:
+      213: -1648503748110368705
+    second: axe_attack_71x44_10
+  - first:
+      213: 1578569546188325527
+    second: axe_attack_71x44_11
+  - first:
+      213: 6543946022906040170
+    second: axe_attack_71x44_12
+  - first:
+      213: 778232957587910381
+    second: axe_attack_71x44_13
+  - first:
+      213: 1371297452403742996
+    second: axe_attack_71x44_14
+  - first:
+      213: 8857770198002946703
+    second: axe_attack_71x44_15
+  - first:
+      213: 6923370363363097400
+    second: axe_attack_71x44_16
+  - first:
+      213: 2604835732933919974
+    second: axe_attack_71x44_17
+  - first:
+      213: 7085376949884307631
+    second: axe_attack_71x44_18
+  - first:
+      213: -1585481845170655278
+    second: axe_attack_71x44_19
+  - first:
+      213: -1245418948021036988
+    second: axe_attack_71x44_20
+  - first:
+      213: -3417212841898563261
+    second: axe_attack_71x44_21
+  - first:
+      213: -8601616011057142341
+    second: axe_attack_71x44_22
+  - first:
+      213: -2284460410756239038
+    second: axe_attack_71x44_23
+  - first:
+      213: 7332507054673443119
+    second: axe_attack_71x44_24
+  - first:
+      213: 1124191963138132881
+    second: axe_attack_71x44_25
+  - first:
+      213: 1181337203668527755
+    second: axe_attack_71x44_26
+  - first:
+      213: -1198126306395400715
+    second: axe_attack_71x44_27
+  - first:
+      213: -4096616037179465307
+    second: axe_attack_71x44_28
+  - first:
+      213: -7130288525124984511
+    second: axe_attack_71x44_29
+  - first:
+      213: 5153770662523264992
+    second: axe_attack_71x44_30
+  - first:
+      213: -7891386487955478283
+    second: axe_attack_71x44_31
+  - first:
+      213: -5111124423530423801
+    second: axe_attack_71x44_32
+  - first:
+      213: 8542693657374843260
+    second: axe_attack_71x44_33
+  - first:
+      213: 328689390997317304
+    second: axe_attack_71x44_34
+  - first:
+      213: -5620912556940301214
+    second: axe_attack_71x44_35
+  - first:
+      213: -5366615061434365645
+    second: axe_attack_71x44_36
+  - first:
+      213: 1079619083000949983
+    second: axe_attack_71x44_37
+  - first:
+      213: -3881853414082758685
+    second: axe_attack_71x44_38
+  - first:
+      213: 5396976491569556046
+    second: axe_attack_71x44_39
+  - first:
+      213: 5773206199618580062
+    second: axe_attack_71x44_40
+  - first:
+      213: -248000034704640173
+    second: axe_attack_71x44_41
+  - first:
+      213: 7447029694023875396
+    second: axe_attack_71x44_42
+  - first:
+      213: -4831420310958958716
+    second: axe_attack_71x44_43
+  - first:
+      213: -2083995803194694713
+    second: axe_attack_71x44_44
+  - first:
+      213: -5039771489262070710
+    second: axe_attack_71x44_45
+  - first:
+      213: -993863488993964085
+    second: axe_attack_71x44_46
+  - first:
+      213: 4185488938422007676
+    second: axe_attack_71x44_47
+  - first:
+      213: 464393748531673417
+    second: axe_attack_71x44_48
+  - first:
+      213: 6438534767858412981
+    second: axe_attack_71x44_49
+  - first:
+      213: -4596715311655251982
+    second: axe_attack_71x44_50
+  - first:
+      213: -8682219307656766782
+    second: axe_attack_71x44_51
+  - first:
+      213: 3176065675701530126
+    second: axe_attack_71x44_52
+  - first:
+      213: -7708424893774770773
+    second: axe_attack_71x44_53
+  - first:
+      213: 8941721140349721063
+    second: axe_attack_71x44_54
+  - first:
+      213: -5912986139353397430
+    second: axe_attack_71x44_55
+  - first:
+      213: -690028472972191544
+    second: axe_attack_71x44_56
+  - first:
+      213: -1875229644436516528
+    second: axe_attack_71x44_57
+  - first:
+      213: -4488503836679596772
+    second: axe_attack_71x44_58
+  - first:
+      213: 4900016448774047769
+    second: axe_attack_71x44_59
+  - first:
+      213: 3614178898038386359
+    second: axe_attack_71x44_60
+  - first:
+      213: -2062171550286010353
+    second: axe_attack_71x44_61
+  - first:
+      213: 4404969837570315419
+    second: axe_attack_71x44_62
+  - first:
+      213: 5615939558743988078
+    second: axe_attack_71x44_63
+  - first:
+      213: -6770665695072236710
+    second: axe_attack_71x44_64
+  - first:
+      213: -7359730281612853817
+    second: axe_attack_71x44_65
+  - first:
+      213: 2592391300587971181
+    second: axe_attack_71x44_66
+  - first:
+      213: 3954538364606126153
+    second: axe_attack_71x44_67
+  - first:
+      213: -3967615163979252034
+    second: axe_attack_71x44_68
+  - first:
+      213: 1241909037054490598
+    second: axe_attack_71x44_69
+  - first:
+      213: -1522685343472478148
+    second: axe_attack_71x44_70
+  - first:
+      213: 7812823296052500130
+    second: axe_attack_71x44_71
+  - first:
+      213: 201518665477778326
+    second: axe_attack_71x44_72
+  - first:
+      213: 559915354844488768
+    second: axe_attack_71x44_73
+  - first:
+      213: 8889087697558184479
+    second: axe_attack_71x44_74
+  - first:
+      213: -219671626850737800
+    second: axe_attack_71x44_75
+  - first:
+      213: -4727014700280867834
+    second: axe_attack_71x44_76
+  - first:
+      213: -5022844323021705352
+    second: axe_attack_71x44_77
+  - first:
+      213: 6140618572252104410
+    second: axe_attack_71x44_78
+  - first:
+      213: 914308425280136083
+    second: axe_attack_71x44_79
+  - first:
+      213: 268377726945739665
+    second: axe_attack_71x44_80
+  - first:
+      213: -7507498632659044970
+    second: axe_attack_71x44_81
+  - first:
+      213: 7707662693488725264
+    second: axe_attack_71x44_82
+  - first:
+      213: 6984125182320341993
+    second: axe_attack_71x44_83
+  - first:
+      213: 1806565209042553225
+    second: axe_attack_71x44_84
+  - first:
+      213: 3308831691192524094
+    second: axe_attack_71x44_85
+  - first:
+      213: 8111243854375277176
+    second: axe_attack_71x44_86
+  - first:
+      213: 998899160282276313
+    second: axe_attack_71x44_87
+  - first:
+      213: -7487586625856443468
+    second: axe_attack_71x44_88
+  - first:
+      213: 6963780185918752562
+    second: axe_attack_71x44_89
+  - first:
+      213: -3891287872419567515
+    second: axe_attack_71x44_90
+  - first:
+      213: 72504241589458488
+    second: axe_attack_71x44_91
+  - first:
+      213: -5727852113500979048
+    second: axe_attack_71x44_92
+  - first:
+      213: -5616090252933478954
+    second: axe_attack_71x44_93
+  - first:
+      213: -7420472856954256077
+    second: axe_attack_71x44_94
+  - first:
+      213: -7626415652981692638
+    second: axe_attack_71x44_95
+  - first:
+      213: -6441745453434730479
+    second: axe_attack_71x44_96
+  - first:
+      213: -693039719757117064
+    second: axe_attack_71x44_97
+  - first:
+      213: 1079499146333088666
+    second: axe_attack_71x44_98
+  - first:
+      213: -8030845981606017349
+    second: axe_attack_71x44_99
+  - first:
+      213: -2679206330790662569
+    second: axe_attack_71x44_100
+  - first:
+      213: 1088295398679863110
+    second: axe_attack_71x44_101
+  - first:
+      213: -3372433822887012610
+    second: axe_attack_71x44_102
+  - first:
+      213: -4053309348978448697
+    second: axe_attack_71x44_103
+  - first:
+      213: 320090069520224346
+    second: axe_attack_71x44_104
+  - first:
+      213: -4139563389572560844
+    second: axe_attack_71x44_105
+  - first:
+      213: 6201691107553294998
+    second: axe_attack_71x44_106
+  - first:
+      213: 4954887959334747583
+    second: axe_attack_71x44_107
+  - first:
+      213: -3469853923110207551
+    second: axe_attack_71x44_108
+  - first:
+      213: 3834344641884617545
+    second: axe_attack_71x44_109
+  - first:
+      213: -4598921711186473625
+    second: axe_attack_71x44_110
+  - first:
+      213: -4353655618256107131
+    second: axe_attack_71x44_111
+  - first:
+      213: 61992486261364539
+    second: axe_attack_71x44_112
+  - first:
+      213: -344138205894365942
+    second: axe_attack_71x44_113
+  - first:
+      213: -6781241443285070928
+    second: axe_attack_71x44_114
+  - first:
+      213: 2992346683078598463
+    second: axe_attack_71x44_115
+  - first:
+      213: 2671325420021329676
+    second: axe_attack_71x44_116
+  - first:
+      213: 3736837796729947104
+    second: axe_attack_71x44_117
+  - first:
+      213: -9065129690675863695
+    second: axe_attack_71x44_118
+  - first:
+      213: -2785582919613608351
+    second: axe_attack_71x44_119
+  - first:
+      213: -3183609264328469135
+    second: axe_attack_71x44_120
+  - first:
+      213: 9062949897415822418
+    second: axe_attack_71x44_121
+  - first:
+      213: -3581568669352514332
+    second: axe_attack_71x44_122
+  - first:
+      213: -8294481751290570579
+    second: axe_attack_71x44_123
+  - first:
+      213: 1718438005882302683
+    second: axe_attack_71x44_124
+  - first:
+      213: 7753122371033423701
+    second: axe_attack_71x44_125
+  - first:
+      213: -5904929464754069840
+    second: axe_attack_71x44_126
+  - first:
+      213: -6757778045387626757
+    second: axe_attack_71x44_127
+  - first:
+      213: 6043758818273298940
+    second: axe_attack_71x44_128
+  - first:
+      213: -5501208986005292437
+    second: axe_attack_71x44_129
+  - first:
+      213: 887276326876860865
+    second: axe_attack_71x44_130
+  - first:
+      213: -6488418905133577573
+    second: axe_attack_71x44_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: axe_attack_71x44_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0b1434936fcc20800000000000000
+      internalID: 3228908946028431896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb12ee9420f0b1b0800000000000000
+      internalID: -5642746293020124230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c402e450e4b05a0800000000000000
+      internalID: -6554059048015082379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b832e2e40ca30b10800000000000000
+      internalID: 1946588600940509369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f9d9f4d6899ce90800000000000000
+      internalID: -7004900150143508593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf67dc722cb24bd60800000000000000
+      internalID: 7904991358833489659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0617ca1620e2d26a0800000000000000
+      internalID: -6472466501698031264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02f0eb8862886490800000000000000
+      internalID: -7752803372983324149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b60ed97ed7324e0800000000000000
+      internalID: -2007622575137461423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612829fbd1fe534e0800000000000000
+      internalID: -2002431548249177578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f304bf243965f19e0800000000000000
+      internalID: -1648503748110368705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7920ecd73a438e510800000000000000
+      internalID: 1578569546188325527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f05ac8c34c0da50800000000000000
+      internalID: 6543946022906040170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee678d60c6dcca00800000000000000
+      internalID: 778232957587910381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4195ceb74c3d70310800000000000000
+      internalID: 1371297452403742996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82d10a801f1dea70800000000000000
+      internalID: 8857770198002946703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b79b4f9a0c41060800000000000000
+      internalID: 6923370363363097400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e445cf4c4c362420800000000000000
+      internalID: 2604835732933919974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa84895cbc0545260800000000000000
+      internalID: 7085376949884307631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa5cc79ac3ff9e0800000000000000
+      internalID: -1585481845170655278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4485aa6b01267bee0800000000000000
+      internalID: -1245418948021036988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349abb4860f9390d0800000000000000
+      internalID: -3417212841898563261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb560aeafcbe0a880800000000000000
+      internalID: -8601616011057142341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2417e692c57fb40e0800000000000000
+      internalID: -2284460410756239038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f293bd2215c42c560800000000000000
+      internalID: 7332507054673443119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b823e52aee99f00800000000000000
+      internalID: 1124191963138132881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aad908de3f46010800000000000000
+      internalID: 1181337203668527755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f55047e8766f5fe0800000000000000
+      internalID: -1198126306395400715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1efb24b65e527c0800000000000000
+      internalID: -4096616037179465307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_29
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141a1e14d502c0d90800000000000000
+      internalID: -7130288525124984511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef57899c1fd58740800000000000000
+      internalID: 5153770662523264992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8a810bcc92c7290800000000000000
+      internalID: -7891386487955478283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_32
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a55acaa63a119b0800000000000000
+      internalID: -5111124423530423801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c716fc8ce9ebd8670800000000000000
+      internalID: 8542693657374843260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a5d7724dbf8400800000000000000
+      internalID: 328689390997317304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c6a027fc18ef1b0800000000000000
+      internalID: -5620912556940301214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33981f00904f585b0800000000000000
+      internalID: -5366615061434365645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc210ff5d39bfe00800000000000000
+      internalID: 1079619083000949983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7b57703e2e02ac0800000000000000
+      internalID: -3881853414082758685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a23215689e5ea40800000000000000
+      internalID: 5396976491569556046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_40
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e2957637c8e1050800000000000000
+      internalID: 5773206199618580062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_41
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357352b484dee8cf0800000000000000
+      internalID: -248000034704640173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b3418fc0a295760800000000000000
+      internalID: 7447029694023875396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4871fac33d853fcb0800000000000000
+      internalID: -4831420310958958716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ec25cbd82413e0800000000000000
+      internalID: -2083995803194694713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44946948822f0ab0800000000000000
+      internalID: -5039771489262070710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc8472c661532f0800000000000000
+      internalID: -993863488993964085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7778f98308d51a30800000000000000
+      internalID: 4185488938422007676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_48
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949742167abd17600800000000000000
+      internalID: 464393748531673417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_49
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bde33032454a5950800000000000000
+      internalID: 6438534767858412981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff803b47cf2530c0800000000000000
+      internalID: -4596715311655251982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca94114a8f828780800000000000000
+      internalID: -8682219307656766782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e208f87e6a31c20800000000000000
+      internalID: 3176065675701530126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_53
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badc6cc666c260590800000000000000
+      internalID: -7708424893774770773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_54
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9552b7000671c70800000000000000
+      internalID: 8941721140349721063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_55
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4748024f6ad0fda0800000000000000
+      internalID: -5912986139353397430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8569f72c68c66f0800000000000000
+      internalID: -690028472972191544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0515413e298d9f5e0800000000000000
+      internalID: -1875229644436516528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c151cb9aa81a5b1c0800000000000000
+      internalID: -4488503836679596772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_59
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9188fbeaffa500440800000000000000
+      internalID: 4900016448774047769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6a4c1f84282230800000000000000
+      internalID: 3614178898038386359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_61
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08294f96e1b163e0800000000000000
+      internalID: -2062171550286010353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9450be8ab8912d30800000000000000
+      internalID: 4404969837570315419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_63
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67dffe2643dfed40800000000000000
+      internalID: 5615939558743988078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_64
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bcb404c63c902a0800000000000000
+      internalID: -6770665695072236710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_65
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdb7c96d4cfcd990800000000000000
+      internalID: -7359730281612853817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62eb5e17260af320800000000000000
+      internalID: 2592391300587971181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_67
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9489009c0b751e630800000000000000
+      internalID: 3954538364606126153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe3099970330f8c0800000000000000
+      internalID: -3967615163979252034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_69
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7faf470b52c3110800000000000000
+      internalID: 1241909037054490598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_70
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3811a56fb55edae0800000000000000
+      internalID: -1522685343472478148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_71
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61b16c469bc6c60800000000000000
+      internalID: 7812823296052500130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be9679820fbc200800000000000000
+      internalID: 201518665477778326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_73
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044eac57c0835c700800000000000000
+      internalID: 559915354844488768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_74
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12204e1a226c5b70800000000000000
+      internalID: 8889087697558184479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_75
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871645ab1d193fcf0800000000000000
+      internalID: -219671626850737800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_76
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60495b5cc25466eb0800000000000000
+      internalID: -4727014700280867834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_77
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f243c43b54b4ab0800000000000000
+      internalID: -5022844323021705352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6c04c9e0cd73550800000000000000
+      internalID: 6140618572252104410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_79
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39328f72ba640bc00800000000000000
+      internalID: 914308425280136083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_80
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1934a38ee1879b300800000000000000
+      internalID: 268377726945739665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_81
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69570a025c100d790800000000000000
+      internalID: -7507498632659044970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_82
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0dedf16e17fa60800000000000000
+      internalID: 7707662693488725264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_83
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3701f89d89ce060800000000000000
+      internalID: 6984125182320341993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_84
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898f8c6c75321910800000000000000
+      internalID: 1806565209042553225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_85
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dd51764e45bed20800000000000000
+      internalID: 3308831691192524094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_86
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872db927f4de09070800000000000000
+      internalID: 8111243854375277176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_87
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1af0f6e7dccdd00800000000000000
+      internalID: 998899160282276313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb6cdc72afb61890800000000000000
+      internalID: -7487586625856443468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2374793fe2154a060800000000000000
+      internalID: 6963780185918752562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56865a50c4e5ff9c0800000000000000
+      internalID: -3891287872419567515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83616ac3936910100800000000000000
+      internalID: 72504241589458488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_92
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890cdc8a9d49280b0800000000000000
+      internalID: -5727852113500979048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5cd579ba3af02b0800000000000000
+      internalID: -5616090252933478954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33540df704f250990800000000000000
+      internalID: -7420472856954256077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_95
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2272c8ebe57892690800000000000000
+      internalID: -7626415652981692638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1180982d3a25a96a0800000000000000
+      internalID: -6441745453434730479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_97
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87904a8fb04d166f0800000000000000
+      internalID: -693039719757117064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_98
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b658011c62bfe00800000000000000
+      internalID: 1079499146333088666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_99
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb600840124bc8090800000000000000
+      internalID: -8030845981606017349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eae35890c81dad0800000000000000
+      internalID: -2679206330790662569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f510926e66a1f00800000000000000
+      internalID: 1088295398679863110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef69e465e45b231d0800000000000000
+      internalID: -3372433822887012610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6ae595f90cfb7c0800000000000000
+      internalID: -4053309348978448697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_104
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5012e9e830317400800000000000000
+      internalID: 320090069520224346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_105
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c05f87015d86c0800000000000000
+      internalID: -4139563389572560844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_106
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ab9605435d01650800000000000000
+      internalID: 6201691107553294998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_107
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdf10ec85c43c440800000000000000
+      internalID: 4954887959334747583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_108
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf3582bd3a98dfc0800000000000000
+      internalID: -3469853923110207551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_109
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b74f5f224563530800000000000000
+      internalID: 3834344641884617545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d06eed1195d20c0800000000000000
+      internalID: -4598921711186473625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58906772845b493c0800000000000000
+      internalID: -4353655618256107131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_112
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b371a5a76dd3cd000800000000000000
+      internalID: 61992486261364539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da6040020693bf0800000000000000
+      internalID: -344138205894365942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_114
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb06dcf5d034e1a0800000000000000
+      internalID: -6781241443285070928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_115
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd7b14473f68920800000000000000
+      internalID: 2992346683078598463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_116
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fa7d3f054721520800000000000000
+      internalID: 2671325420021329676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_117
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e387517d2aebd330800000000000000
+      internalID: 3736837796729947104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_118
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f1b605390323280800000000000000
+      internalID: -9065129690675863695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_119
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e0900e71f9759d0800000000000000
+      internalID: -2785582919613608351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_120
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1751f08dd3c81d3d0800000000000000
+      internalID: -3183609264328469135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_121
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c02a40ae016cd70800000000000000
+      internalID: 9062949897415822418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec239c6546bb4ec0800000000000000
+      internalID: -3581568669352514332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_123
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da89d521bc414ec80800000000000000
+      internalID: -8294481751290570579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_124
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0352df24e19d710800000000000000
+      internalID: 1718438005882302683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_125
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd499f7bf989b60800000000000000
+      internalID: 7753122371033423701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_126
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be989dffe97d0ea0800000000000000
+      internalID: -5904929464754069840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_127
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6acb50cac8732a0800000000000000
+      internalID: -6757778045387626757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_128
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9805fbf9ebfd350800000000000000
+      internalID: 6043758818273298940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_129
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ab7f9e297c7a3b0800000000000000
+      internalID: -5501208986005292437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_130
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1db194e1d305c00800000000000000
+      internalID: 887276326876860865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe_attack_71x44_131
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a8595026184f5a0800000000000000
+      internalID: -6488418905133577573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      axe_attack_71x44_0: 3228908946028431896
+      axe_attack_71x44_1: -5642746293020124230
+      axe_attack_71x44_10: -1648503748110368705
+      axe_attack_71x44_100: -2679206330790662569
+      axe_attack_71x44_101: 1088295398679863110
+      axe_attack_71x44_102: -3372433822887012610
+      axe_attack_71x44_103: -4053309348978448697
+      axe_attack_71x44_104: 320090069520224346
+      axe_attack_71x44_105: -4139563389572560844
+      axe_attack_71x44_106: 6201691107553294998
+      axe_attack_71x44_107: 4954887959334747583
+      axe_attack_71x44_108: -3469853923110207551
+      axe_attack_71x44_109: 3834344641884617545
+      axe_attack_71x44_11: 1578569546188325527
+      axe_attack_71x44_110: -4598921711186473625
+      axe_attack_71x44_111: -4353655618256107131
+      axe_attack_71x44_112: 61992486261364539
+      axe_attack_71x44_113: -344138205894365942
+      axe_attack_71x44_114: -6781241443285070928
+      axe_attack_71x44_115: 2992346683078598463
+      axe_attack_71x44_116: 2671325420021329676
+      axe_attack_71x44_117: 3736837796729947104
+      axe_attack_71x44_118: -9065129690675863695
+      axe_attack_71x44_119: -2785582919613608351
+      axe_attack_71x44_12: 6543946022906040170
+      axe_attack_71x44_120: -3183609264328469135
+      axe_attack_71x44_121: 9062949897415822418
+      axe_attack_71x44_122: -3581568669352514332
+      axe_attack_71x44_123: -8294481751290570579
+      axe_attack_71x44_124: 1718438005882302683
+      axe_attack_71x44_125: 7753122371033423701
+      axe_attack_71x44_126: -5904929464754069840
+      axe_attack_71x44_127: -6757778045387626757
+      axe_attack_71x44_128: 6043758818273298940
+      axe_attack_71x44_129: -5501208986005292437
+      axe_attack_71x44_13: 778232957587910381
+      axe_attack_71x44_130: 887276326876860865
+      axe_attack_71x44_131: -6488418905133577573
+      axe_attack_71x44_14: 1371297452403742996
+      axe_attack_71x44_15: 8857770198002946703
+      axe_attack_71x44_16: 6923370363363097400
+      axe_attack_71x44_17: 2604835732933919974
+      axe_attack_71x44_18: 7085376949884307631
+      axe_attack_71x44_19: -1585481845170655278
+      axe_attack_71x44_2: -6554059048015082379
+      axe_attack_71x44_20: -1245418948021036988
+      axe_attack_71x44_21: -3417212841898563261
+      axe_attack_71x44_22: -8601616011057142341
+      axe_attack_71x44_23: -2284460410756239038
+      axe_attack_71x44_24: 7332507054673443119
+      axe_attack_71x44_25: 1124191963138132881
+      axe_attack_71x44_26: 1181337203668527755
+      axe_attack_71x44_27: -1198126306395400715
+      axe_attack_71x44_28: -4096616037179465307
+      axe_attack_71x44_29: -7130288525124984511
+      axe_attack_71x44_3: 1946588600940509369
+      axe_attack_71x44_30: 5153770662523264992
+      axe_attack_71x44_31: -7891386487955478283
+      axe_attack_71x44_32: -5111124423530423801
+      axe_attack_71x44_33: 8542693657374843260
+      axe_attack_71x44_34: 328689390997317304
+      axe_attack_71x44_35: -5620912556940301214
+      axe_attack_71x44_36: -5366615061434365645
+      axe_attack_71x44_37: 1079619083000949983
+      axe_attack_71x44_38: -3881853414082758685
+      axe_attack_71x44_39: 5396976491569556046
+      axe_attack_71x44_4: -7004900150143508593
+      axe_attack_71x44_40: 5773206199618580062
+      axe_attack_71x44_41: -248000034704640173
+      axe_attack_71x44_42: 7447029694023875396
+      axe_attack_71x44_43: -4831420310958958716
+      axe_attack_71x44_44: -2083995803194694713
+      axe_attack_71x44_45: -5039771489262070710
+      axe_attack_71x44_46: -993863488993964085
+      axe_attack_71x44_47: 4185488938422007676
+      axe_attack_71x44_48: 464393748531673417
+      axe_attack_71x44_49: 6438534767858412981
+      axe_attack_71x44_5: 7904991358833489659
+      axe_attack_71x44_50: -4596715311655251982
+      axe_attack_71x44_51: -8682219307656766782
+      axe_attack_71x44_52: 3176065675701530126
+      axe_attack_71x44_53: -7708424893774770773
+      axe_attack_71x44_54: 8941721140349721063
+      axe_attack_71x44_55: -5912986139353397430
+      axe_attack_71x44_56: -690028472972191544
+      axe_attack_71x44_57: -1875229644436516528
+      axe_attack_71x44_58: -4488503836679596772
+      axe_attack_71x44_59: 4900016448774047769
+      axe_attack_71x44_6: -6472466501698031264
+      axe_attack_71x44_60: 3614178898038386359
+      axe_attack_71x44_61: -2062171550286010353
+      axe_attack_71x44_62: 4404969837570315419
+      axe_attack_71x44_63: 5615939558743988078
+      axe_attack_71x44_64: -6770665695072236710
+      axe_attack_71x44_65: -7359730281612853817
+      axe_attack_71x44_66: 2592391300587971181
+      axe_attack_71x44_67: 3954538364606126153
+      axe_attack_71x44_68: -3967615163979252034
+      axe_attack_71x44_69: 1241909037054490598
+      axe_attack_71x44_7: -7752803372983324149
+      axe_attack_71x44_70: -1522685343472478148
+      axe_attack_71x44_71: 7812823296052500130
+      axe_attack_71x44_72: 201518665477778326
+      axe_attack_71x44_73: 559915354844488768
+      axe_attack_71x44_74: 8889087697558184479
+      axe_attack_71x44_75: -219671626850737800
+      axe_attack_71x44_76: -4727014700280867834
+      axe_attack_71x44_77: -5022844323021705352
+      axe_attack_71x44_78: 6140618572252104410
+      axe_attack_71x44_79: 914308425280136083
+      axe_attack_71x44_8: -2007622575137461423
+      axe_attack_71x44_80: 268377726945739665
+      axe_attack_71x44_81: -7507498632659044970
+      axe_attack_71x44_82: 7707662693488725264
+      axe_attack_71x44_83: 6984125182320341993
+      axe_attack_71x44_84: 1806565209042553225
+      axe_attack_71x44_85: 3308831691192524094
+      axe_attack_71x44_86: 8111243854375277176
+      axe_attack_71x44_87: 998899160282276313
+      axe_attack_71x44_88: -7487586625856443468
+      axe_attack_71x44_89: 6963780185918752562
+      axe_attack_71x44_9: -2002431548249177578
+      axe_attack_71x44_90: -3891287872419567515
+      axe_attack_71x44_91: 72504241589458488
+      axe_attack_71x44_92: -5727852113500979048
+      axe_attack_71x44_93: -5616090252933478954
+      axe_attack_71x44_94: -7420472856954256077
+      axe_attack_71x44_95: -7626415652981692638
+      axe_attack_71x44_96: -6441745453434730479
+      axe_attack_71x44_97: -693039719757117064
+      axe_attack_71x44_98: 1079499146333088666
+      axe_attack_71x44_99: -8030845981606017349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

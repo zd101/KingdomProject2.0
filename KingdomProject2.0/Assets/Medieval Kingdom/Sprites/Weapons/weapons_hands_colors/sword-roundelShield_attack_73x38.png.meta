@@ -1,0 +1,5214 @@
+fileFormatVersion: 2
+guid: 85cfdff21a4738949855984affcefadb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -191880249495639447
+    second: sword-roundelShield_attack_73x38_0
+  - first:
+      213: 5900613259527077685
+    second: sword-roundelShield_attack_73x38_1
+  - first:
+      213: -6091449720793312556
+    second: sword-roundelShield_attack_73x38_2
+  - first:
+      213: 2044204917477715870
+    second: sword-roundelShield_attack_73x38_3
+  - first:
+      213: 7372480441332765373
+    second: sword-roundelShield_attack_73x38_4
+  - first:
+      213: -7967002916476707417
+    second: sword-roundelShield_attack_73x38_5
+  - first:
+      213: -3006445706488461440
+    second: sword-roundelShield_attack_73x38_6
+  - first:
+      213: -5207912819628172186
+    second: sword-roundelShield_attack_73x38_7
+  - first:
+      213: -8087669621626116732
+    second: sword-roundelShield_attack_73x38_8
+  - first:
+      213: 7904275950174559279
+    second: sword-roundelShield_attack_73x38_9
+  - first:
+      213: -6092028934827368442
+    second: sword-roundelShield_attack_73x38_10
+  - first:
+      213: -3889707595577288097
+    second: sword-roundelShield_attack_73x38_11
+  - first:
+      213: -4008557436032342554
+    second: sword-roundelShield_attack_73x38_12
+  - first:
+      213: 6002101733409415938
+    second: sword-roundelShield_attack_73x38_13
+  - first:
+      213: -3260073873130567780
+    second: sword-roundelShield_attack_73x38_14
+  - first:
+      213: -1968496137774235454
+    second: sword-roundelShield_attack_73x38_15
+  - first:
+      213: 7617524437298394754
+    second: sword-roundelShield_attack_73x38_16
+  - first:
+      213: -1422181179205472318
+    second: sword-roundelShield_attack_73x38_17
+  - first:
+      213: 6920037306726100251
+    second: sword-roundelShield_attack_73x38_18
+  - first:
+      213: 1982215672765256572
+    second: sword-roundelShield_attack_73x38_19
+  - first:
+      213: 8776318494581863071
+    second: sword-roundelShield_attack_73x38_20
+  - first:
+      213: 8982196803515070989
+    second: sword-roundelShield_attack_73x38_21
+  - first:
+      213: 6808756209739127513
+    second: sword-roundelShield_attack_73x38_22
+  - first:
+      213: 2768582289107438570
+    second: sword-roundelShield_attack_73x38_23
+  - first:
+      213: -6052025998856995825
+    second: sword-roundelShield_attack_73x38_24
+  - first:
+      213: 5994473835122289108
+    second: sword-roundelShield_attack_73x38_25
+  - first:
+      213: -6574908706469624529
+    second: sword-roundelShield_attack_73x38_26
+  - first:
+      213: -6431939359614304379
+    second: sword-roundelShield_attack_73x38_27
+  - first:
+      213: 6057401392152167818
+    second: sword-roundelShield_attack_73x38_28
+  - first:
+      213: 8293463162994244898
+    second: sword-roundelShield_attack_73x38_29
+  - first:
+      213: -9057912617231469916
+    second: sword-roundelShield_attack_73x38_30
+  - first:
+      213: 6934861437108616154
+    second: sword-roundelShield_attack_73x38_31
+  - first:
+      213: 4530839965615491168
+    second: sword-roundelShield_attack_73x38_32
+  - first:
+      213: 87741986657372205
+    second: sword-roundelShield_attack_73x38_33
+  - first:
+      213: 4242935381138114544
+    second: sword-roundelShield_attack_73x38_34
+  - first:
+      213: 5557469923927145294
+    second: sword-roundelShield_attack_73x38_35
+  - first:
+      213: 4320018087271745541
+    second: sword-roundelShield_attack_73x38_36
+  - first:
+      213: 6023685650428427828
+    second: sword-roundelShield_attack_73x38_37
+  - first:
+      213: -1751456300887825642
+    second: sword-roundelShield_attack_73x38_38
+  - first:
+      213: -4273456659366388056
+    second: sword-roundelShield_attack_73x38_39
+  - first:
+      213: -8773188751281229973
+    second: sword-roundelShield_attack_73x38_40
+  - first:
+      213: -3434941769504837957
+    second: sword-roundelShield_attack_73x38_41
+  - first:
+      213: -2479382410478167276
+    second: sword-roundelShield_attack_73x38_42
+  - first:
+      213: 8886688396588963399
+    second: sword-roundelShield_attack_73x38_43
+  - first:
+      213: 3128835241272163830
+    second: sword-roundelShield_attack_73x38_44
+  - first:
+      213: -771085247713252350
+    second: sword-roundelShield_attack_73x38_45
+  - first:
+      213: 7132934505755309917
+    second: sword-roundelShield_attack_73x38_46
+  - first:
+      213: 608082707605501123
+    second: sword-roundelShield_attack_73x38_47
+  - first:
+      213: 8455211758782584306
+    second: sword-roundelShield_attack_73x38_48
+  - first:
+      213: -4564881880163252548
+    second: sword-roundelShield_attack_73x38_49
+  - first:
+      213: 8003886571829480163
+    second: sword-roundelShield_attack_73x38_50
+  - first:
+      213: 731307170635413525
+    second: sword-roundelShield_attack_73x38_51
+  - first:
+      213: -896399086482734032
+    second: sword-roundelShield_attack_73x38_52
+  - first:
+      213: -1308087908605778476
+    second: sword-roundelShield_attack_73x38_53
+  - first:
+      213: -8137867875976763393
+    second: sword-roundelShield_attack_73x38_54
+  - first:
+      213: 7618719974792204534
+    second: sword-roundelShield_attack_73x38_55
+  - first:
+      213: 2047319455576579067
+    second: sword-roundelShield_attack_73x38_56
+  - first:
+      213: 405849233128575968
+    second: sword-roundelShield_attack_73x38_57
+  - first:
+      213: 4373162179501902279
+    second: sword-roundelShield_attack_73x38_58
+  - first:
+      213: -4539372693317264354
+    second: sword-roundelShield_attack_73x38_59
+  - first:
+      213: 5043576316051717271
+    second: sword-roundelShield_attack_73x38_60
+  - first:
+      213: -3672800183434738893
+    second: sword-roundelShield_attack_73x38_61
+  - first:
+      213: -2377621631116768948
+    second: sword-roundelShield_attack_73x38_62
+  - first:
+      213: 4457924765139028346
+    second: sword-roundelShield_attack_73x38_63
+  - first:
+      213: -5195625524785102913
+    second: sword-roundelShield_attack_73x38_64
+  - first:
+      213: -3979345609442703784
+    second: sword-roundelShield_attack_73x38_65
+  - first:
+      213: -7426133647500900196
+    second: sword-roundelShield_attack_73x38_66
+  - first:
+      213: 4115491908697625906
+    second: sword-roundelShield_attack_73x38_67
+  - first:
+      213: 6772210903361581192
+    second: sword-roundelShield_attack_73x38_68
+  - first:
+      213: 3877224242513259824
+    second: sword-roundelShield_attack_73x38_69
+  - first:
+      213: 5186226855825879275
+    second: sword-roundelShield_attack_73x38_70
+  - first:
+      213: 4610326683227116603
+    second: sword-roundelShield_attack_73x38_71
+  - first:
+      213: 2652376335926652549
+    second: sword-roundelShield_attack_73x38_72
+  - first:
+      213: 735052058824459286
+    second: sword-roundelShield_attack_73x38_73
+  - first:
+      213: 3504541813473914084
+    second: sword-roundelShield_attack_73x38_74
+  - first:
+      213: -2106789477626898137
+    second: sword-roundelShield_attack_73x38_75
+  - first:
+      213: 2429583052861565487
+    second: sword-roundelShield_attack_73x38_76
+  - first:
+      213: -9170150371838072207
+    second: sword-roundelShield_attack_73x38_77
+  - first:
+      213: -3052517142565032052
+    second: sword-roundelShield_attack_73x38_78
+  - first:
+      213: -5382123361888794881
+    second: sword-roundelShield_attack_73x38_79
+  - first:
+      213: -4851293714847179078
+    second: sword-roundelShield_attack_73x38_80
+  - first:
+      213: -5780250302820532518
+    second: sword-roundelShield_attack_73x38_81
+  - first:
+      213: -5747916743850215316
+    second: sword-roundelShield_attack_73x38_82
+  - first:
+      213: 247785016107866360
+    second: sword-roundelShield_attack_73x38_83
+  - first:
+      213: -5964562514915776420
+    second: sword-roundelShield_attack_73x38_84
+  - first:
+      213: -3938440500899929068
+    second: sword-roundelShield_attack_73x38_85
+  - first:
+      213: 5756311469457038417
+    second: sword-roundelShield_attack_73x38_86
+  - first:
+      213: 1026356523699381189
+    second: sword-roundelShield_attack_73x38_87
+  - first:
+      213: 3440768061311093982
+    second: sword-roundelShield_attack_73x38_88
+  - first:
+      213: 5108839536826031093
+    second: sword-roundelShield_attack_73x38_89
+  - first:
+      213: -1914907429353578141
+    second: sword-roundelShield_attack_73x38_90
+  - first:
+      213: -138408696506517941
+    second: sword-roundelShield_attack_73x38_91
+  - first:
+      213: 6959945951964693062
+    second: sword-roundelShield_attack_73x38_92
+  - first:
+      213: -795813486013784321
+    second: sword-roundelShield_attack_73x38_93
+  - first:
+      213: 3485186575689583328
+    second: sword-roundelShield_attack_73x38_94
+  - first:
+      213: 4250076715258212549
+    second: sword-roundelShield_attack_73x38_95
+  - first:
+      213: -5607448474567070876
+    second: sword-roundelShield_attack_73x38_96
+  - first:
+      213: -6351247241581767619
+    second: sword-roundelShield_attack_73x38_97
+  - first:
+      213: -3956145362543700553
+    second: sword-roundelShield_attack_73x38_98
+  - first:
+      213: -8399369966088479598
+    second: sword-roundelShield_attack_73x38_99
+  - first:
+      213: 6209669941172539997
+    second: sword-roundelShield_attack_73x38_100
+  - first:
+      213: 5972845043208589315
+    second: sword-roundelShield_attack_73x38_101
+  - first:
+      213: 3223771517474787546
+    second: sword-roundelShield_attack_73x38_102
+  - first:
+      213: 3350606224546245465
+    second: sword-roundelShield_attack_73x38_103
+  - first:
+      213: 5673534458418794034
+    second: sword-roundelShield_attack_73x38_104
+  - first:
+      213: 1135626600051218351
+    second: sword-roundelShield_attack_73x38_105
+  - first:
+      213: 5011600611894712421
+    second: sword-roundelShield_attack_73x38_106
+  - first:
+      213: -3081564559894813321
+    second: sword-roundelShield_attack_73x38_107
+  - first:
+      213: 6308352880490606210
+    second: sword-roundelShield_attack_73x38_108
+  - first:
+      213: 1915404709956839266
+    second: sword-roundelShield_attack_73x38_109
+  - first:
+      213: -4129159069786726981
+    second: sword-roundelShield_attack_73x38_110
+  - first:
+      213: 3972267516048473700
+    second: sword-roundelShield_attack_73x38_111
+  - first:
+      213: -7635325655297971074
+    second: sword-roundelShield_attack_73x38_112
+  - first:
+      213: -1361172963681177543
+    second: sword-roundelShield_attack_73x38_113
+  - first:
+      213: -3662750643352401093
+    second: sword-roundelShield_attack_73x38_114
+  - first:
+      213: 4154936918509407577
+    second: sword-roundelShield_attack_73x38_115
+  - first:
+      213: 6447749953058730078
+    second: sword-roundelShield_attack_73x38_116
+  - first:
+      213: 3732862743810260718
+    second: sword-roundelShield_attack_73x38_117
+  - first:
+      213: 2151763800382360237
+    second: sword-roundelShield_attack_73x38_118
+  - first:
+      213: 4977106512738664135
+    second: sword-roundelShield_attack_73x38_119
+  - first:
+      213: 4789426610870035439
+    second: sword-roundelShield_attack_73x38_120
+  - first:
+      213: 8874475248923094596
+    second: sword-roundelShield_attack_73x38_121
+  - first:
+      213: 217264375391272533
+    second: sword-roundelShield_attack_73x38_122
+  - first:
+      213: -2488248821012639210
+    second: sword-roundelShield_attack_73x38_123
+  - first:
+      213: 6672841505896710114
+    second: sword-roundelShield_attack_73x38_124
+  - first:
+      213: 5075298678812483753
+    second: sword-roundelShield_attack_73x38_125
+  - first:
+      213: -4261301086081665253
+    second: sword-roundelShield_attack_73x38_126
+  - first:
+      213: -1013720755368550362
+    second: sword-roundelShield_attack_73x38_127
+  - first:
+      213: 7194121915053641469
+    second: sword-roundelShield_attack_73x38_128
+  - first:
+      213: -6338739411956963640
+    second: sword-roundelShield_attack_73x38_129
+  - first:
+      213: -2022810015923744690
+    second: sword-roundelShield_attack_73x38_130
+  - first:
+      213: -1838091583532450138
+    second: sword-roundelShield_attack_73x38_131
+  - first:
+      213: -5485721433322187565
+    second: sword-roundelShield_attack_73x38_132
+  - first:
+      213: -6359105174296764810
+    second: sword-roundelShield_attack_73x38_133
+  - first:
+      213: 564751508269340978
+    second: sword-roundelShield_attack_73x38_134
+  - first:
+      213: 236964525477626285
+    second: sword-roundelShield_attack_73x38_135
+  - first:
+      213: -4387194710395148247
+    second: sword-roundelShield_attack_73x38_136
+  - first:
+      213: -579448324639962566
+    second: sword-roundelShield_attack_73x38_137
+  - first:
+      213: -555197670801834267
+    second: sword-roundelShield_attack_73x38_138
+  - first:
+      213: -5746404512771344765
+    second: sword-roundelShield_attack_73x38_139
+  - first:
+      213: 2650254759158016804
+    second: sword-roundelShield_attack_73x38_140
+  - first:
+      213: -1828499818145235132
+    second: sword-roundelShield_attack_73x38_141
+  - first:
+      213: -3042136268349723057
+    second: sword-roundelShield_attack_73x38_142
+  - first:
+      213: -7280212384148898787
+    second: sword-roundelShield_attack_73x38_143
+  - first:
+      213: 6013385611324152245
+    second: sword-roundelShield_attack_73x38_144
+  - first:
+      213: -4872790092127400837
+    second: sword-roundelShield_attack_73x38_145
+  - first:
+      213: -1915498991384029173
+    second: sword-roundelShield_attack_73x38_146
+  - first:
+      213: -3480809577895296453
+    second: sword-roundelShield_attack_73x38_147
+  - first:
+      213: 4283625839044047557
+    second: sword-roundelShield_attack_73x38_148
+  - first:
+      213: 8207919857580593584
+    second: sword-roundelShield_attack_73x38_149
+  - first:
+      213: -4234014404571994590
+    second: sword-roundelShield_attack_73x38_150
+  - first:
+      213: -5687949553716010847
+    second: sword-roundelShield_attack_73x38_151
+  - first:
+      213: -2705245807114535517
+    second: sword-roundelShield_attack_73x38_152
+  - first:
+      213: -2565551759662243341
+    second: sword-roundelShield_attack_73x38_153
+  - first:
+      213: 6903505165611464459
+    second: sword-roundelShield_attack_73x38_154
+  - first:
+      213: 56445666787936263
+    second: sword-roundelShield_attack_73x38_155
+  - first:
+      213: 5468164962866211296
+    second: sword-roundelShield_attack_73x38_156
+  - first:
+      213: -3734457029044166948
+    second: sword-roundelShield_attack_73x38_157
+  - first:
+      213: -4655152814593301848
+    second: sword-roundelShield_attack_73x38_158
+  - first:
+      213: 5108814877079876419
+    second: sword-roundelShield_attack_73x38_159
+  - first:
+      213: 9091294449747340952
+    second: sword-roundelShield_attack_73x38_160
+  - first:
+      213: 436663505945093281
+    second: sword-roundelShield_attack_73x38_161
+  - first:
+      213: -8979896172201159343
+    second: sword-roundelShield_attack_73x38_162
+  - first:
+      213: -1994518077145412983
+    second: sword-roundelShield_attack_73x38_163
+  - first:
+      213: -7688121341620902495
+    second: sword-roundelShield_attack_73x38_164
+  - first:
+      213: -41066143622046801
+    second: sword-roundelShield_attack_73x38_165
+  - first:
+      213: 2344838162613496500
+    second: sword-roundelShield_attack_73x38_166
+  - first:
+      213: 8760391808219213082
+    second: sword-roundelShield_attack_73x38_167
+  - first:
+      213: -3018998751522206731
+    second: sword-roundelShield_attack_73x38_168
+  - first:
+      213: 8056499180678442345
+    second: sword-roundelShield_attack_73x38_169
+  - first:
+      213: 7822890688816615979
+    second: sword-roundelShield_attack_73x38_170
+  - first:
+      213: 6852483336380136557
+    second: sword-roundelShield_attack_73x38_171
+  - first:
+      213: 250940072534490045
+    second: sword-roundelShield_attack_73x38_172
+  - first:
+      213: 1414821746264953529
+    second: sword-roundelShield_attack_73x38_173
+  - first:
+      213: 2985005309465606769
+    second: sword-roundelShield_attack_73x38_174
+  - first:
+      213: 3847795100353099039
+    second: sword-roundelShield_attack_73x38_175
+  - first:
+      213: 8227290232548309362
+    second: sword-roundelShield_attack_73x38_176
+  - first:
+      213: -5255977064835652709
+    second: sword-roundelShield_attack_73x38_177
+  - first:
+      213: -4694693046227717288
+    second: sword-roundelShield_attack_73x38_178
+  - first:
+      213: 6332930970446351853
+    second: sword-roundelShield_attack_73x38_179
+  - first:
+      213: -916567281892870593
+    second: sword-roundelShield_attack_73x38_180
+  - first:
+      213: 7397272879660987645
+    second: sword-roundelShield_attack_73x38_181
+  - first:
+      213: 41814909172407146
+    second: sword-roundelShield_attack_73x38_182
+  - first:
+      213: 4790648903810302201
+    second: sword-roundelShield_attack_73x38_183
+  - first:
+      213: 2448503020791497174
+    second: sword-roundelShield_attack_73x38_184
+  - first:
+      213: 4059688642527668018
+    second: sword-roundelShield_attack_73x38_185
+  - first:
+      213: 6467632079347905230
+    second: sword-roundelShield_attack_73x38_186
+  - first:
+      213: 2335594843374566013
+    second: sword-roundelShield_attack_73x38_187
+  - first:
+      213: -5969601313965804974
+    second: sword-roundelShield_attack_73x38_188
+  - first:
+      213: -9151726248081863497
+    second: sword-roundelShield_attack_73x38_189
+  - first:
+      213: 5021566589282130496
+    second: sword-roundelShield_attack_73x38_190
+  - first:
+      213: -845959965008063980
+    second: sword-roundelShield_attack_73x38_191
+  - first:
+      213: 2573654063610654568
+    second: sword-roundelShield_attack_73x38_192
+  - first:
+      213: 259547299390096722
+    second: sword-roundelShield_attack_73x38_193
+  - first:
+      213: -2354658215422171843
+    second: sword-roundelShield_attack_73x38_194
+  - first:
+      213: 815022984443405408
+    second: sword-roundelShield_attack_73x38_195
+  - first:
+      213: 5409232836448053011
+    second: sword-roundelShield_attack_73x38_196
+  - first:
+      213: -3509172222403309721
+    second: sword-roundelShield_attack_73x38_197
+  - first:
+      213: 4989656229248103833
+    second: sword-roundelShield_attack_73x38_198
+  - first:
+      213: -1232296259110364363
+    second: sword-roundelShield_attack_73x38_199
+  - first:
+      213: -4014990337800093078
+    second: sword-roundelShield_attack_73x38_200
+  - first:
+      213: -4946631946027074411
+    second: sword-roundelShield_attack_73x38_201
+  - first:
+      213: -5509043098857201269
+    second: sword-roundelShield_attack_73x38_202
+  - first:
+      213: 5226717898486449381
+    second: sword-roundelShield_attack_73x38_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a26610eed465df0800000000000000
+      internalID: -191880249495639447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f321b2f7033e150800000000000000
+      internalID: 5900613259527077685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d256f8b0c2d67ba0800000000000000
+      internalID: -6091449720793312556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fad52ba897e5c10800000000000000
+      internalID: 2044204917477715870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2972b76ef405660800000000000000
+      internalID: 7372480441332765373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad97e6fe058f6190800000000000000
+      internalID: -7967002916476707417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087c14c0f85f646d0800000000000000
+      internalID: -3006445706488461440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c1cdc12e6c9b7b0800000000000000
+      internalID: -5207912819628172186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485e1465453d2cf80800000000000000
+      internalID: -8087669621626116732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c51d81911a1bd60800000000000000
+      internalID: 7904275950174559279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600a632f5f3c47ba0800000000000000
+      internalID: -6092028934827368442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a1a75ec8bf40ac0800000000000000
+      internalID: -3889707595577288097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5aa8b004ebe58c0800000000000000
+      internalID: -4008557436032342554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203ef9dd9bfbb4350800000000000000
+      internalID: 6002101733409415938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974582c514e1c2d0800000000000000
+      internalID: -3260073873130567780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c00d36313f7ea4e0800000000000000
+      internalID: -1968496137774235454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2863709cd12e6b960800000000000000
+      internalID: 7617524437298394754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf2637a0c5634ce0800000000000000
+      internalID: -1422181179205472318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d2cdb3449e80060800000000000000
+      internalID: 6920037306726100251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c739263f6ae328b10800000000000000
+      internalID: 1982215672765256572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f923e310c2fbbc970800000000000000
+      internalID: 8776318494581863071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_21
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a3a20376c27ac70800000000000000
+      internalID: 8982196803515070989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da5cbbc2bf8d7e50800000000000000
+      internalID: 6808756209739127513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebcfa16ceafb6620800000000000000
+      internalID: 2768582289107438570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c33b64b62e20ca0800000000000000
+      internalID: -6052025998856995825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d966d56136a03350800000000000000
+      internalID: 5994473835122289108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f254148ed5b31c4a0800000000000000
+      internalID: -6574908706469624529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ff555fa392db6a0800000000000000
+      internalID: -6431939359614304379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85cf210976301450800000000000000
+      internalID: 6057401392152167818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d3f0c5ecc481370800000000000000
+      internalID: 8293463162994244898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2b36b2774db4280800000000000000
+      internalID: -9057912617231469916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf96d0cb39d3060800000000000000
+      internalID: 6934861437108616154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06887ac71f6c0ee30800000000000000
+      internalID: 4530839965615491168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_33
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28899a3fd8b73100800000000000000
+      internalID: 87741986657372205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78ca5cf3fe1ea30800000000000000
+      internalID: 4242935381138114544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b38997379102d40800000000000000
+      internalID: 5557469923927145294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508481bdf89c3fb30800000000000000
+      internalID: 4320018087271745541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e77682f2e689350800000000000000
+      internalID: 6023685650428427828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61326f126c391b7e0800000000000000
+      internalID: -1751456300887825642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae507f5fc1a1b4c0800000000000000
+      internalID: -4273456659366388056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fed64205f5f3680800000000000000
+      internalID: -8773188751281229973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_41
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe2384e8a2a450d0800000000000000
+      internalID: -3434941769504837957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bd81185d6779dd0800000000000000
+      internalID: -2479382410478167276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_43
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7465544530cd35b70800000000000000
+      internalID: 8886688396588963399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd30cc131bdb6b20800000000000000
+      internalID: 3128835241272163830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce1867d0e8c45f0800000000000000
+      internalID: -771085247713252350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57fbad14264df260800000000000000
+      internalID: 7132934505755309917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c432e43008507800800000000000000
+      internalID: 608082707605501123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f511f60c42f65570800000000000000
+      internalID: 8455211758782584306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_49
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb68043ad1846a0c0800000000000000
+      internalID: -4564881880163252548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_50
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea4a604e64831f60800000000000000
+      internalID: 8003886571829480163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_51
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187b6f3fff162a00800000000000000
+      internalID: 731307170635413525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0344639b7c95f83f0800000000000000
+      internalID: -896399086482734032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_53
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5a1984afcb8dde0800000000000000
+      internalID: -1308087908605778476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_54
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7a757784c701f80800000000000000
+      internalID: -8137867875976763393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_55
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f099ac83712bb960800000000000000
+      internalID: 7618719974792204534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_56
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb536b923a896c10800000000000000
+      internalID: 2047319455576579067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_57
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e35efc2abdd1a500800000000000000
+      internalID: 405849233128575968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9426e05d790bc30800000000000000
+      internalID: 4373162179501902279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c57b70698e001c0800000000000000
+      internalID: -4539372693317264354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf5dbffe16ef540800000000000000
+      internalID: 5043576316051717271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333026741b7970dc0800000000000000
+      internalID: -3672800183434738893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49000349bdf00fd0800000000000000
+      internalID: -2377621631116768948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_63
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79478d64fabddd30800000000000000
+      internalID: 4457924765139028346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_64
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf3b31ec1e65e7b0800000000000000
+      internalID: -5195625524785102913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85648ae604686c8c0800000000000000
+      internalID: -3979345609442703784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_66
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98022efac211f890800000000000000
+      internalID: -7426133647500900196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_67
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359aed061a2d1930800000000000000
+      internalID: 4115491908697625906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880f4e69fe9bbfd50800000000000000
+      internalID: 6772210903361581192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2989f7eaaec530800000000000000
+      internalID: 3877224242513259824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b71af8dd29f740800000000000000
+      internalID: 5186226855825879275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_71
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d14c11bb2bff30800000000000000
+      internalID: 4610326683227116603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_72
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e6f8189322fc420800000000000000
+      internalID: 2652376335926652549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_73
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614c6a9f3fd633a00800000000000000
+      internalID: 735052058824459286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_74
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecad942632a2a030800000000000000
+      internalID: 3504541813473914084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_75
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7299481e12e23c2e0800000000000000
+      internalID: -2106789477626898137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_76
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a6f120aec97b120800000000000000
+      internalID: 2429583052861565487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_77
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aeca582d41db080800000000000000
+      internalID: -9170150371838072207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fee9ee4d743a5d0800000000000000
+      internalID: -3052517142565032052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_79
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6894d615bde45b0800000000000000
+      internalID: -5382123361888794881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed271d11ebcacb0800000000000000
+      internalID: -4851293714847179078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_81
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb98389fc68cfa0800000000000000
+      internalID: -5780250302820532518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_82
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68b94cdc2c4b30b0800000000000000
+      internalID: -5747916743850215316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_83
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f816c9c82f407300800000000000000
+      internalID: 247785016107866360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_84
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a5d98efd993da0800000000000000
+      internalID: -5964562514915776420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_85
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41429de2b39d759c0800000000000000
+      internalID: -3938440500899929068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_86
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c5e7188c682ef40800000000000000
+      internalID: 5756311469457038417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_87
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3a10802d95e3e00800000000000000
+      internalID: 1026356523699381189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_88
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc05f0625010cf20800000000000000
+      internalID: 3440768061311093982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_89
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9cfead7e36e640800000000000000
+      internalID: 5108839536826031093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_90
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361af9fa6d1ec65e0800000000000000
+      internalID: -1914907429353578141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_91
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4677ea1606441ef0800000000000000
+      internalID: -138408696506517941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64206cac7f1b69060800000000000000
+      internalID: 6959945951964693062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_93
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffedea2d9d3b4f4f0800000000000000
+      internalID: -795813486013784321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea00fba9bedd5030800000000000000
+      internalID: 3485186575689583328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0ff11314e4bfa30800000000000000
+      internalID: 4250076715258212549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_96
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46baf1962575e22b0800000000000000
+      internalID: -5607448474567070876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_97
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34d6dcb846dbd7a0800000000000000
+      internalID: -6351247241581767619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b516c9d0c2f819c0800000000000000
+      internalID: -3956145362543700553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_99
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c163284817f6b80800000000000000
+      internalID: -8399369966088479598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_100
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52920849ed2d2650800000000000000
+      internalID: 6209669941172539997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_101
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30096eadbeec3e250800000000000000
+      internalID: 5972845043208589315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05b186d132dbc20800000000000000
+      internalID: 3223771517474787546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_103
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95baa44eb9ebf7e20800000000000000
+      internalID: 3350606224546245465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e8dfeb7817cbe40800000000000000
+      internalID: 5673534458418794034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_105
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7998d306e82cf00800000000000000
+      internalID: 1135626600051218351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5685d143438cc8540800000000000000
+      internalID: 5011600611894712421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_107
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775690f0c551c35d0800000000000000
+      internalID: -3081564559894813321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_108
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e647f8585cb8750800000000000000
+      internalID: 6308352880490606210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_109
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267661a7f62e49a10800000000000000
+      internalID: 1915404709956839266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_110
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd974804b742b6c0800000000000000
+      internalID: -4129159069786726981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_111
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e74e68244502730800000000000000
+      internalID: 3972267516048473700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ca98b25cfd90690800000000000000
+      internalID: -7635325655297971074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_113
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930faedb6642c1de0800000000000000
+      internalID: -1361172963681177543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b852a22bb4b2dc0800000000000000
+      internalID: -3662750643352401093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_115
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc8e31d1d49a930800000000000000
+      internalID: 4154936918509407577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_116
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e507b90bb620b7950800000000000000
+      internalID: 6447749953058730078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_117
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeeb91053eacdc330800000000000000
+      internalID: 3732862743810260718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_118
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daac552a6c99cdd10800000000000000
+      internalID: 2151763800382360237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_119
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce3215e00c321540800000000000000
+      internalID: 4977106512738664135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_120
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe326ba8026777240800000000000000
+      internalID: 4789426610870035439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_121
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eae0c4838782b70800000000000000
+      internalID: 8874475248923094596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_122
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e3b8d5cc0e30300800000000000000
+      internalID: 217264375391272533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_123
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612d1ce61e6f77dd0800000000000000
+      internalID: -2488248821012639210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_124
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb471def1ba9c50800000000000000
+      internalID: 6672841505896710114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_125
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0a0af12451f6640800000000000000
+      internalID: 5075298678812483753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17bd135d31dcd4c0800000000000000
+      internalID: -4261301086081665253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_127
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62021da085a8ee1f0800000000000000
+      internalID: -1013720755368550362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_128
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe00a104c7a6d360800000000000000
+      internalID: 7194121915053641469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_129
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c66982c6164808a0800000000000000
+      internalID: -6338739411956963640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_130
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4053c002098de3e0800000000000000
+      internalID: -2022810015923744690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_131
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb9e28179cd76e0800000000000000
+      internalID: -1838091583532450138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_132
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d49516cb6dced3b0800000000000000
+      internalID: -5485721433322187565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_133
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e51b4398befb7a0800000000000000
+      internalID: -6359105174296764810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23992cc218666d700800000000000000
+      internalID: 564751508269340978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_135
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1867dfafdd94300800000000000000
+      internalID: 236964525477626285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928ac6eb7ad8d13c0800000000000000
+      internalID: -4387194710395148247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ac32c91d265f7f0800000000000000
+      internalID: -579448324639962566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_138
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee7bb3f8aa8b48f0800000000000000
+      internalID: -555197670801834267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_139
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386ff889a8ba040b0800000000000000
+      internalID: -5746404512771344765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_140
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42be6eb69a897c420800000000000000
+      internalID: 2650254759158016804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f369b6a1ddf96e0800000000000000
+      internalID: -1828499818145235132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_142
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eaeae8e2928c5d0800000000000000
+      internalID: -3042136268349723057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_143
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb769a86d77fa90800000000000000
+      internalID: -7280212384148898787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_144
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9db6c6a56d37350800000000000000
+      internalID: 6013385611324152245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_145
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c04b57a3f506cb0800000000000000
+      internalID: -4872790092127400837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b089feae0d7ca65e0800000000000000
+      internalID: -1915498991384029173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3206ca812ea1bfc0800000000000000
+      internalID: -3480809577895296453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2b7e6410f727b30800000000000000
+      internalID: 4283625839044047557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_149
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b157ff7f9368e170800000000000000
+      internalID: 8207919857580593584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_150
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2266991f452cd35c0800000000000000
+      internalID: -4234014404571994590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_151
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a06a6654085011b0800000000000000
+      internalID: -5687949553716010847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_152
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adb2dc7549057ad0800000000000000
+      internalID: -2705245807114535517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_153
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f124787444556cd0800000000000000
+      internalID: -2565551759662243341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_154
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07785d2f5d2ecf50800000000000000
+      internalID: 6903505165611464459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_155
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708410ee80988c000800000000000000
+      internalID: 56445666787936263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_156
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a0e8ef03d2eb40800000000000000
+      internalID: 5468164962866211296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_157
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde9cda3e1b8c2cc0800000000000000
+      internalID: -3734457029044166948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_158
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a10fdd23956fb0800000000000000
+      internalID: -4655152814593301848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_159
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b393201826e640800000000000000
+      internalID: 5108814877079876419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eaba16224ca2e70800000000000000
+      internalID: 9091294449747340952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4eb3625275f0600800000000000000
+      internalID: 436663505945093281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_162
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1555f084200016380800000000000000
+      internalID: -8979896172201159343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_163
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a07a1506c0254e0800000000000000
+      internalID: -1994518077145412983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_164
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5269a8f5e4e4590800000000000000
+      internalID: -7688121341620902495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_165
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabdc195f8a1e6ff0800000000000000
+      internalID: -41066143622046801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_166
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba6b5aa2e98a8020800000000000000
+      internalID: 2344838162613496500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_167
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de52e5fe9239970800000000000000
+      internalID: 8760391808219213082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_168
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbcb2e71ac5a16d0800000000000000
+      internalID: -3018998751522206731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6095d15f6ecf60800000000000000
+      internalID: 8056499180678442345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2210af42ad709c60800000000000000
+      internalID: 7822890688816615979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_171
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb836d949e81f50800000000000000
+      internalID: 6852483336380136557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_172
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb345b9aa48b7300800000000000000
+      internalID: 250940072534490045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_173
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2de96d1e472a310800000000000000
+      internalID: 1414821746264953529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_174
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a3a53838edc6920800000000000000
+      internalID: 2985005309465606769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_175
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15f80dd14d166530800000000000000
+      internalID: 3847795100353099039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_176
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279351f50e43d2270800000000000000
+      internalID: 8227290232548309362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_177
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93eed6f4b40f07b0800000000000000
+      internalID: -5255977064835652709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_178
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853b91a4c8919deb0800000000000000
+      internalID: -4694693046227717288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_179
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded46801a2713e750800000000000000
+      internalID: 6332930970446351853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b70ec9e2b743f0800000000000000
+      internalID: -916567281892870593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_181
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4f2dadd7468a660800000000000000
+      internalID: 7397272879660987645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_182
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b5987307e849000800000000000000
+      internalID: 41814909172407146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_183
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f04a3bcbcdcb7240800000000000000
+      internalID: 4790648903810302201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_184
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d18fb15684daf120800000000000000
+      internalID: 2448503020791497174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237ac8caf49e65830800000000000000
+      internalID: 4059688642527668018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_186
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2f373fb15a1c950800000000000000
+      internalID: 6467632079347905230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_187
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a3392b223b96020800000000000000
+      internalID: 2335594843374566013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_188
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252fc56bb37b72da0800000000000000
+      internalID: -5969601313965804974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_189
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc467d17798ef080800000000000000
+      internalID: -9151726248081863497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_190
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a9122253030b540800000000000000
+      internalID: 5021566589282130496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_191
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4121e77d4eb8244f0800000000000000
+      internalID: -845959965008063980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_192
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fe04c2cb477b320800000000000000
+      internalID: 2573654063610654568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_193
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2550f86c4e81a9300800000000000000
+      internalID: 259547299390096722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d356e4e14d2925fd0800000000000000
+      internalID: -2354658215422171843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_195
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064278f061b8f4b00800000000000000
+      internalID: 815022984443405408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_196
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3176ddbfa94711b40800000000000000
+      internalID: 5409232836448053011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_197
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f8bf3c47aec4fc0800000000000000
+      internalID: -3509172222403309721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_198
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995f5a777e1de3540800000000000000
+      internalID: 4989656229248103833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_199
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b1fa1d41106eee0800000000000000
+      internalID: -1232296259110364363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_200
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62ccc26f83e748c0800000000000000
+      internalID: -4014990337800093078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_201
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cf47614780a5bb0800000000000000
+      internalID: -4946631946027074411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_202
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81ac406d72fb83b0800000000000000
+      internalID: -5509043098857201269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-roundelShield_attack_73x38_203
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e406708c38098840800000000000000
+      internalID: 5226717898486449381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sword-roundelShield_attack_73x38_0: -191880249495639447
+      sword-roundelShield_attack_73x38_1: 5900613259527077685
+      sword-roundelShield_attack_73x38_10: -6092028934827368442
+      sword-roundelShield_attack_73x38_100: 6209669941172539997
+      sword-roundelShield_attack_73x38_101: 5972845043208589315
+      sword-roundelShield_attack_73x38_102: 3223771517474787546
+      sword-roundelShield_attack_73x38_103: 3350606224546245465
+      sword-roundelShield_attack_73x38_104: 5673534458418794034
+      sword-roundelShield_attack_73x38_105: 1135626600051218351
+      sword-roundelShield_attack_73x38_106: 5011600611894712421
+      sword-roundelShield_attack_73x38_107: -3081564559894813321
+      sword-roundelShield_attack_73x38_108: 6308352880490606210
+      sword-roundelShield_attack_73x38_109: 1915404709956839266
+      sword-roundelShield_attack_73x38_11: -3889707595577288097
+      sword-roundelShield_attack_73x38_110: -4129159069786726981
+      sword-roundelShield_attack_73x38_111: 3972267516048473700
+      sword-roundelShield_attack_73x38_112: -7635325655297971074
+      sword-roundelShield_attack_73x38_113: -1361172963681177543
+      sword-roundelShield_attack_73x38_114: -3662750643352401093
+      sword-roundelShield_attack_73x38_115: 4154936918509407577
+      sword-roundelShield_attack_73x38_116: 6447749953058730078
+      sword-roundelShield_attack_73x38_117: 3732862743810260718
+      sword-roundelShield_attack_73x38_118: 2151763800382360237
+      sword-roundelShield_attack_73x38_119: 4977106512738664135
+      sword-roundelShield_attack_73x38_12: -4008557436032342554
+      sword-roundelShield_attack_73x38_120: 4789426610870035439
+      sword-roundelShield_attack_73x38_121: 8874475248923094596
+      sword-roundelShield_attack_73x38_122: 217264375391272533
+      sword-roundelShield_attack_73x38_123: -2488248821012639210
+      sword-roundelShield_attack_73x38_124: 6672841505896710114
+      sword-roundelShield_attack_73x38_125: 5075298678812483753
+      sword-roundelShield_attack_73x38_126: -4261301086081665253
+      sword-roundelShield_attack_73x38_127: -1013720755368550362
+      sword-roundelShield_attack_73x38_128: 7194121915053641469
+      sword-roundelShield_attack_73x38_129: -6338739411956963640
+      sword-roundelShield_attack_73x38_13: 6002101733409415938
+      sword-roundelShield_attack_73x38_130: -2022810015923744690
+      sword-roundelShield_attack_73x38_131: -1838091583532450138
+      sword-roundelShield_attack_73x38_132: -5485721433322187565
+      sword-roundelShield_attack_73x38_133: -6359105174296764810
+      sword-roundelShield_attack_73x38_134: 564751508269340978
+      sword-roundelShield_attack_73x38_135: 236964525477626285
+      sword-roundelShield_attack_73x38_136: -4387194710395148247
+      sword-roundelShield_attack_73x38_137: -579448324639962566
+      sword-roundelShield_attack_73x38_138: -555197670801834267
+      sword-roundelShield_attack_73x38_139: -5746404512771344765
+      sword-roundelShield_attack_73x38_14: -3260073873130567780
+      sword-roundelShield_attack_73x38_140: 2650254759158016804
+      sword-roundelShield_attack_73x38_141: -1828499818145235132
+      sword-roundelShield_attack_73x38_142: -3042136268349723057
+      sword-roundelShield_attack_73x38_143: -7280212384148898787
+      sword-roundelShield_attack_73x38_144: 6013385611324152245
+      sword-roundelShield_attack_73x38_145: -4872790092127400837
+      sword-roundelShield_attack_73x38_146: -1915498991384029173
+      sword-roundelShield_attack_73x38_147: -3480809577895296453
+      sword-roundelShield_attack_73x38_148: 4283625839044047557
+      sword-roundelShield_attack_73x38_149: 8207919857580593584
+      sword-roundelShield_attack_73x38_15: -1968496137774235454
+      sword-roundelShield_attack_73x38_150: -4234014404571994590
+      sword-roundelShield_attack_73x38_151: -5687949553716010847
+      sword-roundelShield_attack_73x38_152: -2705245807114535517
+      sword-roundelShield_attack_73x38_153: -2565551759662243341
+      sword-roundelShield_attack_73x38_154: 6903505165611464459
+      sword-roundelShield_attack_73x38_155: 56445666787936263
+      sword-roundelShield_attack_73x38_156: 5468164962866211296
+      sword-roundelShield_attack_73x38_157: -3734457029044166948
+      sword-roundelShield_attack_73x38_158: -4655152814593301848
+      sword-roundelShield_attack_73x38_159: 5108814877079876419
+      sword-roundelShield_attack_73x38_16: 7617524437298394754
+      sword-roundelShield_attack_73x38_160: 9091294449747340952
+      sword-roundelShield_attack_73x38_161: 436663505945093281
+      sword-roundelShield_attack_73x38_162: -8979896172201159343
+      sword-roundelShield_attack_73x38_163: -1994518077145412983
+      sword-roundelShield_attack_73x38_164: -7688121341620902495
+      sword-roundelShield_attack_73x38_165: -41066143622046801
+      sword-roundelShield_attack_73x38_166: 2344838162613496500
+      sword-roundelShield_attack_73x38_167: 8760391808219213082
+      sword-roundelShield_attack_73x38_168: -3018998751522206731
+      sword-roundelShield_attack_73x38_169: 8056499180678442345
+      sword-roundelShield_attack_73x38_17: -1422181179205472318
+      sword-roundelShield_attack_73x38_170: 7822890688816615979
+      sword-roundelShield_attack_73x38_171: 6852483336380136557
+      sword-roundelShield_attack_73x38_172: 250940072534490045
+      sword-roundelShield_attack_73x38_173: 1414821746264953529
+      sword-roundelShield_attack_73x38_174: 2985005309465606769
+      sword-roundelShield_attack_73x38_175: 3847795100353099039
+      sword-roundelShield_attack_73x38_176: 8227290232548309362
+      sword-roundelShield_attack_73x38_177: -5255977064835652709
+      sword-roundelShield_attack_73x38_178: -4694693046227717288
+      sword-roundelShield_attack_73x38_179: 6332930970446351853
+      sword-roundelShield_attack_73x38_18: 6920037306726100251
+      sword-roundelShield_attack_73x38_180: -916567281892870593
+      sword-roundelShield_attack_73x38_181: 7397272879660987645
+      sword-roundelShield_attack_73x38_182: 41814909172407146
+      sword-roundelShield_attack_73x38_183: 4790648903810302201
+      sword-roundelShield_attack_73x38_184: 2448503020791497174
+      sword-roundelShield_attack_73x38_185: 4059688642527668018
+      sword-roundelShield_attack_73x38_186: 6467632079347905230
+      sword-roundelShield_attack_73x38_187: 2335594843374566013
+      sword-roundelShield_attack_73x38_188: -5969601313965804974
+      sword-roundelShield_attack_73x38_189: -9151726248081863497
+      sword-roundelShield_attack_73x38_19: 1982215672765256572
+      sword-roundelShield_attack_73x38_190: 5021566589282130496
+      sword-roundelShield_attack_73x38_191: -845959965008063980
+      sword-roundelShield_attack_73x38_192: 2573654063610654568
+      sword-roundelShield_attack_73x38_193: 259547299390096722
+      sword-roundelShield_attack_73x38_194: -2354658215422171843
+      sword-roundelShield_attack_73x38_195: 815022984443405408
+      sword-roundelShield_attack_73x38_196: 5409232836448053011
+      sword-roundelShield_attack_73x38_197: -3509172222403309721
+      sword-roundelShield_attack_73x38_198: 4989656229248103833
+      sword-roundelShield_attack_73x38_199: -1232296259110364363
+      sword-roundelShield_attack_73x38_2: -6091449720793312556
+      sword-roundelShield_attack_73x38_20: 8776318494581863071
+      sword-roundelShield_attack_73x38_200: -4014990337800093078
+      sword-roundelShield_attack_73x38_201: -4946631946027074411
+      sword-roundelShield_attack_73x38_202: -5509043098857201269
+      sword-roundelShield_attack_73x38_203: 5226717898486449381
+      sword-roundelShield_attack_73x38_21: 8982196803515070989
+      sword-roundelShield_attack_73x38_22: 6808756209739127513
+      sword-roundelShield_attack_73x38_23: 2768582289107438570
+      sword-roundelShield_attack_73x38_24: -6052025998856995825
+      sword-roundelShield_attack_73x38_25: 5994473835122289108
+      sword-roundelShield_attack_73x38_26: -6574908706469624529
+      sword-roundelShield_attack_73x38_27: -6431939359614304379
+      sword-roundelShield_attack_73x38_28: 6057401392152167818
+      sword-roundelShield_attack_73x38_29: 8293463162994244898
+      sword-roundelShield_attack_73x38_3: 2044204917477715870
+      sword-roundelShield_attack_73x38_30: -9057912617231469916
+      sword-roundelShield_attack_73x38_31: 6934861437108616154
+      sword-roundelShield_attack_73x38_32: 4530839965615491168
+      sword-roundelShield_attack_73x38_33: 87741986657372205
+      sword-roundelShield_attack_73x38_34: 4242935381138114544
+      sword-roundelShield_attack_73x38_35: 5557469923927145294
+      sword-roundelShield_attack_73x38_36: 4320018087271745541
+      sword-roundelShield_attack_73x38_37: 6023685650428427828
+      sword-roundelShield_attack_73x38_38: -1751456300887825642
+      sword-roundelShield_attack_73x38_39: -4273456659366388056
+      sword-roundelShield_attack_73x38_4: 7372480441332765373
+      sword-roundelShield_attack_73x38_40: -8773188751281229973
+      sword-roundelShield_attack_73x38_41: -3434941769504837957
+      sword-roundelShield_attack_73x38_42: -2479382410478167276
+      sword-roundelShield_attack_73x38_43: 8886688396588963399
+      sword-roundelShield_attack_73x38_44: 3128835241272163830
+      sword-roundelShield_attack_73x38_45: -771085247713252350
+      sword-roundelShield_attack_73x38_46: 7132934505755309917
+      sword-roundelShield_attack_73x38_47: 608082707605501123
+      sword-roundelShield_attack_73x38_48: 8455211758782584306
+      sword-roundelShield_attack_73x38_49: -4564881880163252548
+      sword-roundelShield_attack_73x38_5: -7967002916476707417
+      sword-roundelShield_attack_73x38_50: 8003886571829480163
+      sword-roundelShield_attack_73x38_51: 731307170635413525
+      sword-roundelShield_attack_73x38_52: -896399086482734032
+      sword-roundelShield_attack_73x38_53: -1308087908605778476
+      sword-roundelShield_attack_73x38_54: -8137867875976763393
+      sword-roundelShield_attack_73x38_55: 7618719974792204534
+      sword-roundelShield_attack_73x38_56: 2047319455576579067
+      sword-roundelShield_attack_73x38_57: 405849233128575968
+      sword-roundelShield_attack_73x38_58: 4373162179501902279
+      sword-roundelShield_attack_73x38_59: -4539372693317264354
+      sword-roundelShield_attack_73x38_6: -3006445706488461440
+      sword-roundelShield_attack_73x38_60: 5043576316051717271
+      sword-roundelShield_attack_73x38_61: -3672800183434738893
+      sword-roundelShield_attack_73x38_62: -2377621631116768948
+      sword-roundelShield_attack_73x38_63: 4457924765139028346
+      sword-roundelShield_attack_73x38_64: -5195625524785102913
+      sword-roundelShield_attack_73x38_65: -3979345609442703784
+      sword-roundelShield_attack_73x38_66: -7426133647500900196
+      sword-roundelShield_attack_73x38_67: 4115491908697625906
+      sword-roundelShield_attack_73x38_68: 6772210903361581192
+      sword-roundelShield_attack_73x38_69: 3877224242513259824
+      sword-roundelShield_attack_73x38_7: -5207912819628172186
+      sword-roundelShield_attack_73x38_70: 5186226855825879275
+      sword-roundelShield_attack_73x38_71: 4610326683227116603
+      sword-roundelShield_attack_73x38_72: 2652376335926652549
+      sword-roundelShield_attack_73x38_73: 735052058824459286
+      sword-roundelShield_attack_73x38_74: 3504541813473914084
+      sword-roundelShield_attack_73x38_75: -2106789477626898137
+      sword-roundelShield_attack_73x38_76: 2429583052861565487
+      sword-roundelShield_attack_73x38_77: -9170150371838072207
+      sword-roundelShield_attack_73x38_78: -3052517142565032052
+      sword-roundelShield_attack_73x38_79: -5382123361888794881
+      sword-roundelShield_attack_73x38_8: -8087669621626116732
+      sword-roundelShield_attack_73x38_80: -4851293714847179078
+      sword-roundelShield_attack_73x38_81: -5780250302820532518
+      sword-roundelShield_attack_73x38_82: -5747916743850215316
+      sword-roundelShield_attack_73x38_83: 247785016107866360
+      sword-roundelShield_attack_73x38_84: -5964562514915776420
+      sword-roundelShield_attack_73x38_85: -3938440500899929068
+      sword-roundelShield_attack_73x38_86: 5756311469457038417
+      sword-roundelShield_attack_73x38_87: 1026356523699381189
+      sword-roundelShield_attack_73x38_88: 3440768061311093982
+      sword-roundelShield_attack_73x38_89: 5108839536826031093
+      sword-roundelShield_attack_73x38_9: 7904275950174559279
+      sword-roundelShield_attack_73x38_90: -1914907429353578141
+      sword-roundelShield_attack_73x38_91: -138408696506517941
+      sword-roundelShield_attack_73x38_92: 6959945951964693062
+      sword-roundelShield_attack_73x38_93: -795813486013784321
+      sword-roundelShield_attack_73x38_94: 3485186575689583328
+      sword-roundelShield_attack_73x38_95: 4250076715258212549
+      sword-roundelShield_attack_73x38_96: -5607448474567070876
+      sword-roundelShield_attack_73x38_97: -6351247241581767619
+      sword-roundelShield_attack_73x38_98: -3956145362543700553
+      sword-roundelShield_attack_73x38_99: -8399369966088479598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3814 @@
+fileFormatVersion: 2
+guid: 6042a6af33307e04a8f98948b4b56002
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7774941122918265634
+    second: fishing_105x99_0
+  - first:
+      213: 3598747290949084618
+    second: fishing_105x99_1
+  - first:
+      213: 7647217612774997680
+    second: fishing_105x99_2
+  - first:
+      213: 332613926107944160
+    second: fishing_105x99_3
+  - first:
+      213: -3025076172679127649
+    second: fishing_105x99_4
+  - first:
+      213: 7228200634317056266
+    second: fishing_105x99_5
+  - first:
+      213: 75503404136436635
+    second: fishing_105x99_6
+  - first:
+      213: 3293403053717839215
+    second: fishing_105x99_7
+  - first:
+      213: -5265381076913065394
+    second: fishing_105x99_8
+  - first:
+      213: 8003919052856339136
+    second: fishing_105x99_9
+  - first:
+      213: 1307888774049473029
+    second: fishing_105x99_10
+  - first:
+      213: -2039852116673251072
+    second: fishing_105x99_11
+  - first:
+      213: -273192189410609880
+    second: fishing_105x99_12
+  - first:
+      213: -2526317403273241354
+    second: fishing_105x99_13
+  - first:
+      213: -3275663966295237197
+    second: fishing_105x99_14
+  - first:
+      213: -4821418328619110142
+    second: fishing_105x99_15
+  - first:
+      213: -9066371229097928661
+    second: fishing_105x99_16
+  - first:
+      213: 5230428861456267857
+    second: fishing_105x99_17
+  - first:
+      213: 5293352598721365685
+    second: fishing_105x99_18
+  - first:
+      213: 218497702401986177
+    second: fishing_105x99_19
+  - first:
+      213: -2838446130357743152
+    second: fishing_105x99_20
+  - first:
+      213: 1086618324481136388
+    second: fishing_105x99_21
+  - first:
+      213: -1844995565005885791
+    second: fishing_105x99_22
+  - first:
+      213: -7392983659603850024
+    second: fishing_105x99_23
+  - first:
+      213: -2782986271858454775
+    second: fishing_105x99_24
+  - first:
+      213: -4055846679037075106
+    second: fishing_105x99_25
+  - first:
+      213: 7639228698863450641
+    second: fishing_105x99_26
+  - first:
+      213: 7484425245262937541
+    second: fishing_105x99_27
+  - first:
+      213: -5015074756653487785
+    second: fishing_105x99_28
+  - first:
+      213: -2308684240114924586
+    second: fishing_105x99_29
+  - first:
+      213: 631328659263269248
+    second: fishing_105x99_30
+  - first:
+      213: 7949841253688853113
+    second: fishing_105x99_31
+  - first:
+      213: 4998324911897208679
+    second: fishing_105x99_32
+  - first:
+      213: 907368770946097317
+    second: fishing_105x99_33
+  - first:
+      213: 5293150339714437992
+    second: fishing_105x99_34
+  - first:
+      213: 8036736712029014903
+    second: fishing_105x99_35
+  - first:
+      213: 4625441904249332028
+    second: fishing_105x99_36
+  - first:
+      213: -7049190890838371686
+    second: fishing_105x99_37
+  - first:
+      213: -3929042542594668799
+    second: fishing_105x99_38
+  - first:
+      213: -3403677741742500583
+    second: fishing_105x99_39
+  - first:
+      213: 4837956053594384678
+    second: fishing_105x99_40
+  - first:
+      213: 587931988697475452
+    second: fishing_105x99_41
+  - first:
+      213: -3508625472375150229
+    second: fishing_105x99_42
+  - first:
+      213: -8459391559274890425
+    second: fishing_105x99_43
+  - first:
+      213: 6801983302251613932
+    second: fishing_105x99_44
+  - first:
+      213: 5921206017792244374
+    second: fishing_105x99_45
+  - first:
+      213: 4423852969270449093
+    second: fishing_105x99_46
+  - first:
+      213: -5733724566766823595
+    second: fishing_105x99_47
+  - first:
+      213: -4237335684463175260
+    second: fishing_105x99_48
+  - first:
+      213: -1195795885711305884
+    second: fishing_105x99_49
+  - first:
+      213: 6167423232602702497
+    second: fishing_105x99_50
+  - first:
+      213: -322451606733029205
+    second: fishing_105x99_51
+  - first:
+      213: 763140208694967723
+    second: fishing_105x99_52
+  - first:
+      213: 1453661017603336953
+    second: fishing_105x99_53
+  - first:
+      213: 8403708011180222045
+    second: fishing_105x99_54
+  - first:
+      213: 1971088953384620447
+    second: fishing_105x99_55
+  - first:
+      213: 3304057334981890695
+    second: fishing_105x99_56
+  - first:
+      213: -5651193029775173452
+    second: fishing_105x99_57
+  - first:
+      213: -470489012719119282
+    second: fishing_105x99_58
+  - first:
+      213: -1063998000207207416
+    second: fishing_105x99_59
+  - first:
+      213: 1089919295778142755
+    second: fishing_105x99_60
+  - first:
+      213: -7159040887345704026
+    second: fishing_105x99_61
+  - first:
+      213: -105706396485834936
+    second: fishing_105x99_62
+  - first:
+      213: 1934914368103565053
+    second: fishing_105x99_63
+  - first:
+      213: -6967631327471701697
+    second: fishing_105x99_64
+  - first:
+      213: -1891878389137311206
+    second: fishing_105x99_65
+  - first:
+      213: 3995824044486934316
+    second: fishing_105x99_66
+  - first:
+      213: -3956936620601853789
+    second: fishing_105x99_67
+  - first:
+      213: -7690781953399885692
+    second: fishing_105x99_68
+  - first:
+      213: -3414738836682779398
+    second: fishing_105x99_69
+  - first:
+      213: 2942849382734445355
+    second: fishing_105x99_70
+  - first:
+      213: 2885157955700544846
+    second: fishing_105x99_71
+  - first:
+      213: 3933818526856552861
+    second: fishing_105x99_72
+  - first:
+      213: 5836767529992380662
+    second: fishing_105x99_73
+  - first:
+      213: -2368067227267179911
+    second: fishing_105x99_74
+  - first:
+      213: 1472211907409323784
+    second: fishing_105x99_75
+  - first:
+      213: 2329356191502574379
+    second: fishing_105x99_76
+  - first:
+      213: -1497560313969379567
+    second: fishing_105x99_77
+  - first:
+      213: -8905150132856349482
+    second: fishing_105x99_78
+  - first:
+      213: 8756525682614330345
+    second: fishing_105x99_79
+  - first:
+      213: -7203865207397815622
+    second: fishing_105x99_80
+  - first:
+      213: 5574436028979558777
+    second: fishing_105x99_81
+  - first:
+      213: 6619807623394884827
+    second: fishing_105x99_82
+  - first:
+      213: -9142818059351917066
+    second: fishing_105x99_83
+  - first:
+      213: 1438657642009967059
+    second: fishing_105x99_84
+  - first:
+      213: 8523301226516361802
+    second: fishing_105x99_85
+  - first:
+      213: 5044538960302747374
+    second: fishing_105x99_86
+  - first:
+      213: 6854480212466360488
+    second: fishing_105x99_87
+  - first:
+      213: 5570103117545688933
+    second: fishing_105x99_88
+  - first:
+      213: 5046386908909353763
+    second: fishing_105x99_89
+  - first:
+      213: 6764194930857526481
+    second: fishing_105x99_90
+  - first:
+      213: -1463689061617283707
+    second: fishing_105x99_91
+  - first:
+      213: 5001123422088541478
+    second: fishing_105x99_92
+  - first:
+      213: 1197021548506714842
+    second: fishing_105x99_93
+  - first:
+      213: 5200157920555855236
+    second: fishing_105x99_94
+  - first:
+      213: 2188835461730574599
+    second: fishing_105x99_95
+  - first:
+      213: -2954367865223979980
+    second: fishing_105x99_96
+  - first:
+      213: 4121893485001219969
+    second: fishing_105x99_97
+  - first:
+      213: 2749371141972968626
+    second: fishing_105x99_98
+  - first:
+      213: 6134312885993501197
+    second: fishing_105x99_99
+  - first:
+      213: 6268263916386976055
+    second: fishing_105x99_100
+  - first:
+      213: 134578366829827828
+    second: fishing_105x99_101
+  - first:
+      213: -1973898027783122873
+    second: fishing_105x99_102
+  - first:
+      213: 5979727057944554754
+    second: fishing_105x99_103
+  - first:
+      213: 1524862329044795063
+    second: fishing_105x99_104
+  - first:
+      213: -7807568763690880895
+    second: fishing_105x99_105
+  - first:
+      213: 6811143551178037501
+    second: fishing_105x99_106
+  - first:
+      213: 1658925973954242160
+    second: fishing_105x99_107
+  - first:
+      213: -8020170295033445002
+    second: fishing_105x99_108
+  - first:
+      213: 8912987867387290842
+    second: fishing_105x99_109
+  - first:
+      213: 78973237867928463
+    second: fishing_105x99_110
+  - first:
+      213: -1156552637874864527
+    second: fishing_105x99_111
+  - first:
+      213: 786116670679446268
+    second: fishing_105x99_112
+  - first:
+      213: 9149434091014714602
+    second: fishing_105x99_113
+  - first:
+      213: -4571358801534365940
+    second: fishing_105x99_114
+  - first:
+      213: 2904895476293675019
+    second: fishing_105x99_115
+  - first:
+      213: -8964636086452548933
+    second: fishing_105x99_116
+  - first:
+      213: -3496417066795933573
+    second: fishing_105x99_117
+  - first:
+      213: 1825784050809922315
+    second: fishing_105x99_118
+  - first:
+      213: -4535403720888234688
+    second: fishing_105x99_119
+  - first:
+      213: 6685001655013873538
+    second: fishing_105x99_120
+  - first:
+      213: 5301216549440652900
+    second: fishing_105x99_121
+  - first:
+      213: 4786215684579695696
+    second: fishing_105x99_122
+  - first:
+      213: -3143552082980285523
+    second: fishing_105x99_123
+  - first:
+      213: 2453322736098663389
+    second: fishing_105x99_124
+  - first:
+      213: -3641210631899259232
+    second: fishing_105x99_125
+  - first:
+      213: -6478100301810363183
+    second: fishing_105x99_126
+  - first:
+      213: -935339931879973306
+    second: fishing_105x99_127
+  - first:
+      213: -1099678592063848034
+    second: fishing_105x99_128
+  - first:
+      213: -7639570804450161972
+    second: fishing_105x99_129
+  - first:
+      213: -849263403449609970
+    second: fishing_105x99_130
+  - first:
+      213: -3268848295543522202
+    second: fishing_105x99_131
+  - first:
+      213: -2818977058557937400
+    second: fishing_105x99_132
+  - first:
+      213: -7349662635660963840
+    second: fishing_105x99_133
+  - first:
+      213: -6233089183057502801
+    second: fishing_105x99_134
+  - first:
+      213: 3599971130565977599
+    second: fishing_105x99_135
+  - first:
+      213: -1079909106165685519
+    second: fishing_105x99_136
+  - first:
+      213: -5031801900615155345
+    second: fishing_105x99_137
+  - first:
+      213: -4249795091630404312
+    second: fishing_105x99_138
+  - first:
+      213: -4150762989137669408
+    second: fishing_105x99_139
+  - first:
+      213: 7232396643197989427
+    second: fishing_105x99_140
+  - first:
+      213: -6441154361279973924
+    second: fishing_105x99_141
+  - first:
+      213: -1217761899075882312
+    second: fishing_105x99_142
+  - first:
+      213: 857838348118426268
+    second: fishing_105x99_143
+  - first:
+      213: 3811300903492877280
+    second: fishing_105x99_144
+  - first:
+      213: -1031418265532867562
+    second: fishing_105x99_145
+  - first:
+      213: 5486498804518924889
+    second: fishing_105x99_146
+  - first:
+      213: 6819060406129116293
+    second: fishing_105x99_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fishing_105x99_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc41eafd3cd91490800000000000000
+      internalID: -7774941122918265634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac56b69189151f130800000000000000
+      internalID: 3598747290949084618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be7091f6ef502a60800000000000000
+      internalID: 7647217612774997680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e413018a9ead9400800000000000000
+      internalID: 332613926107944160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d56fc9f35c406d0800000000000000
+      internalID: -3025076172679127649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a8b52e2abf4460800000000000000
+      internalID: 7228200634317056266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9392ee22fd3c0100800000000000000
+      internalID: 75503404136436635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_7
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dd90fc0a484bd20800000000000000
+      internalID: 3293403053717839215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e427887cecb9de6b0800000000000000
+      internalID: -5265381076913065394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_9
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caab74d8f1a31f60800000000000000
+      internalID: 8003919052856339136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502a0f619ed862210800000000000000
+      internalID: 1307888774049473029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009bc57be4df0b3e0800000000000000
+      internalID: -2039852116673251072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_12
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825f4c2b62d653cf0800000000000000
+      internalID: -273192189410609880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_13
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcd20ce4b7b0fcd0800000000000000
+      internalID: -2526317403273241354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_14
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bddc655af08a82d0800000000000000
+      internalID: -3275663966295237197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_15
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 693
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201b9193391e61db0800000000000000
+      internalID: -4821418328619110142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28dbcf1767cd2280800000000000000
+      internalID: -9066371229097928661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a3d066657369840800000000000000
+      internalID: 5230428861456267857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b68da5a424c57940800000000000000
+      internalID: 5293352598721365685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ec8efa082480300800000000000000
+      internalID: 218497702401986177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1d1fd7840db98d0800000000000000
+      internalID: -2838446130357743152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407d025eb91741f00800000000000000
+      internalID: 1086618324481136388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_22
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae27af0f424566e0800000000000000
+      internalID: -1844995565005885791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8b030888d66990800000000000000
+      internalID: -7392983659603850024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_24
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f861b0bb8d069d0800000000000000
+      internalID: -2782986271858454775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_25
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e512c882fecb6b7c0800000000000000
+      internalID: -4055846679037075106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_26
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ab9b9f60ef30a60800000000000000
+      internalID: 7639228698863450641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_27
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdfcdb3b150ed760800000000000000
+      internalID: 7484425245262937541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_28
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759e3af6410e66ab0800000000000000
+      internalID: -5015074756653487785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_29
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d348616ae7e5ffd0800000000000000
+      internalID: -2308684240114924586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_30
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08929e7121ee2c800800000000000000
+      internalID: 631328659263269248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_31
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972ceda0082835e60800000000000000
+      internalID: 7949841253688853113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_32
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7676e9d660e9d5540800000000000000
+      internalID: 4998324911897208679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_33
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a06688f61f979c00800000000000000
+      internalID: 907368770946097317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_34
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863da6d803c057940800000000000000
+      internalID: 5293150339714437992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_35
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b84d98579388f60800000000000000
+      internalID: 8036736712029014903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_36
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 594
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ecffb7eed03040800000000000000
+      internalID: 4625441904249332028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92d8a5ab3e3c2e90800000000000000
+      internalID: -7049190890838371686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1074f3ddf9c3979c0800000000000000
+      internalID: -3929042542594668799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915d8899025b3c0d0800000000000000
+      internalID: -3403677741742500583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_40
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629a17de56fd32340800000000000000
+      internalID: 4837956053594384678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_41
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79e66a5701c82800800000000000000
+      internalID: 587931988697475452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_42
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69213de8bbde4fc0800000000000000
+      internalID: -3508625472375150229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_43
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b7b7552343a9a80800000000000000
+      internalID: -8459391559274890425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_44
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee88d266cf756e50800000000000000
+      internalID: 6801983302251613932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_45
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a796450895c2250800000000000000
+      internalID: 5921206017792244374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_46
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c31ce346dea46d30800000000000000
+      internalID: 4423852969270449093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_47
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557dee592e7bd60b0800000000000000
+      internalID: -5733724566766823595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_48
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a95c7535a5f135c0800000000000000
+      internalID: -4237335684463175260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_49
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463dd404afda76fe0800000000000000
+      internalID: -1195795885711305884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_50
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a286cee0c6179550800000000000000
+      internalID: 6167423232602702497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_51
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba08c6bd8fb668bf0800000000000000
+      internalID: -322451606733029205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_52
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 495
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb41df9f7379a00800000000000000
+      internalID: 763140208694967723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa64126ef07c2410800000000000000
+      internalID: 1453661017603336953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_54
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56608259e7ff9470800000000000000
+      internalID: 8403708011180222045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_55
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91df27b5f6ba5b10800000000000000
+      internalID: 1971088953384620447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_56
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7829e19f3ae5add20800000000000000
+      internalID: 3304057334981890695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_57
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8561771ede291b0800000000000000
+      internalID: -5651193029775173452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_58
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4417265cbc7879f0800000000000000
+      internalID: -470489012719119282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_59
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8046ce3c47beb31f0800000000000000
+      internalID: -1063998000207207416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_60
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a33ba23db202f00800000000000000
+      internalID: 1089919295778142755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_61
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a313414e3af5ac90800000000000000
+      internalID: -7159040887345704026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_62
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847a9faa794788ef0800000000000000
+      internalID: -105706396485834936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_63
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6cc9dbd523ada10800000000000000
+      internalID: 1934914368103565053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_64
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f317a2849300e4f90800000000000000
+      internalID: -6967631327471701697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_65
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a7b31f0a2beb5e0800000000000000
+      internalID: -1891878389137311206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_66
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fbb943cc4047730800000000000000
+      internalID: 3995824044486934316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_67
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8ba4abb132619c0800000000000000
+      internalID: -3956936620601853789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_68
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807d969f8ad44590800000000000000
+      internalID: -7690781953399885692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_69
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4dacebe196c90d0800000000000000
+      internalID: -3414738836682779398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_70
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b3d55fbe917d820800000000000000
+      internalID: 2942849382734445355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_71
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e455c6edfd32a0820800000000000000
+      internalID: 2885157955700544846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_72
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91a220ab1bb79630800000000000000
+      internalID: 3933818526856552861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_73
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 396
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0eabdd42d500150800000000000000
+      internalID: 5836767529992380662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ade72476fe22fd0800000000000000
+      internalID: -2368067227267179911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807ab3ffde85e6410800000000000000
+      internalID: 1472211907409323784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_76
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b232edd5d19835020800000000000000
+      internalID: 2329356191502574379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_77
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f12034d8973be0800000000000000
+      internalID: -1497560313969379567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_78
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc139bb22d8a6480800000000000000
+      internalID: -8905150132856349482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_79
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3efcad6bd658970800000000000000
+      internalID: 8756525682614330345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_80
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abae147f2cab60c90800000000000000
+      internalID: -7203865207397815622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_81
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9793772a8006c5d40800000000000000
+      internalID: 5574436028979558777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_82
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcffd1d5f74edb50800000000000000
+      internalID: 6619807623394884827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_83
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd7d4e6a6f2e1180800000000000000
+      internalID: -9142818059351917066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_84
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9b769c08327f310800000000000000
+      internalID: 1438657642009967059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_85
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b820ae49d84670800000000000000
+      internalID: 8523301226516361802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_86
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeea670157dc10640800000000000000
+      internalID: 5044538960302747374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_87
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a06008cf61002f50800000000000000
+      internalID: 6854480212466360488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_88
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f4b93164bfc4d40800000000000000
+      internalID: 5570103117545688933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_89
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 297
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b39b0282e580640800000000000000
+      internalID: 5046386908909353763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c24d837f3fdd50800000000000000
+      internalID: 6764194930857526481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_91
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4dacad8eefabe0800000000000000
+      internalID: -1463689061617283707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625397b514f876540800000000000000
+      internalID: 5001123422088541478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_93
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad21b3b91ccac9010800000000000000
+      internalID: 1197021548506714842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d6aaeb31caa2840800000000000000
+      internalID: 5200157920555855236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701aa38614e406e10800000000000000
+      internalID: 2188835461730574599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_96
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cde79541afff6d0800000000000000
+      internalID: -2954367865223979980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_97
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f9e7f2948e33930800000000000000
+      internalID: 4121893485001219969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_98
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b44201ac7ab72620800000000000000
+      internalID: 2749371141972968626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_99
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d027ebe9115712550800000000000000
+      internalID: 6134312885993501197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_100
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73105ae32d85df650800000000000000
+      internalID: 6268263916386976055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_101
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f61855cf4e1ed100800000000000000
+      internalID: 134578366829827828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_102
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740942fa33e4b94e0800000000000000
+      internalID: -1973898027783122873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_103
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20da396c3124cf250800000000000000
+      internalID: 5979727057944554754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_104
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef61e8536692510800000000000000
+      internalID: 1524862329044795063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_105
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180f4c06391f5a390800000000000000
+      internalID: -7807568763690880895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_106
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8d82a09fa068e50800000000000000
+      internalID: 6811143551178037501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_107
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076263a4260b50710800000000000000
+      internalID: 1658925973954242160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_108
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675446efb91a2b090800000000000000
+      internalID: -8020170295033445002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_109
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad46cfa0e3b41bb70800000000000000
+      internalID: 8912987867387290842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_110
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 198
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b51edcdb1981100800000000000000
+      internalID: 78973237867928463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e7d67e08913ffe0800000000000000
+      internalID: -1156552637874864527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_112
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf27cdb62f8d8ea00800000000000000
+      internalID: 786116670679446268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_113
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f7ca74d159fe70800000000000000
+      internalID: 9149434091014714602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_114
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f40bdd3654f80c0800000000000000
+      internalID: -4571358801534365940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_115
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08af1e7b03405820800000000000000
+      internalID: 2904895476293675019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_116
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba095ed9f6379380800000000000000
+      internalID: -8964636086452548933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_117
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70e30bd33b3a7fc0800000000000000
+      internalID: -3496417066795933573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_118
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b036919bbec765910800000000000000
+      internalID: 1825784050809922315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_119
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc87f68520f01c0800000000000000
+      internalID: -4535403720888234688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_120
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287100a2695e5cc50800000000000000
+      internalID: 6685001655013873538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_121
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46605da5d54b19940800000000000000
+      internalID: 5301216549440652900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_122
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c96c18ecd0c6240800000000000000
+      internalID: 4786215684579695696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_123
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da35509290cdf54d0800000000000000
+      internalID: -3143552082980285523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_124
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbdc8cb704fb0220800000000000000
+      internalID: 2453322736098663389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_125
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed445e832d77dc0800000000000000
+      internalID: -3641210631899259232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_126
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 99
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d41e33191a2916a0800000000000000
+      internalID: -6478100301810363183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e5e00a9410503f0800000000000000
+      internalID: -935339931879973306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_128
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91cee895282db0f0800000000000000
+      internalID: -1099678592063848034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_129
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca8d4c54dacaf590800000000000000
+      internalID: -7639570804450161972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_130
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0195a42f6fc634f0800000000000000
+      internalID: -849263403449609970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_131
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cbc775bc7b2a2d0800000000000000
+      internalID: -3268848295543522202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_132
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809bda20d4bf0e8d0800000000000000
+      internalID: -2818977058557937400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_133
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0009776e5c0c00a90800000000000000
+      internalID: -7349662635660963840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_134
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad178e896e9f79a0800000000000000
+      internalID: -6233089183057502801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_135
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5eb077baaa5f130800000000000000
+      internalID: 3599971130565977599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_136
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2e849b3646301f0800000000000000
+      internalID: -1079909106165685519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_137
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61c2bdb4d27b2ab0800000000000000
+      internalID: -5031801900615155345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_138
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dcb2b61e1b505c0800000000000000
+      internalID: -4249795091630404312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_139
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e25c959d078566c0800000000000000
+      internalID: -4150762989137669408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_140
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3323b889d62ae5460800000000000000
+      internalID: 7232396643197989427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_141
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5f2703c3c6c96a0800000000000000
+      internalID: -6441154361279973924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_142
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2b3983104a91fe0800000000000000
+      internalID: -1217761899075882312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_143
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c928e4ebe67a7eb00800000000000000
+      internalID: 857838348118426268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_144
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb71d48af574e430800000000000000
+      internalID: 3811300903492877280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_145
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c501c5d8aafa1f0800000000000000
+      internalID: -1031418265532867562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_146
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952b4ff0895f32c40800000000000000
+      internalID: 5486498804518924889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishing_105x99_147
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584c1497f4b22ae50800000000000000
+      internalID: 6819060406129116293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fishing_105x99_0: -7774941122918265634
+      fishing_105x99_1: 3598747290949084618
+      fishing_105x99_10: 1307888774049473029
+      fishing_105x99_100: 6268263916386976055
+      fishing_105x99_101: 134578366829827828
+      fishing_105x99_102: -1973898027783122873
+      fishing_105x99_103: 5979727057944554754
+      fishing_105x99_104: 1524862329044795063
+      fishing_105x99_105: -7807568763690880895
+      fishing_105x99_106: 6811143551178037501
+      fishing_105x99_107: 1658925973954242160
+      fishing_105x99_108: -8020170295033445002
+      fishing_105x99_109: 8912987867387290842
+      fishing_105x99_11: -2039852116673251072
+      fishing_105x99_110: 78973237867928463
+      fishing_105x99_111: -1156552637874864527
+      fishing_105x99_112: 786116670679446268
+      fishing_105x99_113: 9149434091014714602
+      fishing_105x99_114: -4571358801534365940
+      fishing_105x99_115: 2904895476293675019
+      fishing_105x99_116: -8964636086452548933
+      fishing_105x99_117: -3496417066795933573
+      fishing_105x99_118: 1825784050809922315
+      fishing_105x99_119: -4535403720888234688
+      fishing_105x99_12: -273192189410609880
+      fishing_105x99_120: 6685001655013873538
+      fishing_105x99_121: 5301216549440652900
+      fishing_105x99_122: 4786215684579695696
+      fishing_105x99_123: -3143552082980285523
+      fishing_105x99_124: 2453322736098663389
+      fishing_105x99_125: -3641210631899259232
+      fishing_105x99_126: -6478100301810363183
+      fishing_105x99_127: -935339931879973306
+      fishing_105x99_128: -1099678592063848034
+      fishing_105x99_129: -7639570804450161972
+      fishing_105x99_13: -2526317403273241354
+      fishing_105x99_130: -849263403449609970
+      fishing_105x99_131: -3268848295543522202
+      fishing_105x99_132: -2818977058557937400
+      fishing_105x99_133: -7349662635660963840
+      fishing_105x99_134: -6233089183057502801
+      fishing_105x99_135: 3599971130565977599
+      fishing_105x99_136: -1079909106165685519
+      fishing_105x99_137: -5031801900615155345
+      fishing_105x99_138: -4249795091630404312
+      fishing_105x99_139: -4150762989137669408
+      fishing_105x99_14: -3275663966295237197
+      fishing_105x99_140: 7232396643197989427
+      fishing_105x99_141: -6441154361279973924
+      fishing_105x99_142: -1217761899075882312
+      fishing_105x99_143: 857838348118426268
+      fishing_105x99_144: 3811300903492877280
+      fishing_105x99_145: -1031418265532867562
+      fishing_105x99_146: 5486498804518924889
+      fishing_105x99_147: 6819060406129116293
+      fishing_105x99_15: -4821418328619110142
+      fishing_105x99_16: -9066371229097928661
+      fishing_105x99_17: 5230428861456267857
+      fishing_105x99_18: 5293352598721365685
+      fishing_105x99_19: 218497702401986177
+      fishing_105x99_2: 7647217612774997680
+      fishing_105x99_20: -2838446130357743152
+      fishing_105x99_21: 1086618324481136388
+      fishing_105x99_22: -1844995565005885791
+      fishing_105x99_23: -7392983659603850024
+      fishing_105x99_24: -2782986271858454775
+      fishing_105x99_25: -4055846679037075106
+      fishing_105x99_26: 7639228698863450641
+      fishing_105x99_27: 7484425245262937541
+      fishing_105x99_28: -5015074756653487785
+      fishing_105x99_29: -2308684240114924586
+      fishing_105x99_3: 332613926107944160
+      fishing_105x99_30: 631328659263269248
+      fishing_105x99_31: 7949841253688853113
+      fishing_105x99_32: 4998324911897208679
+      fishing_105x99_33: 907368770946097317
+      fishing_105x99_34: 5293150339714437992
+      fishing_105x99_35: 8036736712029014903
+      fishing_105x99_36: 4625441904249332028
+      fishing_105x99_37: -7049190890838371686
+      fishing_105x99_38: -3929042542594668799
+      fishing_105x99_39: -3403677741742500583
+      fishing_105x99_4: -3025076172679127649
+      fishing_105x99_40: 4837956053594384678
+      fishing_105x99_41: 587931988697475452
+      fishing_105x99_42: -3508625472375150229
+      fishing_105x99_43: -8459391559274890425
+      fishing_105x99_44: 6801983302251613932
+      fishing_105x99_45: 5921206017792244374
+      fishing_105x99_46: 4423852969270449093
+      fishing_105x99_47: -5733724566766823595
+      fishing_105x99_48: -4237335684463175260
+      fishing_105x99_49: -1195795885711305884
+      fishing_105x99_5: 7228200634317056266
+      fishing_105x99_50: 6167423232602702497
+      fishing_105x99_51: -322451606733029205
+      fishing_105x99_52: 763140208694967723
+      fishing_105x99_53: 1453661017603336953
+      fishing_105x99_54: 8403708011180222045
+      fishing_105x99_55: 1971088953384620447
+      fishing_105x99_56: 3304057334981890695
+      fishing_105x99_57: -5651193029775173452
+      fishing_105x99_58: -470489012719119282
+      fishing_105x99_59: -1063998000207207416
+      fishing_105x99_6: 75503404136436635
+      fishing_105x99_60: 1089919295778142755
+      fishing_105x99_61: -7159040887345704026
+      fishing_105x99_62: -105706396485834936
+      fishing_105x99_63: 1934914368103565053
+      fishing_105x99_64: -6967631327471701697
+      fishing_105x99_65: -1891878389137311206
+      fishing_105x99_66: 3995824044486934316
+      fishing_105x99_67: -3956936620601853789
+      fishing_105x99_68: -7690781953399885692
+      fishing_105x99_69: -3414738836682779398
+      fishing_105x99_7: 3293403053717839215
+      fishing_105x99_70: 2942849382734445355
+      fishing_105x99_71: 2885157955700544846
+      fishing_105x99_72: 3933818526856552861
+      fishing_105x99_73: 5836767529992380662
+      fishing_105x99_74: -2368067227267179911
+      fishing_105x99_75: 1472211907409323784
+      fishing_105x99_76: 2329356191502574379
+      fishing_105x99_77: -1497560313969379567
+      fishing_105x99_78: -8905150132856349482
+      fishing_105x99_79: 8756525682614330345
+      fishing_105x99_8: -5265381076913065394
+      fishing_105x99_80: -7203865207397815622
+      fishing_105x99_81: 5574436028979558777
+      fishing_105x99_82: 6619807623394884827
+      fishing_105x99_83: -9142818059351917066
+      fishing_105x99_84: 1438657642009967059
+      fishing_105x99_85: 8523301226516361802
+      fishing_105x99_86: 5044538960302747374
+      fishing_105x99_87: 6854480212466360488
+      fishing_105x99_88: 5570103117545688933
+      fishing_105x99_89: 5046386908909353763
+      fishing_105x99_9: 8003919052856339136
+      fishing_105x99_90: 6764194930857526481
+      fishing_105x99_91: -1463689061617283707
+      fishing_105x99_92: 5001123422088541478
+      fishing_105x99_93: 1197021548506714842
+      fishing_105x99_94: 5200157920555855236
+      fishing_105x99_95: 2188835461730574599
+      fishing_105x99_96: -2954367865223979980
+      fishing_105x99_97: 4121893485001219969
+      fishing_105x99_98: 2749371141972968626
+      fishing_105x99_99: 6134312885993501197
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

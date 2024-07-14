@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: a40c03d802935c9428853ad025eb44b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2291213644734196619
+    second: halberd_spearwall_54x54_0
+  - first:
+      213: 8157566496971808860
+    second: halberd_spearwall_54x54_1
+  - first:
+      213: -4073608480188939222
+    second: halberd_spearwall_54x54_2
+  - first:
+      213: 3499513068858937767
+    second: halberd_spearwall_54x54_3
+  - first:
+      213: -3556444381795869260
+    second: halberd_spearwall_54x54_4
+  - first:
+      213: -9204131011352221307
+    second: halberd_spearwall_54x54_5
+  - first:
+      213: -6960877046120051453
+    second: halberd_spearwall_54x54_6
+  - first:
+      213: 877053812707920855
+    second: halberd_spearwall_54x54_7
+  - first:
+      213: -1760785312712252917
+    second: halberd_spearwall_54x54_8
+  - first:
+      213: 7891846923217695146
+    second: halberd_spearwall_54x54_9
+  - first:
+      213: -6681155825561942298
+    second: halberd_spearwall_54x54_10
+  - first:
+      213: 7279301958767101838
+    second: halberd_spearwall_54x54_11
+  - first:
+      213: 7323461175161442984
+    second: halberd_spearwall_54x54_12
+  - first:
+      213: 1324368765118542096
+    second: halberd_spearwall_54x54_13
+  - first:
+      213: 8825669625720372861
+    second: halberd_spearwall_54x54_14
+  - first:
+      213: -7095135787579661858
+    second: halberd_spearwall_54x54_15
+  - first:
+      213: -3516477013057218486
+    second: halberd_spearwall_54x54_16
+  - first:
+      213: 9015212284061902455
+    second: halberd_spearwall_54x54_17
+  - first:
+      213: 6131770204962184990
+    second: halberd_spearwall_54x54_18
+  - first:
+      213: -6239549000177907650
+    second: halberd_spearwall_54x54_19
+  - first:
+      213: -5012350696224819995
+    second: halberd_spearwall_54x54_20
+  - first:
+      213: 3018920914475720209
+    second: halberd_spearwall_54x54_21
+  - first:
+      213: 4604908666519083873
+    second: halberd_spearwall_54x54_22
+  - first:
+      213: -1628019519447736119
+    second: halberd_spearwall_54x54_23
+  - first:
+      213: -6950668393313101064
+    second: halberd_spearwall_54x54_24
+  - first:
+      213: 1177535934346563700
+    second: halberd_spearwall_54x54_25
+  - first:
+      213: 5498519343852977280
+    second: halberd_spearwall_54x54_26
+  - first:
+      213: -6958904487440261168
+    second: halberd_spearwall_54x54_27
+  - first:
+      213: -4061874162971472591
+    second: halberd_spearwall_54x54_28
+  - first:
+      213: -8660478085128989038
+    second: halberd_spearwall_54x54_29
+  - first:
+      213: -3239623648165256944
+    second: halberd_spearwall_54x54_30
+  - first:
+      213: 4196420220170426604
+    second: halberd_spearwall_54x54_31
+  - first:
+      213: 2535090352726087171
+    second: halberd_spearwall_54x54_32
+  - first:
+      213: 7601238309429920022
+    second: halberd_spearwall_54x54_33
+  - first:
+      213: -9158098528689067579
+    second: halberd_spearwall_54x54_34
+  - first:
+      213: 9068845189456849881
+    second: halberd_spearwall_54x54_35
+  - first:
+      213: -8834464676117189036
+    second: halberd_spearwall_54x54_36
+  - first:
+      213: -3318983217675059511
+    second: halberd_spearwall_54x54_37
+  - first:
+      213: 211259971566365653
+    second: halberd_spearwall_54x54_38
+  - first:
+      213: -3813994776952429837
+    second: halberd_spearwall_54x54_39
+  - first:
+      213: 55942986276881993
+    second: halberd_spearwall_54x54_40
+  - first:
+      213: 7729852883241680697
+    second: halberd_spearwall_54x54_41
+  - first:
+      213: 5907949671547452889
+    second: halberd_spearwall_54x54_42
+  - first:
+      213: -7282013733000745505
+    second: halberd_spearwall_54x54_43
+  - first:
+      213: -3923654441548621257
+    second: halberd_spearwall_54x54_44
+  - first:
+      213: 3857969978240191793
+    second: halberd_spearwall_54x54_45
+  - first:
+      213: 8862563515423156964
+    second: halberd_spearwall_54x54_46
+  - first:
+      213: 3780457659778156099
+    second: halberd_spearwall_54x54_47
+  - first:
+      213: -4176284391556246641
+    second: halberd_spearwall_54x54_48
+  - first:
+      213: -1773488585099528124
+    second: halberd_spearwall_54x54_49
+  - first:
+      213: -1862357029977097300
+    second: halberd_spearwall_54x54_50
+  - first:
+      213: 6697662115832441529
+    second: halberd_spearwall_54x54_51
+  - first:
+      213: -5075793475545757734
+    second: halberd_spearwall_54x54_52
+  - first:
+      213: 4260634493458092167
+    second: halberd_spearwall_54x54_53
+  - first:
+      213: 8227075483593529279
+    second: halberd_spearwall_54x54_54
+  - first:
+      213: 1767685111376253800
+    second: halberd_spearwall_54x54_55
+  - first:
+      213: -2580853926244910381
+    second: halberd_spearwall_54x54_56
+  - first:
+      213: -8830513167098428852
+    second: halberd_spearwall_54x54_57
+  - first:
+      213: 338177868955164063
+    second: halberd_spearwall_54x54_58
+  - first:
+      213: 6814497961092036004
+    second: halberd_spearwall_54x54_59
+  - first:
+      213: 7158382148850755324
+    second: halberd_spearwall_54x54_60
+  - first:
+      213: 1225137428294498094
+    second: halberd_spearwall_54x54_61
+  - first:
+      213: 2468886181134396447
+    second: halberd_spearwall_54x54_62
+  - first:
+      213: 3361591352456192538
+    second: halberd_spearwall_54x54_63
+  - first:
+      213: -7129559725477157673
+    second: halberd_spearwall_54x54_64
+  - first:
+      213: 5635500927767433744
+    second: halberd_spearwall_54x54_65
+  - first:
+      213: -797510630071199382
+    second: halberd_spearwall_54x54_66
+  - first:
+      213: -4336550644005533868
+    second: halberd_spearwall_54x54_67
+  - first:
+      213: 7043033663537123836
+    second: halberd_spearwall_54x54_68
+  - first:
+      213: 6596663623898041436
+    second: halberd_spearwall_54x54_69
+  - first:
+      213: 6003152609355060735
+    second: halberd_spearwall_54x54_70
+  - first:
+      213: 6569339617936034739
+    second: halberd_spearwall_54x54_71
+  - first:
+      213: -5239033962553339103
+    second: halberd_spearwall_54x54_72
+  - first:
+      213: 3668617938508596125
+    second: halberd_spearwall_54x54_73
+  - first:
+      213: -1406926903575757849
+    second: halberd_spearwall_54x54_74
+  - first:
+      213: 3799094452069567420
+    second: halberd_spearwall_54x54_75
+  - first:
+      213: -5378022677884457394
+    second: halberd_spearwall_54x54_76
+  - first:
+      213: 4697690060035615917
+    second: halberd_spearwall_54x54_77
+  - first:
+      213: -971007482788924341
+    second: halberd_spearwall_54x54_78
+  - first:
+      213: -409611811364860973
+    second: halberd_spearwall_54x54_79
+  - first:
+      213: 5725739219468223147
+    second: halberd_spearwall_54x54_80
+  - first:
+      213: -1633919441072446112
+    second: halberd_spearwall_54x54_81
+  - first:
+      213: 405860033881649861
+    second: halberd_spearwall_54x54_82
+  - first:
+      213: 3169594111578842067
+    second: halberd_spearwall_54x54_83
+  - first:
+      213: 1445996239573717468
+    second: halberd_spearwall_54x54_84
+  - first:
+      213: 7906239171750447301
+    second: halberd_spearwall_54x54_85
+  - first:
+      213: 8066713218361223285
+    second: halberd_spearwall_54x54_86
+  - first:
+      213: 3532511889324008669
+    second: halberd_spearwall_54x54_87
+  - first:
+      213: 538651792920130414
+    second: halberd_spearwall_54x54_88
+  - first:
+      213: -4491601638970273439
+    second: halberd_spearwall_54x54_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57417195459f330e0800000000000000
+      internalID: -2291213644734196619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 918
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50e1a3228f753170800000000000000
+      internalID: 8157566496971808860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 918
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24c1509ba2a777c0800000000000000
+      internalID: -4073608480188939222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 918
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a19c2c4894c09030800000000000000
+      internalID: 3499513068858937767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 918
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd9f977da8f4aec0800000000000000
+      internalID: -3556444381795869260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a13a5c9b544080800000000000000
+      internalID: -9204131011352221307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 864
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d08d4f43ff56f90800000000000000
+      internalID: -6960877046120051453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 864
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db8b5bbbcbeb2c00800000000000000
+      internalID: 877053812707920855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 864
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02af0e461f6097e0800000000000000
+      internalID: -1760785312712252917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 864
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa17620c6f8758d60800000000000000
+      internalID: 7891846923217695146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64958cc24c743a0800000000000000
+      internalID: -6681155825561942298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 810
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e874e196096450560800000000000000
+      internalID: 7279301958767101838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 810
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2dcdf232922a560800000000000000
+      internalID: 7323461175161442984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 810
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0117384006a116210800000000000000
+      internalID: 1324368765118542096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 810
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e7402a3c31b7a70800000000000000
+      internalID: 8825669625720372861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12724c793098d90800000000000000
+      internalID: -7095135787579661858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 756
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48d5e7a9c6f23fc0800000000000000
+      internalID: -3516477013057218486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 756
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7766f36cec77c1d70800000000000000
+      internalID: 9015212284061902455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 756
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f581f838c681550800000000000000
+      internalID: 6131770204962184990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 756
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3880cd2e3ba869a0800000000000000
+      internalID: -6239549000177907650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e476dd299d807ab0800000000000000
+      internalID: -5012350696224819995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 702
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e9258a39c55e920800000000000000
+      internalID: 3018920914475720209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 702
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bdcfac80ce7ef30800000000000000
+      internalID: 4604908666519083873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 702
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c06ae76fdc1869e0800000000000000
+      internalID: -1628019519447736119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 702
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa99092ce34a8f90800000000000000
+      internalID: -6950668393313101064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4701cf481b2775010800000000000000
+      internalID: 1177535934346563700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 648
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c78f8f53aae4c40800000000000000
+      internalID: 5498519343852977280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 648
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df50401d310d6f90800000000000000
+      internalID: -6958904487440261168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 648
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d8fb138f251a7c0800000000000000
+      internalID: -4061874162971472591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 648
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296d4d6111dcfc780800000000000000
+      internalID: -8660478085128989038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011a72dc47b8a03d0800000000000000
+      internalID: -3239623648165256944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 594
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85687e4fdac3a30800000000000000
+      internalID: 4196420220170426604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 594
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30612cb8e337e2320800000000000000
+      internalID: 2535090352726087171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 594
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61149a628f50d7960800000000000000
+      internalID: 7601238309429920022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 594
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e57be8e5e7e080800000000000000
+      internalID: -9158098528689067579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbe598a6a20bdd70800000000000000
+      internalID: 9068845189456849881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 540
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e6c4f1f2da56580800000000000000
+      internalID: -8834464676117189036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 540
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cebef6295a90f1d0800000000000000
+      internalID: -3318983217675059511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 540
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbe87823db8ee200800000000000000
+      internalID: 211259971566365653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 540
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f22e8035f7f11bc0800000000000000
+      internalID: -3813994776952429837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94645b089dfb6c000800000000000000
+      internalID: 55942986276881993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 486
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f36a72e34f54b60800000000000000
+      internalID: 7729852883241680697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 486
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddb873bce04df150800000000000000
+      internalID: 5907949671547452889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 486
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd69f2771711fa90800000000000000
+      internalID: -7282013733000745505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 486
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a5c16e2116c89c0800000000000000
+      internalID: -3923654441548621257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dc02b31434a8530800000000000000
+      internalID: 3857969978240191793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 432
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea6228bf862efa70800000000000000
+      internalID: 8862563515423156964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 432
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3464b7b3632e67430800000000000000
+      internalID: 3780457659778156099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 432
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f831848097bda06c0800000000000000
+      internalID: -4176284391556246641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 432
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448bee7378d4367e0800000000000000
+      internalID: -1773488585099528124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab734ff5249726e0800000000000000
+      internalID: -1862357029977097300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 378
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa8c76530e2fc50800000000000000
+      internalID: 6697662115832441529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 378
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad789d80ab82f89b0800000000000000
+      internalID: -5075793475545757734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 378
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780985c7f70d02b30800000000000000
+      internalID: 4260634493458092167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_54
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 378
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7daeb30917c2270800000000000000
+      internalID: 8227075483593529279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86314524e34188810800000000000000
+      internalID: 1767685111376253800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 324
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dafffc2707fe2cd0800000000000000
+      internalID: -2580853926244910381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 324
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4240b28f07b37580800000000000000
+      internalID: -8830513167098428852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 324
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d98f5eaf271b400800000000000000
+      internalID: 338177868955164063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 324
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5b3857ac5f19e50800000000000000
+      internalID: 6814497961092036004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf62fbc33aea75360800000000000000
+      internalID: 7158382148850755324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 270
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27778effff800110800000000000000
+      internalID: 1225137428294498094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 270
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ce269a6ee334220800000000000000
+      internalID: 2468886181134396447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_63
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 270
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a122d2b4685c6ae20800000000000000
+      internalID: 3361591352456192538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 270
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4a0062437be0d90800000000000000
+      internalID: -7129559725477157673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01256f25c32553e40800000000000000
+      internalID: 5635500927767433744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_66
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 216
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69120eae4caee4f0800000000000000
+      internalID: -797510630071199382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_67
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 216
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4570f815a2a71d3c0800000000000000
+      internalID: -4336550644005533868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_68
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 216
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf19f382dc1edb160800000000000000
+      internalID: 7043033663537123836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c0f258d9e0c8b50800000000000000
+      internalID: 6596663623898041436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5511dfd7b7f4350800000000000000
+      internalID: 6003152609355060735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 162
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb4aff939bfa2b50800000000000000
+      internalID: 6569339617936034739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 162
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1231dcf5e563b47b0800000000000000
+      internalID: -5239033962553339103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d934e61f39c89e230800000000000000
+      internalID: 3668617938508596125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_74
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 162
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb3d677f67997ce0800000000000000
+      internalID: -1406926903575757849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb83c3964819b430800000000000000
+      internalID: 3799094452069567420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_76
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ea3b25edc6d55b0800000000000000
+      internalID: -5378022677884457394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_77
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac6e4d583c813140800000000000000
+      internalID: 4697690060035615917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_78
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 108
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44be1ac6d94682f0800000000000000
+      internalID: -971007482788924341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 108
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db0bcf4a34c05af0800000000000000
+      internalID: -409611811364860973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba20decdb79e57f40800000000000000
+      internalID: 5725739219468223147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_81
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065a54bdce62359e0800000000000000
+      internalID: -1633919441072446112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_82
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c23b0cec87e1a500800000000000000
+      internalID: 405860033881649861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_83
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3a3de1d09acfb20800000000000000
+      internalID: 3169594111578842067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_84
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 54
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1975e2be5311410800000000000000
+      internalID: 1445996239573717468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8c67d33aa98bd60800000000000000
+      internalID: 7906239171750447301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786e5dcee8b2ff60800000000000000
+      internalID: 8066713218361223285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_87
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd46008e8d0060130800000000000000
+      internalID: 3532511889324008669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63b1a6a3fca97700800000000000000
+      internalID: 538651792920130414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halberd_spearwall_54x54_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1615d9c5b10aaa1c0800000000000000
+      internalID: -4491601638970273439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      halberd_spearwall_54x54_0: -2291213644734196619
+      halberd_spearwall_54x54_1: 8157566496971808860
+      halberd_spearwall_54x54_10: -6681155825561942298
+      halberd_spearwall_54x54_11: 7279301958767101838
+      halberd_spearwall_54x54_12: 7323461175161442984
+      halberd_spearwall_54x54_13: 1324368765118542096
+      halberd_spearwall_54x54_14: 8825669625720372861
+      halberd_spearwall_54x54_15: -7095135787579661858
+      halberd_spearwall_54x54_16: -3516477013057218486
+      halberd_spearwall_54x54_17: 9015212284061902455
+      halberd_spearwall_54x54_18: 6131770204962184990
+      halberd_spearwall_54x54_19: -6239549000177907650
+      halberd_spearwall_54x54_2: -4073608480188939222
+      halberd_spearwall_54x54_20: -5012350696224819995
+      halberd_spearwall_54x54_21: 3018920914475720209
+      halberd_spearwall_54x54_22: 4604908666519083873
+      halberd_spearwall_54x54_23: -1628019519447736119
+      halberd_spearwall_54x54_24: -6950668393313101064
+      halberd_spearwall_54x54_25: 1177535934346563700
+      halberd_spearwall_54x54_26: 5498519343852977280
+      halberd_spearwall_54x54_27: -6958904487440261168
+      halberd_spearwall_54x54_28: -4061874162971472591
+      halberd_spearwall_54x54_29: -8660478085128989038
+      halberd_spearwall_54x54_3: 3499513068858937767
+      halberd_spearwall_54x54_30: -3239623648165256944
+      halberd_spearwall_54x54_31: 4196420220170426604
+      halberd_spearwall_54x54_32: 2535090352726087171
+      halberd_spearwall_54x54_33: 7601238309429920022
+      halberd_spearwall_54x54_34: -9158098528689067579
+      halberd_spearwall_54x54_35: 9068845189456849881
+      halberd_spearwall_54x54_36: -8834464676117189036
+      halberd_spearwall_54x54_37: -3318983217675059511
+      halberd_spearwall_54x54_38: 211259971566365653
+      halberd_spearwall_54x54_39: -3813994776952429837
+      halberd_spearwall_54x54_4: -3556444381795869260
+      halberd_spearwall_54x54_40: 55942986276881993
+      halberd_spearwall_54x54_41: 7729852883241680697
+      halberd_spearwall_54x54_42: 5907949671547452889
+      halberd_spearwall_54x54_43: -7282013733000745505
+      halberd_spearwall_54x54_44: -3923654441548621257
+      halberd_spearwall_54x54_45: 3857969978240191793
+      halberd_spearwall_54x54_46: 8862563515423156964
+      halberd_spearwall_54x54_47: 3780457659778156099
+      halberd_spearwall_54x54_48: -4176284391556246641
+      halberd_spearwall_54x54_49: -1773488585099528124
+      halberd_spearwall_54x54_5: -9204131011352221307
+      halberd_spearwall_54x54_50: -1862357029977097300
+      halberd_spearwall_54x54_51: 6697662115832441529
+      halberd_spearwall_54x54_52: -5075793475545757734
+      halberd_spearwall_54x54_53: 4260634493458092167
+      halberd_spearwall_54x54_54: 8227075483593529279
+      halberd_spearwall_54x54_55: 1767685111376253800
+      halberd_spearwall_54x54_56: -2580853926244910381
+      halberd_spearwall_54x54_57: -8830513167098428852
+      halberd_spearwall_54x54_58: 338177868955164063
+      halberd_spearwall_54x54_59: 6814497961092036004
+      halberd_spearwall_54x54_6: -6960877046120051453
+      halberd_spearwall_54x54_60: 7158382148850755324
+      halberd_spearwall_54x54_61: 1225137428294498094
+      halberd_spearwall_54x54_62: 2468886181134396447
+      halberd_spearwall_54x54_63: 3361591352456192538
+      halberd_spearwall_54x54_64: -7129559725477157673
+      halberd_spearwall_54x54_65: 5635500927767433744
+      halberd_spearwall_54x54_66: -797510630071199382
+      halberd_spearwall_54x54_67: -4336550644005533868
+      halberd_spearwall_54x54_68: 7043033663537123836
+      halberd_spearwall_54x54_69: 6596663623898041436
+      halberd_spearwall_54x54_7: 877053812707920855
+      halberd_spearwall_54x54_70: 6003152609355060735
+      halberd_spearwall_54x54_71: 6569339617936034739
+      halberd_spearwall_54x54_72: -5239033962553339103
+      halberd_spearwall_54x54_73: 3668617938508596125
+      halberd_spearwall_54x54_74: -1406926903575757849
+      halberd_spearwall_54x54_75: 3799094452069567420
+      halberd_spearwall_54x54_76: -5378022677884457394
+      halberd_spearwall_54x54_77: 4697690060035615917
+      halberd_spearwall_54x54_78: -971007482788924341
+      halberd_spearwall_54x54_79: -409611811364860973
+      halberd_spearwall_54x54_8: -1760785312712252917
+      halberd_spearwall_54x54_80: 5725739219468223147
+      halberd_spearwall_54x54_81: -1633919441072446112
+      halberd_spearwall_54x54_82: 405860033881649861
+      halberd_spearwall_54x54_83: 3169594111578842067
+      halberd_spearwall_54x54_84: 1445996239573717468
+      halberd_spearwall_54x54_85: 7906239171750447301
+      halberd_spearwall_54x54_86: 8066713218361223285
+      halberd_spearwall_54x54_87: 3532511889324008669
+      halberd_spearwall_54x54_88: 538651792920130414
+      halberd_spearwall_54x54_89: -4491601638970273439
+      halberd_spearwall_54x54_9: 7891846923217695146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

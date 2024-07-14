@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: d4667cdf44285a448b393c53a93542d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4068132208536680627
+    second: spear-kiteShield_spearwall_44x42_0
+  - first:
+      213: 6153815217271397007
+    second: spear-kiteShield_spearwall_44x42_1
+  - first:
+      213: -7434040612404666238
+    second: spear-kiteShield_spearwall_44x42_2
+  - first:
+      213: 1888027261235067283
+    second: spear-kiteShield_spearwall_44x42_3
+  - first:
+      213: 340746105765804429
+    second: spear-kiteShield_spearwall_44x42_4
+  - first:
+      213: 4053793544189262857
+    second: spear-kiteShield_spearwall_44x42_5
+  - first:
+      213: -188688453365894765
+    second: spear-kiteShield_spearwall_44x42_6
+  - first:
+      213: -3198262784480765128
+    second: spear-kiteShield_spearwall_44x42_7
+  - first:
+      213: 1339710557152225652
+    second: spear-kiteShield_spearwall_44x42_8
+  - first:
+      213: -8934245390192826980
+    second: spear-kiteShield_spearwall_44x42_9
+  - first:
+      213: -1143104538836253797
+    second: spear-kiteShield_spearwall_44x42_10
+  - first:
+      213: -4513271989637712716
+    second: spear-kiteShield_spearwall_44x42_11
+  - first:
+      213: 4543979281291282075
+    second: spear-kiteShield_spearwall_44x42_12
+  - first:
+      213: 9052728297155964732
+    second: spear-kiteShield_spearwall_44x42_13
+  - first:
+      213: -3427478643187831781
+    second: spear-kiteShield_spearwall_44x42_14
+  - first:
+      213: 374318678796850396
+    second: spear-kiteShield_spearwall_44x42_15
+  - first:
+      213: -4129946352209695000
+    second: spear-kiteShield_spearwall_44x42_16
+  - first:
+      213: -3930227300909087335
+    second: spear-kiteShield_spearwall_44x42_17
+  - first:
+      213: 5712990971706404673
+    second: spear-kiteShield_spearwall_44x42_18
+  - first:
+      213: 4463654174517588866
+    second: spear-kiteShield_spearwall_44x42_19
+  - first:
+      213: 6826354418856696177
+    second: spear-kiteShield_spearwall_44x42_20
+  - first:
+      213: -4658496381844764586
+    second: spear-kiteShield_spearwall_44x42_21
+  - first:
+      213: 6219676627209541859
+    second: spear-kiteShield_spearwall_44x42_22
+  - first:
+      213: 6431209422521105285
+    second: spear-kiteShield_spearwall_44x42_23
+  - first:
+      213: 7794997507747244456
+    second: spear-kiteShield_spearwall_44x42_24
+  - first:
+      213: -6731917092564680346
+    second: spear-kiteShield_spearwall_44x42_25
+  - first:
+      213: -4161426754823238396
+    second: spear-kiteShield_spearwall_44x42_26
+  - first:
+      213: -658398655601057815
+    second: spear-kiteShield_spearwall_44x42_27
+  - first:
+      213: 8593997558744243571
+    second: spear-kiteShield_spearwall_44x42_28
+  - first:
+      213: 4694511248633735196
+    second: spear-kiteShield_spearwall_44x42_29
+  - first:
+      213: 7103522234321667397
+    second: spear-kiteShield_spearwall_44x42_30
+  - first:
+      213: -2387897053774392276
+    second: spear-kiteShield_spearwall_44x42_31
+  - first:
+      213: -356154990947347323
+    second: spear-kiteShield_spearwall_44x42_32
+  - first:
+      213: 604960101606935977
+    second: spear-kiteShield_spearwall_44x42_33
+  - first:
+      213: 8206379108162989582
+    second: spear-kiteShield_spearwall_44x42_34
+  - first:
+      213: 1104231968556206818
+    second: spear-kiteShield_spearwall_44x42_35
+  - first:
+      213: -8304915530743748261
+    second: spear-kiteShield_spearwall_44x42_36
+  - first:
+      213: -8208926616305465598
+    second: spear-kiteShield_spearwall_44x42_37
+  - first:
+      213: -4826699983163870012
+    second: spear-kiteShield_spearwall_44x42_38
+  - first:
+      213: -5783248769152283244
+    second: spear-kiteShield_spearwall_44x42_39
+  - first:
+      213: 3921257162904852945
+    second: spear-kiteShield_spearwall_44x42_40
+  - first:
+      213: -4524398478799934843
+    second: spear-kiteShield_spearwall_44x42_41
+  - first:
+      213: 7119734700801459195
+    second: spear-kiteShield_spearwall_44x42_42
+  - first:
+      213: -3692932540622187537
+    second: spear-kiteShield_spearwall_44x42_43
+  - first:
+      213: 6725896483799048658
+    second: spear-kiteShield_spearwall_44x42_44
+  - first:
+      213: 6180787318335266256
+    second: spear-kiteShield_spearwall_44x42_45
+  - first:
+      213: -6886350226082931343
+    second: spear-kiteShield_spearwall_44x42_46
+  - first:
+      213: 1432827918624684044
+    second: spear-kiteShield_spearwall_44x42_47
+  - first:
+      213: 6547730747662568093
+    second: spear-kiteShield_spearwall_44x42_48
+  - first:
+      213: -5802689800192821288
+    second: spear-kiteShield_spearwall_44x42_49
+  - first:
+      213: 2330922403605446070
+    second: spear-kiteShield_spearwall_44x42_50
+  - first:
+      213: -8120709699192402090
+    second: spear-kiteShield_spearwall_44x42_51
+  - first:
+      213: -9180566803113190413
+    second: spear-kiteShield_spearwall_44x42_52
+  - first:
+      213: -1477266123200709277
+    second: spear-kiteShield_spearwall_44x42_53
+  - first:
+      213: -8191847752259630261
+    second: spear-kiteShield_spearwall_44x42_54
+  - first:
+      213: -8668438216821521469
+    second: spear-kiteShield_spearwall_44x42_55
+  - first:
+      213: 1885210538839189383
+    second: spear-kiteShield_spearwall_44x42_56
+  - first:
+      213: -7383073968743154430
+    second: spear-kiteShield_spearwall_44x42_57
+  - first:
+      213: -8780695023332618765
+    second: spear-kiteShield_spearwall_44x42_58
+  - first:
+      213: 8791491541951283475
+    second: spear-kiteShield_spearwall_44x42_59
+  - first:
+      213: -7848963168190953118
+    second: spear-kiteShield_spearwall_44x42_60
+  - first:
+      213: -374564439656949908
+    second: spear-kiteShield_spearwall_44x42_61
+  - first:
+      213: -7750380387151062441
+    second: spear-kiteShield_spearwall_44x42_62
+  - first:
+      213: -9181433491700445200
+    second: spear-kiteShield_spearwall_44x42_63
+  - first:
+      213: 5896068809257729727
+    second: spear-kiteShield_spearwall_44x42_64
+  - first:
+      213: 8878614914034645004
+    second: spear-kiteShield_spearwall_44x42_65
+  - first:
+      213: 1795845484499602058
+    second: spear-kiteShield_spearwall_44x42_66
+  - first:
+      213: 6523719672487272111
+    second: spear-kiteShield_spearwall_44x42_67
+  - first:
+      213: -852917951905924001
+    second: spear-kiteShield_spearwall_44x42_68
+  - first:
+      213: 3739641604086735254
+    second: spear-kiteShield_spearwall_44x42_69
+  - first:
+      213: -24002606739234551
+    second: spear-kiteShield_spearwall_44x42_70
+  - first:
+      213: -1721281984156821068
+    second: spear-kiteShield_spearwall_44x42_71
+  - first:
+      213: -657412731380235006
+    second: spear-kiteShield_spearwall_44x42_72
+  - first:
+      213: 8479658608499700916
+    second: spear-kiteShield_spearwall_44x42_73
+  - first:
+      213: 4192535793222907134
+    second: spear-kiteShield_spearwall_44x42_74
+  - first:
+      213: -7086873347422231179
+    second: spear-kiteShield_spearwall_44x42_75
+  - first:
+      213: -3011124748714565759
+    second: spear-kiteShield_spearwall_44x42_76
+  - first:
+      213: -2047594971599988289
+    second: spear-kiteShield_spearwall_44x42_77
+  - first:
+      213: 5639819739369440722
+    second: spear-kiteShield_spearwall_44x42_78
+  - first:
+      213: 558188871652639845
+    second: spear-kiteShield_spearwall_44x42_79
+  - first:
+      213: -6334424225801690755
+    second: spear-kiteShield_spearwall_44x42_80
+  - first:
+      213: -5518039284359322426
+    second: spear-kiteShield_spearwall_44x42_81
+  - first:
+      213: 4260772807880766902
+    second: spear-kiteShield_spearwall_44x42_82
+  - first:
+      213: 7507999115400985417
+    second: spear-kiteShield_spearwall_44x42_83
+  - first:
+      213: -978099762281047053
+    second: spear-kiteShield_spearwall_44x42_84
+  - first:
+      213: -48580389851096268
+    second: spear-kiteShield_spearwall_44x42_85
+  - first:
+      213: -5074877644698110883
+    second: spear-kiteShield_spearwall_44x42_86
+  - first:
+      213: -6856217513710408839
+    second: spear-kiteShield_spearwall_44x42_87
+  - first:
+      213: -8588248164280739997
+    second: spear-kiteShield_spearwall_44x42_88
+  - first:
+      213: 4956867485634429726
+    second: spear-kiteShield_spearwall_44x42_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8772590b8e47830800000000000000
+      internalID: 4068132208536680627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8adad6f55eb66550800000000000000
+      internalID: 6153815217271397007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280eac3437bf4d890800000000000000
+      internalID: -7434040612404666238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3997b287ace933a10800000000000000
+      internalID: 1888027261235067283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89b4c027c29ab400800000000000000
+      internalID: 340746105765804429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c3c2220c7f14830800000000000000
+      internalID: 4053793544189262857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39178e3f9d4a16df0800000000000000
+      internalID: -188688453365894765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b1ca051fc7d93d0800000000000000
+      internalID: -3198262784480765128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47926e457ab979210800000000000000
+      internalID: 1339710557152225652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95a26d372f230480800000000000000
+      internalID: -8934245390192826980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9347857a70e220f0800000000000000
+      internalID: -1143104538836253797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b47ceaa903ad51c0800000000000000
+      internalID: -4513271989637712716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b960a10d4157f0f30800000000000000
+      internalID: 4543979281291282075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fab104c60c1ad70800000000000000
+      internalID: 9052728297155964732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c2d8565562f60d0800000000000000
+      internalID: -3427478643187831781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4da7aead8d13500800000000000000
+      internalID: 374318678796850396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeee1f8cab7fa6c0800000000000000
+      internalID: -4129946352209695000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99585c2d7170579c0800000000000000
+      internalID: -3930227300909087335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe291250f984f40800000000000000
+      internalID: 5712990971706404673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2837f4082d512fd30800000000000000
+      internalID: 4463654174517588866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1791fd62d251cbe50800000000000000
+      internalID: 6826354418856696177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65843b4f832b95fb0800000000000000
+      internalID: -4658496381844764586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8df9e60fab05650800000000000000
+      internalID: 6219676627209541859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bf38155ee304950800000000000000
+      internalID: 6431209422521105285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a964520fe46d2c60800000000000000
+      internalID: 7794997507747244456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6614d40521d6392a0800000000000000
+      internalID: -6731917092564680346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d44f72a64af36c0800000000000000
+      internalID: -4161426754823238396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efdd4c39e5ecd6f0800000000000000
+      internalID: -658398655601057815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d56892f33044770800000000000000
+      internalID: 8593997558744243571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18a3e8ab11462140800000000000000
+      internalID: 4694511248633735196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54505d606d7c49260800000000000000
+      internalID: 7103522234321667397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24539df74c7cded0800000000000000
+      internalID: -2387897053774392276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584d9973ceeae0bf0800000000000000
+      internalID: -356154990947347323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adc097d100456800800000000000000
+      internalID: 604960101606935977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eed32d15ae2e170800000000000000
+      internalID: 8206379108162989582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea4c6bff15035f00800000000000000
+      internalID: 1104231968556206818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59e46c73530fbc80800000000000000
+      internalID: -8304915530743748261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2070dd73cb8041e80800000000000000
+      internalID: -8208926616305465598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4322230fd140db0800000000000000
+      internalID: -4826699983163870012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d86faa2e5cdbfa0800000000000000
+      internalID: -5783248769152283244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d956eb2d9a1b6630800000000000000
+      internalID: 3921257162904852945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aefc80e8b1631c0800000000000000
+      internalID: -4524398478799934843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30b480df06ec260800000000000000
+      internalID: 7119734700801459195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3dbb89b6110ccc0800000000000000
+      internalID: -3692932540622187537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d124e8773f275d50800000000000000
+      internalID: 6725896483799048658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dddc9d915196c550800000000000000
+      internalID: 6180787318335266256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d556f64f4ce60a0800000000000000
+      internalID: -6886350226082931343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_47
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08f2e9866d62e310800000000000000
+      internalID: 1432827918624684044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a84537c663eda50800000000000000
+      internalID: 6547730747662568093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d779b5ee54b87fa0800000000000000
+      internalID: -5802689800192821288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdf6e98399195020800000000000000
+      internalID: 2330922403605446070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f419fcd817d4f80800000000000000
+      internalID: -8120709699192402090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbd1bf1223189080800000000000000
+      internalID: -9180566803113190413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_53
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d37efa942bf7be0800000000000000
+      internalID: -1477266123200709277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b8b702fd5b05e80800000000000000
+      internalID: -8191847752259630261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3cee08e5583b780800000000000000
+      internalID: -8668438216821521469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787255e2ffc992a10800000000000000
+      internalID: 1885210538839189383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d71a6b75d0a8990800000000000000
+      internalID: -7383073968743154430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd083df564b42680800000000000000
+      internalID: -8780695023332618765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3118bd36af6a10a70800000000000000
+      internalID: 8791491541951283475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2698ad88591e21390800000000000000
+      internalID: -7848963168190953118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6711cc60a74dcaf0800000000000000
+      internalID: -374564439656949908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ad4b5e91e117490800000000000000
+      internalID: -7750380387151062441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff025672eef49080800000000000000
+      internalID: -9181433491700445200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe3113e75b03d150800000000000000
+      internalID: 5896068809257729727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c083580393d273b70800000000000000
+      internalID: 8878614914034645004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a861f04ff1ce810800000000000000
+      internalID: 1795845484499602058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faed4dc5a78e88a50800000000000000
+      internalID: 6523719672487272111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cf71644a3d924f0800000000000000
+      internalID: -852917951905924001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691acd6b930e5e330800000000000000
+      internalID: 3739641604086735254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901ef9f91c9baaff0800000000000000
+      internalID: -24002606739234551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b99d08b727cc18e0800000000000000
+      internalID: -1721281984156821068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_72
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205034b9a9660e6f0800000000000000
+      internalID: -657412731380235006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b43538c39ccda570800000000000000
+      internalID: 8479658608499700916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef479274711ee2a30800000000000000
+      internalID: 4192535793222907134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575e6b60d3e56ad90800000000000000
+      internalID: -7086873347422231179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f1b72aef55636d0800000000000000
+      internalID: -3011124748714565759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_77
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb918e1d83b7593e0800000000000000
+      internalID: -2047594971599988289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d50a520c2aa44e40800000000000000
+      internalID: 5639819739369440722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5648e6442d51fb700800000000000000
+      internalID: 558188871652639845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7126745aba9718a0800000000000000
+      internalID: -6334424225801690755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4ac17b18cfb63b0800000000000000
+      internalID: -5518039284359322426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_82
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b570625b4e412b30800000000000000
+      internalID: 4260772807880766902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_83
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b3c679a65c13860800000000000000
+      internalID: 7507999115400985417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb185ac2771d62f0800000000000000
+      internalID: -978099762281047053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b10ef8468635ff0800000000000000
+      internalID: -48580389851096268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_86
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b2358ba96299b0800000000000000
+      internalID: -5074877644698110883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_87
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97baa704f72d9d0a0800000000000000
+      internalID: -6856217513710408839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367552d0cc960d880800000000000000
+      internalID: -8588248164280739997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-kiteShield_spearwall_44x42_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e138cef27b45ac440800000000000000
+      internalID: 4956867485634429726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spear-kiteShield_spearwall_44x42_0: 4068132208536680627
+      spear-kiteShield_spearwall_44x42_1: 6153815217271397007
+      spear-kiteShield_spearwall_44x42_10: -1143104538836253797
+      spear-kiteShield_spearwall_44x42_11: -4513271989637712716
+      spear-kiteShield_spearwall_44x42_12: 4543979281291282075
+      spear-kiteShield_spearwall_44x42_13: 9052728297155964732
+      spear-kiteShield_spearwall_44x42_14: -3427478643187831781
+      spear-kiteShield_spearwall_44x42_15: 374318678796850396
+      spear-kiteShield_spearwall_44x42_16: -4129946352209695000
+      spear-kiteShield_spearwall_44x42_17: -3930227300909087335
+      spear-kiteShield_spearwall_44x42_18: 5712990971706404673
+      spear-kiteShield_spearwall_44x42_19: 4463654174517588866
+      spear-kiteShield_spearwall_44x42_2: -7434040612404666238
+      spear-kiteShield_spearwall_44x42_20: 6826354418856696177
+      spear-kiteShield_spearwall_44x42_21: -4658496381844764586
+      spear-kiteShield_spearwall_44x42_22: 6219676627209541859
+      spear-kiteShield_spearwall_44x42_23: 6431209422521105285
+      spear-kiteShield_spearwall_44x42_24: 7794997507747244456
+      spear-kiteShield_spearwall_44x42_25: -6731917092564680346
+      spear-kiteShield_spearwall_44x42_26: -4161426754823238396
+      spear-kiteShield_spearwall_44x42_27: -658398655601057815
+      spear-kiteShield_spearwall_44x42_28: 8593997558744243571
+      spear-kiteShield_spearwall_44x42_29: 4694511248633735196
+      spear-kiteShield_spearwall_44x42_3: 1888027261235067283
+      spear-kiteShield_spearwall_44x42_30: 7103522234321667397
+      spear-kiteShield_spearwall_44x42_31: -2387897053774392276
+      spear-kiteShield_spearwall_44x42_32: -356154990947347323
+      spear-kiteShield_spearwall_44x42_33: 604960101606935977
+      spear-kiteShield_spearwall_44x42_34: 8206379108162989582
+      spear-kiteShield_spearwall_44x42_35: 1104231968556206818
+      spear-kiteShield_spearwall_44x42_36: -8304915530743748261
+      spear-kiteShield_spearwall_44x42_37: -8208926616305465598
+      spear-kiteShield_spearwall_44x42_38: -4826699983163870012
+      spear-kiteShield_spearwall_44x42_39: -5783248769152283244
+      spear-kiteShield_spearwall_44x42_4: 340746105765804429
+      spear-kiteShield_spearwall_44x42_40: 3921257162904852945
+      spear-kiteShield_spearwall_44x42_41: -4524398478799934843
+      spear-kiteShield_spearwall_44x42_42: 7119734700801459195
+      spear-kiteShield_spearwall_44x42_43: -3692932540622187537
+      spear-kiteShield_spearwall_44x42_44: 6725896483799048658
+      spear-kiteShield_spearwall_44x42_45: 6180787318335266256
+      spear-kiteShield_spearwall_44x42_46: -6886350226082931343
+      spear-kiteShield_spearwall_44x42_47: 1432827918624684044
+      spear-kiteShield_spearwall_44x42_48: 6547730747662568093
+      spear-kiteShield_spearwall_44x42_49: -5802689800192821288
+      spear-kiteShield_spearwall_44x42_5: 4053793544189262857
+      spear-kiteShield_spearwall_44x42_50: 2330922403605446070
+      spear-kiteShield_spearwall_44x42_51: -8120709699192402090
+      spear-kiteShield_spearwall_44x42_52: -9180566803113190413
+      spear-kiteShield_spearwall_44x42_53: -1477266123200709277
+      spear-kiteShield_spearwall_44x42_54: -8191847752259630261
+      spear-kiteShield_spearwall_44x42_55: -8668438216821521469
+      spear-kiteShield_spearwall_44x42_56: 1885210538839189383
+      spear-kiteShield_spearwall_44x42_57: -7383073968743154430
+      spear-kiteShield_spearwall_44x42_58: -8780695023332618765
+      spear-kiteShield_spearwall_44x42_59: 8791491541951283475
+      spear-kiteShield_spearwall_44x42_6: -188688453365894765
+      spear-kiteShield_spearwall_44x42_60: -7848963168190953118
+      spear-kiteShield_spearwall_44x42_61: -374564439656949908
+      spear-kiteShield_spearwall_44x42_62: -7750380387151062441
+      spear-kiteShield_spearwall_44x42_63: -9181433491700445200
+      spear-kiteShield_spearwall_44x42_64: 5896068809257729727
+      spear-kiteShield_spearwall_44x42_65: 8878614914034645004
+      spear-kiteShield_spearwall_44x42_66: 1795845484499602058
+      spear-kiteShield_spearwall_44x42_67: 6523719672487272111
+      spear-kiteShield_spearwall_44x42_68: -852917951905924001
+      spear-kiteShield_spearwall_44x42_69: 3739641604086735254
+      spear-kiteShield_spearwall_44x42_7: -3198262784480765128
+      spear-kiteShield_spearwall_44x42_70: -24002606739234551
+      spear-kiteShield_spearwall_44x42_71: -1721281984156821068
+      spear-kiteShield_spearwall_44x42_72: -657412731380235006
+      spear-kiteShield_spearwall_44x42_73: 8479658608499700916
+      spear-kiteShield_spearwall_44x42_74: 4192535793222907134
+      spear-kiteShield_spearwall_44x42_75: -7086873347422231179
+      spear-kiteShield_spearwall_44x42_76: -3011124748714565759
+      spear-kiteShield_spearwall_44x42_77: -2047594971599988289
+      spear-kiteShield_spearwall_44x42_78: 5639819739369440722
+      spear-kiteShield_spearwall_44x42_79: 558188871652639845
+      spear-kiteShield_spearwall_44x42_8: 1339710557152225652
+      spear-kiteShield_spearwall_44x42_80: -6334424225801690755
+      spear-kiteShield_spearwall_44x42_81: -5518039284359322426
+      spear-kiteShield_spearwall_44x42_82: 4260772807880766902
+      spear-kiteShield_spearwall_44x42_83: 7507999115400985417
+      spear-kiteShield_spearwall_44x42_84: -978099762281047053
+      spear-kiteShield_spearwall_44x42_85: -48580389851096268
+      spear-kiteShield_spearwall_44x42_86: -5074877644698110883
+      spear-kiteShield_spearwall_44x42_87: -6856217513710408839
+      spear-kiteShield_spearwall_44x42_88: -8588248164280739997
+      spear-kiteShield_spearwall_44x42_89: 4956867485634429726
+      spear-kiteShield_spearwall_44x42_9: -8934245390192826980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

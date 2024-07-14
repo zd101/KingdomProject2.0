@@ -1,0 +1,5539 @@
+fileFormatVersion: 2
+guid: 002b43538a4d8e54ab320dbdfdefc53d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 360574222272752461
+    second: spear-roundelShield_attack_71x42_0
+  - first:
+      213: -7917602999774638523
+    second: spear-roundelShield_attack_71x42_1
+  - first:
+      213: -2306469376538610607
+    second: spear-roundelShield_attack_71x42_2
+  - first:
+      213: -1412923184177240849
+    second: spear-roundelShield_attack_71x42_3
+  - first:
+      213: -1043027304449079316
+    second: spear-roundelShield_attack_71x42_4
+  - first:
+      213: -8228347858333780667
+    second: spear-roundelShield_attack_71x42_5
+  - first:
+      213: -3309126824743017556
+    second: spear-roundelShield_attack_71x42_6
+  - first:
+      213: 2050932849807457382
+    second: spear-roundelShield_attack_71x42_7
+  - first:
+      213: -8484749573165439793
+    second: spear-roundelShield_attack_71x42_8
+  - first:
+      213: 1202501396769492471
+    second: spear-roundelShield_attack_71x42_9
+  - first:
+      213: 5626990221924597276
+    second: spear-roundelShield_attack_71x42_10
+  - first:
+      213: 7213645787732448392
+    second: spear-roundelShield_attack_71x42_11
+  - first:
+      213: -3796558620382270154
+    second: spear-roundelShield_attack_71x42_12
+  - first:
+      213: -4340577209110563125
+    second: spear-roundelShield_attack_71x42_13
+  - first:
+      213: 7884488791397029350
+    second: spear-roundelShield_attack_71x42_14
+  - first:
+      213: -2584668273607250380
+    second: spear-roundelShield_attack_71x42_15
+  - first:
+      213: -8349347076507452923
+    second: spear-roundelShield_attack_71x42_16
+  - first:
+      213: 1624887348953269967
+    second: spear-roundelShield_attack_71x42_17
+  - first:
+      213: 3989562440760100814
+    second: spear-roundelShield_attack_71x42_18
+  - first:
+      213: 7386719442605687531
+    second: spear-roundelShield_attack_71x42_19
+  - first:
+      213: -8414909695089943897
+    second: spear-roundelShield_attack_71x42_20
+  - first:
+      213: 8408253818984612243
+    second: spear-roundelShield_attack_71x42_21
+  - first:
+      213: 698501864188699950
+    second: spear-roundelShield_attack_71x42_22
+  - first:
+      213: 5887384622357716806
+    second: spear-roundelShield_attack_71x42_23
+  - first:
+      213: -6940085913797939447
+    second: spear-roundelShield_attack_71x42_24
+  - first:
+      213: 905445118195518639
+    second: spear-roundelShield_attack_71x42_25
+  - first:
+      213: -3384216058224424813
+    second: spear-roundelShield_attack_71x42_26
+  - first:
+      213: 7478365321693286137
+    second: spear-roundelShield_attack_71x42_27
+  - first:
+      213: 5365071469728288751
+    second: spear-roundelShield_attack_71x42_28
+  - first:
+      213: 3799882083156677649
+    second: spear-roundelShield_attack_71x42_29
+  - first:
+      213: 5549446037915677207
+    second: spear-roundelShield_attack_71x42_30
+  - first:
+      213: -7952917023906954519
+    second: spear-roundelShield_attack_71x42_31
+  - first:
+      213: 8431708622895160925
+    second: spear-roundelShield_attack_71x42_32
+  - first:
+      213: -5248636310770483556
+    second: spear-roundelShield_attack_71x42_33
+  - first:
+      213: -4690857340929667348
+    second: spear-roundelShield_attack_71x42_34
+  - first:
+      213: 2853128819973604213
+    second: spear-roundelShield_attack_71x42_35
+  - first:
+      213: -6222659055567154048
+    second: spear-roundelShield_attack_71x42_36
+  - first:
+      213: 7906876880789338966
+    second: spear-roundelShield_attack_71x42_37
+  - first:
+      213: 5792287801234366433
+    second: spear-roundelShield_attack_71x42_38
+  - first:
+      213: -9197207686856828734
+    second: spear-roundelShield_attack_71x42_39
+  - first:
+      213: -1476895123348351719
+    second: spear-roundelShield_attack_71x42_40
+  - first:
+      213: 1977398555800251622
+    second: spear-roundelShield_attack_71x42_41
+  - first:
+      213: -3378272525753530394
+    second: spear-roundelShield_attack_71x42_42
+  - first:
+      213: -7906670970112212018
+    second: spear-roundelShield_attack_71x42_43
+  - first:
+      213: 8052037125339816234
+    second: spear-roundelShield_attack_71x42_44
+  - first:
+      213: -8600733683819184802
+    second: spear-roundelShield_attack_71x42_45
+  - first:
+      213: 4266780865839373833
+    second: spear-roundelShield_attack_71x42_46
+  - first:
+      213: 5452748966288167130
+    second: spear-roundelShield_attack_71x42_47
+  - first:
+      213: 7951584426966722627
+    second: spear-roundelShield_attack_71x42_48
+  - first:
+      213: 5357449482174770278
+    second: spear-roundelShield_attack_71x42_49
+  - first:
+      213: 6993225588313550083
+    second: spear-roundelShield_attack_71x42_50
+  - first:
+      213: 1094321875824547789
+    second: spear-roundelShield_attack_71x42_51
+  - first:
+      213: 486724058906159346
+    second: spear-roundelShield_attack_71x42_52
+  - first:
+      213: -6981898061732802395
+    second: spear-roundelShield_attack_71x42_53
+  - first:
+      213: 3073331182684546564
+    second: spear-roundelShield_attack_71x42_54
+  - first:
+      213: -9088249759673575162
+    second: spear-roundelShield_attack_71x42_55
+  - first:
+      213: -1681166524402711712
+    second: spear-roundelShield_attack_71x42_56
+  - first:
+      213: 3450697504850767781
+    second: spear-roundelShield_attack_71x42_57
+  - first:
+      213: 6085589185073251888
+    second: spear-roundelShield_attack_71x42_58
+  - first:
+      213: -806556148199680658
+    second: spear-roundelShield_attack_71x42_59
+  - first:
+      213: -1658564683411852734
+    second: spear-roundelShield_attack_71x42_60
+  - first:
+      213: -7843220698851771538
+    second: spear-roundelShield_attack_71x42_61
+  - first:
+      213: 1470904512945845449
+    second: spear-roundelShield_attack_71x42_62
+  - first:
+      213: -5045214223116065644
+    second: spear-roundelShield_attack_71x42_63
+  - first:
+      213: 5827616024433123986
+    second: spear-roundelShield_attack_71x42_64
+  - first:
+      213: -3082584091694398603
+    second: spear-roundelShield_attack_71x42_65
+  - first:
+      213: -2902765142303351840
+    second: spear-roundelShield_attack_71x42_66
+  - first:
+      213: 2923233510823724361
+    second: spear-roundelShield_attack_71x42_67
+  - first:
+      213: -5441114119783900359
+    second: spear-roundelShield_attack_71x42_68
+  - first:
+      213: 2336340917766732772
+    second: spear-roundelShield_attack_71x42_69
+  - first:
+      213: 3599146099701078968
+    second: spear-roundelShield_attack_71x42_70
+  - first:
+      213: -5731029054321091224
+    second: spear-roundelShield_attack_71x42_71
+  - first:
+      213: 4360615561896344491
+    second: spear-roundelShield_attack_71x42_72
+  - first:
+      213: -7423887521101866046
+    second: spear-roundelShield_attack_71x42_73
+  - first:
+      213: -736004650694388595
+    second: spear-roundelShield_attack_71x42_74
+  - first:
+      213: 5240204720087945391
+    second: spear-roundelShield_attack_71x42_75
+  - first:
+      213: -8981936876895693140
+    second: spear-roundelShield_attack_71x42_76
+  - first:
+      213: 6081091733084080687
+    second: spear-roundelShield_attack_71x42_77
+  - first:
+      213: 6007962962435849523
+    second: spear-roundelShield_attack_71x42_78
+  - first:
+      213: -7629227322358094803
+    second: spear-roundelShield_attack_71x42_79
+  - first:
+      213: 6529947859109514062
+    second: spear-roundelShield_attack_71x42_80
+  - first:
+      213: -6075200140452362641
+    second: spear-roundelShield_attack_71x42_81
+  - first:
+      213: -436496841346514161
+    second: spear-roundelShield_attack_71x42_82
+  - first:
+      213: -4373735434422185703
+    second: spear-roundelShield_attack_71x42_83
+  - first:
+      213: 6006498188425857610
+    second: spear-roundelShield_attack_71x42_84
+  - first:
+      213: 8634043683877060466
+    second: spear-roundelShield_attack_71x42_85
+  - first:
+      213: 2445610735370590357
+    second: spear-roundelShield_attack_71x42_86
+  - first:
+      213: -7056097721325530241
+    second: spear-roundelShield_attack_71x42_87
+  - first:
+      213: -5301890420989062411
+    second: spear-roundelShield_attack_71x42_88
+  - first:
+      213: -4736283350406164192
+    second: spear-roundelShield_attack_71x42_89
+  - first:
+      213: -4522421892512845551
+    second: spear-roundelShield_attack_71x42_90
+  - first:
+      213: -6479339872802865143
+    second: spear-roundelShield_attack_71x42_91
+  - first:
+      213: 7863156274375086551
+    second: spear-roundelShield_attack_71x42_92
+  - first:
+      213: -8269174523243203913
+    second: spear-roundelShield_attack_71x42_93
+  - first:
+      213: 2333001799404621919
+    second: spear-roundelShield_attack_71x42_94
+  - first:
+      213: -7424728321055172827
+    second: spear-roundelShield_attack_71x42_95
+  - first:
+      213: 6856389962125053032
+    second: spear-roundelShield_attack_71x42_96
+  - first:
+      213: -2077676594429064625
+    second: spear-roundelShield_attack_71x42_97
+  - first:
+      213: 5127278124142571676
+    second: spear-roundelShield_attack_71x42_98
+  - first:
+      213: 3114319609460974378
+    second: spear-roundelShield_attack_71x42_99
+  - first:
+      213: 4009881230040500158
+    second: spear-roundelShield_attack_71x42_100
+  - first:
+      213: 1400576183933472185
+    second: spear-roundelShield_attack_71x42_101
+  - first:
+      213: -7878009089922611614
+    second: spear-roundelShield_attack_71x42_102
+  - first:
+      213: -8371025223122680926
+    second: spear-roundelShield_attack_71x42_103
+  - first:
+      213: 2776499701002483990
+    second: spear-roundelShield_attack_71x42_104
+  - first:
+      213: 7397030931775229543
+    second: spear-roundelShield_attack_71x42_105
+  - first:
+      213: -3293335860292477477
+    second: spear-roundelShield_attack_71x42_106
+  - first:
+      213: 5709063172442162751
+    second: spear-roundelShield_attack_71x42_107
+  - first:
+      213: 9152577619706979101
+    second: spear-roundelShield_attack_71x42_108
+  - first:
+      213: -7187003159311732303
+    second: spear-roundelShield_attack_71x42_109
+  - first:
+      213: 2779510658807023921
+    second: spear-roundelShield_attack_71x42_110
+  - first:
+      213: 2903455369204031312
+    second: spear-roundelShield_attack_71x42_111
+  - first:
+      213: 677326979622024946
+    second: spear-roundelShield_attack_71x42_112
+  - first:
+      213: -7723137476636060088
+    second: spear-roundelShield_attack_71x42_113
+  - first:
+      213: -8532170714559726469
+    second: spear-roundelShield_attack_71x42_114
+  - first:
+      213: 3827218118869213041
+    second: spear-roundelShield_attack_71x42_115
+  - first:
+      213: 3665396313746608189
+    second: spear-roundelShield_attack_71x42_116
+  - first:
+      213: 2540272050925851481
+    second: spear-roundelShield_attack_71x42_117
+  - first:
+      213: -2380052760800722760
+    second: spear-roundelShield_attack_71x42_118
+  - first:
+      213: -8268163485700141604
+    second: spear-roundelShield_attack_71x42_119
+  - first:
+      213: 9178584571100532359
+    second: spear-roundelShield_attack_71x42_120
+  - first:
+      213: 3607991360254618948
+    second: spear-roundelShield_attack_71x42_121
+  - first:
+      213: 348221163531925126
+    second: spear-roundelShield_attack_71x42_122
+  - first:
+      213: 7620338965674262269
+    second: spear-roundelShield_attack_71x42_123
+  - first:
+      213: -2572625035612741944
+    second: spear-roundelShield_attack_71x42_124
+  - first:
+      213: 412593496317045279
+    second: spear-roundelShield_attack_71x42_125
+  - first:
+      213: 8540872722160469876
+    second: spear-roundelShield_attack_71x42_126
+  - first:
+      213: -5499224948798384167
+    second: spear-roundelShield_attack_71x42_127
+  - first:
+      213: -7434739858252935732
+    second: spear-roundelShield_attack_71x42_128
+  - first:
+      213: -2006874930946774306
+    second: spear-roundelShield_attack_71x42_129
+  - first:
+      213: -6626122786383869127
+    second: spear-roundelShield_attack_71x42_130
+  - first:
+      213: -1937096555689902223
+    second: spear-roundelShield_attack_71x42_131
+  - first:
+      213: -6712625392460021386
+    second: spear-roundelShield_attack_71x42_132
+  - first:
+      213: -1989980826159160543
+    second: spear-roundelShield_attack_71x42_133
+  - first:
+      213: -6188360437756160569
+    second: spear-roundelShield_attack_71x42_134
+  - first:
+      213: 34665362962825762
+    second: spear-roundelShield_attack_71x42_135
+  - first:
+      213: 7040909871350390016
+    second: spear-roundelShield_attack_71x42_136
+  - first:
+      213: -7903139487346904491
+    second: spear-roundelShield_attack_71x42_137
+  - first:
+      213: -3852064901170007379
+    second: spear-roundelShield_attack_71x42_138
+  - first:
+      213: 5306101749948784833
+    second: spear-roundelShield_attack_71x42_139
+  - first:
+      213: -7833481763233597633
+    second: spear-roundelShield_attack_71x42_140
+  - first:
+      213: -8284536634287744709
+    second: spear-roundelShield_attack_71x42_141
+  - first:
+      213: 5579473959240473810
+    second: spear-roundelShield_attack_71x42_142
+  - first:
+      213: 7101010726000327142
+    second: spear-roundelShield_attack_71x42_143
+  - first:
+      213: -6863702752200488168
+    second: spear-roundelShield_attack_71x42_144
+  - first:
+      213: 1118799292272894672
+    second: spear-roundelShield_attack_71x42_145
+  - first:
+      213: 5555051005523796330
+    second: spear-roundelShield_attack_71x42_146
+  - first:
+      213: 8731439981175893858
+    second: spear-roundelShield_attack_71x42_147
+  - first:
+      213: 5731240286608960672
+    second: spear-roundelShield_attack_71x42_148
+  - first:
+      213: 1650994274676533681
+    second: spear-roundelShield_attack_71x42_149
+  - first:
+      213: 8304547805486026730
+    second: spear-roundelShield_attack_71x42_150
+  - first:
+      213: 1378826531765746133
+    second: spear-roundelShield_attack_71x42_151
+  - first:
+      213: 4179871332843910158
+    second: spear-roundelShield_attack_71x42_152
+  - first:
+      213: 8994681847795634282
+    second: spear-roundelShield_attack_71x42_153
+  - first:
+      213: 5065408535582275300
+    second: spear-roundelShield_attack_71x42_154
+  - first:
+      213: 4971833023877290970
+    second: spear-roundelShield_attack_71x42_155
+  - first:
+      213: 9163412821805490573
+    second: spear-roundelShield_attack_71x42_156
+  - first:
+      213: 5845985325526416225
+    second: spear-roundelShield_attack_71x42_157
+  - first:
+      213: 4365718238149660605
+    second: spear-roundelShield_attack_71x42_158
+  - first:
+      213: -7316247436343651715
+    second: spear-roundelShield_attack_71x42_159
+  - first:
+      213: -5423946438716500836
+    second: spear-roundelShield_attack_71x42_160
+  - first:
+      213: 8979828261736199486
+    second: spear-roundelShield_attack_71x42_161
+  - first:
+      213: 5773107774840590469
+    second: spear-roundelShield_attack_71x42_162
+  - first:
+      213: 913158355469206505
+    second: spear-roundelShield_attack_71x42_163
+  - first:
+      213: -2555388935815903943
+    second: spear-roundelShield_attack_71x42_164
+  - first:
+      213: -1807181671658865976
+    second: spear-roundelShield_attack_71x42_165
+  - first:
+      213: -6304867630525273276
+    second: spear-roundelShield_attack_71x42_166
+  - first:
+      213: 1655332343972309429
+    second: spear-roundelShield_attack_71x42_167
+  - first:
+      213: 1151618701804189217
+    second: spear-roundelShield_attack_71x42_168
+  - first:
+      213: -1577492270753282282
+    second: spear-roundelShield_attack_71x42_169
+  - first:
+      213: 5337629682603158012
+    second: spear-roundelShield_attack_71x42_170
+  - first:
+      213: 1619323131871290614
+    second: spear-roundelShield_attack_71x42_171
+  - first:
+      213: -1748554955907856701
+    second: spear-roundelShield_attack_71x42_172
+  - first:
+      213: 5535354013327813326
+    second: spear-roundelShield_attack_71x42_173
+  - first:
+      213: -3861609941394122253
+    second: spear-roundelShield_attack_71x42_174
+  - first:
+      213: 8069002851710951166
+    second: spear-roundelShield_attack_71x42_175
+  - first:
+      213: 4919542675727830944
+    second: spear-roundelShield_attack_71x42_176
+  - first:
+      213: -8642423928572956975
+    second: spear-roundelShield_attack_71x42_177
+  - first:
+      213: -6042817364730346086
+    second: spear-roundelShield_attack_71x42_178
+  - first:
+      213: -5929026185216100731
+    second: spear-roundelShield_attack_71x42_179
+  - first:
+      213: 2386353964569125881
+    second: spear-roundelShield_attack_71x42_180
+  - first:
+      213: -8084593807928683105
+    second: spear-roundelShield_attack_71x42_181
+  - first:
+      213: -2364717383373986619
+    second: spear-roundelShield_attack_71x42_182
+  - first:
+      213: -5299792539327675968
+    second: spear-roundelShield_attack_71x42_183
+  - first:
+      213: -705842343439734927
+    second: spear-roundelShield_attack_71x42_184
+  - first:
+      213: -1478743124473122773
+    second: spear-roundelShield_attack_71x42_185
+  - first:
+      213: 7793686284578693669
+    second: spear-roundelShield_attack_71x42_186
+  - first:
+      213: 6162796950767532751
+    second: spear-roundelShield_attack_71x42_187
+  - first:
+      213: -8499261651288223899
+    second: spear-roundelShield_attack_71x42_188
+  - first:
+      213: -8875192971762465471
+    second: spear-roundelShield_attack_71x42_189
+  - first:
+      213: -8695418682429561460
+    second: spear-roundelShield_attack_71x42_190
+  - first:
+      213: 2187336758345287850
+    second: spear-roundelShield_attack_71x42_191
+  - first:
+      213: 6784594926968658752
+    second: spear-roundelShield_attack_71x42_192
+  - first:
+      213: 4771771193030976056
+    second: spear-roundelShield_attack_71x42_193
+  - first:
+      213: 6590179318432532646
+    second: spear-roundelShield_attack_71x42_194
+  - first:
+      213: -187620467189649770
+    second: spear-roundelShield_attack_71x42_195
+  - first:
+      213: 2957605496764867125
+    second: spear-roundelShield_attack_71x42_196
+  - first:
+      213: -3643262175618245562
+    second: spear-roundelShield_attack_71x42_197
+  - first:
+      213: 9169756869549396192
+    second: spear-roundelShield_attack_71x42_198
+  - first:
+      213: 6072439292574863616
+    second: spear-roundelShield_attack_71x42_199
+  - first:
+      213: 2649008374047222123
+    second: spear-roundelShield_attack_71x42_200
+  - first:
+      213: -2390478301535749574
+    second: spear-roundelShield_attack_71x42_201
+  - first:
+      213: 102155356930021507
+    second: spear-roundelShield_attack_71x42_202
+  - first:
+      213: 782264875827216866
+    second: spear-roundelShield_attack_71x42_203
+  - first:
+      213: -3794073054857387651
+    second: spear-roundelShield_attack_71x42_204
+  - first:
+      213: -4648701511369877775
+    second: spear-roundelShield_attack_71x42_205
+  - first:
+      213: -5614318802083200027
+    second: spear-roundelShield_attack_71x42_206
+  - first:
+      213: -8066975663990071193
+    second: spear-roundelShield_attack_71x42_207
+  - first:
+      213: -404363415420983752
+    second: spear-roundelShield_attack_71x42_208
+  - first:
+      213: 3466196020762775001
+    second: spear-roundelShield_attack_71x42_209
+  - first:
+      213: 1985167514528801576
+    second: spear-roundelShield_attack_71x42_210
+  - first:
+      213: 7095172101290173075
+    second: spear-roundelShield_attack_71x42_211
+  - first:
+      213: 1497635487722601304
+    second: spear-roundelShield_attack_71x42_212
+  - first:
+      213: -7653781526696815739
+    second: spear-roundelShield_attack_71x42_213
+  - first:
+      213: -1430191151889389578
+    second: spear-roundelShield_attack_71x42_214
+  - first:
+      213: 8368283730996766415
+    second: spear-roundelShield_attack_71x42_215
+  - first:
+      213: 3899758342045025138
+    second: spear-roundelShield_attack_71x42_216
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4beab14854010500800000000000000
+      internalID: 360574222272752461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e8ddd55060f1290800000000000000
+      internalID: -7917602999774638523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154791e7256cdffd0800000000000000
+      internalID: -2306469376538610607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4a33899d9446ce0800000000000000
+      internalID: -1412923184177240849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7874b513c6681f0800000000000000
+      internalID: -1043027304449079316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5453bafe7390fcd80800000000000000
+      internalID: -8228347858333780667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3e9767fae9312d0800000000000000
+      internalID: -3309126824743017556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cf3f28f80667c10800000000000000
+      internalID: 2050932849807457382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4a353a73d104a80800000000000000
+      internalID: -8484749573165439793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd4b5436a420b010800000000000000
+      internalID: 1202501396769492471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e79643bc5171e40800000000000000
+      internalID: 5626990221924597276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8841949df940c1460800000000000000
+      internalID: 7213645787732448392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dea2fbc0aef4bc0800000000000000
+      internalID: -3796558620382270154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6fec2960c23c3c0800000000000000
+      internalID: -4340577209110563125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5d4ce28c45b6d60800000000000000
+      internalID: 7884488791397029350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eea6936e9612cd0800000000000000
+      internalID: -2584668273607250380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ab3561219212c80800000000000000
+      internalID: -8349347076507452923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c2625f62cc8610800000000000000
+      internalID: 1624887348953269967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec70fbaf6e5cd5730800000000000000
+      internalID: 3989562440760100814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2cbff4236e28660800000000000000
+      internalID: 7386719442605687531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_20
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa5c27673c383b80800000000000000
+      internalID: -8414909695089943897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39146edac4e10b470800000000000000
+      internalID: 8408253818984612243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e256ae1aeb391b900800000000000000
+      internalID: 698501864188699950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_23
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f9abf0f1134b150800000000000000
+      internalID: 5887384622357716806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa16da1acdfaf90800000000000000
+      internalID: -6940085913797939447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc7a9a989c09c00800000000000000
+      internalID: 905445118195518639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3984c56ec69d801d0800000000000000
+      internalID: -3384216058224424813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fec02453ad78c760800000000000000
+      internalID: 7478365321693286137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefccbb8310947a40800000000000000
+      internalID: 5365071469728288751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114dcea3f94ebb430800000000000000
+      internalID: 3799882083156677649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712b92ee4c7930d40800000000000000
+      internalID: 5549446037915677207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e28ed56a1091a190800000000000000
+      internalID: -7952917023906954519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e9345c152730570800000000000000
+      internalID: 8431708622895160925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9efe4575191927b0800000000000000
+      internalID: -5248636310770483556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee8ad50a1ab6eeb0800000000000000
+      internalID: -4690857340929667348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_35
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573c4f49b89589720800000000000000
+      internalID: 2853128819973604213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0845d8ade8ca4a9a0800000000000000
+      internalID: -6222659055567154048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b723271aedabd60800000000000000
+      internalID: 7906876880789338966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef176df017526050800000000000000
+      internalID: 5792287801234366433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c818637654fc5080800000000000000
+      internalID: -9197207686856828734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9159052d5b3018be0800000000000000
+      internalID: -1476895123348351719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec28d18281217b10800000000000000
+      internalID: 1977398555800251622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_42
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7cff36907fd11d0800000000000000
+      internalID: -3378272525753530394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3819ed4acd54290800000000000000
+      internalID: -7906670970112212018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21232e9a159ebf60800000000000000
+      internalID: 8052037125339816234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_45
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7830884e04a880800000000000000
+      internalID: -8600733683819184802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_46
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e1ac25796a63b30800000000000000
+      internalID: 4266780865839373833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_47
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad01cf08b4e0cab40800000000000000
+      internalID: 5452748966288167130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_48
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34821e238e3b95e60800000000000000
+      internalID: 7951584426966722627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_49
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ca0274beb795a40800000000000000
+      internalID: 5357449482174770278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_50
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30de991fe9dec0160800000000000000
+      internalID: 6993225588313550083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_51
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc71676b2ffcf2f00800000000000000
+      internalID: 1094321875824547789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8ecbae3f031c600800000000000000
+      internalID: 486724058906159346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a09d6c54b05b1f90800000000000000
+      internalID: -6981898061732802395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4062b0d6d6aa6aa20800000000000000
+      internalID: 3073331182684546564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_55
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60990a4cefc00e180800000000000000
+      internalID: -9088249759673575162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_56
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063c2b804fb4ba8e0800000000000000
+      internalID: -1681166524402711712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_57
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afe4fb191753ef20800000000000000
+      internalID: 3450697504850767781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360049fe1b547450800000000000000
+      internalID: 6085589185073251888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_59
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65962fd4798ec4f0800000000000000
+      internalID: -806556148199680658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_60
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2427a3835389bf8e0800000000000000
+      internalID: -1658564683411852734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_61
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bf2fd5458472390800000000000000
+      internalID: -7843220698851771538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f7a08cd3b96410800000000000000
+      internalID: 1470904512945845449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4942b6f056ccbf9b0800000000000000
+      internalID: -5045214223116065644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292e5bfe5e9dfd050800000000000000
+      internalID: 5827616024433123986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_65
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5730940d9167835d0800000000000000
+      internalID: -3082584091694398603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_66
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb5f9a8b7e47b7d0800000000000000
+      internalID: -2902765142303351840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_67
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9458a20e369619820800000000000000
+      internalID: 2923233510823724361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_68
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b1beb49874d74b0800000000000000
+      internalID: -5441114119783900359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_69
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb32bdafa95c6020800000000000000
+      internalID: 2336340917766732772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_70
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb5a6ffe4cb2f130800000000000000
+      internalID: 3599146099701078968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_71
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d9fbb707b4770b0800000000000000
+      internalID: -5731029054321091224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab3fd000c4048c30800000000000000
+      internalID: 4360615561896344491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb944c02ad09f890800000000000000
+      internalID: -7423887521101866046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8453527baf29c5f0800000000000000
+      internalID: -736004650694388595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_75
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0da2bdd62f8b840800000000000000
+      internalID: 5240204720087945391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_76
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca696a1bfffb95380800000000000000
+      internalID: -8981936876895693140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_77
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a8a0556b0646450800000000000000
+      internalID: 6081091733084080687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_78
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d31b79b72906350800000000000000
+      internalID: 6007962962435849523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_79
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d242424fb2a8f1690800000000000000
+      internalID: -7629227322358094803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_80
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b8b001bf80f9a50800000000000000
+      internalID: 6529947859109514062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_81
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f660fe8f8ad80bba0800000000000000
+      internalID: -6075200140452362641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_82
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0306f97f6041f9f0800000000000000
+      internalID: -436496841346514161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_83
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9111ab1abce5d43c0800000000000000
+      internalID: -4373735434422185703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_84
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8621574e5b5350800000000000000
+      internalID: 6006498188425857610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_85
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f72b04cf842d770800000000000000
+      internalID: 8634043683877060466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_86
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59855a4a10e80f120800000000000000
+      internalID: 2445610735370590357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_87
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73d2fbd184b31e90800000000000000
+      internalID: -7056097721325530241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f296e2b0c6eb66b0800000000000000
+      internalID: -5301890420989062411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021917ff267554eb0800000000000000
+      internalID: -4736283350406164192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1117254ef312d31c0800000000000000
+      internalID: -4522421892512845551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9008f86f6b2c416a0800000000000000
+      internalID: -6479339872802865143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_92
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d28388fa8f1d60800000000000000
+      internalID: 7863156274375086551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2f064459dfd3d80800000000000000
+      internalID: -8269174523243203913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501cd996cc706020800000000000000
+      internalID: 2333001799404621919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_95
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52759bd0ee016f890800000000000000
+      internalID: -7424728321055172827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c8406085ac62f50800000000000000
+      internalID: 6856389962125053032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_97
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a89e6352c9a23e0800000000000000
+      internalID: -2077676594429064625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c903626d940c72740800000000000000
+      internalID: 5127278124142571676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2364f63f29483b20800000000000000
+      internalID: 3114319609460974378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_100
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb70214cbb5f5a730800000000000000
+      internalID: 4009881230040500158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd0a346e98df6310800000000000000
+      internalID: 1400576183933472185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_102
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2664dd1e870bba290800000000000000
+      internalID: -7878009089922611614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_103
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a300f149e424db80800000000000000
+      internalID: -8371025223122680926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_104
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6193b3d74cb188620800000000000000
+      internalID: 2776499701002483990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_105
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e0a09f07887a660800000000000000
+      internalID: 7397030931775229543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_106
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd1631eb78bb42d0800000000000000
+      internalID: -3293335860292477477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_107
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f360ea915baaa3f40800000000000000
+      internalID: 5709063172442162751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_108
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1323d94adc740f70800000000000000
+      internalID: 9152577619706979101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b13d9974b2a24c90800000000000000
+      internalID: -7187003159311732303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139ca9bb73ec29620800000000000000
+      internalID: 2779510658807023921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_111
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f5b9e66452b4820800000000000000
+      internalID: 2903455369204031312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_112
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6b821ac49566900800000000000000
+      internalID: 677326979622024946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_113
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846d9994267e1d490800000000000000
+      internalID: -7723137476636060088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_114
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c3da3c0f3a79980800000000000000
+      internalID: -8532170714559726469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_115
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f53250a920d1530800000000000000
+      internalID: 3827218118869213041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_116
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3094e9f68a1ed230800000000000000
+      internalID: 3665396313746608189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_117
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953d94ca8fbd04320800000000000000
+      internalID: 2540272050925851481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_118
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b009c5cf9a58fed0800000000000000
+      internalID: -2380052760800722760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_119
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddccf9cd15914d80800000000000000
+      internalID: -8268163485700141604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_120
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e04558902e06f70800000000000000
+      internalID: 9178584571100532359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_121
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44da7a4b609221230800000000000000
+      internalID: 3607991360254618948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_122
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686f793ad4125d400800000000000000
+      internalID: 348221163531925126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_123
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfef41d3ae1e0c960800000000000000
+      internalID: 7620338965674262269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_124
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce960419233c4cd0800000000000000
+      internalID: -2572625035612741944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a2d905993d9b500800000000000000
+      internalID: 412593496317045279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_126
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477c2344d76478670800000000000000
+      internalID: 8540872722160469876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_127
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d718e29b04dea3b0800000000000000
+      internalID: -5499224948798384167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_128
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd45676d7f72d890800000000000000
+      internalID: -7434739858252935732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edae74812e52624e0800000000000000
+      internalID: -2006874930946774306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_130
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc777be684b04a0800000000000000
+      internalID: -6626122786383869127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_131
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f787e12fc0e15e0800000000000000
+      internalID: -1937096555689902223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_132
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671472445c6f7d2a0800000000000000
+      internalID: -6712625392460021386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_133
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e1f26bfa2264e0800000000000000
+      internalID: -1989980826159160543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_134
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5967d18f68e1aa0800000000000000
+      internalID: -6188360437756160569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222c865c6f72b7000800000000000000
+      internalID: 34665362962825762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_136
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d9161493656b160800000000000000
+      internalID: 7040909871350390016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_137
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55233564288625290800000000000000
+      internalID: -7903139487346904491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_138
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2f20aa167ba8ac0800000000000000
+      internalID: -3852064901170007379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_139
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0a6cbbd6f03a940800000000000000
+      internalID: 5306101749948784833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_140
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37f5f307d1e94390800000000000000
+      internalID: -7833481763233597633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_141
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39919013d9670d80800000000000000
+      internalID: -8284536634287744709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_142
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc121e21064e6d40800000000000000
+      internalID: 5579473959240473810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_143
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9fc7de1abdb8260800000000000000
+      internalID: 7101010726000327142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_144
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b083b56ba3fb0a0800000000000000
+      internalID: -6863702752200488168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d262e65706c68f00800000000000000
+      internalID: 1118799292272894672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_146
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a612c652571871d40800000000000000
+      internalID: 5555051005523796330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_147
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fe1a7d66e4c2970800000000000000
+      internalID: 8731439981175893858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_148
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2cbddca4798f40800000000000000
+      internalID: 5731240286608960672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_149
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b96c44ab8289e610800000000000000
+      internalID: 1650994274676533681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_150
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef8e3eca3eaf3370800000000000000
+      internalID: 8304547805486026730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_151
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9f7c0ec63922310800000000000000
+      internalID: 1378826531765746133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_152
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04fff0d4d2e10a30800000000000000
+      internalID: 4179871332843910158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_153
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6053851c7783dc70800000000000000
+      internalID: 8994681847795634282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_154
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6fc95b932fb4640800000000000000
+      internalID: 5065408535582275300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_155
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb13c61bcf7ff440800000000000000
+      internalID: 4971833023877290970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_156
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e9fd596bfa2f70800000000000000
+      internalID: 9163412821805490573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_157
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bf5222eac112150800000000000000
+      internalID: 5845985325526416225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_158
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfca566b95269c30800000000000000
+      internalID: 4365718238149660605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_159
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72dfd348b7777a90800000000000000
+      internalID: -7316247436343651715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_160
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94de8783754ab4b0800000000000000
+      internalID: -5423946438716500836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35bcc41a32ce9c70800000000000000
+      internalID: 8979828261736199486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_162
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5805b691fe23e1050800000000000000
+      internalID: 5773107774840590469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_163
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e30c69afa03cac00800000000000000
+      internalID: 913158355469206505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_164
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935cab94d4f698cd0800000000000000
+      internalID: -2555388935815903943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_165
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca3d2038d99be6e0800000000000000
+      internalID: -1807181671658865976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_166
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44baeae6b4c9088a0800000000000000
+      internalID: -6304867630525273276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_167
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b92fab1ffbe8f610800000000000000
+      internalID: 1655332343972309429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_168
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1263cb59b1f5bff00800000000000000
+      internalID: 1151618701804189217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_169
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61783dd332f9b1ae0800000000000000
+      internalID: -1577492270753282282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_170
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf964269ae1131a40800000000000000
+      internalID: 5337629682603158012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e2c31fcdf87610800000000000000
+      internalID: 1619323131871290614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_172
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c60dd62882ebb7e0800000000000000
+      internalID: -1748554955907856701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_173
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaef66c52781dc40800000000000000
+      internalID: 5535354013327813326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_174
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9161ec73ec86ac0800000000000000
+      internalID: -3861609941394122253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_175
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe58db975bdaff60800000000000000
+      internalID: 8069002851710951166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_176
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afc12caff9b54440800000000000000
+      internalID: 4919542675727830944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_177
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea21bf931ff0880800000000000000
+      internalID: -8642423928572956975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_178
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a958fac7f99932ca0800000000000000
+      internalID: -6042817364730346086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_179
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586743e091ed7bda0800000000000000
+      internalID: -5929026185216100731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_180
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3ec7e89480e1120800000000000000
+      internalID: 2386353964569125881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95961504c0cdcf80800000000000000
+      internalID: -8084593807928683105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_182
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c46dc19116de2fd0800000000000000
+      internalID: -2364717383373986619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_183
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1cb16d3ca5376b0800000000000000
+      internalID: -5299792539327675968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_184
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17768dbd0285436f0800000000000000
+      internalID: -705842343439734927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_185
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b207ab786f27a7be0800000000000000
+      internalID: -1478743124473122773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_186
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522a523126cb82c60800000000000000
+      internalID: 7793686284578693669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_187
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcafb51cc27a68550800000000000000
+      internalID: 6162796950767532751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_188
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f8dd52f8e8c0a80800000000000000
+      internalID: -8499261651288223899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_189
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1450e05d30bf4d480800000000000000
+      internalID: -8875192971762465471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_190
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ad7457caa35780800000000000000
+      internalID: -8695418682429561460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_191
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84355513bfa5e10800000000000000
+      internalID: 2187336758345287850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_192
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b52e6c329b72e50800000000000000
+      internalID: 6784594926968658752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_193
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832ad0e3e9cb83240800000000000000
+      internalID: 4771771193030976056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_194
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a80c418c25057b50800000000000000
+      internalID: 6590179318432532646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_195
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e619cdd20756df0800000000000000
+      internalID: -187620467189649770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_196
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532a96c77868b0920800000000000000
+      internalID: 2957605496764867125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c58a6aa58807dc0800000000000000
+      internalID: -3643262175618245562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_198
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e090361a45814f70800000000000000
+      internalID: 9169756869549396192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_199
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0019c0a0d53a54450800000000000000
+      internalID: 6072439292574863616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_200
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69ae16c41b23c420800000000000000
+      internalID: 2649008374047222123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_201
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3abea966a053ded0800000000000000
+      internalID: -2390478301535749574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_202
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38897b181cdea6100800000000000000
+      internalID: 102155356930021507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_203
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e142fb82c92bda00800000000000000
+      internalID: 782264875827216866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_204
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71285198aeb85bc0800000000000000
+      internalID: -3794073054857387651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_205
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f61af3fa9e7c7fb0800000000000000
+      internalID: -4648701511369877775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_206
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3c802abcee512b0800000000000000
+      internalID: -5614318802083200027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760a620df585c0090800000000000000
+      internalID: -8066975663990071193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_208
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8362ba7bd99636af0800000000000000
+      internalID: -404363415420983752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_209
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd007b8ae66a1030800000000000000
+      internalID: 3466196020762775001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_210
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823622b265bbc8b10800000000000000
+      internalID: 1985167514528801576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_211
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392a9ad2f6d177260800000000000000
+      internalID: 7095172101290173075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_212
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b79b09a8ba8c410800000000000000
+      internalID: 1497635487722601304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_213
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5831ac0c04e48c590800000000000000
+      internalID: -7653781526696815739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_214
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7e9be89b0f62ce0800000000000000
+      internalID: -1430191151889389578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_215
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc62ebd57bd122470800000000000000
+      internalID: 8368283730996766415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-roundelShield_attack_71x42_216
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c57fdc89be1630800000000000000
+      internalID: 3899758342045025138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spear-roundelShield_attack_71x42_0: 360574222272752461
+      spear-roundelShield_attack_71x42_1: -7917602999774638523
+      spear-roundelShield_attack_71x42_10: 5626990221924597276
+      spear-roundelShield_attack_71x42_100: 4009881230040500158
+      spear-roundelShield_attack_71x42_101: 1400576183933472185
+      spear-roundelShield_attack_71x42_102: -7878009089922611614
+      spear-roundelShield_attack_71x42_103: -8371025223122680926
+      spear-roundelShield_attack_71x42_104: 2776499701002483990
+      spear-roundelShield_attack_71x42_105: 7397030931775229543
+      spear-roundelShield_attack_71x42_106: -3293335860292477477
+      spear-roundelShield_attack_71x42_107: 5709063172442162751
+      spear-roundelShield_attack_71x42_108: 9152577619706979101
+      spear-roundelShield_attack_71x42_109: -7187003159311732303
+      spear-roundelShield_attack_71x42_11: 7213645787732448392
+      spear-roundelShield_attack_71x42_110: 2779510658807023921
+      spear-roundelShield_attack_71x42_111: 2903455369204031312
+      spear-roundelShield_attack_71x42_112: 677326979622024946
+      spear-roundelShield_attack_71x42_113: -7723137476636060088
+      spear-roundelShield_attack_71x42_114: -8532170714559726469
+      spear-roundelShield_attack_71x42_115: 3827218118869213041
+      spear-roundelShield_attack_71x42_116: 3665396313746608189
+      spear-roundelShield_attack_71x42_117: 2540272050925851481
+      spear-roundelShield_attack_71x42_118: -2380052760800722760
+      spear-roundelShield_attack_71x42_119: -8268163485700141604
+      spear-roundelShield_attack_71x42_12: -3796558620382270154
+      spear-roundelShield_attack_71x42_120: 9178584571100532359
+      spear-roundelShield_attack_71x42_121: 3607991360254618948
+      spear-roundelShield_attack_71x42_122: 348221163531925126
+      spear-roundelShield_attack_71x42_123: 7620338965674262269
+      spear-roundelShield_attack_71x42_124: -2572625035612741944
+      spear-roundelShield_attack_71x42_125: 412593496317045279
+      spear-roundelShield_attack_71x42_126: 8540872722160469876
+      spear-roundelShield_attack_71x42_127: -5499224948798384167
+      spear-roundelShield_attack_71x42_128: -7434739858252935732
+      spear-roundelShield_attack_71x42_129: -2006874930946774306
+      spear-roundelShield_attack_71x42_13: -4340577209110563125
+      spear-roundelShield_attack_71x42_130: -6626122786383869127
+      spear-roundelShield_attack_71x42_131: -1937096555689902223
+      spear-roundelShield_attack_71x42_132: -6712625392460021386
+      spear-roundelShield_attack_71x42_133: -1989980826159160543
+      spear-roundelShield_attack_71x42_134: -6188360437756160569
+      spear-roundelShield_attack_71x42_135: 34665362962825762
+      spear-roundelShield_attack_71x42_136: 7040909871350390016
+      spear-roundelShield_attack_71x42_137: -7903139487346904491
+      spear-roundelShield_attack_71x42_138: -3852064901170007379
+      spear-roundelShield_attack_71x42_139: 5306101749948784833
+      spear-roundelShield_attack_71x42_14: 7884488791397029350
+      spear-roundelShield_attack_71x42_140: -7833481763233597633
+      spear-roundelShield_attack_71x42_141: -8284536634287744709
+      spear-roundelShield_attack_71x42_142: 5579473959240473810
+      spear-roundelShield_attack_71x42_143: 7101010726000327142
+      spear-roundelShield_attack_71x42_144: -6863702752200488168
+      spear-roundelShield_attack_71x42_145: 1118799292272894672
+      spear-roundelShield_attack_71x42_146: 5555051005523796330
+      spear-roundelShield_attack_71x42_147: 8731439981175893858
+      spear-roundelShield_attack_71x42_148: 5731240286608960672
+      spear-roundelShield_attack_71x42_149: 1650994274676533681
+      spear-roundelShield_attack_71x42_15: -2584668273607250380
+      spear-roundelShield_attack_71x42_150: 8304547805486026730
+      spear-roundelShield_attack_71x42_151: 1378826531765746133
+      spear-roundelShield_attack_71x42_152: 4179871332843910158
+      spear-roundelShield_attack_71x42_153: 8994681847795634282
+      spear-roundelShield_attack_71x42_154: 5065408535582275300
+      spear-roundelShield_attack_71x42_155: 4971833023877290970
+      spear-roundelShield_attack_71x42_156: 9163412821805490573
+      spear-roundelShield_attack_71x42_157: 5845985325526416225
+      spear-roundelShield_attack_71x42_158: 4365718238149660605
+      spear-roundelShield_attack_71x42_159: -7316247436343651715
+      spear-roundelShield_attack_71x42_16: -8349347076507452923
+      spear-roundelShield_attack_71x42_160: -5423946438716500836
+      spear-roundelShield_attack_71x42_161: 8979828261736199486
+      spear-roundelShield_attack_71x42_162: 5773107774840590469
+      spear-roundelShield_attack_71x42_163: 913158355469206505
+      spear-roundelShield_attack_71x42_164: -2555388935815903943
+      spear-roundelShield_attack_71x42_165: -1807181671658865976
+      spear-roundelShield_attack_71x42_166: -6304867630525273276
+      spear-roundelShield_attack_71x42_167: 1655332343972309429
+      spear-roundelShield_attack_71x42_168: 1151618701804189217
+      spear-roundelShield_attack_71x42_169: -1577492270753282282
+      spear-roundelShield_attack_71x42_17: 1624887348953269967
+      spear-roundelShield_attack_71x42_170: 5337629682603158012
+      spear-roundelShield_attack_71x42_171: 1619323131871290614
+      spear-roundelShield_attack_71x42_172: -1748554955907856701
+      spear-roundelShield_attack_71x42_173: 5535354013327813326
+      spear-roundelShield_attack_71x42_174: -3861609941394122253
+      spear-roundelShield_attack_71x42_175: 8069002851710951166
+      spear-roundelShield_attack_71x42_176: 4919542675727830944
+      spear-roundelShield_attack_71x42_177: -8642423928572956975
+      spear-roundelShield_attack_71x42_178: -6042817364730346086
+      spear-roundelShield_attack_71x42_179: -5929026185216100731
+      spear-roundelShield_attack_71x42_18: 3989562440760100814
+      spear-roundelShield_attack_71x42_180: 2386353964569125881
+      spear-roundelShield_attack_71x42_181: -8084593807928683105
+      spear-roundelShield_attack_71x42_182: -2364717383373986619
+      spear-roundelShield_attack_71x42_183: -5299792539327675968
+      spear-roundelShield_attack_71x42_184: -705842343439734927
+      spear-roundelShield_attack_71x42_185: -1478743124473122773
+      spear-roundelShield_attack_71x42_186: 7793686284578693669
+      spear-roundelShield_attack_71x42_187: 6162796950767532751
+      spear-roundelShield_attack_71x42_188: -8499261651288223899
+      spear-roundelShield_attack_71x42_189: -8875192971762465471
+      spear-roundelShield_attack_71x42_19: 7386719442605687531
+      spear-roundelShield_attack_71x42_190: -8695418682429561460
+      spear-roundelShield_attack_71x42_191: 2187336758345287850
+      spear-roundelShield_attack_71x42_192: 6784594926968658752
+      spear-roundelShield_attack_71x42_193: 4771771193030976056
+      spear-roundelShield_attack_71x42_194: 6590179318432532646
+      spear-roundelShield_attack_71x42_195: -187620467189649770
+      spear-roundelShield_attack_71x42_196: 2957605496764867125
+      spear-roundelShield_attack_71x42_197: -3643262175618245562
+      spear-roundelShield_attack_71x42_198: 9169756869549396192
+      spear-roundelShield_attack_71x42_199: 6072439292574863616
+      spear-roundelShield_attack_71x42_2: -2306469376538610607
+      spear-roundelShield_attack_71x42_20: -8414909695089943897
+      spear-roundelShield_attack_71x42_200: 2649008374047222123
+      spear-roundelShield_attack_71x42_201: -2390478301535749574
+      spear-roundelShield_attack_71x42_202: 102155356930021507
+      spear-roundelShield_attack_71x42_203: 782264875827216866
+      spear-roundelShield_attack_71x42_204: -3794073054857387651
+      spear-roundelShield_attack_71x42_205: -4648701511369877775
+      spear-roundelShield_attack_71x42_206: -5614318802083200027
+      spear-roundelShield_attack_71x42_207: -8066975663990071193
+      spear-roundelShield_attack_71x42_208: -404363415420983752
+      spear-roundelShield_attack_71x42_209: 3466196020762775001
+      spear-roundelShield_attack_71x42_21: 8408253818984612243
+      spear-roundelShield_attack_71x42_210: 1985167514528801576
+      spear-roundelShield_attack_71x42_211: 7095172101290173075
+      spear-roundelShield_attack_71x42_212: 1497635487722601304
+      spear-roundelShield_attack_71x42_213: -7653781526696815739
+      spear-roundelShield_attack_71x42_214: -1430191151889389578
+      spear-roundelShield_attack_71x42_215: 8368283730996766415
+      spear-roundelShield_attack_71x42_216: 3899758342045025138
+      spear-roundelShield_attack_71x42_22: 698501864188699950
+      spear-roundelShield_attack_71x42_23: 5887384622357716806
+      spear-roundelShield_attack_71x42_24: -6940085913797939447
+      spear-roundelShield_attack_71x42_25: 905445118195518639
+      spear-roundelShield_attack_71x42_26: -3384216058224424813
+      spear-roundelShield_attack_71x42_27: 7478365321693286137
+      spear-roundelShield_attack_71x42_28: 5365071469728288751
+      spear-roundelShield_attack_71x42_29: 3799882083156677649
+      spear-roundelShield_attack_71x42_3: -1412923184177240849
+      spear-roundelShield_attack_71x42_30: 5549446037915677207
+      spear-roundelShield_attack_71x42_31: -7952917023906954519
+      spear-roundelShield_attack_71x42_32: 8431708622895160925
+      spear-roundelShield_attack_71x42_33: -5248636310770483556
+      spear-roundelShield_attack_71x42_34: -4690857340929667348
+      spear-roundelShield_attack_71x42_35: 2853128819973604213
+      spear-roundelShield_attack_71x42_36: -6222659055567154048
+      spear-roundelShield_attack_71x42_37: 7906876880789338966
+      spear-roundelShield_attack_71x42_38: 5792287801234366433
+      spear-roundelShield_attack_71x42_39: -9197207686856828734
+      spear-roundelShield_attack_71x42_4: -1043027304449079316
+      spear-roundelShield_attack_71x42_40: -1476895123348351719
+      spear-roundelShield_attack_71x42_41: 1977398555800251622
+      spear-roundelShield_attack_71x42_42: -3378272525753530394
+      spear-roundelShield_attack_71x42_43: -7906670970112212018
+      spear-roundelShield_attack_71x42_44: 8052037125339816234
+      spear-roundelShield_attack_71x42_45: -8600733683819184802
+      spear-roundelShield_attack_71x42_46: 4266780865839373833
+      spear-roundelShield_attack_71x42_47: 5452748966288167130
+      spear-roundelShield_attack_71x42_48: 7951584426966722627
+      spear-roundelShield_attack_71x42_49: 5357449482174770278
+      spear-roundelShield_attack_71x42_5: -8228347858333780667
+      spear-roundelShield_attack_71x42_50: 6993225588313550083
+      spear-roundelShield_attack_71x42_51: 1094321875824547789
+      spear-roundelShield_attack_71x42_52: 486724058906159346
+      spear-roundelShield_attack_71x42_53: -6981898061732802395
+      spear-roundelShield_attack_71x42_54: 3073331182684546564
+      spear-roundelShield_attack_71x42_55: -9088249759673575162
+      spear-roundelShield_attack_71x42_56: -1681166524402711712
+      spear-roundelShield_attack_71x42_57: 3450697504850767781
+      spear-roundelShield_attack_71x42_58: 6085589185073251888
+      spear-roundelShield_attack_71x42_59: -806556148199680658
+      spear-roundelShield_attack_71x42_6: -3309126824743017556
+      spear-roundelShield_attack_71x42_60: -1658564683411852734
+      spear-roundelShield_attack_71x42_61: -7843220698851771538
+      spear-roundelShield_attack_71x42_62: 1470904512945845449
+      spear-roundelShield_attack_71x42_63: -5045214223116065644
+      spear-roundelShield_attack_71x42_64: 5827616024433123986
+      spear-roundelShield_attack_71x42_65: -3082584091694398603
+      spear-roundelShield_attack_71x42_66: -2902765142303351840
+      spear-roundelShield_attack_71x42_67: 2923233510823724361
+      spear-roundelShield_attack_71x42_68: -5441114119783900359
+      spear-roundelShield_attack_71x42_69: 2336340917766732772
+      spear-roundelShield_attack_71x42_7: 2050932849807457382
+      spear-roundelShield_attack_71x42_70: 3599146099701078968
+      spear-roundelShield_attack_71x42_71: -5731029054321091224
+      spear-roundelShield_attack_71x42_72: 4360615561896344491
+      spear-roundelShield_attack_71x42_73: -7423887521101866046
+      spear-roundelShield_attack_71x42_74: -736004650694388595
+      spear-roundelShield_attack_71x42_75: 5240204720087945391
+      spear-roundelShield_attack_71x42_76: -8981936876895693140
+      spear-roundelShield_attack_71x42_77: 6081091733084080687
+      spear-roundelShield_attack_71x42_78: 6007962962435849523
+      spear-roundelShield_attack_71x42_79: -7629227322358094803
+      spear-roundelShield_attack_71x42_8: -8484749573165439793
+      spear-roundelShield_attack_71x42_80: 6529947859109514062
+      spear-roundelShield_attack_71x42_81: -6075200140452362641
+      spear-roundelShield_attack_71x42_82: -436496841346514161
+      spear-roundelShield_attack_71x42_83: -4373735434422185703
+      spear-roundelShield_attack_71x42_84: 6006498188425857610
+      spear-roundelShield_attack_71x42_85: 8634043683877060466
+      spear-roundelShield_attack_71x42_86: 2445610735370590357
+      spear-roundelShield_attack_71x42_87: -7056097721325530241
+      spear-roundelShield_attack_71x42_88: -5301890420989062411
+      spear-roundelShield_attack_71x42_89: -4736283350406164192
+      spear-roundelShield_attack_71x42_9: 1202501396769492471
+      spear-roundelShield_attack_71x42_90: -4522421892512845551
+      spear-roundelShield_attack_71x42_91: -6479339872802865143
+      spear-roundelShield_attack_71x42_92: 7863156274375086551
+      spear-roundelShield_attack_71x42_93: -8269174523243203913
+      spear-roundelShield_attack_71x42_94: 2333001799404621919
+      spear-roundelShield_attack_71x42_95: -7424728321055172827
+      spear-roundelShield_attack_71x42_96: 6856389962125053032
+      spear-roundelShield_attack_71x42_97: -2077676594429064625
+      spear-roundelShield_attack_71x42_98: 5127278124142571676
+      spear-roundelShield_attack_71x42_99: 3114319609460974378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3414 @@
+fileFormatVersion: 2
+guid: 00f775922fe949e40bbc70fde5fb3548
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7638501335830709566
+    second: axe-paviseShield_attack_71x44_0
+  - first:
+      213: 3728555498360791751
+    second: axe-paviseShield_attack_71x44_1
+  - first:
+      213: 4384063246876401639
+    second: axe-paviseShield_attack_71x44_2
+  - first:
+      213: -5275061343937719728
+    second: axe-paviseShield_attack_71x44_3
+  - first:
+      213: -4656022649204964132
+    second: axe-paviseShield_attack_71x44_4
+  - first:
+      213: 5292469780876208872
+    second: axe-paviseShield_attack_71x44_5
+  - first:
+      213: 7134289942867002501
+    second: axe-paviseShield_attack_71x44_6
+  - first:
+      213: -2579241075502579850
+    second: axe-paviseShield_attack_71x44_7
+  - first:
+      213: 8965465583813553383
+    second: axe-paviseShield_attack_71x44_8
+  - first:
+      213: -6702471528745058377
+    second: axe-paviseShield_attack_71x44_9
+  - first:
+      213: 6788678887797053797
+    second: axe-paviseShield_attack_71x44_10
+  - first:
+      213: 1674392187634230667
+    second: axe-paviseShield_attack_71x44_11
+  - first:
+      213: -4052480713513252364
+    second: axe-paviseShield_attack_71x44_12
+  - first:
+      213: 9173189383179867150
+    second: axe-paviseShield_attack_71x44_13
+  - first:
+      213: 8221564830032479049
+    second: axe-paviseShield_attack_71x44_14
+  - first:
+      213: -4421420945133923001
+    second: axe-paviseShield_attack_71x44_15
+  - first:
+      213: 4176037019625809538
+    second: axe-paviseShield_attack_71x44_16
+  - first:
+      213: -6201804022453521033
+    second: axe-paviseShield_attack_71x44_17
+  - first:
+      213: -9187472387079050276
+    second: axe-paviseShield_attack_71x44_18
+  - first:
+      213: -6005827002500847025
+    second: axe-paviseShield_attack_71x44_19
+  - first:
+      213: 2223878441507331987
+    second: axe-paviseShield_attack_71x44_20
+  - first:
+      213: 6332946750590307232
+    second: axe-paviseShield_attack_71x44_21
+  - first:
+      213: -1062024364869866865
+    second: axe-paviseShield_attack_71x44_22
+  - first:
+      213: 1117580259789941443
+    second: axe-paviseShield_attack_71x44_23
+  - first:
+      213: 7896913917520498937
+    second: axe-paviseShield_attack_71x44_24
+  - first:
+      213: -5016549543991921642
+    second: axe-paviseShield_attack_71x44_25
+  - first:
+      213: -6179775727993604701
+    second: axe-paviseShield_attack_71x44_26
+  - first:
+      213: -3398290526316183733
+    second: axe-paviseShield_attack_71x44_27
+  - first:
+      213: -1262608907460633665
+    second: axe-paviseShield_attack_71x44_28
+  - first:
+      213: 1089824946519778064
+    second: axe-paviseShield_attack_71x44_29
+  - first:
+      213: 5542899217276206574
+    second: axe-paviseShield_attack_71x44_30
+  - first:
+      213: 7777465393601147406
+    second: axe-paviseShield_attack_71x44_31
+  - first:
+      213: -3052202434817855369
+    second: axe-paviseShield_attack_71x44_32
+  - first:
+      213: 4260818721065182188
+    second: axe-paviseShield_attack_71x44_33
+  - first:
+      213: -6656192369914830409
+    second: axe-paviseShield_attack_71x44_34
+  - first:
+      213: -2845091458624838666
+    second: axe-paviseShield_attack_71x44_35
+  - first:
+      213: -1106222342173467797
+    second: axe-paviseShield_attack_71x44_36
+  - first:
+      213: 4005564598943406307
+    second: axe-paviseShield_attack_71x44_37
+  - first:
+      213: 4762693995898404987
+    second: axe-paviseShield_attack_71x44_38
+  - first:
+      213: 890912156428493223
+    second: axe-paviseShield_attack_71x44_39
+  - first:
+      213: -4083593055878158439
+    second: axe-paviseShield_attack_71x44_40
+  - first:
+      213: 798129080216073372
+    second: axe-paviseShield_attack_71x44_41
+  - first:
+      213: -6669173042892712372
+    second: axe-paviseShield_attack_71x44_42
+  - first:
+      213: 7342771011726502001
+    second: axe-paviseShield_attack_71x44_43
+  - first:
+      213: -1858447693310136455
+    second: axe-paviseShield_attack_71x44_44
+  - first:
+      213: -5392790790120294942
+    second: axe-paviseShield_attack_71x44_45
+  - first:
+      213: 1244893698050603102
+    second: axe-paviseShield_attack_71x44_46
+  - first:
+      213: 7433096446831627691
+    second: axe-paviseShield_attack_71x44_47
+  - first:
+      213: -7329248087002752179
+    second: axe-paviseShield_attack_71x44_48
+  - first:
+      213: 3989436629320260417
+    second: axe-paviseShield_attack_71x44_49
+  - first:
+      213: -1216817270663149805
+    second: axe-paviseShield_attack_71x44_50
+  - first:
+      213: -6883783918566199469
+    second: axe-paviseShield_attack_71x44_51
+  - first:
+      213: -8505938425431684670
+    second: axe-paviseShield_attack_71x44_52
+  - first:
+      213: -5785533745387549097
+    second: axe-paviseShield_attack_71x44_53
+  - first:
+      213: 8346960929623896682
+    second: axe-paviseShield_attack_71x44_54
+  - first:
+      213: -7257503048775526534
+    second: axe-paviseShield_attack_71x44_55
+  - first:
+      213: -1017171617672910761
+    second: axe-paviseShield_attack_71x44_56
+  - first:
+      213: -6084718374109520460
+    second: axe-paviseShield_attack_71x44_57
+  - first:
+      213: -5308437377224007928
+    second: axe-paviseShield_attack_71x44_58
+  - first:
+      213: 7281552181633803381
+    second: axe-paviseShield_attack_71x44_59
+  - first:
+      213: 8166662340744248612
+    second: axe-paviseShield_attack_71x44_60
+  - first:
+      213: -6783267156503986592
+    second: axe-paviseShield_attack_71x44_61
+  - first:
+      213: -2771729368204848244
+    second: axe-paviseShield_attack_71x44_62
+  - first:
+      213: 8873046844592002438
+    second: axe-paviseShield_attack_71x44_63
+  - first:
+      213: -446349300807646196
+    second: axe-paviseShield_attack_71x44_64
+  - first:
+      213: -4891442701077298433
+    second: axe-paviseShield_attack_71x44_65
+  - first:
+      213: -1125237606666329881
+    second: axe-paviseShield_attack_71x44_66
+  - first:
+      213: 3335382288190520660
+    second: axe-paviseShield_attack_71x44_67
+  - first:
+      213: -2664495177073022903
+    second: axe-paviseShield_attack_71x44_68
+  - first:
+      213: 7642174980694812991
+    second: axe-paviseShield_attack_71x44_69
+  - first:
+      213: -4414897990540868765
+    second: axe-paviseShield_attack_71x44_70
+  - first:
+      213: 1647725081842100882
+    second: axe-paviseShield_attack_71x44_71
+  - first:
+      213: -1250566598879438210
+    second: axe-paviseShield_attack_71x44_72
+  - first:
+      213: 4310633684038579984
+    second: axe-paviseShield_attack_71x44_73
+  - first:
+      213: -2495962415393725544
+    second: axe-paviseShield_attack_71x44_74
+  - first:
+      213: 33518558274854136
+    second: axe-paviseShield_attack_71x44_75
+  - first:
+      213: -2903417124193106884
+    second: axe-paviseShield_attack_71x44_76
+  - first:
+      213: -1827454277485323
+    second: axe-paviseShield_attack_71x44_77
+  - first:
+      213: 4411193459219078720
+    second: axe-paviseShield_attack_71x44_78
+  - first:
+      213: 2436724988704491524
+    second: axe-paviseShield_attack_71x44_79
+  - first:
+      213: 5654605526857672968
+    second: axe-paviseShield_attack_71x44_80
+  - first:
+      213: 4673328325121750304
+    second: axe-paviseShield_attack_71x44_81
+  - first:
+      213: -5899892848491565546
+    second: axe-paviseShield_attack_71x44_82
+  - first:
+      213: 8080820082490137410
+    second: axe-paviseShield_attack_71x44_83
+  - first:
+      213: -2757240867434179761
+    second: axe-paviseShield_attack_71x44_84
+  - first:
+      213: 6195037346139210854
+    second: axe-paviseShield_attack_71x44_85
+  - first:
+      213: 5556939999079370097
+    second: axe-paviseShield_attack_71x44_86
+  - first:
+      213: -381237132969921886
+    second: axe-paviseShield_attack_71x44_87
+  - first:
+      213: -4611949151034288526
+    second: axe-paviseShield_attack_71x44_88
+  - first:
+      213: -6177455420510808416
+    second: axe-paviseShield_attack_71x44_89
+  - first:
+      213: -7654801508370899521
+    second: axe-paviseShield_attack_71x44_90
+  - first:
+      213: -9154557669967581346
+    second: axe-paviseShield_attack_71x44_91
+  - first:
+      213: -3608902326010998148
+    second: axe-paviseShield_attack_71x44_92
+  - first:
+      213: -1501348650483296561
+    second: axe-paviseShield_attack_71x44_93
+  - first:
+      213: -7468683509257139653
+    second: axe-paviseShield_attack_71x44_94
+  - first:
+      213: 6514934615864608331
+    second: axe-paviseShield_attack_71x44_95
+  - first:
+      213: -8355442591294070778
+    second: axe-paviseShield_attack_71x44_96
+  - first:
+      213: -7132902150630669168
+    second: axe-paviseShield_attack_71x44_97
+  - first:
+      213: -2356041342356805566
+    second: axe-paviseShield_attack_71x44_98
+  - first:
+      213: 1382164534794504148
+    second: axe-paviseShield_attack_71x44_99
+  - first:
+      213: 1995746912790095327
+    second: axe-paviseShield_attack_71x44_100
+  - first:
+      213: -895520554741556260
+    second: axe-paviseShield_attack_71x44_101
+  - first:
+      213: 1976954095525938392
+    second: axe-paviseShield_attack_71x44_102
+  - first:
+      213: 7552313194130418094
+    second: axe-paviseShield_attack_71x44_103
+  - first:
+      213: 2076686198462030210
+    second: axe-paviseShield_attack_71x44_104
+  - first:
+      213: 1874410647936984786
+    second: axe-paviseShield_attack_71x44_105
+  - first:
+      213: 3758664912315057506
+    second: axe-paviseShield_attack_71x44_106
+  - first:
+      213: -7736191967769545658
+    second: axe-paviseShield_attack_71x44_107
+  - first:
+      213: -5607328687239995123
+    second: axe-paviseShield_attack_71x44_108
+  - first:
+      213: -6388119158053836262
+    second: axe-paviseShield_attack_71x44_109
+  - first:
+      213: 8376812916847428834
+    second: axe-paviseShield_attack_71x44_110
+  - first:
+      213: 2943479251320069628
+    second: axe-paviseShield_attack_71x44_111
+  - first:
+      213: 2210062703768220606
+    second: axe-paviseShield_attack_71x44_112
+  - first:
+      213: -8915164611297284273
+    second: axe-paviseShield_attack_71x44_113
+  - first:
+      213: -2336276899312598269
+    second: axe-paviseShield_attack_71x44_114
+  - first:
+      213: -5129305057385181852
+    second: axe-paviseShield_attack_71x44_115
+  - first:
+      213: 7646351621847240221
+    second: axe-paviseShield_attack_71x44_116
+  - first:
+      213: -6104250219823718859
+    second: axe-paviseShield_attack_71x44_117
+  - first:
+      213: 4394830036979843433
+    second: axe-paviseShield_attack_71x44_118
+  - first:
+      213: -6624101106143572792
+    second: axe-paviseShield_attack_71x44_119
+  - first:
+      213: -5452044624254181222
+    second: axe-paviseShield_attack_71x44_120
+  - first:
+      213: -3271849178719775713
+    second: axe-paviseShield_attack_71x44_121
+  - first:
+      213: -6426423738547841424
+    second: axe-paviseShield_attack_71x44_122
+  - first:
+      213: 4052923142799633522
+    second: axe-paviseShield_attack_71x44_123
+  - first:
+      213: -6376600018782430814
+    second: axe-paviseShield_attack_71x44_124
+  - first:
+      213: 8995499485799975033
+    second: axe-paviseShield_attack_71x44_125
+  - first:
+      213: -7320327458682718204
+    second: axe-paviseShield_attack_71x44_126
+  - first:
+      213: 8944886994950936563
+    second: axe-paviseShield_attack_71x44_127
+  - first:
+      213: 6713476743778425069
+    second: axe-paviseShield_attack_71x44_128
+  - first:
+      213: -1702931599305041299
+    second: axe-paviseShield_attack_71x44_129
+  - first:
+      213: -2607062716332896017
+    second: axe-paviseShield_attack_71x44_130
+  - first:
+      213: 4221472763251897264
+    second: axe-paviseShield_attack_71x44_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3549829e78610a60800000000000000
+      internalID: 7638501335830709566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2ef15987d7eb330800000000000000
+      internalID: 3728555498360791751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd9e69b4257dc30800000000000000
+      internalID: 4384063246876401639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052923af7a73bc6b0800000000000000
+      internalID: -5275061343937719728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd407f7b11c726fb0800000000000000
+      internalID: -4656022649204964132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaad999931a27940800000000000000
+      internalID: 5292469780876208872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584ca3967e6120360800000000000000
+      internalID: 7134289942867002501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f729048e1b43cd0800000000000000
+      internalID: -2579241075502579850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec6239827bbb6c70800000000000000
+      internalID: 8965465583813553383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf3bf3e7a90cf2a0800000000000000
+      internalID: -6702471528745058377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56956510b7b363e50800000000000000
+      internalID: 6788678887797053797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85a0a6c2d2ac3710800000000000000
+      internalID: 1674392187634230667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9cbe31342b2c7c0800000000000000
+      internalID: -4052480713513252364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0412d17427bd4f70800000000000000
+      internalID: 9173189383179867150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9434ee737add81270800000000000000
+      internalID: 8221564830032479049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74512da7315f3a2c0800000000000000
+      internalID: -4421420945133923001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2866da33b8344f930800000000000000
+      internalID: 4176037019625809538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775b113a914cee9a0800000000000000
+      internalID: -6201804022453521033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb61709a8a8f7080800000000000000
+      internalID: -9187472387079050276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aec75592407aca0800000000000000
+      internalID: -6005827002500847025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f91b1f8adccde10800000000000000
+      internalID: 2223878441507331987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab466a248523e750800000000000000
+      internalID: 6332946750590307232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a2f1d877ee241f0800000000000000
+      internalID: -1062024364869866865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa4c83351728f00800000000000000
+      internalID: 1117580259789941443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0d5ab4e59779d60800000000000000
+      internalID: 7896913917520498937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b630c4c2a16ab0800000000000000
+      internalID: -5016549543991921642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53c5d97b60d3aa0800000000000000
+      internalID: -6179775727993604701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f395f65c8d6d0d0800000000000000
+      internalID: -3398290526316183733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb909463ef4a7ee0800000000000000
+      internalID: -1262608907460633665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_29
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013aba4c306df1f00800000000000000
+      internalID: 1089824946519778064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedf98778755cec40800000000000000
+      internalID: 5542899217276206574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e027d76919b1feb60800000000000000
+      internalID: 7777465393601147406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_32
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770791a8e0664a5d0800000000000000
+      internalID: -3052202434817855369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3ac615d08712b30800000000000000
+      internalID: 4260818721065182188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1af8a3e4470a3a0800000000000000
+      internalID: -6656192369914830409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f32b2f64643488d0800000000000000
+      internalID: -2845091458624838666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b562c04a8e5a0f0800000000000000
+      internalID: -1106222342173467797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d6e4c7cf969730800000000000000
+      internalID: 4005564598943406307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70096794fc781240800000000000000
+      internalID: 4762693995898404987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a16ff1d2e72d5c00800000000000000
+      internalID: 890912156428493223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_40
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997612160c92457c0800000000000000
+      internalID: -4083593055878158439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_41
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9430377b26831b00800000000000000
+      internalID: 798129080216073372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46d4c8c3765273a0800000000000000
+      internalID: -6669173042892712372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1786efcd453c6e560800000000000000
+      internalID: 7342771011726502001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fea9e5ba77536e0800000000000000
+      internalID: -1858447693310136455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5b1ee3955f825b0800000000000000
+      internalID: -5392790790120294942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58bd6ff830c64110800000000000000
+      internalID: 1244893698050603102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad0e9e06d9a72760800000000000000
+      internalID: 7433096446831627691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_48
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b5d7762b7494a90800000000000000
+      internalID: -7329248087002752179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_49
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd0983a735d5730800000000000000
+      internalID: 3989436629320260417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3170099a32ffc1fe0800000000000000
+      internalID: -1216817270663149805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fa0577ff2e770a0800000000000000
+      internalID: -6883783918566199469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c98cc68116d4f980800000000000000
+      internalID: -8505938425431684670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_53
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ec32e26b7a5bfa0800000000000000
+      internalID: -5785533745387549097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_54
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62fb4ccdbc56d370800000000000000
+      internalID: 8346960929623896682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_55
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a779b65dd6b284b90800000000000000
+      internalID: -7257503048775526534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7582ffc8dc742e1f0800000000000000
+      internalID: -1017171617672910761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdd8e080ecbe8ba0800000000000000
+      internalID: -6084718374109520460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f182aa454a456b0800000000000000
+      internalID: -5308437377224007928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_59
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574e0cf31254d0560800000000000000
+      internalID: 7281552181633803381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dfe9c4120d55170800000000000000
+      internalID: 8166662340744248612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_61
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e7100e57efcd1a0800000000000000
+      internalID: -6783267156503986592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83d1aa23d6d889d0800000000000000
+      internalID: -2771729368204848244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_63
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6859e4ff715632b70800000000000000
+      internalID: 8873046844592002438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_64
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04cd9ffcaf3ec9f0800000000000000
+      internalID: -446349300807646196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_65
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff24c1387ca1e1cb0800000000000000
+      internalID: -4891442701077298433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e02eb6cb5a5260f0800000000000000
+      internalID: -1125237606666329881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_67
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db9bdf488a94e20800000000000000
+      internalID: 3335382288190520660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94822d8e0cfc50bd0800000000000000
+      internalID: -2664495177073022903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_69
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3921bba7a57e0a60800000000000000
+      internalID: 7642174980694812991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_70
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363c9323ba12bb2c0800000000000000
+      internalID: -4414897990540868765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_71
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a23be5b35edd610800000000000000
+      internalID: 1647725081842100882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a92d9dd4815aee0800000000000000
+      internalID: -1250566598879438210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_73
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017f3f53f7272db30800000000000000
+      internalID: 4310633684038579984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_74
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8932bb9486f8c5dd0800000000000000
+      internalID: -2495962415393725544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_75
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc1b5f73f4177000800000000000000
+      internalID: 33518558274854136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_76
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c340fad228df4b7d0800000000000000
+      internalID: -2903417124193106884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_77
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc72f4a0f189fff0800000000000000
+      internalID: -1827454277485323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e97446415b73d30800000000000000
+      internalID: 4411193459219078720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_79
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4088c07877cf0d120800000000000000
+      internalID: 2436724988704491524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_80
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809ef4d64c1397e40800000000000000
+      internalID: 5654605526857672968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_81
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02537a1f95ffad040800000000000000
+      internalID: 4673328325121750304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_82
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eeac896be5f1ea0800000000000000
+      internalID: -5899892848491565546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_83
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bdaae0d07d42070800000000000000
+      internalID: 8080820082490137410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_84
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4355602a005cb9d0800000000000000
+      internalID: -2757240867434179761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_85
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66408e2c4a139f550800000000000000
+      internalID: 6195037346139210854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_86
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d094bbc773e1d40800000000000000
+      internalID: 5556939999079370097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_87
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b322f8d295baf0800000000000000
+      internalID: -381237132969921886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276df6aaea01fffb0800000000000000
+      internalID: -4611949151034288526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a654ac4605454aa0800000000000000
+      internalID: -6177455420510808416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd9d63c59ea4c590800000000000000
+      internalID: -7654801508370899521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f21c55d4a74f080800000000000000
+      internalID: -9154557669967581346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_92
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72980d847a9aedc0800000000000000
+      internalID: -3608902326010998148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc65eeb5b532a2be0800000000000000
+      internalID: -1501348650483296561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a09ea4be7e95890800000000000000
+      internalID: -7468683509257139653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_95
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468189f382b96a50800000000000000
+      internalID: 6514934615864608331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6006fb47b318b0c80800000000000000
+      internalID: -8355442591294070778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_97
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940a062947d20d90800000000000000
+      internalID: -7132902150630669168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_98
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24820b8c1e8ad4fd0800000000000000
+      internalID: -2356041342356805566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_99
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c195425f6e2310800000000000000
+      internalID: 1382164534794504148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5af664e3152bb10800000000000000
+      internalID: 1995746912790095327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb9195dcc87293f0800000000000000
+      internalID: -895520554741556260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c319864d8f6b10800000000000000
+      internalID: 1976954095525938392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a3a016d43fc860800000000000000
+      internalID: 7552313194130418094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_104
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2812941481fd1dc10800000000000000
+      internalID: 2076686198462030210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_105
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d66e71ad8e330a10800000000000000
+      internalID: 1874410647936984786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_106
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2658340d2d5792430800000000000000
+      internalID: 3758664912315057506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_107
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644bdd6b46683a490800000000000000
+      internalID: -7736191967769545658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_108
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01e3329444ce22b0800000000000000
+      internalID: -5607328687239995123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_109
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a6551b877d857a0800000000000000
+      internalID: -6388119158053836262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4489237fa604470800000000000000
+      internalID: 8376812916847428834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd5aaaa8c659d820800000000000000
+      internalID: 2943479251320069628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_112
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3b175d158bbae10800000000000000
+      internalID: 2210062703768220606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fed754509f64480800000000000000
+      internalID: -8915164611297284273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_114
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3038587c980e39fd0800000000000000
+      internalID: -2336276899312598269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_115
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d01fdf93c01d8b0800000000000000
+      internalID: -5129305057385181852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_116
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ecfe7b94c4d1a60800000000000000
+      internalID: 7646351621847240221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_117
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e9e4b44c8594ba0800000000000000
+      internalID: -6104250219823718859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_118
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961866242a29dfc30800000000000000
+      internalID: 4394830036979843433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_119
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4a04d3277214a0800000000000000
+      internalID: -6624101106143572792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_120
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9060c7ec427654b0800000000000000
+      internalID: -5452044624254181222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_121
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1411c7c18e0892d0800000000000000
+      internalID: -3271849178719775713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d7bf88a1c0d6a0800000000000000
+      internalID: -6426423738547841424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_123
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c28840020ee3830800000000000000
+      internalID: 4052923142799633522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_124
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a959bd4114c187a0800000000000000
+      internalID: -6376600018782430814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_125
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97801544f1f66dc70800000000000000
+      internalID: 8995499485799975033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_126
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408bda906f8f86a90800000000000000
+      internalID: -7320327458682718204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_127
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7df02745f922c70800000000000000
+      internalID: 8944886994950936563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_128
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de852c8678f0b2d50800000000000000
+      internalID: 6713476743778425069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_129
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a92a2abb8fd58e0800000000000000
+      internalID: -1702931599305041299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_130
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe010d5b54ad1dbd0800000000000000
+      internalID: -2607062716332896017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-paviseShield_attack_71x44_131
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3bd92ac1fa59a30800000000000000
+      internalID: 4221472763251897264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      axe-paviseShield_attack_71x44_0: 7638501335830709566
+      axe-paviseShield_attack_71x44_1: 3728555498360791751
+      axe-paviseShield_attack_71x44_10: 6788678887797053797
+      axe-paviseShield_attack_71x44_100: 1995746912790095327
+      axe-paviseShield_attack_71x44_101: -895520554741556260
+      axe-paviseShield_attack_71x44_102: 1976954095525938392
+      axe-paviseShield_attack_71x44_103: 7552313194130418094
+      axe-paviseShield_attack_71x44_104: 2076686198462030210
+      axe-paviseShield_attack_71x44_105: 1874410647936984786
+      axe-paviseShield_attack_71x44_106: 3758664912315057506
+      axe-paviseShield_attack_71x44_107: -7736191967769545658
+      axe-paviseShield_attack_71x44_108: -5607328687239995123
+      axe-paviseShield_attack_71x44_109: -6388119158053836262
+      axe-paviseShield_attack_71x44_11: 1674392187634230667
+      axe-paviseShield_attack_71x44_110: 8376812916847428834
+      axe-paviseShield_attack_71x44_111: 2943479251320069628
+      axe-paviseShield_attack_71x44_112: 2210062703768220606
+      axe-paviseShield_attack_71x44_113: -8915164611297284273
+      axe-paviseShield_attack_71x44_114: -2336276899312598269
+      axe-paviseShield_attack_71x44_115: -5129305057385181852
+      axe-paviseShield_attack_71x44_116: 7646351621847240221
+      axe-paviseShield_attack_71x44_117: -6104250219823718859
+      axe-paviseShield_attack_71x44_118: 4394830036979843433
+      axe-paviseShield_attack_71x44_119: -6624101106143572792
+      axe-paviseShield_attack_71x44_12: -4052480713513252364
+      axe-paviseShield_attack_71x44_120: -5452044624254181222
+      axe-paviseShield_attack_71x44_121: -3271849178719775713
+      axe-paviseShield_attack_71x44_122: -6426423738547841424
+      axe-paviseShield_attack_71x44_123: 4052923142799633522
+      axe-paviseShield_attack_71x44_124: -6376600018782430814
+      axe-paviseShield_attack_71x44_125: 8995499485799975033
+      axe-paviseShield_attack_71x44_126: -7320327458682718204
+      axe-paviseShield_attack_71x44_127: 8944886994950936563
+      axe-paviseShield_attack_71x44_128: 6713476743778425069
+      axe-paviseShield_attack_71x44_129: -1702931599305041299
+      axe-paviseShield_attack_71x44_13: 9173189383179867150
+      axe-paviseShield_attack_71x44_130: -2607062716332896017
+      axe-paviseShield_attack_71x44_131: 4221472763251897264
+      axe-paviseShield_attack_71x44_14: 8221564830032479049
+      axe-paviseShield_attack_71x44_15: -4421420945133923001
+      axe-paviseShield_attack_71x44_16: 4176037019625809538
+      axe-paviseShield_attack_71x44_17: -6201804022453521033
+      axe-paviseShield_attack_71x44_18: -9187472387079050276
+      axe-paviseShield_attack_71x44_19: -6005827002500847025
+      axe-paviseShield_attack_71x44_2: 4384063246876401639
+      axe-paviseShield_attack_71x44_20: 2223878441507331987
+      axe-paviseShield_attack_71x44_21: 6332946750590307232
+      axe-paviseShield_attack_71x44_22: -1062024364869866865
+      axe-paviseShield_attack_71x44_23: 1117580259789941443
+      axe-paviseShield_attack_71x44_24: 7896913917520498937
+      axe-paviseShield_attack_71x44_25: -5016549543991921642
+      axe-paviseShield_attack_71x44_26: -6179775727993604701
+      axe-paviseShield_attack_71x44_27: -3398290526316183733
+      axe-paviseShield_attack_71x44_28: -1262608907460633665
+      axe-paviseShield_attack_71x44_29: 1089824946519778064
+      axe-paviseShield_attack_71x44_3: -5275061343937719728
+      axe-paviseShield_attack_71x44_30: 5542899217276206574
+      axe-paviseShield_attack_71x44_31: 7777465393601147406
+      axe-paviseShield_attack_71x44_32: -3052202434817855369
+      axe-paviseShield_attack_71x44_33: 4260818721065182188
+      axe-paviseShield_attack_71x44_34: -6656192369914830409
+      axe-paviseShield_attack_71x44_35: -2845091458624838666
+      axe-paviseShield_attack_71x44_36: -1106222342173467797
+      axe-paviseShield_attack_71x44_37: 4005564598943406307
+      axe-paviseShield_attack_71x44_38: 4762693995898404987
+      axe-paviseShield_attack_71x44_39: 890912156428493223
+      axe-paviseShield_attack_71x44_4: -4656022649204964132
+      axe-paviseShield_attack_71x44_40: -4083593055878158439
+      axe-paviseShield_attack_71x44_41: 798129080216073372
+      axe-paviseShield_attack_71x44_42: -6669173042892712372
+      axe-paviseShield_attack_71x44_43: 7342771011726502001
+      axe-paviseShield_attack_71x44_44: -1858447693310136455
+      axe-paviseShield_attack_71x44_45: -5392790790120294942
+      axe-paviseShield_attack_71x44_46: 1244893698050603102
+      axe-paviseShield_attack_71x44_47: 7433096446831627691
+      axe-paviseShield_attack_71x44_48: -7329248087002752179
+      axe-paviseShield_attack_71x44_49: 3989436629320260417
+      axe-paviseShield_attack_71x44_5: 5292469780876208872
+      axe-paviseShield_attack_71x44_50: -1216817270663149805
+      axe-paviseShield_attack_71x44_51: -6883783918566199469
+      axe-paviseShield_attack_71x44_52: -8505938425431684670
+      axe-paviseShield_attack_71x44_53: -5785533745387549097
+      axe-paviseShield_attack_71x44_54: 8346960929623896682
+      axe-paviseShield_attack_71x44_55: -7257503048775526534
+      axe-paviseShield_attack_71x44_56: -1017171617672910761
+      axe-paviseShield_attack_71x44_57: -6084718374109520460
+      axe-paviseShield_attack_71x44_58: -5308437377224007928
+      axe-paviseShield_attack_71x44_59: 7281552181633803381
+      axe-paviseShield_attack_71x44_6: 7134289942867002501
+      axe-paviseShield_attack_71x44_60: 8166662340744248612
+      axe-paviseShield_attack_71x44_61: -6783267156503986592
+      axe-paviseShield_attack_71x44_62: -2771729368204848244
+      axe-paviseShield_attack_71x44_63: 8873046844592002438
+      axe-paviseShield_attack_71x44_64: -446349300807646196
+      axe-paviseShield_attack_71x44_65: -4891442701077298433
+      axe-paviseShield_attack_71x44_66: -1125237606666329881
+      axe-paviseShield_attack_71x44_67: 3335382288190520660
+      axe-paviseShield_attack_71x44_68: -2664495177073022903
+      axe-paviseShield_attack_71x44_69: 7642174980694812991
+      axe-paviseShield_attack_71x44_7: -2579241075502579850
+      axe-paviseShield_attack_71x44_70: -4414897990540868765
+      axe-paviseShield_attack_71x44_71: 1647725081842100882
+      axe-paviseShield_attack_71x44_72: -1250566598879438210
+      axe-paviseShield_attack_71x44_73: 4310633684038579984
+      axe-paviseShield_attack_71x44_74: -2495962415393725544
+      axe-paviseShield_attack_71x44_75: 33518558274854136
+      axe-paviseShield_attack_71x44_76: -2903417124193106884
+      axe-paviseShield_attack_71x44_77: -1827454277485323
+      axe-paviseShield_attack_71x44_78: 4411193459219078720
+      axe-paviseShield_attack_71x44_79: 2436724988704491524
+      axe-paviseShield_attack_71x44_8: 8965465583813553383
+      axe-paviseShield_attack_71x44_80: 5654605526857672968
+      axe-paviseShield_attack_71x44_81: 4673328325121750304
+      axe-paviseShield_attack_71x44_82: -5899892848491565546
+      axe-paviseShield_attack_71x44_83: 8080820082490137410
+      axe-paviseShield_attack_71x44_84: -2757240867434179761
+      axe-paviseShield_attack_71x44_85: 6195037346139210854
+      axe-paviseShield_attack_71x44_86: 5556939999079370097
+      axe-paviseShield_attack_71x44_87: -381237132969921886
+      axe-paviseShield_attack_71x44_88: -4611949151034288526
+      axe-paviseShield_attack_71x44_89: -6177455420510808416
+      axe-paviseShield_attack_71x44_9: -6702471528745058377
+      axe-paviseShield_attack_71x44_90: -7654801508370899521
+      axe-paviseShield_attack_71x44_91: -9154557669967581346
+      axe-paviseShield_attack_71x44_92: -3608902326010998148
+      axe-paviseShield_attack_71x44_93: -1501348650483296561
+      axe-paviseShield_attack_71x44_94: -7468683509257139653
+      axe-paviseShield_attack_71x44_95: 6514934615864608331
+      axe-paviseShield_attack_71x44_96: -8355442591294070778
+      axe-paviseShield_attack_71x44_97: -7132902150630669168
+      axe-paviseShield_attack_71x44_98: -2356041342356805566
+      axe-paviseShield_attack_71x44_99: 1382164534794504148
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

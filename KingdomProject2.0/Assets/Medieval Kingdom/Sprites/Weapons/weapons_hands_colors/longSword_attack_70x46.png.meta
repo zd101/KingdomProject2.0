@@ -1,0 +1,6714 @@
+fileFormatVersion: 2
+guid: 4f52c6b008a3fc644afbd4e5bc5c9274
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8455052334724681475
+    second: longSword_attack_70x46_0
+  - first:
+      213: -6918118283946347003
+    second: longSword_attack_70x46_1
+  - first:
+      213: -1967847899385047304
+    second: longSword_attack_70x46_2
+  - first:
+      213: -6046638703458817800
+    second: longSword_attack_70x46_3
+  - first:
+      213: 7278138588617889385
+    second: longSword_attack_70x46_4
+  - first:
+      213: 4514488513967425583
+    second: longSword_attack_70x46_5
+  - first:
+      213: -1258392884924923083
+    second: longSword_attack_70x46_6
+  - first:
+      213: 5911813444858343321
+    second: longSword_attack_70x46_7
+  - first:
+      213: 5900309141070514066
+    second: longSword_attack_70x46_8
+  - first:
+      213: 6293739310179532722
+    second: longSword_attack_70x46_9
+  - first:
+      213: 4465340940816155095
+    second: longSword_attack_70x46_10
+  - first:
+      213: 3976630679806871949
+    second: longSword_attack_70x46_11
+  - first:
+      213: -6667950287098547649
+    second: longSword_attack_70x46_12
+  - first:
+      213: 5256359549099143769
+    second: longSword_attack_70x46_13
+  - first:
+      213: 4734790135058744099
+    second: longSword_attack_70x46_14
+  - first:
+      213: -7453336734536949994
+    second: longSword_attack_70x46_15
+  - first:
+      213: 1095610822701506827
+    second: longSword_attack_70x46_16
+  - first:
+      213: 5860056876840219027
+    second: longSword_attack_70x46_17
+  - first:
+      213: -4491805081453462715
+    second: longSword_attack_70x46_18
+  - first:
+      213: -8455370280882493365
+    second: longSword_attack_70x46_19
+  - first:
+      213: 994626626506895287
+    second: longSword_attack_70x46_20
+  - first:
+      213: -8790837275409123057
+    second: longSword_attack_70x46_21
+  - first:
+      213: -636867695120769548
+    second: longSword_attack_70x46_22
+  - first:
+      213: 8194077806921271999
+    second: longSword_attack_70x46_23
+  - first:
+      213: 6163737191912742852
+    second: longSword_attack_70x46_24
+  - first:
+      213: 1249510384324469125
+    second: longSword_attack_70x46_25
+  - first:
+      213: -8769670495270169011
+    second: longSword_attack_70x46_26
+  - first:
+      213: -6117841898468951652
+    second: longSword_attack_70x46_27
+  - first:
+      213: -8645046885254522544
+    second: longSword_attack_70x46_28
+  - first:
+      213: 8995024981805995081
+    second: longSword_attack_70x46_29
+  - first:
+      213: 6214366023087872491
+    second: longSword_attack_70x46_30
+  - first:
+      213: 7331697279810363499
+    second: longSword_attack_70x46_31
+  - first:
+      213: 1346299618830449546
+    second: longSword_attack_70x46_32
+  - first:
+      213: 4992394485243345974
+    second: longSword_attack_70x46_33
+  - first:
+      213: -3697735970578182383
+    second: longSword_attack_70x46_34
+  - first:
+      213: -1237172076189175064
+    second: longSword_attack_70x46_35
+  - first:
+      213: 5393229092387462927
+    second: longSword_attack_70x46_36
+  - first:
+      213: 2669289926995626740
+    second: longSword_attack_70x46_37
+  - first:
+      213: 1161726087314821873
+    second: longSword_attack_70x46_38
+  - first:
+      213: 3970148216707493919
+    second: longSword_attack_70x46_39
+  - first:
+      213: 4158522825328934915
+    second: longSword_attack_70x46_40
+  - first:
+      213: -1349589396266878546
+    second: longSword_attack_70x46_41
+  - first:
+      213: 9054838165320541515
+    second: longSword_attack_70x46_42
+  - first:
+      213: 5562951225734463933
+    second: longSword_attack_70x46_43
+  - first:
+      213: -6684925177054918681
+    second: longSword_attack_70x46_44
+  - first:
+      213: -7147546480548251079
+    second: longSword_attack_70x46_45
+  - first:
+      213: 2033309113210460814
+    second: longSword_attack_70x46_46
+  - first:
+      213: -6778468227469801534
+    second: longSword_attack_70x46_47
+  - first:
+      213: 5869879067129355122
+    second: longSword_attack_70x46_48
+  - first:
+      213: 7252884077448143508
+    second: longSword_attack_70x46_49
+  - first:
+      213: -5533615502460113815
+    second: longSword_attack_70x46_50
+  - first:
+      213: -7966616263836847316
+    second: longSword_attack_70x46_51
+  - first:
+      213: -7660610581353089917
+    second: longSword_attack_70x46_52
+  - first:
+      213: 5700755258796237784
+    second: longSword_attack_70x46_53
+  - first:
+      213: 7823152588256528001
+    second: longSword_attack_70x46_54
+  - first:
+      213: -2371964441486494576
+    second: longSword_attack_70x46_55
+  - first:
+      213: -335785406082860251
+    second: longSword_attack_70x46_56
+  - first:
+      213: -4098096060551135053
+    second: longSword_attack_70x46_57
+  - first:
+      213: -5807697524713789150
+    second: longSword_attack_70x46_58
+  - first:
+      213: 3566258682275863024
+    second: longSword_attack_70x46_59
+  - first:
+      213: -7609224881315719139
+    second: longSword_attack_70x46_60
+  - first:
+      213: -818473566466097690
+    second: longSword_attack_70x46_61
+  - first:
+      213: 1757365349842241107
+    second: longSword_attack_70x46_62
+  - first:
+      213: -1674804679668596309
+    second: longSword_attack_70x46_63
+  - first:
+      213: 61444768056375993
+    second: longSword_attack_70x46_64
+  - first:
+      213: 1584735845361527156
+    second: longSword_attack_70x46_65
+  - first:
+      213: 324071591925219654
+    second: longSword_attack_70x46_66
+  - first:
+      213: 7371102271728063867
+    second: longSword_attack_70x46_67
+  - first:
+      213: 3204979764866165675
+    second: longSword_attack_70x46_68
+  - first:
+      213: -1453616279791444505
+    second: longSword_attack_70x46_69
+  - first:
+      213: 8997784122096740450
+    second: longSword_attack_70x46_70
+  - first:
+      213: -5666634751525633836
+    second: longSword_attack_70x46_71
+  - first:
+      213: 2558176885836728237
+    second: longSword_attack_70x46_72
+  - first:
+      213: -9160978467579416397
+    second: longSword_attack_70x46_73
+  - first:
+      213: -2503793297219094065
+    second: longSword_attack_70x46_74
+  - first:
+      213: -5037631569954650978
+    second: longSword_attack_70x46_75
+  - first:
+      213: -7613570020459659791
+    second: longSword_attack_70x46_76
+  - first:
+      213: -1411396375779496542
+    second: longSword_attack_70x46_77
+  - first:
+      213: 7310520222666347815
+    second: longSword_attack_70x46_78
+  - first:
+      213: -4676318824905365376
+    second: longSword_attack_70x46_79
+  - first:
+      213: 2836086302204666709
+    second: longSword_attack_70x46_80
+  - first:
+      213: -2822164082003697564
+    second: longSword_attack_70x46_81
+  - first:
+      213: 6200740867406405654
+    second: longSword_attack_70x46_82
+  - first:
+      213: -1923336280324039695
+    second: longSword_attack_70x46_83
+  - first:
+      213: 145178338377191408
+    second: longSword_attack_70x46_84
+  - first:
+      213: 5445549208679461054
+    second: longSword_attack_70x46_85
+  - first:
+      213: -6306672898752447970
+    second: longSword_attack_70x46_86
+  - first:
+      213: 6553145157874065254
+    second: longSword_attack_70x46_87
+  - first:
+      213: 6158238352697053030
+    second: longSword_attack_70x46_88
+  - first:
+      213: -6786290147695372879
+    second: longSword_attack_70x46_89
+  - first:
+      213: 2812908680668268683
+    second: longSword_attack_70x46_90
+  - first:
+      213: 2280588858612077921
+    second: longSword_attack_70x46_91
+  - first:
+      213: 5129852840247468108
+    second: longSword_attack_70x46_92
+  - first:
+      213: -5450197073532767230
+    second: longSword_attack_70x46_93
+  - first:
+      213: -4672851689334552068
+    second: longSword_attack_70x46_94
+  - first:
+      213: -5094625116273427266
+    second: longSword_attack_70x46_95
+  - first:
+      213: -5853748709981904510
+    second: longSword_attack_70x46_96
+  - first:
+      213: 8045309920692419447
+    second: longSword_attack_70x46_97
+  - first:
+      213: -8516677774335283505
+    second: longSword_attack_70x46_98
+  - first:
+      213: 6496384114302751044
+    second: longSword_attack_70x46_99
+  - first:
+      213: -843802746056329901
+    second: longSword_attack_70x46_100
+  - first:
+      213: -8220212343900598388
+    second: longSword_attack_70x46_101
+  - first:
+      213: 7113853274114992791
+    second: longSword_attack_70x46_102
+  - first:
+      213: -7011259035156686954
+    second: longSword_attack_70x46_103
+  - first:
+      213: 7354067244991610399
+    second: longSword_attack_70x46_104
+  - first:
+      213: 7052579362796712163
+    second: longSword_attack_70x46_105
+  - first:
+      213: 3292106291390046442
+    second: longSword_attack_70x46_106
+  - first:
+      213: -4916795188073946671
+    second: longSword_attack_70x46_107
+  - first:
+      213: 8427655351946681335
+    second: longSword_attack_70x46_108
+  - first:
+      213: 5948487409126879806
+    second: longSword_attack_70x46_109
+  - first:
+      213: 5258869424045881252
+    second: longSword_attack_70x46_110
+  - first:
+      213: -7572326100586255566
+    second: longSword_attack_70x46_111
+  - first:
+      213: 4748745548039022501
+    second: longSword_attack_70x46_112
+  - first:
+      213: 5764211980924561692
+    second: longSword_attack_70x46_113
+  - first:
+      213: 5114259527992161148
+    second: longSword_attack_70x46_114
+  - first:
+      213: 8116668588506641806
+    second: longSword_attack_70x46_115
+  - first:
+      213: -7647050234061370403
+    second: longSword_attack_70x46_116
+  - first:
+      213: 6289804023476814786
+    second: longSword_attack_70x46_117
+  - first:
+      213: -8825942834845134517
+    second: longSword_attack_70x46_118
+  - first:
+      213: 2618879679728105020
+    second: longSword_attack_70x46_119
+  - first:
+      213: 3446818953349170733
+    second: longSword_attack_70x46_120
+  - first:
+      213: 205926623617410244
+    second: longSword_attack_70x46_121
+  - first:
+      213: -3025094717365494616
+    second: longSword_attack_70x46_122
+  - first:
+      213: -8432602703804245680
+    second: longSword_attack_70x46_123
+  - first:
+      213: -3006787243663046862
+    second: longSword_attack_70x46_124
+  - first:
+      213: -1845894046629845825
+    second: longSword_attack_70x46_125
+  - first:
+      213: -5251526079287964330
+    second: longSword_attack_70x46_126
+  - first:
+      213: 9059426859209523720
+    second: longSword_attack_70x46_127
+  - first:
+      213: 7647445029266639182
+    second: longSword_attack_70x46_128
+  - first:
+      213: -4920311331342498652
+    second: longSword_attack_70x46_129
+  - first:
+      213: 3898158747765801361
+    second: longSword_attack_70x46_130
+  - first:
+      213: 3961574716764122298
+    second: longSword_attack_70x46_131
+  - first:
+      213: -2366891511010672232
+    second: longSword_attack_70x46_132
+  - first:
+      213: -8072869022554726649
+    second: longSword_attack_70x46_133
+  - first:
+      213: 8587502024699727942
+    second: longSword_attack_70x46_134
+  - first:
+      213: 4385780281426550128
+    second: longSword_attack_70x46_135
+  - first:
+      213: 5168321748110261066
+    second: longSword_attack_70x46_136
+  - first:
+      213: 6679191620810753411
+    second: longSword_attack_70x46_137
+  - first:
+      213: -2136225570701468800
+    second: longSword_attack_70x46_138
+  - first:
+      213: -4447372093564896804
+    second: longSword_attack_70x46_139
+  - first:
+      213: -1812195871180133788
+    second: longSword_attack_70x46_140
+  - first:
+      213: 6727230481397759468
+    second: longSword_attack_70x46_141
+  - first:
+      213: -3655957637366779714
+    second: longSword_attack_70x46_142
+  - first:
+      213: -7945603984543744778
+    second: longSword_attack_70x46_143
+  - first:
+      213: 7785627641492794025
+    second: longSword_attack_70x46_144
+  - first:
+      213: 825188125445109256
+    second: longSword_attack_70x46_145
+  - first:
+      213: 6457119480671195628
+    second: longSword_attack_70x46_146
+  - first:
+      213: 1799593324951403624
+    second: longSword_attack_70x46_147
+  - first:
+      213: 9126093504667024851
+    second: longSword_attack_70x46_148
+  - first:
+      213: 6878479665356375115
+    second: longSword_attack_70x46_149
+  - first:
+      213: -2417448365113153970
+    second: longSword_attack_70x46_150
+  - first:
+      213: 4896682822238900281
+    second: longSword_attack_70x46_151
+  - first:
+      213: 958853635139614859
+    second: longSword_attack_70x46_152
+  - first:
+      213: 5540884085615460282
+    second: longSword_attack_70x46_153
+  - first:
+      213: -8297659004461803220
+    second: longSword_attack_70x46_154
+  - first:
+      213: -5731736270487738809
+    second: longSword_attack_70x46_155
+  - first:
+      213: 6100014845540277178
+    second: longSword_attack_70x46_156
+  - first:
+      213: 8900190581588209357
+    second: longSword_attack_70x46_157
+  - first:
+      213: -7013879786231885447
+    second: longSword_attack_70x46_158
+  - first:
+      213: -3080751212633885095
+    second: longSword_attack_70x46_159
+  - first:
+      213: 8159804163956877709
+    second: longSword_attack_70x46_160
+  - first:
+      213: 1688863401890064030
+    second: longSword_attack_70x46_161
+  - first:
+      213: 4783384064739666863
+    second: longSword_attack_70x46_162
+  - first:
+      213: -8268071039186303638
+    second: longSword_attack_70x46_163
+  - first:
+      213: -5466045308664101934
+    second: longSword_attack_70x46_164
+  - first:
+      213: -199771446268134353
+    second: longSword_attack_70x46_165
+  - first:
+      213: 3439481759948605495
+    second: longSword_attack_70x46_166
+  - first:
+      213: 9204218747032460780
+    second: longSword_attack_70x46_167
+  - first:
+      213: 2612330433513362754
+    second: longSword_attack_70x46_168
+  - first:
+      213: -7498845328387810152
+    second: longSword_attack_70x46_169
+  - first:
+      213: -8671672812265070152
+    second: longSword_attack_70x46_170
+  - first:
+      213: -3740391582425985201
+    second: longSword_attack_70x46_171
+  - first:
+      213: 1824881646853868138
+    second: longSword_attack_70x46_172
+  - first:
+      213: -8041337119728933424
+    second: longSword_attack_70x46_173
+  - first:
+      213: -7593097690381695567
+    second: longSword_attack_70x46_174
+  - first:
+      213: -3779995334503528799
+    second: longSword_attack_70x46_175
+  - first:
+      213: -7878271996291283036
+    second: longSword_attack_70x46_176
+  - first:
+      213: -1501303371463897658
+    second: longSword_attack_70x46_177
+  - first:
+      213: 6218134437032510972
+    second: longSword_attack_70x46_178
+  - first:
+      213: -1844100229275187074
+    second: longSword_attack_70x46_179
+  - first:
+      213: 8892157156128186925
+    second: longSword_attack_70x46_180
+  - first:
+      213: 3618269008387517848
+    second: longSword_attack_70x46_181
+  - first:
+      213: 9215413470898827792
+    second: longSword_attack_70x46_182
+  - first:
+      213: -1186238697185091467
+    second: longSword_attack_70x46_183
+  - first:
+      213: 7719947502835832295
+    second: longSword_attack_70x46_184
+  - first:
+      213: -9158958530113691711
+    second: longSword_attack_70x46_185
+  - first:
+      213: -3944255087317848964
+    second: longSword_attack_70x46_186
+  - first:
+      213: -2033279353131429327
+    second: longSword_attack_70x46_187
+  - first:
+      213: -5178548486420794906
+    second: longSword_attack_70x46_188
+  - first:
+      213: -8187974897819672396
+    second: longSword_attack_70x46_189
+  - first:
+      213: 5754708980034207421
+    second: longSword_attack_70x46_190
+  - first:
+      213: -3822709620862110993
+    second: longSword_attack_70x46_191
+  - first:
+      213: -3615067812568005506
+    second: longSword_attack_70x46_192
+  - first:
+      213: 861981374560816450
+    second: longSword_attack_70x46_193
+  - first:
+      213: 1035838277553344570
+    second: longSword_attack_70x46_194
+  - first:
+      213: -2911338762007605884
+    second: longSword_attack_70x46_195
+  - first:
+      213: -4045268456820629905
+    second: longSword_attack_70x46_196
+  - first:
+      213: 8819264037130864368
+    second: longSword_attack_70x46_197
+  - first:
+      213: 3514098505885670700
+    second: longSword_attack_70x46_198
+  - first:
+      213: 6086021281939335196
+    second: longSword_attack_70x46_199
+  - first:
+      213: -7686556356104183166
+    second: longSword_attack_70x46_200
+  - first:
+      213: 4007373281374828081
+    second: longSword_attack_70x46_201
+  - first:
+      213: 8703588121324964905
+    second: longSword_attack_70x46_202
+  - first:
+      213: 4396264217295325473
+    second: longSword_attack_70x46_203
+  - first:
+      213: 8094046298623364774
+    second: longSword_attack_70x46_204
+  - first:
+      213: -6626553773998506342
+    second: longSword_attack_70x46_205
+  - first:
+      213: 7605134695365318420
+    second: longSword_attack_70x46_206
+  - first:
+      213: 9017021593410005315
+    second: longSword_attack_70x46_207
+  - first:
+      213: 6808546566594901145
+    second: longSword_attack_70x46_208
+  - first:
+      213: 9010162915056184297
+    second: longSword_attack_70x46_209
+  - first:
+      213: -5789424748116144748
+    second: longSword_attack_70x46_210
+  - first:
+      213: 4093056250038086953
+    second: longSword_attack_70x46_211
+  - first:
+      213: -8719687649759052854
+    second: longSword_attack_70x46_212
+  - first:
+      213: -141359333944049965
+    second: longSword_attack_70x46_213
+  - first:
+      213: -5005908064803724037
+    second: longSword_attack_70x46_214
+  - first:
+      213: -2507381702962810297
+    second: longSword_attack_70x46_215
+  - first:
+      213: 3517525055464938886
+    second: longSword_attack_70x46_216
+  - first:
+      213: -39929899950064348
+    second: longSword_attack_70x46_217
+  - first:
+      213: -6133422142592633358
+    second: longSword_attack_70x46_218
+  - first:
+      213: -3606045971084306292
+    second: longSword_attack_70x46_219
+  - first:
+      213: 579460003255025557
+    second: longSword_attack_70x46_220
+  - first:
+      213: 2866030763959235138
+    second: longSword_attack_70x46_221
+  - first:
+      213: -8124359752779495044
+    second: longSword_attack_70x46_222
+  - first:
+      213: 7118540098101289636
+    second: longSword_attack_70x46_223
+  - first:
+      213: -8401039158248416564
+    second: longSword_attack_70x46_224
+  - first:
+      213: -7114764445613870298
+    second: longSword_attack_70x46_225
+  - first:
+      213: 7663312918459577030
+    second: longSword_attack_70x46_226
+  - first:
+      213: 8437336993192784493
+    second: longSword_attack_70x46_227
+  - first:
+      213: -9156740295212142459
+    second: longSword_attack_70x46_228
+  - first:
+      213: -1514106843120748550
+    second: longSword_attack_70x46_229
+  - first:
+      213: 5475671653792651893
+    second: longSword_attack_70x46_230
+  - first:
+      213: 3575788461667991135
+    second: longSword_attack_70x46_231
+  - first:
+      213: 1552079098685374806
+    second: longSword_attack_70x46_232
+  - first:
+      213: 578078565151970420
+    second: longSword_attack_70x46_233
+  - first:
+      213: -7352109201209566518
+    second: longSword_attack_70x46_234
+  - first:
+      213: 7219174990346810757
+    second: longSword_attack_70x46_235
+  - first:
+      213: 3288716166869312108
+    second: longSword_attack_70x46_236
+  - first:
+      213: 6874893740963418996
+    second: longSword_attack_70x46_237
+  - first:
+      213: -4399821492380193213
+    second: longSword_attack_70x46_238
+  - first:
+      213: 1231101727098624362
+    second: longSword_attack_70x46_239
+  - first:
+      213: 2950414094249977848
+    second: longSword_attack_70x46_240
+  - first:
+      213: 4392070098249842974
+    second: longSword_attack_70x46_241
+  - first:
+      213: -3149703580491361385
+    second: longSword_attack_70x46_242
+  - first:
+      213: -5779491106934846015
+    second: longSword_attack_70x46_243
+  - first:
+      213: -1029165672103016485
+    second: longSword_attack_70x46_244
+  - first:
+      213: -6049384913972381778
+    second: longSword_attack_70x46_245
+  - first:
+      213: -8049880618317842345
+    second: longSword_attack_70x46_246
+  - first:
+      213: -1260261362477675641
+    second: longSword_attack_70x46_247
+  - first:
+      213: -382309871493193140
+    second: longSword_attack_70x46_248
+  - first:
+      213: -5225903071793228668
+    second: longSword_attack_70x46_249
+  - first:
+      213: -2840297814118812165
+    second: longSword_attack_70x46_250
+  - first:
+      213: -7233441026702172842
+    second: longSword_attack_70x46_251
+  - first:
+      213: -6280378912756129351
+    second: longSword_attack_70x46_252
+  - first:
+      213: -2433042665712540373
+    second: longSword_attack_70x46_253
+  - first:
+      213: 6175696731078961229
+    second: longSword_attack_70x46_254
+  - first:
+      213: -612203842300064032
+    second: longSword_attack_70x46_255
+  - first:
+      213: -4679030359668990530
+    second: longSword_attack_70x46_256
+  - first:
+      213: -6506124027584711918
+    second: longSword_attack_70x46_257
+  - first:
+      213: -910621966781584911
+    second: longSword_attack_70x46_258
+  - first:
+      213: -4732135545869010650
+    second: longSword_attack_70x46_259
+  - first:
+      213: -7512726216091145964
+    second: longSword_attack_70x46_260
+  - first:
+      213: 9096307972183441344
+    second: longSword_attack_70x46_261
+  - first:
+      213: -7933139410645211137
+    second: longSword_attack_70x46_262
+  - first:
+      213: 3468582060184484601
+    second: longSword_attack_70x46_263
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: longSword_attack_70x46_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f0a983d41665570800000000000000
+      internalID: 8455052334724681475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5063e331318edff90800000000000000
+      internalID: -6918118283946347003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6d729f2ccc0b4e0800000000000000
+      internalID: -1967847899385047304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8653bb226061ca0800000000000000
+      internalID: -6046638703458817800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d1a03c74210560800000000000000
+      internalID: 7278138588617889385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f280c99726fa6ae30800000000000000
+      internalID: 4514488513967425583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533cb22a65a498ee0800000000000000
+      internalID: -1258392884924923083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fe827810bfa0250800000000000000
+      internalID: 5911813444858343321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2978f7217eb12e150800000000000000
+      internalID: 5900309141070514066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb9249e8ad75750800000000000000
+      internalID: 6293739310179532722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d10b526de318fd30800000000000000
+      internalID: 4465340940816155095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_11
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d890fc0c884df2730800000000000000
+      internalID: 3976630679806871949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f68dca8ea673a0800000000000000
+      internalID: -6667950287098547649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 782
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95279c7192752f840800000000000000
+      internalID: 5256359549099143769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3234336ba8a55b140800000000000000
+      internalID: 4734790135058744099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f1e8ababd609890800000000000000
+      internalID: -7453336734536949994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01623b0d34643f00800000000000000
+      internalID: 1095610822701506827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39175ab7eaa135150800000000000000
+      internalID: 5860056876840219027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bfba7b317e9a1c0800000000000000
+      internalID: -4491805081453462715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48aa9b278d78aa80800000000000000
+      internalID: -8455370280882493365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfa615a5af9dcd00800000000000000
+      internalID: 994626626506895287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_21
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f9f8e21ca00680800000000000000
+      internalID: -8790837275409123057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd976f94346927f0800000000000000
+      internalID: -636867695120769548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba447fe95637b170800000000000000
+      internalID: 8194077806921271999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_24
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf92d4b15ef98550800000000000000
+      internalID: 6163737191912742852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_25
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58162d80317275110800000000000000
+      internalID: 1249510384324469125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d469234f52fdb4680800000000000000
+      internalID: -8769670495270169011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_27
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 736
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99b1c1053f091ba0800000000000000
+      internalID: -6117841898468951652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0599ec949af960880800000000000000
+      internalID: -8645046885254522544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9449f42309fb4dc70800000000000000
+      internalID: 8995024981805995081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9d86e09fcdd3650800000000000000
+      internalID: 6214366023087872491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b606bcbb4db6fb560800000000000000
+      internalID: 7331697279810363499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bf1adce540fa210800000000000000
+      internalID: 1346299618830449546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_33
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c7c8f555c884540800000000000000
+      internalID: 4992394485243345974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_34
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc088e9b00facc0800000000000000
+      internalID: -3697735970578182383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_35
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e236b03d8ea4dee0800000000000000
+      internalID: -1237172076189175064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_36
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f9e04f84998da40800000000000000
+      internalID: 5393229092387462927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_37
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa4a1dcb093b0520800000000000000
+      internalID: 2669289926995626740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_38
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f254b8a8b74f1010800000000000000
+      internalID: 1161726087314821873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_39
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f103082b4ccc81730800000000000000
+      internalID: 3970148216707493919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_40
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300c5121a7a06b930800000000000000
+      internalID: 4158522825328934915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_41
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f0e2389b454de0800000000000000
+      internalID: -1349589396266878546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_42
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45a496365f39ad70800000000000000
+      internalID: 9054838165320541515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_43
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 690
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db10ab08aa2933d40800000000000000
+      internalID: 5562951225734463933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7839f38ff5a33a0800000000000000
+      internalID: -6684925177054918681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af3536850decc90800000000000000
+      internalID: -7147546480548251079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a59739dd3c73c10800000000000000
+      internalID: 2033309113210460814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7046c9f0b0ee1a0800000000000000
+      internalID: -6778468227469801534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b1fbe59eff57150800000000000000
+      internalID: 5869879067129355122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492226914ab67a460800000000000000
+      internalID: 7252884077448143508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_50
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c2544d406a433b0800000000000000
+      internalID: -5533615502460113815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_51
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b72c87b4e07190800000000000000
+      internalID: -7966616263836847316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384b9df834b00b590800000000000000
+      internalID: -7660610581353089917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_53
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36df734b62d1f40800000000000000
+      internalID: 5700755258796237784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_54
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18645b684db619c60800000000000000
+      internalID: 7823152588256528001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_55
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f65d58e6151fd0800000000000000
+      internalID: -2371964441486494576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_56
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bbba5c3fc075bf0800000000000000
+      internalID: -335785406082860251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_57
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 644
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b00c677853a027c0800000000000000
+      internalID: -4098096060551135053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229e48c2fd9e66fa0800000000000000
+      internalID: -5807697524713789150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9943e6065ed7130800000000000000
+      internalID: 3566258682275863024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_60
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18dc1d294a966690800000000000000
+      internalID: -7609224881315719139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_61
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edbdb4b0a234a4f0800000000000000
+      internalID: -818473566466097690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_62
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3564de9897a636810800000000000000
+      internalID: 1757365349842241107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_63
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba101307406e1c8e0800000000000000
+      internalID: -1674804679668596309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_64
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba7e45e0bb4ad000800000000000000
+      internalID: 61444768056375993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_65
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4792a95eadc1ef510800000000000000
+      internalID: 1584735845361527156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6418f7655655f7400800000000000000
+      internalID: 324071591925219654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_67
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b751d6d567a6b4660800000000000000
+      internalID: 7371102271728063867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_68
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baba92d8d106a7c20800000000000000
+      internalID: 3204979764866165675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_69
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed5e43f1b7b3dbe0800000000000000
+      internalID: -1453616279791444505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_70
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268e93b9cfc8edc70800000000000000
+      internalID: 8997784122096740450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_71
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 598
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d04e6377b11c51b0800000000000000
+      internalID: -5666634751525633836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7c9e8e258708320800000000000000
+      internalID: 2558176885836728237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b03de4ee9aadd080800000000000000
+      internalID: -9160978467579416397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc97048034db04dd0800000000000000
+      internalID: -2503793297219094065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_75
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e944f8317ccb61ab0800000000000000
+      internalID: -5037631569954650978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd30f1a76a275690800000000000000
+      internalID: -7613570020459659791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ada3606976b96ce0800000000000000
+      internalID: -1411396375779496542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_78
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7255653e86f247560800000000000000
+      internalID: 7310520222666347815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0882b011ec06a1fb0800000000000000
+      internalID: -4676318824905365376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_80
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553a243377dcb5720800000000000000
+      internalID: 2836086302204666709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_81
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460ad4a48b8a5d8d0800000000000000
+      internalID: -2822164082003697564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_82
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610a10a47f47d0650800000000000000
+      internalID: 6200740867406405654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_83
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1aa3e7dfee45e0800000000000000
+      internalID: -1923336280324039695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_84
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffcd08fde6c30200800000000000000
+      internalID: 145178338377191408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_85
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0bf3e472a729b40800000000000000
+      internalID: 5445549208679461054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_86
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1af64ba9623a78a0800000000000000
+      internalID: -6306672898752447970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_87
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 552
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f97a01dc271fa50800000000000000
+      internalID: 6553145157874065254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fc1be6725767550800000000000000
+      internalID: 6158238352697053030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_89
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b552e3e01142d1a0800000000000000
+      internalID: -6786290147695372879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_90
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8848d8aa85790720800000000000000
+      internalID: 2812908680668268683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_91
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165594cdb7746af10800000000000000
+      internalID: 2280588858612077921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40aaf4aaf5e03740800000000000000
+      internalID: 5129852840247468108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_93
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b43453a20d54b0800000000000000
+      internalID: -5450197073532767230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf941297522b62fb0800000000000000
+      internalID: -4672851689334552068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_95
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc3db003714c49b0800000000000000
+      internalID: -5094625116273427266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_96
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281a021109e43cea0800000000000000
+      internalID: -5853748709981904510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_97
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b3cca3fbea6af60800000000000000
+      internalID: 8045309920692419447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_98
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcee74200beaec980800000000000000
+      internalID: -8516677774335283505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_99
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4419181ceeac72a50800000000000000
+      internalID: 6496384114302751044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_100
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35530d48fd53a44f0800000000000000
+      internalID: -843802746056329901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_101
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 506
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f068ffc60fbed80800000000000000
+      internalID: -8220212343900598388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aafdbacdb79b260800000000000000
+      internalID: 7113853274114992791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_103
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697dc350e0103be90800000000000000
+      internalID: -7011259035156686954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_104
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e7f002235ee0660800000000000000
+      internalID: 7354067244991610399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0bfb5709bcfd160800000000000000
+      internalID: 7052579362796712163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_106
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0e12dca39efad20800000000000000
+      internalID: 3292106291390046442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_107
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1a085a3d804cbb0800000000000000
+      internalID: -4916795188073946671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_108
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb933614eb05f470800000000000000
+      internalID: 8427655351946681335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_109
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3234eb38c54d8250800000000000000
+      internalID: 5948487409126879806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_110
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7fa64e0e14bf840800000000000000
+      internalID: 5258869424045881252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_111
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b232b0881b9e690800000000000000
+      internalID: -7572326100586255566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_112
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7659f7aeee6e140800000000000000
+      internalID: 4748745548039022501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_113
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c192f0da1489eff40800000000000000
+      internalID: 5764211980924561692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_114
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c733127b1ff79f640800000000000000
+      internalID: 5114259527992161148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_115
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 460
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e857289c31334a070800000000000000
+      internalID: 8116668588506641806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb4433f35830e590800000000000000
+      internalID: -7647050234061370403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_117
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3882e3f6fd94750800000000000000
+      internalID: 6289804023476814786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_118
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41d629e0c3f38580800000000000000
+      internalID: -8825942834845134517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_119
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36beab7131285420800000000000000
+      internalID: 2618879679728105020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_120
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d260677739f85df20800000000000000
+      internalID: 3446818953349170733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_121
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4e2825c299bd200800000000000000
+      internalID: 205926623617410244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_122
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acd487d164b406d0800000000000000
+      internalID: -3025094717365494616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_123
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059dfbbc48069fa80800000000000000
+      internalID: -8432602703804245680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_124
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237c94abeeeb546d0800000000000000
+      internalID: -3006787243663046862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_125
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4ae9105211266e0800000000000000
+      internalID: -1845894046629845825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_126
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d475bcad4de17b0800000000000000
+      internalID: -5251526079287964330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_127
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80201d3cabc89bd70800000000000000
+      internalID: 9059426859209523720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_128
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49c3c87cbe212a60800000000000000
+      internalID: 7647445029266639182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_129
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4400fb9ea87bbb0800000000000000
+      internalID: -4920311331342498652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_130
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19189ae4aba091630800000000000000
+      internalID: 3898158747765801361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_131
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 414
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abce4ef27375af630800000000000000
+      internalID: 3961574716764122298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891425806bc172fd0800000000000000
+      internalID: -2366891511010672232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_133
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fde58556867ff80800000000000000
+      internalID: -8072869022554726649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_134
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640dc2ac79fec2770800000000000000
+      internalID: 8587502024699727942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_135
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d9759ddeb6ddc30800000000000000
+      internalID: 4385780281426550128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_136
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bb9093f3199b740800000000000000
+      internalID: 5168321748110261066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_137
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385c039246141bc50800000000000000
+      internalID: 6679191620810753411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_138
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b9b32692a9a52e0800000000000000
+      internalID: -2136225570701468800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_139
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd93413e4a2c742c0800000000000000
+      internalID: -4447372093564896804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_140
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae0e2e479c9d6e0800000000000000
+      internalID: -1812195871180133788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_141
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedb4edfa7ceb5d50800000000000000
+      internalID: 6727230481397759468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_142
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb070ee16ed634dc0800000000000000
+      internalID: -3655957637366779714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_143
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc775f064b8bb190800000000000000
+      internalID: -7945603984543744778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_144
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aae3a4071b1c0c60800000000000000
+      internalID: 7785627641492794025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_145
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 368
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806b6026a38a37b00800000000000000
+      internalID: 825188125445109256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce159a5d4fb4c9950800000000000000
+      internalID: 6457119480671195628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_147
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c74e9289079f810800000000000000
+      internalID: 1799593324951403624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_148
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd7dacb0b566ae70800000000000000
+      internalID: 9126093504667024851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b448058dfc4457f50800000000000000
+      internalID: 6878479665356375115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_150
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46e496258f737ed0800000000000000
+      internalID: -2417448365113153970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_151
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9309e45451384f340800000000000000
+      internalID: 4896682822238900281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_152
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88b61a0d488e4d00800000000000000
+      internalID: 958853635139614859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_153
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf79b018bc25ec40800000000000000
+      internalID: 5540884085615460282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_154
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c299bbb291bc8dc80800000000000000
+      internalID: -8297659004461803220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_155
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7462b53ea38c470b0800000000000000
+      internalID: -5731736270487738809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_156
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb9909ce2b97a450800000000000000
+      internalID: 6100014845540277178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_157
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcea7d0cd24d38b70800000000000000
+      internalID: 8900190581588209357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_158
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9711b5cde71b9ae90800000000000000
+      internalID: -7013879786231885447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_159
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 322
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9567a993819fe35d0800000000000000
+      internalID: -3080751212633885095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89276597a27d3170800000000000000
+      internalID: 8159804163956877709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_161
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96a0d7e05c007710800000000000000
+      internalID: 1688863401890064030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_162
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab6213a67ef16240800000000000000
+      internalID: 4783384064739666863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_163
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a650b9b2239e14d80800000000000000
+      internalID: -8268071039186303638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_164
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3c2ea80c4b424b0800000000000000
+      internalID: -5466045308664101934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_165
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cfbe49de44a3df0800000000000000
+      internalID: -199771446268134353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_166
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7380c21007e7bbf20800000000000000
+      internalID: 3439481759948605495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_167
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced5cd33f24fbbf70800000000000000
+      internalID: 9204218747032460780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_168
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245918540bcd04420800000000000000
+      internalID: 2612330433513362754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_169
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd8d787efbee790800000000000000
+      internalID: -7498845328387810152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_170
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b12780958708a780800000000000000
+      internalID: -8671672812265070152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_171
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f43a85ca5771cc0800000000000000
+      internalID: -3740391582425985201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_172
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6acadd6038435910800000000000000
+      internalID: 1824881646853868138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_173
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5e4639e7e676090800000000000000
+      internalID: -8041337119728933424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_174
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5c5fb61e5ef9690800000000000000
+      internalID: -7593097690381695567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_175
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 276
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a688424542ca8bc0800000000000000
+      internalID: -3779995334503528799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a786293c51caa290800000000000000
+      internalID: -7878271996291283036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_177
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd4cc3b98c4a2be0800000000000000
+      internalID: -1501303371463897658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_178
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf542fc43504b4650800000000000000
+      internalID: 6218134437032510972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_179
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7806d7ac907866e0800000000000000
+      internalID: -1844100229275187074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_180
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e7f122d9476b70800000000000000
+      internalID: 8892157156128186925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_181
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d2eb22e7ca63230800000000000000
+      internalID: 3618269008387517848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_182
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0123647f9b9b3ef70800000000000000
+      internalID: 9215413470898827792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_183
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570e57b9032a98fe0800000000000000
+      internalID: -1186238697185091467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_184
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5913f0a53c22b60800000000000000
+      internalID: 7719947502835832295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_185
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf1a0c3eb7d4e080800000000000000
+      internalID: -9158958530113691711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_186
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c64e845e03349c0800000000000000
+      internalID: -3944255087317848964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_187
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132177b733758c3e0800000000000000
+      internalID: -2033279353131429327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_188
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e170c6b6991228b0800000000000000
+      internalID: -5178548486420794906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_189
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 230
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0a4a156387e5e80800000000000000
+      internalID: -8187974897819672396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe70bcd355dcdf40800000000000000
+      internalID: 5754708980034207421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_191
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2bb097ad103fac0800000000000000
+      internalID: -3822709620862110993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_192
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e748fe85af2b4ddc0800000000000000
+      internalID: -3615067812568005506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_193
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d43b14e7f56fb00800000000000000
+      internalID: 861981374560816450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_194
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d152ec69006e00800000000000000
+      internalID: 1035838277553344570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_195
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d06b522d8d897d0800000000000000
+      internalID: -2911338762007605884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_196
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e1d1275c15cd7c0800000000000000
+      internalID: -4045268456820629905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_197
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f600915ae1546a70800000000000000
+      internalID: 8819264037130864368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_198
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ddb0df8f594c030800000000000000
+      internalID: 3514098505885670700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_199
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18267d5c14e57450800000000000000
+      internalID: 6086021281939335196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_200
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282a36028bdd35590800000000000000
+      internalID: -7686556356104183166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_201
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136fcb674cc0d9730800000000000000
+      internalID: 4007373281374828081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_202
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c42e2684b59c870800000000000000
+      internalID: 8703588121324964905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_203
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 184
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12906a2630ba20d30800000000000000
+      internalID: 4396264217295325473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec2097934d35070800000000000000
+      internalID: 8094046298623364774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_205
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e7bc79370c904a0800000000000000
+      internalID: -6626553773998506342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_206
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4179f3236bdda8960800000000000000
+      internalID: 7605134695365318420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_207
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349ea3f6d55e22d70800000000000000
+      internalID: 9017021593410005315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_208
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99438927701dc7e50800000000000000
+      internalID: 6808546566594901145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_209
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb6250fe678a0d70800000000000000
+      internalID: 9010162915056184297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_210
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d8ea28dd4d7afa0800000000000000
+      internalID: -5789424748116144748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_211
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d663539f47dc830800000000000000
+      internalID: 4093056250038086953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_212
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb30cb08427df680800000000000000
+      internalID: -8719687649759052854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_213
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de349a4f6ac90ef0800000000000000
+      internalID: -141359333944049965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_214
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf46c133321778ab0800000000000000
+      internalID: -5005908064803724037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_215
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742769630adf33dd0800000000000000
+      internalID: -2507381702962810297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_216
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d168bb662c0d030800000000000000
+      internalID: 3517525055464938886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_217
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d3f81b7f3227ff0800000000000000
+      internalID: -39929899950064348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_218
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5304dbe05b1eaa0800000000000000
+      internalID: -6133422142592633358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_219
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 138
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c889ac18b40c4fdc0800000000000000
+      internalID: -3606045971084306292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fff878dc7aa0800800000000000000
+      internalID: 579460003255025557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_221
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242b1218bcf26c720800000000000000
+      internalID: 2866030763959235138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_222
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79091c79d9704f80800000000000000
+      internalID: -8124359752779495044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_223
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2a3bae0822ac260800000000000000
+      internalID: 7118540098101289636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_224
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccad47c6563896b80800000000000000
+      internalID: -8401039158248416564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_225
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6233b9eae67434d90800000000000000
+      internalID: -7114764445613870298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_226
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f1735f7e895a60800000000000000
+      internalID: 7663312918459577030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_227
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62b489da41771570800000000000000
+      internalID: 8437336993192784493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_228
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ff5b4739bce080800000000000000
+      internalID: -9156740295212142459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_229
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7bcc729dfccfae0800000000000000
+      internalID: -1514106843120748550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_230
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a9cf69b5e7dfb40800000000000000
+      internalID: 5475671653792651893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_231
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e39a919a0cf9130800000000000000
+      internalID: 3575788461667991135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_232
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651437c87b71a8510800000000000000
+      internalID: 1552079098685374806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_233
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 92
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4749628646fb50800800000000000000
+      internalID: 578078565151970420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acad50872af08f990800000000000000
+      internalID: -7352109201209566518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_235
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5857107a769af2460800000000000000
+      internalID: 7219174990346810757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_236
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62645dededd3ad20800000000000000
+      internalID: 3288716166869312108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_237
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4735ea2ce67886f50800000000000000
+      internalID: 6874893740963418996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_238
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eac87f9a1b0f2c0800000000000000
+      internalID: -4399821492380193213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_239
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6955168f70c51110800000000000000
+      internalID: 1231101727098624362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_240
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7631c9cf9f1f820800000000000000
+      internalID: 2950414094249977848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_241
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e110cc2fb74c3fc30800000000000000
+      internalID: 4392070098249842974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_242
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793590908410a44d0800000000000000
+      internalID: -3149703580491361385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_243
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd8e94957f1bcfa0800000000000000
+      internalID: -5779491106934846015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_244
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70643264ba7b1f0800000000000000
+      internalID: -1029165672103016485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_245
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7b115c8744c0ca0800000000000000
+      internalID: -6049384913972381778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_246
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758fcdc4a34194090800000000000000
+      internalID: -8049880618317842345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_247
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 46
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b4e5dc7f6a28ee0800000000000000
+      internalID: -1260261362477675641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42e58b8233c1baf0800000000000000
+      internalID: -382309871493193140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_249
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484542f18dcd977b0800000000000000
+      internalID: -5225903071793228668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_250
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf53125cf2c3598d0800000000000000
+      internalID: -2840297814118812165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_251
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d1eabe5b7ad9b90800000000000000
+      internalID: -7233441026702172842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_252
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1215a57ac97d8a0800000000000000
+      internalID: -6280378912756129351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_253
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a5da16981c3ed0800000000000000
+      internalID: -2433042665712540373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_254
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48a088e47b74b550800000000000000
+      internalID: 6175696731078961229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_255
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee439959d30187f0800000000000000
+      internalID: -612203842300064032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_256
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd59aeadaeb01fb0800000000000000
+      internalID: -4679030359668990530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_257
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fd27faaa95b5a0800000000000000
+      internalID: -6506124027584711918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_258
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e0595522dc53f0800000000000000
+      internalID: -910621966781584911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_259
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6297a7ffac3145eb0800000000000000
+      internalID: -4732135545869010650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_260
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4196f138f4f6db790800000000000000
+      internalID: -7512726216091145964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_261
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf3c8908e39c3e70800000000000000
+      internalID: 9096307972183441344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_262
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff727d2dcb3d7e190800000000000000
+      internalID: -7933139410645211137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: longSword_attack_70x46_263
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab693a101e22030800000000000000
+      internalID: 3468582060184484601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      longSword_attack_70x46_0: 8455052334724681475
+      longSword_attack_70x46_1: -6918118283946347003
+      longSword_attack_70x46_10: 4465340940816155095
+      longSword_attack_70x46_100: -843802746056329901
+      longSword_attack_70x46_101: -8220212343900598388
+      longSword_attack_70x46_102: 7113853274114992791
+      longSword_attack_70x46_103: -7011259035156686954
+      longSword_attack_70x46_104: 7354067244991610399
+      longSword_attack_70x46_105: 7052579362796712163
+      longSword_attack_70x46_106: 3292106291390046442
+      longSword_attack_70x46_107: -4916795188073946671
+      longSword_attack_70x46_108: 8427655351946681335
+      longSword_attack_70x46_109: 5948487409126879806
+      longSword_attack_70x46_11: 3976630679806871949
+      longSword_attack_70x46_110: 5258869424045881252
+      longSword_attack_70x46_111: -7572326100586255566
+      longSword_attack_70x46_112: 4748745548039022501
+      longSword_attack_70x46_113: 5764211980924561692
+      longSword_attack_70x46_114: 5114259527992161148
+      longSword_attack_70x46_115: 8116668588506641806
+      longSword_attack_70x46_116: -7647050234061370403
+      longSword_attack_70x46_117: 6289804023476814786
+      longSword_attack_70x46_118: -8825942834845134517
+      longSword_attack_70x46_119: 2618879679728105020
+      longSword_attack_70x46_12: -6667950287098547649
+      longSword_attack_70x46_120: 3446818953349170733
+      longSword_attack_70x46_121: 205926623617410244
+      longSword_attack_70x46_122: -3025094717365494616
+      longSword_attack_70x46_123: -8432602703804245680
+      longSword_attack_70x46_124: -3006787243663046862
+      longSword_attack_70x46_125: -1845894046629845825
+      longSword_attack_70x46_126: -5251526079287964330
+      longSword_attack_70x46_127: 9059426859209523720
+      longSword_attack_70x46_128: 7647445029266639182
+      longSword_attack_70x46_129: -4920311331342498652
+      longSword_attack_70x46_13: 5256359549099143769
+      longSword_attack_70x46_130: 3898158747765801361
+      longSword_attack_70x46_131: 3961574716764122298
+      longSword_attack_70x46_132: -2366891511010672232
+      longSword_attack_70x46_133: -8072869022554726649
+      longSword_attack_70x46_134: 8587502024699727942
+      longSword_attack_70x46_135: 4385780281426550128
+      longSword_attack_70x46_136: 5168321748110261066
+      longSword_attack_70x46_137: 6679191620810753411
+      longSword_attack_70x46_138: -2136225570701468800
+      longSword_attack_70x46_139: -4447372093564896804
+      longSword_attack_70x46_14: 4734790135058744099
+      longSword_attack_70x46_140: -1812195871180133788
+      longSword_attack_70x46_141: 6727230481397759468
+      longSword_attack_70x46_142: -3655957637366779714
+      longSword_attack_70x46_143: -7945603984543744778
+      longSword_attack_70x46_144: 7785627641492794025
+      longSword_attack_70x46_145: 825188125445109256
+      longSword_attack_70x46_146: 6457119480671195628
+      longSword_attack_70x46_147: 1799593324951403624
+      longSword_attack_70x46_148: 9126093504667024851
+      longSword_attack_70x46_149: 6878479665356375115
+      longSword_attack_70x46_15: -7453336734536949994
+      longSword_attack_70x46_150: -2417448365113153970
+      longSword_attack_70x46_151: 4896682822238900281
+      longSword_attack_70x46_152: 958853635139614859
+      longSword_attack_70x46_153: 5540884085615460282
+      longSword_attack_70x46_154: -8297659004461803220
+      longSword_attack_70x46_155: -5731736270487738809
+      longSword_attack_70x46_156: 6100014845540277178
+      longSword_attack_70x46_157: 8900190581588209357
+      longSword_attack_70x46_158: -7013879786231885447
+      longSword_attack_70x46_159: -3080751212633885095
+      longSword_attack_70x46_16: 1095610822701506827
+      longSword_attack_70x46_160: 8159804163956877709
+      longSword_attack_70x46_161: 1688863401890064030
+      longSword_attack_70x46_162: 4783384064739666863
+      longSword_attack_70x46_163: -8268071039186303638
+      longSword_attack_70x46_164: -5466045308664101934
+      longSword_attack_70x46_165: -199771446268134353
+      longSword_attack_70x46_166: 3439481759948605495
+      longSword_attack_70x46_167: 9204218747032460780
+      longSword_attack_70x46_168: 2612330433513362754
+      longSword_attack_70x46_169: -7498845328387810152
+      longSword_attack_70x46_17: 5860056876840219027
+      longSword_attack_70x46_170: -8671672812265070152
+      longSword_attack_70x46_171: -3740391582425985201
+      longSword_attack_70x46_172: 1824881646853868138
+      longSword_attack_70x46_173: -8041337119728933424
+      longSword_attack_70x46_174: -7593097690381695567
+      longSword_attack_70x46_175: -3779995334503528799
+      longSword_attack_70x46_176: -7878271996291283036
+      longSword_attack_70x46_177: -1501303371463897658
+      longSword_attack_70x46_178: 6218134437032510972
+      longSword_attack_70x46_179: -1844100229275187074
+      longSword_attack_70x46_18: -4491805081453462715
+      longSword_attack_70x46_180: 8892157156128186925
+      longSword_attack_70x46_181: 3618269008387517848
+      longSword_attack_70x46_182: 9215413470898827792
+      longSword_attack_70x46_183: -1186238697185091467
+      longSword_attack_70x46_184: 7719947502835832295
+      longSword_attack_70x46_185: -9158958530113691711
+      longSword_attack_70x46_186: -3944255087317848964
+      longSword_attack_70x46_187: -2033279353131429327
+      longSword_attack_70x46_188: -5178548486420794906
+      longSword_attack_70x46_189: -8187974897819672396
+      longSword_attack_70x46_19: -8455370280882493365
+      longSword_attack_70x46_190: 5754708980034207421
+      longSword_attack_70x46_191: -3822709620862110993
+      longSword_attack_70x46_192: -3615067812568005506
+      longSword_attack_70x46_193: 861981374560816450
+      longSword_attack_70x46_194: 1035838277553344570
+      longSword_attack_70x46_195: -2911338762007605884
+      longSword_attack_70x46_196: -4045268456820629905
+      longSword_attack_70x46_197: 8819264037130864368
+      longSword_attack_70x46_198: 3514098505885670700
+      longSword_attack_70x46_199: 6086021281939335196
+      longSword_attack_70x46_2: -1967847899385047304
+      longSword_attack_70x46_20: 994626626506895287
+      longSword_attack_70x46_200: -7686556356104183166
+      longSword_attack_70x46_201: 4007373281374828081
+      longSword_attack_70x46_202: 8703588121324964905
+      longSword_attack_70x46_203: 4396264217295325473
+      longSword_attack_70x46_204: 8094046298623364774
+      longSword_attack_70x46_205: -6626553773998506342
+      longSword_attack_70x46_206: 7605134695365318420
+      longSword_attack_70x46_207: 9017021593410005315
+      longSword_attack_70x46_208: 6808546566594901145
+      longSword_attack_70x46_209: 9010162915056184297
+      longSword_attack_70x46_21: -8790837275409123057
+      longSword_attack_70x46_210: -5789424748116144748
+      longSword_attack_70x46_211: 4093056250038086953
+      longSword_attack_70x46_212: -8719687649759052854
+      longSword_attack_70x46_213: -141359333944049965
+      longSword_attack_70x46_214: -5005908064803724037
+      longSword_attack_70x46_215: -2507381702962810297
+      longSword_attack_70x46_216: 3517525055464938886
+      longSword_attack_70x46_217: -39929899950064348
+      longSword_attack_70x46_218: -6133422142592633358
+      longSword_attack_70x46_219: -3606045971084306292
+      longSword_attack_70x46_22: -636867695120769548
+      longSword_attack_70x46_220: 579460003255025557
+      longSword_attack_70x46_221: 2866030763959235138
+      longSword_attack_70x46_222: -8124359752779495044
+      longSword_attack_70x46_223: 7118540098101289636
+      longSword_attack_70x46_224: -8401039158248416564
+      longSword_attack_70x46_225: -7114764445613870298
+      longSword_attack_70x46_226: 7663312918459577030
+      longSword_attack_70x46_227: 8437336993192784493
+      longSword_attack_70x46_228: -9156740295212142459
+      longSword_attack_70x46_229: -1514106843120748550
+      longSword_attack_70x46_23: 8194077806921271999
+      longSword_attack_70x46_230: 5475671653792651893
+      longSword_attack_70x46_231: 3575788461667991135
+      longSword_attack_70x46_232: 1552079098685374806
+      longSword_attack_70x46_233: 578078565151970420
+      longSword_attack_70x46_234: -7352109201209566518
+      longSword_attack_70x46_235: 7219174990346810757
+      longSword_attack_70x46_236: 3288716166869312108
+      longSword_attack_70x46_237: 6874893740963418996
+      longSword_attack_70x46_238: -4399821492380193213
+      longSword_attack_70x46_239: 1231101727098624362
+      longSword_attack_70x46_24: 6163737191912742852
+      longSword_attack_70x46_240: 2950414094249977848
+      longSword_attack_70x46_241: 4392070098249842974
+      longSword_attack_70x46_242: -3149703580491361385
+      longSword_attack_70x46_243: -5779491106934846015
+      longSword_attack_70x46_244: -1029165672103016485
+      longSword_attack_70x46_245: -6049384913972381778
+      longSword_attack_70x46_246: -8049880618317842345
+      longSword_attack_70x46_247: -1260261362477675641
+      longSword_attack_70x46_248: -382309871493193140
+      longSword_attack_70x46_249: -5225903071793228668
+      longSword_attack_70x46_25: 1249510384324469125
+      longSword_attack_70x46_250: -2840297814118812165
+      longSword_attack_70x46_251: -7233441026702172842
+      longSword_attack_70x46_252: -6280378912756129351
+      longSword_attack_70x46_253: -2433042665712540373
+      longSword_attack_70x46_254: 6175696731078961229
+      longSword_attack_70x46_255: -612203842300064032
+      longSword_attack_70x46_256: -4679030359668990530
+      longSword_attack_70x46_257: -6506124027584711918
+      longSword_attack_70x46_258: -910621966781584911
+      longSword_attack_70x46_259: -4732135545869010650
+      longSword_attack_70x46_26: -8769670495270169011
+      longSword_attack_70x46_260: -7512726216091145964
+      longSword_attack_70x46_261: 9096307972183441344
+      longSword_attack_70x46_262: -7933139410645211137
+      longSword_attack_70x46_263: 3468582060184484601
+      longSword_attack_70x46_27: -6117841898468951652
+      longSword_attack_70x46_28: -8645046885254522544
+      longSword_attack_70x46_29: 8995024981805995081
+      longSword_attack_70x46_3: -6046638703458817800
+      longSword_attack_70x46_30: 6214366023087872491
+      longSword_attack_70x46_31: 7331697279810363499
+      longSword_attack_70x46_32: 1346299618830449546
+      longSword_attack_70x46_33: 4992394485243345974
+      longSword_attack_70x46_34: -3697735970578182383
+      longSword_attack_70x46_35: -1237172076189175064
+      longSword_attack_70x46_36: 5393229092387462927
+      longSword_attack_70x46_37: 2669289926995626740
+      longSword_attack_70x46_38: 1161726087314821873
+      longSword_attack_70x46_39: 3970148216707493919
+      longSword_attack_70x46_4: 7278138588617889385
+      longSword_attack_70x46_40: 4158522825328934915
+      longSword_attack_70x46_41: -1349589396266878546
+      longSword_attack_70x46_42: 9054838165320541515
+      longSword_attack_70x46_43: 5562951225734463933
+      longSword_attack_70x46_44: -6684925177054918681
+      longSword_attack_70x46_45: -7147546480548251079
+      longSword_attack_70x46_46: 2033309113210460814
+      longSword_attack_70x46_47: -6778468227469801534
+      longSword_attack_70x46_48: 5869879067129355122
+      longSword_attack_70x46_49: 7252884077448143508
+      longSword_attack_70x46_5: 4514488513967425583
+      longSword_attack_70x46_50: -5533615502460113815
+      longSword_attack_70x46_51: -7966616263836847316
+      longSword_attack_70x46_52: -7660610581353089917
+      longSword_attack_70x46_53: 5700755258796237784
+      longSword_attack_70x46_54: 7823152588256528001
+      longSword_attack_70x46_55: -2371964441486494576
+      longSword_attack_70x46_56: -335785406082860251
+      longSword_attack_70x46_57: -4098096060551135053
+      longSword_attack_70x46_58: -5807697524713789150
+      longSword_attack_70x46_59: 3566258682275863024
+      longSword_attack_70x46_6: -1258392884924923083
+      longSword_attack_70x46_60: -7609224881315719139
+      longSword_attack_70x46_61: -818473566466097690
+      longSword_attack_70x46_62: 1757365349842241107
+      longSword_attack_70x46_63: -1674804679668596309
+      longSword_attack_70x46_64: 61444768056375993
+      longSword_attack_70x46_65: 1584735845361527156
+      longSword_attack_70x46_66: 324071591925219654
+      longSword_attack_70x46_67: 7371102271728063867
+      longSword_attack_70x46_68: 3204979764866165675
+      longSword_attack_70x46_69: -1453616279791444505
+      longSword_attack_70x46_7: 5911813444858343321
+      longSword_attack_70x46_70: 8997784122096740450
+      longSword_attack_70x46_71: -5666634751525633836
+      longSword_attack_70x46_72: 2558176885836728237
+      longSword_attack_70x46_73: -9160978467579416397
+      longSword_attack_70x46_74: -2503793297219094065
+      longSword_attack_70x46_75: -5037631569954650978
+      longSword_attack_70x46_76: -7613570020459659791
+      longSword_attack_70x46_77: -1411396375779496542
+      longSword_attack_70x46_78: 7310520222666347815
+      longSword_attack_70x46_79: -4676318824905365376
+      longSword_attack_70x46_8: 5900309141070514066
+      longSword_attack_70x46_80: 2836086302204666709
+      longSword_attack_70x46_81: -2822164082003697564
+      longSword_attack_70x46_82: 6200740867406405654
+      longSword_attack_70x46_83: -1923336280324039695
+      longSword_attack_70x46_84: 145178338377191408
+      longSword_attack_70x46_85: 5445549208679461054
+      longSword_attack_70x46_86: -6306672898752447970
+      longSword_attack_70x46_87: 6553145157874065254
+      longSword_attack_70x46_88: 6158238352697053030
+      longSword_attack_70x46_89: -6786290147695372879
+      longSword_attack_70x46_9: 6293739310179532722
+      longSword_attack_70x46_90: 2812908680668268683
+      longSword_attack_70x46_91: 2280588858612077921
+      longSword_attack_70x46_92: 5129852840247468108
+      longSword_attack_70x46_93: -5450197073532767230
+      longSword_attack_70x46_94: -4672851689334552068
+      longSword_attack_70x46_95: -5094625116273427266
+      longSword_attack_70x46_96: -5853748709981904510
+      longSword_attack_70x46_97: 8045309920692419447
+      longSword_attack_70x46_98: -8516677774335283505
+      longSword_attack_70x46_99: 6496384114302751044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

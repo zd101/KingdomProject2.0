@@ -1,0 +1,5364 @@
+fileFormatVersion: 2
+guid: 58677a64dacdce244bcbb430a5611442
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6342059640116486747
+    second: mace-roundelShield_attack_72x41_0
+  - first:
+      213: -7856977712066608149
+    second: mace-roundelShield_attack_72x41_1
+  - first:
+      213: -8645982741950494229
+    second: mace-roundelShield_attack_72x41_2
+  - first:
+      213: 6810809392867294136
+    second: mace-roundelShield_attack_72x41_3
+  - first:
+      213: 1087184740777349553
+    second: mace-roundelShield_attack_72x41_4
+  - first:
+      213: 4617455103094490012
+    second: mace-roundelShield_attack_72x41_5
+  - first:
+      213: -3066175121151877533
+    second: mace-roundelShield_attack_72x41_6
+  - first:
+      213: 6603821995025784642
+    second: mace-roundelShield_attack_72x41_7
+  - first:
+      213: 3057563857595106137
+    second: mace-roundelShield_attack_72x41_8
+  - first:
+      213: 5292198542612939046
+    second: mace-roundelShield_attack_72x41_9
+  - first:
+      213: 3261768168160078195
+    second: mace-roundelShield_attack_72x41_10
+  - first:
+      213: 77411307977602143
+    second: mace-roundelShield_attack_72x41_11
+  - first:
+      213: -2490654819121392531
+    second: mace-roundelShield_attack_72x41_12
+  - first:
+      213: 9190939302840597188
+    second: mace-roundelShield_attack_72x41_13
+  - first:
+      213: -7020088996396344666
+    second: mace-roundelShield_attack_72x41_14
+  - first:
+      213: -8684737757355884441
+    second: mace-roundelShield_attack_72x41_15
+  - first:
+      213: 3667599391858168854
+    second: mace-roundelShield_attack_72x41_16
+  - first:
+      213: -8054915195038670445
+    second: mace-roundelShield_attack_72x41_17
+  - first:
+      213: -1591244742532939753
+    second: mace-roundelShield_attack_72x41_18
+  - first:
+      213: -3650303136968861953
+    second: mace-roundelShield_attack_72x41_19
+  - first:
+      213: 2137475028042966932
+    second: mace-roundelShield_attack_72x41_20
+  - first:
+      213: -9165365842270480345
+    second: mace-roundelShield_attack_72x41_21
+  - first:
+      213: 3109892514795254582
+    second: mace-roundelShield_attack_72x41_22
+  - first:
+      213: 2831312498810862980
+    second: mace-roundelShield_attack_72x41_23
+  - first:
+      213: -4386016861842488855
+    second: mace-roundelShield_attack_72x41_24
+  - first:
+      213: 5503474964829292929
+    second: mace-roundelShield_attack_72x41_25
+  - first:
+      213: -1117628394209502279
+    second: mace-roundelShield_attack_72x41_26
+  - first:
+      213: 1652285825883972465
+    second: mace-roundelShield_attack_72x41_27
+  - first:
+      213: 970695437046217938
+    second: mace-roundelShield_attack_72x41_28
+  - first:
+      213: -6571931156047977122
+    second: mace-roundelShield_attack_72x41_29
+  - first:
+      213: -5015880996303925144
+    second: mace-roundelShield_attack_72x41_30
+  - first:
+      213: -3337374767466664881
+    second: mace-roundelShield_attack_72x41_31
+  - first:
+      213: 5964451434067944141
+    second: mace-roundelShield_attack_72x41_32
+  - first:
+      213: -6478917129280580336
+    second: mace-roundelShield_attack_72x41_33
+  - first:
+      213: -2880438167784045639
+    second: mace-roundelShield_attack_72x41_34
+  - first:
+      213: 5340267338950644695
+    second: mace-roundelShield_attack_72x41_35
+  - first:
+      213: -5587402797305399614
+    second: mace-roundelShield_attack_72x41_36
+  - first:
+      213: 6470903453022028670
+    second: mace-roundelShield_attack_72x41_37
+  - first:
+      213: -3765532099121438787
+    second: mace-roundelShield_attack_72x41_38
+  - first:
+      213: 985530230274109185
+    second: mace-roundelShield_attack_72x41_39
+  - first:
+      213: 2425689785002041092
+    second: mace-roundelShield_attack_72x41_40
+  - first:
+      213: 1167866502305926994
+    second: mace-roundelShield_attack_72x41_41
+  - first:
+      213: -7180648328522461888
+    second: mace-roundelShield_attack_72x41_42
+  - first:
+      213: -5263986134575895410
+    second: mace-roundelShield_attack_72x41_43
+  - first:
+      213: 6824643913478129268
+    second: mace-roundelShield_attack_72x41_44
+  - first:
+      213: 5686689012779737124
+    second: mace-roundelShield_attack_72x41_45
+  - first:
+      213: 7590471286018503794
+    second: mace-roundelShield_attack_72x41_46
+  - first:
+      213: -2859473397014411570
+    second: mace-roundelShield_attack_72x41_47
+  - first:
+      213: 6550536173127682107
+    second: mace-roundelShield_attack_72x41_48
+  - first:
+      213: -3950861903018053600
+    second: mace-roundelShield_attack_72x41_49
+  - first:
+      213: -3773849211503529509
+    second: mace-roundelShield_attack_72x41_50
+  - first:
+      213: 7520564860838055067
+    second: mace-roundelShield_attack_72x41_51
+  - first:
+      213: 4436068042389275813
+    second: mace-roundelShield_attack_72x41_52
+  - first:
+      213: -4912149844394698320
+    second: mace-roundelShield_attack_72x41_53
+  - first:
+      213: -5283959562592629584
+    second: mace-roundelShield_attack_72x41_54
+  - first:
+      213: -466449386142253525
+    second: mace-roundelShield_attack_72x41_55
+  - first:
+      213: 4718811973138630605
+    second: mace-roundelShield_attack_72x41_56
+  - first:
+      213: -6448144788848141272
+    second: mace-roundelShield_attack_72x41_57
+  - first:
+      213: -3414925703377326661
+    second: mace-roundelShield_attack_72x41_58
+  - first:
+      213: -1824354276226752076
+    second: mace-roundelShield_attack_72x41_59
+  - first:
+      213: -9161167002308656025
+    second: mace-roundelShield_attack_72x41_60
+  - first:
+      213: -385423291010192686
+    second: mace-roundelShield_attack_72x41_61
+  - first:
+      213: 875114128868000429
+    second: mace-roundelShield_attack_72x41_62
+  - first:
+      213: -4678257867777658068
+    second: mace-roundelShield_attack_72x41_63
+  - first:
+      213: 6847709400931219464
+    second: mace-roundelShield_attack_72x41_64
+  - first:
+      213: -8471800972021604766
+    second: mace-roundelShield_attack_72x41_65
+  - first:
+      213: -1922354830339866397
+    second: mace-roundelShield_attack_72x41_66
+  - first:
+      213: -6385587165735795088
+    second: mace-roundelShield_attack_72x41_67
+  - first:
+      213: 6288022512651441895
+    second: mace-roundelShield_attack_72x41_68
+  - first:
+      213: 6264582185057032069
+    second: mace-roundelShield_attack_72x41_69
+  - first:
+      213: 9115294751418895529
+    second: mace-roundelShield_attack_72x41_70
+  - first:
+      213: 8695446911149540626
+    second: mace-roundelShield_attack_72x41_71
+  - first:
+      213: -5760724154917101387
+    second: mace-roundelShield_attack_72x41_72
+  - first:
+      213: -9067082784395344124
+    second: mace-roundelShield_attack_72x41_73
+  - first:
+      213: 8756678419680342698
+    second: mace-roundelShield_attack_72x41_74
+  - first:
+      213: 72085028366799600
+    second: mace-roundelShield_attack_72x41_75
+  - first:
+      213: 2380411220244655336
+    second: mace-roundelShield_attack_72x41_76
+  - first:
+      213: 4438342983768218794
+    second: mace-roundelShield_attack_72x41_77
+  - first:
+      213: -1537151139355655103
+    second: mace-roundelShield_attack_72x41_78
+  - first:
+      213: 6073250229989709438
+    second: mace-roundelShield_attack_72x41_79
+  - first:
+      213: -5534388939974427065
+    second: mace-roundelShield_attack_72x41_80
+  - first:
+      213: -1787738143462901340
+    second: mace-roundelShield_attack_72x41_81
+  - first:
+      213: -4631006599816145692
+    second: mace-roundelShield_attack_72x41_82
+  - first:
+      213: -5849799399122831373
+    second: mace-roundelShield_attack_72x41_83
+  - first:
+      213: -1409877984630636502
+    second: mace-roundelShield_attack_72x41_84
+  - first:
+      213: -8072469179510916700
+    second: mace-roundelShield_attack_72x41_85
+  - first:
+      213: -5183033462263927325
+    second: mace-roundelShield_attack_72x41_86
+  - first:
+      213: -3444718334092886913
+    second: mace-roundelShield_attack_72x41_87
+  - first:
+      213: 596155706954539923
+    second: mace-roundelShield_attack_72x41_88
+  - first:
+      213: 8561512492634569423
+    second: mace-roundelShield_attack_72x41_89
+  - first:
+      213: -196798779861123906
+    second: mace-roundelShield_attack_72x41_90
+  - first:
+      213: 258630982360346508
+    second: mace-roundelShield_attack_72x41_91
+  - first:
+      213: 7225581530115185195
+    second: mace-roundelShield_attack_72x41_92
+  - first:
+      213: 6233238049185260339
+    second: mace-roundelShield_attack_72x41_93
+  - first:
+      213: 1636775166256425400
+    second: mace-roundelShield_attack_72x41_94
+  - first:
+      213: -8220398380828536901
+    second: mace-roundelShield_attack_72x41_95
+  - first:
+      213: 5248080037992039000
+    second: mace-roundelShield_attack_72x41_96
+  - first:
+      213: 8173071163112099154
+    second: mace-roundelShield_attack_72x41_97
+  - first:
+      213: -8214858325612043378
+    second: mace-roundelShield_attack_72x41_98
+  - first:
+      213: -660389295156252772
+    second: mace-roundelShield_attack_72x41_99
+  - first:
+      213: 5633585977107950457
+    second: mace-roundelShield_attack_72x41_100
+  - first:
+      213: -5636538983794608049
+    second: mace-roundelShield_attack_72x41_101
+  - first:
+      213: -5486584099146602647
+    second: mace-roundelShield_attack_72x41_102
+  - first:
+      213: 6398259355641362211
+    second: mace-roundelShield_attack_72x41_103
+  - first:
+      213: -2475433046896216998
+    second: mace-roundelShield_attack_72x41_104
+  - first:
+      213: -3967533084595226451
+    second: mace-roundelShield_attack_72x41_105
+  - first:
+      213: -2814197332402498707
+    second: mace-roundelShield_attack_72x41_106
+  - first:
+      213: -6651847111097893672
+    second: mace-roundelShield_attack_72x41_107
+  - first:
+      213: 8216429941361429738
+    second: mace-roundelShield_attack_72x41_108
+  - first:
+      213: 3412811901644339147
+    second: mace-roundelShield_attack_72x41_109
+  - first:
+      213: 3001895928614115047
+    second: mace-roundelShield_attack_72x41_110
+  - first:
+      213: -8683629831326703784
+    second: mace-roundelShield_attack_72x41_111
+  - first:
+      213: 4783402467595913346
+    second: mace-roundelShield_attack_72x41_112
+  - first:
+      213: 2670693162166458653
+    second: mace-roundelShield_attack_72x41_113
+  - first:
+      213: 6459150176312737071
+    second: mace-roundelShield_attack_72x41_114
+  - first:
+      213: 3351476418698192934
+    second: mace-roundelShield_attack_72x41_115
+  - first:
+      213: 6925937575151195842
+    second: mace-roundelShield_attack_72x41_116
+  - first:
+      213: -3440550370898882516
+    second: mace-roundelShield_attack_72x41_117
+  - first:
+      213: 9156855488378409655
+    second: mace-roundelShield_attack_72x41_118
+  - first:
+      213: 3796173920515087064
+    second: mace-roundelShield_attack_72x41_119
+  - first:
+      213: -307173409984958230
+    second: mace-roundelShield_attack_72x41_120
+  - first:
+      213: -3319503620978294933
+    second: mace-roundelShield_attack_72x41_121
+  - first:
+      213: -7708497704848112575
+    second: mace-roundelShield_attack_72x41_122
+  - first:
+      213: 4852141562074353004
+    second: mace-roundelShield_attack_72x41_123
+  - first:
+      213: 3383247742975955536
+    second: mace-roundelShield_attack_72x41_124
+  - first:
+      213: 7547717956078712659
+    second: mace-roundelShield_attack_72x41_125
+  - first:
+      213: 2519850606009528880
+    second: mace-roundelShield_attack_72x41_126
+  - first:
+      213: 6498535572587518667
+    second: mace-roundelShield_attack_72x41_127
+  - first:
+      213: 1642712732949988120
+    second: mace-roundelShield_attack_72x41_128
+  - first:
+      213: 235974095709495593
+    second: mace-roundelShield_attack_72x41_129
+  - first:
+      213: 3881329637085845734
+    second: mace-roundelShield_attack_72x41_130
+  - first:
+      213: -1123841204406917719
+    second: mace-roundelShield_attack_72x41_131
+  - first:
+      213: 1079299735217064954
+    second: mace-roundelShield_attack_72x41_132
+  - first:
+      213: 5703169372342253616
+    second: mace-roundelShield_attack_72x41_133
+  - first:
+      213: -4597174302588262062
+    second: mace-roundelShield_attack_72x41_134
+  - first:
+      213: -5850486950107544817
+    second: mace-roundelShield_attack_72x41_135
+  - first:
+      213: -5306241128810020971
+    second: mace-roundelShield_attack_72x41_136
+  - first:
+      213: -8989179289644451469
+    second: mace-roundelShield_attack_72x41_137
+  - first:
+      213: -4998905462107207825
+    second: mace-roundelShield_attack_72x41_138
+  - first:
+      213: -6737874373223214201
+    second: mace-roundelShield_attack_72x41_139
+  - first:
+      213: 6126938151589301459
+    second: mace-roundelShield_attack_72x41_140
+  - first:
+      213: 4429802509547285241
+    second: mace-roundelShield_attack_72x41_141
+  - first:
+      213: 6632913760181525544
+    second: mace-roundelShield_attack_72x41_142
+  - first:
+      213: 1190031608530838931
+    second: mace-roundelShield_attack_72x41_143
+  - first:
+      213: -1327202305847104738
+    second: mace-roundelShield_attack_72x41_144
+  - first:
+      213: -7731131373838795393
+    second: mace-roundelShield_attack_72x41_145
+  - first:
+      213: -7104934464086531754
+    second: mace-roundelShield_attack_72x41_146
+  - first:
+      213: 1073334590050368948
+    second: mace-roundelShield_attack_72x41_147
+  - first:
+      213: 4005646496239556440
+    second: mace-roundelShield_attack_72x41_148
+  - first:
+      213: 2620152915673841218
+    second: mace-roundelShield_attack_72x41_149
+  - first:
+      213: 8804838636606746925
+    second: mace-roundelShield_attack_72x41_150
+  - first:
+      213: -3106674480232495586
+    second: mace-roundelShield_attack_72x41_151
+  - first:
+      213: -5393459323734282839
+    second: mace-roundelShield_attack_72x41_152
+  - first:
+      213: 1746463379628668222
+    second: mace-roundelShield_attack_72x41_153
+  - first:
+      213: -2618383850325081609
+    second: mace-roundelShield_attack_72x41_154
+  - first:
+      213: 6323988315439494521
+    second: mace-roundelShield_attack_72x41_155
+  - first:
+      213: -5918730230833662091
+    second: mace-roundelShield_attack_72x41_156
+  - first:
+      213: -5351538825281498185
+    second: mace-roundelShield_attack_72x41_157
+  - first:
+      213: -7959715120366105055
+    second: mace-roundelShield_attack_72x41_158
+  - first:
+      213: -7341703400875173743
+    second: mace-roundelShield_attack_72x41_159
+  - first:
+      213: -5409302294759738439
+    second: mace-roundelShield_attack_72x41_160
+  - first:
+      213: -4476586516831506326
+    second: mace-roundelShield_attack_72x41_161
+  - first:
+      213: -2721705906355177654
+    second: mace-roundelShield_attack_72x41_162
+  - first:
+      213: -5928295710292721058
+    second: mace-roundelShield_attack_72x41_163
+  - first:
+      213: 460060462271167321
+    second: mace-roundelShield_attack_72x41_164
+  - first:
+      213: -8124222174868395800
+    second: mace-roundelShield_attack_72x41_165
+  - first:
+      213: -3087610049221886201
+    second: mace-roundelShield_attack_72x41_166
+  - first:
+      213: -1994653184192710086
+    second: mace-roundelShield_attack_72x41_167
+  - first:
+      213: 4992962764719659149
+    second: mace-roundelShield_attack_72x41_168
+  - first:
+      213: -7035492132702943931
+    second: mace-roundelShield_attack_72x41_169
+  - first:
+      213: -1076637564370707997
+    second: mace-roundelShield_attack_72x41_170
+  - first:
+      213: -2451964681433138681
+    second: mace-roundelShield_attack_72x41_171
+  - first:
+      213: -6793077243894956503
+    second: mace-roundelShield_attack_72x41_172
+  - first:
+      213: 82968612282495104
+    second: mace-roundelShield_attack_72x41_173
+  - first:
+      213: -1207267110456652623
+    second: mace-roundelShield_attack_72x41_174
+  - first:
+      213: 9147093153102711121
+    second: mace-roundelShield_attack_72x41_175
+  - first:
+      213: 141334728876496770
+    second: mace-roundelShield_attack_72x41_176
+  - first:
+      213: -5600256335293180174
+    second: mace-roundelShield_attack_72x41_177
+  - first:
+      213: 8155518636991383355
+    second: mace-roundelShield_attack_72x41_178
+  - first:
+      213: -7086376316624696083
+    second: mace-roundelShield_attack_72x41_179
+  - first:
+      213: -6698329877445267237
+    second: mace-roundelShield_attack_72x41_180
+  - first:
+      213: -7230487195884715190
+    second: mace-roundelShield_attack_72x41_181
+  - first:
+      213: -4957427349947364795
+    second: mace-roundelShield_attack_72x41_182
+  - first:
+      213: 6932711968736272204
+    second: mace-roundelShield_attack_72x41_183
+  - first:
+      213: -308500784264336711
+    second: mace-roundelShield_attack_72x41_184
+  - first:
+      213: -3265568315756523649
+    second: mace-roundelShield_attack_72x41_185
+  - first:
+      213: 7451579175714469051
+    second: mace-roundelShield_attack_72x41_186
+  - first:
+      213: -3916551169491230517
+    second: mace-roundelShield_attack_72x41_187
+  - first:
+      213: -6081577355304922992
+    second: mace-roundelShield_attack_72x41_188
+  - first:
+      213: 6602689677106983396
+    second: mace-roundelShield_attack_72x41_189
+  - first:
+      213: -1736588117892970337
+    second: mace-roundelShield_attack_72x41_190
+  - first:
+      213: -280103313511018202
+    second: mace-roundelShield_attack_72x41_191
+  - first:
+      213: 2480640903384141439
+    second: mace-roundelShield_attack_72x41_192
+  - first:
+      213: -1024378870602834135
+    second: mace-roundelShield_attack_72x41_193
+  - first:
+      213: 430182060811405051
+    second: mace-roundelShield_attack_72x41_194
+  - first:
+      213: -6074369803799984147
+    second: mace-roundelShield_attack_72x41_195
+  - first:
+      213: 5815251068249266763
+    second: mace-roundelShield_attack_72x41_196
+  - first:
+      213: -3167428662111147015
+    second: mace-roundelShield_attack_72x41_197
+  - first:
+      213: 8596872724630542281
+    second: mace-roundelShield_attack_72x41_198
+  - first:
+      213: -4634892626361793565
+    second: mace-roundelShield_attack_72x41_199
+  - first:
+      213: -3500564352977504963
+    second: mace-roundelShield_attack_72x41_200
+  - first:
+      213: 5075345732228620724
+    second: mace-roundelShield_attack_72x41_201
+  - first:
+      213: -6936488945566440091
+    second: mace-roundelShield_attack_72x41_202
+  - first:
+      213: 4981354698837552561
+    second: mace-roundelShield_attack_72x41_203
+  - first:
+      213: -9203225111007781225
+    second: mace-roundelShield_attack_72x41_204
+  - first:
+      213: 3055017451773518197
+    second: mace-roundelShield_attack_72x41_205
+  - first:
+      213: -6153908467813444330
+    second: mace-roundelShield_attack_72x41_206
+  - first:
+      213: 719125011377677241
+    second: mace-roundelShield_attack_72x41_207
+  - first:
+      213: 5147633413860741565
+    second: mace-roundelShield_attack_72x41_208
+  - first:
+      213: -1853143878924565176
+    second: mace-roundelShield_attack_72x41_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5add386eb5a7cf7a0800000000000000
+      internalID: -6342059640116486747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3cb10266866f290800000000000000
+      internalID: -7856977712066608149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be902eb218c430880800000000000000
+      internalID: -8645982741950494229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbbfbebe0bd48e50800000000000000
+      internalID: 6810809392867294136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b15247f2c4761f00800000000000000
+      internalID: 1087184740777349553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930342b3fe741040800000000000000
+      internalID: 4617455103094490012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e1a9cf8f1c275d0800000000000000
+      internalID: -3066175121151877533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f5c6dad1d75ab50800000000000000
+      internalID: 6603821995025784642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953870af026ae6a20800000000000000
+      internalID: 3057563857595106137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621c845098aa17940800000000000000
+      internalID: 5292198542612939046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379abda0ed0244d20800000000000000
+      internalID: 3261768168160078195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f547a99ac25031100800000000000000
+      internalID: 77411307977602143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64972853aa6f6dd0800000000000000
+      internalID: -2490654819121392531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca7df9a996cc8f70800000000000000
+      internalID: 9190939302840597188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aada267042a39e90800000000000000
+      internalID: -7020088996396344666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760416df50d997780800000000000000
+      internalID: -8684737757355884441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6141522173ee5e230800000000000000
+      internalID: 3667599391858168854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391e2df8e41373090800000000000000
+      internalID: -8054915195038670445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710cd926653cae9e0800000000000000
+      internalID: -1591244742532939753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff61a7613a4875dc0800000000000000
+      internalID: -3650303136968861953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497e4c29636d9ad10800000000000000
+      internalID: 2137475028042966932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72818fe93541ec080800000000000000
+      internalID: -9165365842270480345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633740ae3ce882b20800000000000000
+      internalID: 3109892514795254582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dbebb77b7da4720800000000000000
+      internalID: 2831312498810862980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1410bf6ecb123c0800000000000000
+      internalID: -4386016861842488855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189c7e46255406c40800000000000000
+      internalID: 5503474964829292929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb904c95e26d70f0800000000000000
+      internalID: -1117628394209502279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1732a3754391ee610800000000000000
+      internalID: 1652285825883972465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc7b366b5a987d00800000000000000
+      internalID: 970695437046217938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e552073ee6fcbc4a0800000000000000
+      internalID: -6571931156047977122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8601ca32fc2046ab0800000000000000
+      internalID: -5015880996303925144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c2cc6c4534fa1d0800000000000000
+      internalID: -3337374767466664881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc260bf6afcf5c250800000000000000
+      internalID: 5964451434067944141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015990c92334616a0800000000000000
+      internalID: -6478917129280580336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b341c36fb0a608d0800000000000000
+      internalID: -2880438167784045639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d316cfc9d07c1a40800000000000000
+      internalID: 5340267338950644695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6769952ce8572b0800000000000000
+      internalID: -5587402797305399614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e730a3df7644dc950800000000000000
+      internalID: 6470903453022028670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1989a1842ebbc0800000000000000
+      internalID: -3765532099121438787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fa5ead58e4dad00800000000000000
+      internalID: 985530230274109185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f1752f108c9a120800000000000000
+      internalID: 2425689785002041092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fc50f6568153010800000000000000
+      internalID: 1167866502305926994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_42
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d8a61d366395c90800000000000000
+      internalID: -7180648328522461888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ca50a108092f6b0800000000000000
+      internalID: -5263986134575895410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47645651b7106be50800000000000000
+      internalID: 6824643913478129268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206ada178d2bee40800000000000000
+      internalID: 5686689012779737124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_46
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2747fe82b65c65960800000000000000
+      internalID: 7590471286018503794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c646781c1158d0800000000000000
+      internalID: -2859473397014411570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b384f9771fd28ea50800000000000000
+      internalID: 6550536173127682107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0203cf12808bb29c0800000000000000
+      internalID: -3950861903018053600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1b178032890abc0800000000000000
+      internalID: -3773849211503529509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c898035e96e5860800000000000000
+      internalID: 7520564860838055067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4431a9164109d30800000000000000
+      internalID: 4436068042389275813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b91d510eb984dbb0800000000000000
+      internalID: -4912149844394698320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc432006ca9ba6b0800000000000000
+      internalID: -5283959562592629584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eba4131c6d689f0800000000000000
+      internalID: -466449386142253525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7c9ccfc769c7140800000000000000
+      internalID: 4718811973138630605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c9b607a769386a0800000000000000
+      internalID: -6448144788848141272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_58
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde7d37a2fbb90d0800000000000000
+      internalID: -3414925703377326661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b12a0d93779ea6e0800000000000000
+      internalID: -1824354276226752076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764cc5b362ffcd080800000000000000
+      internalID: -9161167002308656025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daec231f83b6aaf0800000000000000
+      internalID: -385423291010192686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24a15e9a7052c00800000000000000
+      internalID: 875114128868000429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23bf67714d731fb0800000000000000
+      internalID: -4678257867777658068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808bb9f5b63f70f50800000000000000
+      internalID: 6847709400931219464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ed7d6c6ed1e6a80800000000000000
+      internalID: -8471800972021604766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e00655877c6255e0800000000000000
+      internalID: -1922354830339866397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07646081e46d167a0800000000000000
+      internalID: -6385587165735795088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e69f3ee82b834750800000000000000
+      internalID: 6288022512651441895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587909e5e4440f650800000000000000
+      internalID: 6264582185057032069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac4e411848008e70800000000000000
+      internalID: 9115294751418895529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215065e25ee6ca870800000000000000
+      internalID: 8695446911149540626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0672917ebcd00b0800000000000000
+      internalID: -5760724154917101387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074e0f3f304b2280800000000000000
+      internalID: -9067082784395344124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa23069b0a8f58970800000000000000
+      internalID: 8756678419680342698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f25d6d83f8100100800000000000000
+      internalID: 72085028366799600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec6902946be80120800000000000000
+      internalID: 2380411220244655336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac1adaad69289d30800000000000000
+      internalID: 4438342983768218794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1448e94de21faaae0800000000000000
+      internalID: -1537151139355655103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_79
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76989e18e4884450800000000000000
+      internalID: 6073250229989709438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e39ffd496e133b0800000000000000
+      internalID: -5534388939974427065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_81
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a93a7f51ada037e0800000000000000
+      internalID: -1787738143462901340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41879980c5bbfb0800000000000000
+      internalID: -4631006599816145692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f77df7a07651dea0800000000000000
+      internalID: -5849799399122831373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20827d517b1f6ce0800000000000000
+      internalID: -1409877984630636502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a976fe0d04d8ff80800000000000000
+      internalID: -8072469179510916700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edabc6e68a2218b0800000000000000
+      internalID: -5183033462263927325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c3e111de6e130d0800000000000000
+      internalID: -3444718334092886913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e8d7f478f54800800000000000000
+      internalID: 596155706954539923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_89
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca7d8f404a90d670800000000000000
+      internalID: 8561512492634569423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcb52a6d84d44df0800000000000000
+      internalID: -196798779861123906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_91
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8faf771287d69300800000000000000
+      internalID: 258630982360346508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_92
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a932e6e1c664460800000000000000
+      internalID: 7225581530115185195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_93
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333e22a0bf8e08650800000000000000
+      internalID: 6233238049185260339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_94
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b925e9775ef6b610800000000000000
+      internalID: 1636775166256425400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfc486e9374bed80800000000000000
+      internalID: -8220398380828536901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_96
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85285513dfce4d840800000000000000
+      internalID: 5248080037992039000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d09498be49c6170800000000000000
+      internalID: 8173071163112099154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83ebb580e5fefd80800000000000000
+      internalID: -8214858325612043378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fadb85f63d5d6f0800000000000000
+      internalID: -660389295156252772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_100
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b242129948e2e40800000000000000
+      internalID: 5633585977107950457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48f74c68adf6c1b0800000000000000
+      internalID: -5636538983794608049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_102
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9676f0cb4dcbbd3b0800000000000000
+      internalID: -5486584099146602647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b2d90cfe2bc850800000000000000
+      internalID: 6398259355641362211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_104
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54fc7e52ce75add0800000000000000
+      internalID: -2475433046896216998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da877123ead70f8c0800000000000000
+      internalID: -3967533084595226451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631c4abf66f1f8d0800000000000000
+      internalID: -2814197332402498707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3dc2ab44efa3a0800000000000000
+      internalID: -6651847111097893672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_108
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec4bb8cf7f960270800000000000000
+      internalID: 8216429941361429738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc77cbab75ebc5f20800000000000000
+      internalID: 3412811901644339147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e65cbd3170e8a920800000000000000
+      internalID: 3001895928614115047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f59ce1dac8d7780800000000000000
+      internalID: -8683629831326703784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_112
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28808c2633f026240800000000000000
+      internalID: 4783402467595913346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d191ff2f745301520800000000000000
+      internalID: 2670693162166458653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_114
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2db5020dd283a950800000000000000
+      internalID: 6459150176312737071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_115
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628aa91cb06d28e20800000000000000
+      internalID: 3351476418698192934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_116
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6da67878fdd1060800000000000000
+      internalID: 6925937575151195842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20dbbe9aa5b040d0800000000000000
+      internalID: -3440550370898882516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b291643d8fa31f70800000000000000
+      internalID: 9156855488378409655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da57e55118bea430800000000000000
+      internalID: 3796173920515087064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0b66d3963bcbbf0800000000000000
+      internalID: -307173409984958230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f37f05b01cee1d0800000000000000
+      internalID: -3319503620978294933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_122
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1444d96cd2ae50590800000000000000
+      internalID: -7708497704848112575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_123
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dc95ffa05465340800000000000000
+      internalID: 4852141562074353004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_124
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0525933a5e5b3fe20800000000000000
+      internalID: 3383247742975955536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357b8e4dd71eeb860800000000000000
+      internalID: 7547717956078712659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_126
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032304286ce48f220800000000000000
+      internalID: 2519850606009528880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca915c2caf6f2a50800000000000000
+      internalID: 6498535572587518667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_128
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ce73f6861cc610800000000000000
+      internalID: 1642712732949988120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_129
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92165f69039564300800000000000000
+      internalID: 235974095709495593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e892b2adb04dd530800000000000000
+      internalID: 3881329637085845734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_131
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e06301605760f0800000000000000
+      internalID: -1123841204406917719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb49cb04617afe00800000000000000
+      internalID: 1079299735217064954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_133
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f854d35ab52f40800000000000000
+      internalID: 5703169372342253616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2592ca3245e8330c0800000000000000
+      internalID: -4597174302588262062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_135
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0308c7bd15eecea0800000000000000
+      internalID: -5850486950107544817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff5b89ec17c56b0800000000000000
+      internalID: -5306241128810020971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_137
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379b1721015004380800000000000000
+      internalID: -8989179289644451469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670751b7f150aab0800000000000000
+      internalID: -4998905462107207825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_139
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78392d2d4f24e72a0800000000000000
+      internalID: -6737874373223214201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcc44679c1470550800000000000000
+      internalID: 6126938151589301459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa23be89e1d97d30800000000000000
+      internalID: 4429802509547285241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c9b651ce7dc0c50800000000000000
+      internalID: 6632913760181525544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_143
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a7f16177d38010800000000000000
+      internalID: 1190031608530838931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b67eed884d49de0800000000000000
+      internalID: -1327202305847104738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_145
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7df57e0af085b490800000000000000
+      internalID: -7731131373838795393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_146
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65121bb9fb3366d90800000000000000
+      internalID: -7104934464086531754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_147
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd77157f1045ee00800000000000000
+      internalID: 1073334590050368948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_148
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8579528f34ae69730800000000000000
+      internalID: 4005646496239556440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_149
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e71f3d137ac5420800000000000000
+      internalID: 2620152915673841218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_150
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2174970712113a70800000000000000
+      internalID: 8804838636606746925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_151
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1688f42500e2e4d0800000000000000
+      internalID: -3106674480232495586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adac4222559625b0800000000000000
+      internalID: -5393459323734282839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_153
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35befbc03fac3810800000000000000
+      internalID: 1746463379628668222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f101cbc2c1a9abd0800000000000000
+      internalID: -2618383850325081609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_155
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975fd71fdd153c750800000000000000
+      internalID: 6323988315439494521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5773bcdb6327cdda0800000000000000
+      internalID: -5918730230833662091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_157
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b39265cac38bb5b0800000000000000
+      internalID: -5351538825281498185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ec5493549698190800000000000000
+      internalID: -7959715120366105055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_159
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198de88a7a70d1a90800000000000000
+      internalID: -7341703400875173743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f32ef83c4ee4b0800000000000000
+      internalID: -5409302294759738439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_161
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6074f9e748ffd1c0800000000000000
+      internalID: -4476586516831506326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_162
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47fd9cf5ee8a3ad0800000000000000
+      internalID: -2721705906355177654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_163
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52c78006767abda0800000000000000
+      internalID: -5928295710292721058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_164
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bffdc8d86726600800000000000000
+      internalID: 460060462271167321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e82e96d9f6f04f80800000000000000
+      internalID: -8124222174868395800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_166
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ff333e40b9625d0800000000000000
+      internalID: -3087610049221886201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a77124f719154e0800000000000000
+      internalID: -1994653184192710086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_168
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d881edf3e219a4540800000000000000
+      internalID: 4992962764719659149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5458f225e29ec5e90800000000000000
+      internalID: -7035492132702943931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_170
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e997d7e6d30f01f0800000000000000
+      internalID: -1076637564370707997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_171
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abf510d1fd8fdd0800000000000000
+      internalID: -2451964681433138681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_172
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ef9d9ec342ab1a0800000000000000
+      internalID: -6793077243894956503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_173
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080fa966383c62100800000000000000
+      internalID: 82968612282495104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_174
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc083c95fcee3fe0800000000000000
+      internalID: -1207267110456652623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159481662c001fe70800000000000000
+      internalID: 9147093153102711121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_176
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2871c15ef2f16f100800000000000000
+      internalID: 141334728876496770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f618b3d884e742b0800000000000000
+      internalID: -5600256335293180174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_178
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3703f49df83e2170800000000000000
+      internalID: 8155518636991383355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec08d6094228ad90800000000000000
+      internalID: -7086376316624696083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_180
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd03d7a3770ca03a0800000000000000
+      internalID: -6698329877445267237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_181
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a430840443628ab90800000000000000
+      internalID: -7230487195884715190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_182
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac49e371ea33bb0800000000000000
+      internalID: -4957427349947364795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_183
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fdf92fdc0f53060800000000000000
+      internalID: 6932711968736272204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_184
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baaef4db2cf7bbf0800000000000000
+      internalID: -308500784264336711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_185
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fcf852bee5ea2d0800000000000000
+      internalID: -3265568315756523649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_186
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4b828b7c3596760800000000000000
+      internalID: 7451579175714469051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a5dd467d95a9c0800000000000000
+      internalID: -3916551169491230517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_188
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0909dfeed95e99ba0800000000000000
+      internalID: -6081577355304922992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1b91e574771ab50800000000000000
+      internalID: 6602689677106983396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_190
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9843dfbe4666e7e0800000000000000
+      internalID: -1736588117892970337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62114c9358fdc1cf0800000000000000
+      internalID: -280103313511018202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_192
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e048532c10d6220800000000000000
+      internalID: 2480640903384141439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_193
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f5d4638dca8c1f0800000000000000
+      internalID: -1024378870602834135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_194
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c86b1e4058f500800000000000000
+      internalID: 430182060811405051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_195
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7842ac8d083bba0800000000000000
+      internalID: -6074369803799984147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_196
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a55ba390ce3b050800000000000000
+      internalID: 5815251068249266763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_197
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb697fd9680b04d0800000000000000
+      internalID: -3167428662111147015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_198
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c719d2e13a3e4770800000000000000
+      internalID: 8596872724630542281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_199
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3c0a986bd8dafb0800000000000000
+      internalID: -4634892626361793565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35716b844f7b6fc0800000000000000
+      internalID: -3500564352977504963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b128c99d004f6640800000000000000
+      internalID: 5075345732228620724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565a61b1e04acbf90800000000000000
+      internalID: -6936488945566440091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_203
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd6f6cc4b3512540800000000000000
+      internalID: 4981354698837552561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e1d66b583974080800000000000000
+      internalID: -9203225111007781225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_205
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571649baf2a956a20800000000000000
+      internalID: 3055017451773518197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_206
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61516b37adce89aa0800000000000000
+      internalID: -6153908467813444330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_207
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3e3444368daf900800000000000000
+      internalID: 719125011377677241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_208
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1d91b0151107740800000000000000
+      internalID: 5147633413860741565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-roundelShield_attack_72x41_209
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450303e57f4846e0800000000000000
+      internalID: -1853143878924565176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mace-roundelShield_attack_72x41_0: -6342059640116486747
+      mace-roundelShield_attack_72x41_1: -7856977712066608149
+      mace-roundelShield_attack_72x41_10: 3261768168160078195
+      mace-roundelShield_attack_72x41_100: 5633585977107950457
+      mace-roundelShield_attack_72x41_101: -5636538983794608049
+      mace-roundelShield_attack_72x41_102: -5486584099146602647
+      mace-roundelShield_attack_72x41_103: 6398259355641362211
+      mace-roundelShield_attack_72x41_104: -2475433046896216998
+      mace-roundelShield_attack_72x41_105: -3967533084595226451
+      mace-roundelShield_attack_72x41_106: -2814197332402498707
+      mace-roundelShield_attack_72x41_107: -6651847111097893672
+      mace-roundelShield_attack_72x41_108: 8216429941361429738
+      mace-roundelShield_attack_72x41_109: 3412811901644339147
+      mace-roundelShield_attack_72x41_11: 77411307977602143
+      mace-roundelShield_attack_72x41_110: 3001895928614115047
+      mace-roundelShield_attack_72x41_111: -8683629831326703784
+      mace-roundelShield_attack_72x41_112: 4783402467595913346
+      mace-roundelShield_attack_72x41_113: 2670693162166458653
+      mace-roundelShield_attack_72x41_114: 6459150176312737071
+      mace-roundelShield_attack_72x41_115: 3351476418698192934
+      mace-roundelShield_attack_72x41_116: 6925937575151195842
+      mace-roundelShield_attack_72x41_117: -3440550370898882516
+      mace-roundelShield_attack_72x41_118: 9156855488378409655
+      mace-roundelShield_attack_72x41_119: 3796173920515087064
+      mace-roundelShield_attack_72x41_12: -2490654819121392531
+      mace-roundelShield_attack_72x41_120: -307173409984958230
+      mace-roundelShield_attack_72x41_121: -3319503620978294933
+      mace-roundelShield_attack_72x41_122: -7708497704848112575
+      mace-roundelShield_attack_72x41_123: 4852141562074353004
+      mace-roundelShield_attack_72x41_124: 3383247742975955536
+      mace-roundelShield_attack_72x41_125: 7547717956078712659
+      mace-roundelShield_attack_72x41_126: 2519850606009528880
+      mace-roundelShield_attack_72x41_127: 6498535572587518667
+      mace-roundelShield_attack_72x41_128: 1642712732949988120
+      mace-roundelShield_attack_72x41_129: 235974095709495593
+      mace-roundelShield_attack_72x41_13: 9190939302840597188
+      mace-roundelShield_attack_72x41_130: 3881329637085845734
+      mace-roundelShield_attack_72x41_131: -1123841204406917719
+      mace-roundelShield_attack_72x41_132: 1079299735217064954
+      mace-roundelShield_attack_72x41_133: 5703169372342253616
+      mace-roundelShield_attack_72x41_134: -4597174302588262062
+      mace-roundelShield_attack_72x41_135: -5850486950107544817
+      mace-roundelShield_attack_72x41_136: -5306241128810020971
+      mace-roundelShield_attack_72x41_137: -8989179289644451469
+      mace-roundelShield_attack_72x41_138: -4998905462107207825
+      mace-roundelShield_attack_72x41_139: -6737874373223214201
+      mace-roundelShield_attack_72x41_14: -7020088996396344666
+      mace-roundelShield_attack_72x41_140: 6126938151589301459
+      mace-roundelShield_attack_72x41_141: 4429802509547285241
+      mace-roundelShield_attack_72x41_142: 6632913760181525544
+      mace-roundelShield_attack_72x41_143: 1190031608530838931
+      mace-roundelShield_attack_72x41_144: -1327202305847104738
+      mace-roundelShield_attack_72x41_145: -7731131373838795393
+      mace-roundelShield_attack_72x41_146: -7104934464086531754
+      mace-roundelShield_attack_72x41_147: 1073334590050368948
+      mace-roundelShield_attack_72x41_148: 4005646496239556440
+      mace-roundelShield_attack_72x41_149: 2620152915673841218
+      mace-roundelShield_attack_72x41_15: -8684737757355884441
+      mace-roundelShield_attack_72x41_150: 8804838636606746925
+      mace-roundelShield_attack_72x41_151: -3106674480232495586
+      mace-roundelShield_attack_72x41_152: -5393459323734282839
+      mace-roundelShield_attack_72x41_153: 1746463379628668222
+      mace-roundelShield_attack_72x41_154: -2618383850325081609
+      mace-roundelShield_attack_72x41_155: 6323988315439494521
+      mace-roundelShield_attack_72x41_156: -5918730230833662091
+      mace-roundelShield_attack_72x41_157: -5351538825281498185
+      mace-roundelShield_attack_72x41_158: -7959715120366105055
+      mace-roundelShield_attack_72x41_159: -7341703400875173743
+      mace-roundelShield_attack_72x41_16: 3667599391858168854
+      mace-roundelShield_attack_72x41_160: -5409302294759738439
+      mace-roundelShield_attack_72x41_161: -4476586516831506326
+      mace-roundelShield_attack_72x41_162: -2721705906355177654
+      mace-roundelShield_attack_72x41_163: -5928295710292721058
+      mace-roundelShield_attack_72x41_164: 460060462271167321
+      mace-roundelShield_attack_72x41_165: -8124222174868395800
+      mace-roundelShield_attack_72x41_166: -3087610049221886201
+      mace-roundelShield_attack_72x41_167: -1994653184192710086
+      mace-roundelShield_attack_72x41_168: 4992962764719659149
+      mace-roundelShield_attack_72x41_169: -7035492132702943931
+      mace-roundelShield_attack_72x41_17: -8054915195038670445
+      mace-roundelShield_attack_72x41_170: -1076637564370707997
+      mace-roundelShield_attack_72x41_171: -2451964681433138681
+      mace-roundelShield_attack_72x41_172: -6793077243894956503
+      mace-roundelShield_attack_72x41_173: 82968612282495104
+      mace-roundelShield_attack_72x41_174: -1207267110456652623
+      mace-roundelShield_attack_72x41_175: 9147093153102711121
+      mace-roundelShield_attack_72x41_176: 141334728876496770
+      mace-roundelShield_attack_72x41_177: -5600256335293180174
+      mace-roundelShield_attack_72x41_178: 8155518636991383355
+      mace-roundelShield_attack_72x41_179: -7086376316624696083
+      mace-roundelShield_attack_72x41_18: -1591244742532939753
+      mace-roundelShield_attack_72x41_180: -6698329877445267237
+      mace-roundelShield_attack_72x41_181: -7230487195884715190
+      mace-roundelShield_attack_72x41_182: -4957427349947364795
+      mace-roundelShield_attack_72x41_183: 6932711968736272204
+      mace-roundelShield_attack_72x41_184: -308500784264336711
+      mace-roundelShield_attack_72x41_185: -3265568315756523649
+      mace-roundelShield_attack_72x41_186: 7451579175714469051
+      mace-roundelShield_attack_72x41_187: -3916551169491230517
+      mace-roundelShield_attack_72x41_188: -6081577355304922992
+      mace-roundelShield_attack_72x41_189: 6602689677106983396
+      mace-roundelShield_attack_72x41_19: -3650303136968861953
+      mace-roundelShield_attack_72x41_190: -1736588117892970337
+      mace-roundelShield_attack_72x41_191: -280103313511018202
+      mace-roundelShield_attack_72x41_192: 2480640903384141439
+      mace-roundelShield_attack_72x41_193: -1024378870602834135
+      mace-roundelShield_attack_72x41_194: 430182060811405051
+      mace-roundelShield_attack_72x41_195: -6074369803799984147
+      mace-roundelShield_attack_72x41_196: 5815251068249266763
+      mace-roundelShield_attack_72x41_197: -3167428662111147015
+      mace-roundelShield_attack_72x41_198: 8596872724630542281
+      mace-roundelShield_attack_72x41_199: -4634892626361793565
+      mace-roundelShield_attack_72x41_2: -8645982741950494229
+      mace-roundelShield_attack_72x41_20: 2137475028042966932
+      mace-roundelShield_attack_72x41_200: -3500564352977504963
+      mace-roundelShield_attack_72x41_201: 5075345732228620724
+      mace-roundelShield_attack_72x41_202: -6936488945566440091
+      mace-roundelShield_attack_72x41_203: 4981354698837552561
+      mace-roundelShield_attack_72x41_204: -9203225111007781225
+      mace-roundelShield_attack_72x41_205: 3055017451773518197
+      mace-roundelShield_attack_72x41_206: -6153908467813444330
+      mace-roundelShield_attack_72x41_207: 719125011377677241
+      mace-roundelShield_attack_72x41_208: 5147633413860741565
+      mace-roundelShield_attack_72x41_209: -1853143878924565176
+      mace-roundelShield_attack_72x41_21: -9165365842270480345
+      mace-roundelShield_attack_72x41_22: 3109892514795254582
+      mace-roundelShield_attack_72x41_23: 2831312498810862980
+      mace-roundelShield_attack_72x41_24: -4386016861842488855
+      mace-roundelShield_attack_72x41_25: 5503474964829292929
+      mace-roundelShield_attack_72x41_26: -1117628394209502279
+      mace-roundelShield_attack_72x41_27: 1652285825883972465
+      mace-roundelShield_attack_72x41_28: 970695437046217938
+      mace-roundelShield_attack_72x41_29: -6571931156047977122
+      mace-roundelShield_attack_72x41_3: 6810809392867294136
+      mace-roundelShield_attack_72x41_30: -5015880996303925144
+      mace-roundelShield_attack_72x41_31: -3337374767466664881
+      mace-roundelShield_attack_72x41_32: 5964451434067944141
+      mace-roundelShield_attack_72x41_33: -6478917129280580336
+      mace-roundelShield_attack_72x41_34: -2880438167784045639
+      mace-roundelShield_attack_72x41_35: 5340267338950644695
+      mace-roundelShield_attack_72x41_36: -5587402797305399614
+      mace-roundelShield_attack_72x41_37: 6470903453022028670
+      mace-roundelShield_attack_72x41_38: -3765532099121438787
+      mace-roundelShield_attack_72x41_39: 985530230274109185
+      mace-roundelShield_attack_72x41_4: 1087184740777349553
+      mace-roundelShield_attack_72x41_40: 2425689785002041092
+      mace-roundelShield_attack_72x41_41: 1167866502305926994
+      mace-roundelShield_attack_72x41_42: -7180648328522461888
+      mace-roundelShield_attack_72x41_43: -5263986134575895410
+      mace-roundelShield_attack_72x41_44: 6824643913478129268
+      mace-roundelShield_attack_72x41_45: 5686689012779737124
+      mace-roundelShield_attack_72x41_46: 7590471286018503794
+      mace-roundelShield_attack_72x41_47: -2859473397014411570
+      mace-roundelShield_attack_72x41_48: 6550536173127682107
+      mace-roundelShield_attack_72x41_49: -3950861903018053600
+      mace-roundelShield_attack_72x41_5: 4617455103094490012
+      mace-roundelShield_attack_72x41_50: -3773849211503529509
+      mace-roundelShield_attack_72x41_51: 7520564860838055067
+      mace-roundelShield_attack_72x41_52: 4436068042389275813
+      mace-roundelShield_attack_72x41_53: -4912149844394698320
+      mace-roundelShield_attack_72x41_54: -5283959562592629584
+      mace-roundelShield_attack_72x41_55: -466449386142253525
+      mace-roundelShield_attack_72x41_56: 4718811973138630605
+      mace-roundelShield_attack_72x41_57: -6448144788848141272
+      mace-roundelShield_attack_72x41_58: -3414925703377326661
+      mace-roundelShield_attack_72x41_59: -1824354276226752076
+      mace-roundelShield_attack_72x41_6: -3066175121151877533
+      mace-roundelShield_attack_72x41_60: -9161167002308656025
+      mace-roundelShield_attack_72x41_61: -385423291010192686
+      mace-roundelShield_attack_72x41_62: 875114128868000429
+      mace-roundelShield_attack_72x41_63: -4678257867777658068
+      mace-roundelShield_attack_72x41_64: 6847709400931219464
+      mace-roundelShield_attack_72x41_65: -8471800972021604766
+      mace-roundelShield_attack_72x41_66: -1922354830339866397
+      mace-roundelShield_attack_72x41_67: -6385587165735795088
+      mace-roundelShield_attack_72x41_68: 6288022512651441895
+      mace-roundelShield_attack_72x41_69: 6264582185057032069
+      mace-roundelShield_attack_72x41_7: 6603821995025784642
+      mace-roundelShield_attack_72x41_70: 9115294751418895529
+      mace-roundelShield_attack_72x41_71: 8695446911149540626
+      mace-roundelShield_attack_72x41_72: -5760724154917101387
+      mace-roundelShield_attack_72x41_73: -9067082784395344124
+      mace-roundelShield_attack_72x41_74: 8756678419680342698
+      mace-roundelShield_attack_72x41_75: 72085028366799600
+      mace-roundelShield_attack_72x41_76: 2380411220244655336
+      mace-roundelShield_attack_72x41_77: 4438342983768218794
+      mace-roundelShield_attack_72x41_78: -1537151139355655103
+      mace-roundelShield_attack_72x41_79: 6073250229989709438
+      mace-roundelShield_attack_72x41_8: 3057563857595106137
+      mace-roundelShield_attack_72x41_80: -5534388939974427065
+      mace-roundelShield_attack_72x41_81: -1787738143462901340
+      mace-roundelShield_attack_72x41_82: -4631006599816145692
+      mace-roundelShield_attack_72x41_83: -5849799399122831373
+      mace-roundelShield_attack_72x41_84: -1409877984630636502
+      mace-roundelShield_attack_72x41_85: -8072469179510916700
+      mace-roundelShield_attack_72x41_86: -5183033462263927325
+      mace-roundelShield_attack_72x41_87: -3444718334092886913
+      mace-roundelShield_attack_72x41_88: 596155706954539923
+      mace-roundelShield_attack_72x41_89: 8561512492634569423
+      mace-roundelShield_attack_72x41_9: 5292198542612939046
+      mace-roundelShield_attack_72x41_90: -196798779861123906
+      mace-roundelShield_attack_72x41_91: 258630982360346508
+      mace-roundelShield_attack_72x41_92: 7225581530115185195
+      mace-roundelShield_attack_72x41_93: 6233238049185260339
+      mace-roundelShield_attack_72x41_94: 1636775166256425400
+      mace-roundelShield_attack_72x41_95: -8220398380828536901
+      mace-roundelShield_attack_72x41_96: 5248080037992039000
+      mace-roundelShield_attack_72x41_97: 8173071163112099154
+      mace-roundelShield_attack_72x41_98: -8214858325612043378
+      mace-roundelShield_attack_72x41_99: -660389295156252772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

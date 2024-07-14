@@ -1,0 +1,2214 @@
+fileFormatVersion: 2
+guid: c11e5edec0543b04fb4446625cd21bb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7656223967238297224
+    second: dagger-heaterShield_attack_56x30_0
+  - first:
+      213: -7807871115636704473
+    second: dagger-heaterShield_attack_56x30_1
+  - first:
+      213: 7491798692481307786
+    second: dagger-heaterShield_attack_56x30_2
+  - first:
+      213: -4966785474895453897
+    second: dagger-heaterShield_attack_56x30_3
+  - first:
+      213: 1811062045997397679
+    second: dagger-heaterShield_attack_56x30_4
+  - first:
+      213: -215709247874139669
+    second: dagger-heaterShield_attack_56x30_5
+  - first:
+      213: -6763118584533260446
+    second: dagger-heaterShield_attack_56x30_6
+  - first:
+      213: 6409196675989147633
+    second: dagger-heaterShield_attack_56x30_7
+  - first:
+      213: 458583380424313405
+    second: dagger-heaterShield_attack_56x30_8
+  - first:
+      213: 3632636103858402527
+    second: dagger-heaterShield_attack_56x30_9
+  - first:
+      213: 8113817416058646700
+    second: dagger-heaterShield_attack_56x30_10
+  - first:
+      213: 3070294788839676379
+    second: dagger-heaterShield_attack_56x30_11
+  - first:
+      213: 2387774260217720351
+    second: dagger-heaterShield_attack_56x30_12
+  - first:
+      213: 2334728841007851300
+    second: dagger-heaterShield_attack_56x30_13
+  - first:
+      213: 4877830071687005458
+    second: dagger-heaterShield_attack_56x30_14
+  - first:
+      213: 916526553577059703
+    second: dagger-heaterShield_attack_56x30_15
+  - first:
+      213: 1165307939834578792
+    second: dagger-heaterShield_attack_56x30_16
+  - first:
+      213: 3249525267388191070
+    second: dagger-heaterShield_attack_56x30_17
+  - first:
+      213: 5769510319598859793
+    second: dagger-heaterShield_attack_56x30_18
+  - first:
+      213: -9041781839863113587
+    second: dagger-heaterShield_attack_56x30_19
+  - first:
+      213: -7193004023340904914
+    second: dagger-heaterShield_attack_56x30_20
+  - first:
+      213: -1360888565742507391
+    second: dagger-heaterShield_attack_56x30_21
+  - first:
+      213: 262989982744869276
+    second: dagger-heaterShield_attack_56x30_22
+  - first:
+      213: 2253271859777559270
+    second: dagger-heaterShield_attack_56x30_23
+  - first:
+      213: 8395694025710865528
+    second: dagger-heaterShield_attack_56x30_24
+  - first:
+      213: 5212597064236170145
+    second: dagger-heaterShield_attack_56x30_25
+  - first:
+      213: -2860024298633323747
+    second: dagger-heaterShield_attack_56x30_26
+  - first:
+      213: -5829941552559920715
+    second: dagger-heaterShield_attack_56x30_27
+  - first:
+      213: -7571906720995581868
+    second: dagger-heaterShield_attack_56x30_28
+  - first:
+      213: -3422129074016182034
+    second: dagger-heaterShield_attack_56x30_29
+  - first:
+      213: 7675380245433823391
+    second: dagger-heaterShield_attack_56x30_30
+  - first:
+      213: -2103846085960814468
+    second: dagger-heaterShield_attack_56x30_31
+  - first:
+      213: -3255466886772027264
+    second: dagger-heaterShield_attack_56x30_32
+  - first:
+      213: 5894139754166125544
+    second: dagger-heaterShield_attack_56x30_33
+  - first:
+      213: -8911716990260659835
+    second: dagger-heaterShield_attack_56x30_34
+  - first:
+      213: 8007345351849418705
+    second: dagger-heaterShield_attack_56x30_35
+  - first:
+      213: 1433669958786601114
+    second: dagger-heaterShield_attack_56x30_36
+  - first:
+      213: 2001514943143083905
+    second: dagger-heaterShield_attack_56x30_37
+  - first:
+      213: 3437932058549003476
+    second: dagger-heaterShield_attack_56x30_38
+  - first:
+      213: 7892911147170948529
+    second: dagger-heaterShield_attack_56x30_39
+  - first:
+      213: 3072553597387357164
+    second: dagger-heaterShield_attack_56x30_40
+  - first:
+      213: 8749682619873813667
+    second: dagger-heaterShield_attack_56x30_41
+  - first:
+      213: 6558519815237217462
+    second: dagger-heaterShield_attack_56x30_42
+  - first:
+      213: -7274319736605866316
+    second: dagger-heaterShield_attack_56x30_43
+  - first:
+      213: 5438024255591989135
+    second: dagger-heaterShield_attack_56x30_44
+  - first:
+      213: 6607499293210238084
+    second: dagger-heaterShield_attack_56x30_45
+  - first:
+      213: 5754398689011118830
+    second: dagger-heaterShield_attack_56x30_46
+  - first:
+      213: 3014384102895125076
+    second: dagger-heaterShield_attack_56x30_47
+  - first:
+      213: -1404373719580930036
+    second: dagger-heaterShield_attack_56x30_48
+  - first:
+      213: -1752886058571665756
+    second: dagger-heaterShield_attack_56x30_49
+  - first:
+      213: 3220247774789198104
+    second: dagger-heaterShield_attack_56x30_50
+  - first:
+      213: -7400541613537639961
+    second: dagger-heaterShield_attack_56x30_51
+  - first:
+      213: 3684928191421181392
+    second: dagger-heaterShield_attack_56x30_52
+  - first:
+      213: 6120419750362949587
+    second: dagger-heaterShield_attack_56x30_53
+  - first:
+      213: -3804374176059038455
+    second: dagger-heaterShield_attack_56x30_54
+  - first:
+      213: -2230250529622500479
+    second: dagger-heaterShield_attack_56x30_55
+  - first:
+      213: -6650007042837900537
+    second: dagger-heaterShield_attack_56x30_56
+  - first:
+      213: 2326673701529501223
+    second: dagger-heaterShield_attack_56x30_57
+  - first:
+      213: -8492244225934891683
+    second: dagger-heaterShield_attack_56x30_58
+  - first:
+      213: 7501587823864583436
+    second: dagger-heaterShield_attack_56x30_59
+  - first:
+      213: 5063985027798801922
+    second: dagger-heaterShield_attack_56x30_60
+  - first:
+      213: 8881116502555653183
+    second: dagger-heaterShield_attack_56x30_61
+  - first:
+      213: -5147031193403827993
+    second: dagger-heaterShield_attack_56x30_62
+  - first:
+      213: -3369721832361150728
+    second: dagger-heaterShield_attack_56x30_63
+  - first:
+      213: 1183744951338346163
+    second: dagger-heaterShield_attack_56x30_64
+  - first:
+      213: -1164235652871548538
+    second: dagger-heaterShield_attack_56x30_65
+  - first:
+      213: -7671525747217747377
+    second: dagger-heaterShield_attack_56x30_66
+  - first:
+      213: -8725767406199231671
+    second: dagger-heaterShield_attack_56x30_67
+  - first:
+      213: 5289895011659718199
+    second: dagger-heaterShield_attack_56x30_68
+  - first:
+      213: 661647830368257494
+    second: dagger-heaterShield_attack_56x30_69
+  - first:
+      213: -537774778287492632
+    second: dagger-heaterShield_attack_56x30_70
+  - first:
+      213: 5415410149550370819
+    second: dagger-heaterShield_attack_56x30_71
+  - first:
+      213: -7541970155982930142
+    second: dagger-heaterShield_attack_56x30_72
+  - first:
+      213: -1834299418573074449
+    second: dagger-heaterShield_attack_56x30_73
+  - first:
+      213: -1627607379761120321
+    second: dagger-heaterShield_attack_56x30_74
+  - first:
+      213: -1271220725511991440
+    second: dagger-heaterShield_attack_56x30_75
+  - first:
+      213: 2049984494811683555
+    second: dagger-heaterShield_attack_56x30_76
+  - first:
+      213: -7712286928568773995
+    second: dagger-heaterShield_attack_56x30_77
+  - first:
+      213: -8816576111630605848
+    second: dagger-heaterShield_attack_56x30_78
+  - first:
+      213: -4303328789937887005
+    second: dagger-heaterShield_attack_56x30_79
+  - first:
+      213: -5856488522292441382
+    second: dagger-heaterShield_attack_56x30_80
+  - first:
+      213: 6617596702895944488
+    second: dagger-heaterShield_attack_56x30_81
+  - first:
+      213: 1963089185814919552
+    second: dagger-heaterShield_attack_56x30_82
+  - first:
+      213: -3104069673006496170
+    second: dagger-heaterShield_attack_56x30_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879edefbdd0afb590800000000000000
+      internalID: -7656223967238297224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bf074969ed4a390800000000000000
+      internalID: -7807871115636704473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a849512b73738f760800000000000000
+      internalID: 7491798692481307786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731694dfcee621bb0800000000000000
+      internalID: -4966785474895453897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6fdddd55f222910800000000000000
+      internalID: 1811062045997397679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9f1b9f495a10df0800000000000000
+      internalID: -215709247874139669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2676d0bda739422a0800000000000000
+      internalID: -6763118584533260446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff82ff5b6a02f850800000000000000
+      internalID: 6409196675989147633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ac612a7273d5600800000000000000
+      internalID: 458583380424313405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd43db83a47b96230800000000000000
+      internalID: 3632636103858402527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0bd8873f11a9070800000000000000
+      internalID: 8113817416058646700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99584e7d0eb9a20800000000000000
+      internalID: 3070294788839676379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e2918e904132120800000000000000
+      internalID: 2387774260217720351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427e12fc28f966020800000000000000
+      internalID: 2334728841007851300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2154f993b9881b340800000000000000
+      internalID: 4877830071687005458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7757c256b0828bc00800000000000000
+      internalID: 916526553577059703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86748cfa5610c2010800000000000000
+      internalID: 1165307939834578792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5154539302a81d20800000000000000
+      internalID: 3249525267388191070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116f3a7411b611050800000000000000
+      internalID: 5769510319598859793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8891627253258280800000000000000
+      internalID: -9041781839863113587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e4fc073f05d2c90800000000000000
+      internalID: -7193004023340904914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_21
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ae60c4f072d1de0800000000000000
+      internalID: -1360888565742507391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c997ef4fef356a300800000000000000
+      internalID: 262989982744869276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eadc6071da354f10800000000000000
+      internalID: 2253271859777559270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c8d5deb3f738470800000000000000
+      internalID: 8395694025710865528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_25
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab7a03996dd65840800000000000000
+      internalID: 5212597064236170145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b99fead072f48d0800000000000000
+      internalID: -2860024298633323747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_27
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9606adb03e71fa0800000000000000
+      internalID: -5829941552559920715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4506aa674fe2be690800000000000000
+      internalID: -7571906720995581868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0aab70db72280d0800000000000000
+      internalID: -3422129074016182034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f903225daad648a60800000000000000
+      internalID: 7675380245433823391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70b538a123adc2e0800000000000000
+      internalID: -2103846085960814468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08018eb5d1242d2d0800000000000000
+      internalID: -3255466886772027264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3849fb0e03cc150800000000000000
+      internalID: 5894139754166125544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58933b81d98335480800000000000000
+      internalID: -8911716990260659835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df1cda3c2ecf1f60800000000000000
+      internalID: 8007345351849418705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90df9a4b3b65e310800000000000000
+      internalID: 1433669958786601114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ffdae7c3fc6cb10800000000000000
+      internalID: 2001514943143083905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4adb70efcf5bf20800000000000000
+      internalID: 3437932058549003476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_39
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b568d2bed0498d60800000000000000
+      internalID: 7892911147170948529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb3f9db737e3aa20800000000000000
+      internalID: 3072553597387357164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_41
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4ecf62cfd1d6970800000000000000
+      internalID: 8749682619873813667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc239ff50b840b50800000000000000
+      internalID: 6558519815237217462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b68ef49dbc6c0b90800000000000000
+      internalID: -7274319736605866316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fb482af3eb77b40800000000000000
+      internalID: 5438024255591989135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cd071699d82bb50800000000000000
+      internalID: 6607499293210238084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee23b7a9e1bbbdf40800000000000000
+      internalID: 5754398689011118830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45206a5ee5e35d920800000000000000
+      internalID: 3014384102895125076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c001c70fa89a28ce0800000000000000
+      internalID: -1404373719580930036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aee91bba6f7ca7e0800000000000000
+      internalID: -1752886058571665756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8116d012a4e90bc20800000000000000
+      internalID: 3220247774789198104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1c79bbc9efb4990800000000000000
+      internalID: -7400541613537639961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd6b70aaae732330800000000000000
+      internalID: 3684928191421181392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_53
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d72ba8e55910f450800000000000000
+      internalID: 6120419750362949587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_54
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905e453e7d5243bc0800000000000000
+      internalID: -3804374176059038455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_55
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b59bda5fe8c01e0800000000000000
+      internalID: -2230250529622500479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7031dc9e3dd66b3a0800000000000000
+      internalID: -6650007042837900537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eb8ef77610a4020800000000000000
+      internalID: 2326673701529501223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e94fcedc752a80800000000000000
+      internalID: -8492244225934891683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0518d4716efa1860800000000000000
+      internalID: 7501587823864583436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e18d97d83e64640800000000000000
+      internalID: 5063985027798801922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_61
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3470b7a760104b70800000000000000
+      internalID: 8881116502555653183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e85f4556621298b0800000000000000
+      internalID: -5147031193403827993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_63
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f63c36d8d75c31d0800000000000000
+      internalID: -3369721832361150728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b62f21f2c18d6010800000000000000
+      internalID: 1183744951338346163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_65
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6811fb397ddc7dfe0800000000000000
+      internalID: -1164235652871548538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b2d77af3498590800000000000000
+      internalID: -7671525747217747377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_67
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b20d076c8d7e680800000000000000
+      internalID: -8725767406199231671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e961d6c7b796940800000000000000
+      internalID: 5289895011659718199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_69
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d502873235ae2900800000000000000
+      internalID: 661647830368257494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1720b30b07988f0800000000000000
+      internalID: -537774778287492632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300bef4c6d6672b40800000000000000
+      internalID: 5415410149550370819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f3a0a2a1a855790800000000000000
+      internalID: -7541970155982930142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0f38b5624b86e0800000000000000
+      internalID: -1834299418573074449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbb88726b39969e0800000000000000
+      internalID: -1627607379761120321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f4eb04c77bb5ee0800000000000000
+      internalID: -1271220725511991440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea1f486902037c10800000000000000
+      internalID: 2049984494811683555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_77
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59215c066e378f490800000000000000
+      internalID: -7712286928568773995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1201b1dba35a580800000000000000
+      internalID: -8816576111630605848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e86a0cf3418744c0800000000000000
+      internalID: -4303328789937887005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_80
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade4b9dc7b299bea0800000000000000
+      internalID: -5856488522292441382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_81
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823b8e6c32d66db50800000000000000
+      internalID: 6617596702895944488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_82
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b8eea63b4e3b10800000000000000
+      internalID: 1963089185814919552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-heaterShield_attack_56x30_83
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656826614112ce4d0800000000000000
+      internalID: -3104069673006496170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dagger-heaterShield_attack_56x30_0: -7656223967238297224
+      dagger-heaterShield_attack_56x30_1: -7807871115636704473
+      dagger-heaterShield_attack_56x30_10: 8113817416058646700
+      dagger-heaterShield_attack_56x30_11: 3070294788839676379
+      dagger-heaterShield_attack_56x30_12: 2387774260217720351
+      dagger-heaterShield_attack_56x30_13: 2334728841007851300
+      dagger-heaterShield_attack_56x30_14: 4877830071687005458
+      dagger-heaterShield_attack_56x30_15: 916526553577059703
+      dagger-heaterShield_attack_56x30_16: 1165307939834578792
+      dagger-heaterShield_attack_56x30_17: 3249525267388191070
+      dagger-heaterShield_attack_56x30_18: 5769510319598859793
+      dagger-heaterShield_attack_56x30_19: -9041781839863113587
+      dagger-heaterShield_attack_56x30_2: 7491798692481307786
+      dagger-heaterShield_attack_56x30_20: -7193004023340904914
+      dagger-heaterShield_attack_56x30_21: -1360888565742507391
+      dagger-heaterShield_attack_56x30_22: 262989982744869276
+      dagger-heaterShield_attack_56x30_23: 2253271859777559270
+      dagger-heaterShield_attack_56x30_24: 8395694025710865528
+      dagger-heaterShield_attack_56x30_25: 5212597064236170145
+      dagger-heaterShield_attack_56x30_26: -2860024298633323747
+      dagger-heaterShield_attack_56x30_27: -5829941552559920715
+      dagger-heaterShield_attack_56x30_28: -7571906720995581868
+      dagger-heaterShield_attack_56x30_29: -3422129074016182034
+      dagger-heaterShield_attack_56x30_3: -4966785474895453897
+      dagger-heaterShield_attack_56x30_30: 7675380245433823391
+      dagger-heaterShield_attack_56x30_31: -2103846085960814468
+      dagger-heaterShield_attack_56x30_32: -3255466886772027264
+      dagger-heaterShield_attack_56x30_33: 5894139754166125544
+      dagger-heaterShield_attack_56x30_34: -8911716990260659835
+      dagger-heaterShield_attack_56x30_35: 8007345351849418705
+      dagger-heaterShield_attack_56x30_36: 1433669958786601114
+      dagger-heaterShield_attack_56x30_37: 2001514943143083905
+      dagger-heaterShield_attack_56x30_38: 3437932058549003476
+      dagger-heaterShield_attack_56x30_39: 7892911147170948529
+      dagger-heaterShield_attack_56x30_4: 1811062045997397679
+      dagger-heaterShield_attack_56x30_40: 3072553597387357164
+      dagger-heaterShield_attack_56x30_41: 8749682619873813667
+      dagger-heaterShield_attack_56x30_42: 6558519815237217462
+      dagger-heaterShield_attack_56x30_43: -7274319736605866316
+      dagger-heaterShield_attack_56x30_44: 5438024255591989135
+      dagger-heaterShield_attack_56x30_45: 6607499293210238084
+      dagger-heaterShield_attack_56x30_46: 5754398689011118830
+      dagger-heaterShield_attack_56x30_47: 3014384102895125076
+      dagger-heaterShield_attack_56x30_48: -1404373719580930036
+      dagger-heaterShield_attack_56x30_49: -1752886058571665756
+      dagger-heaterShield_attack_56x30_5: -215709247874139669
+      dagger-heaterShield_attack_56x30_50: 3220247774789198104
+      dagger-heaterShield_attack_56x30_51: -7400541613537639961
+      dagger-heaterShield_attack_56x30_52: 3684928191421181392
+      dagger-heaterShield_attack_56x30_53: 6120419750362949587
+      dagger-heaterShield_attack_56x30_54: -3804374176059038455
+      dagger-heaterShield_attack_56x30_55: -2230250529622500479
+      dagger-heaterShield_attack_56x30_56: -6650007042837900537
+      dagger-heaterShield_attack_56x30_57: 2326673701529501223
+      dagger-heaterShield_attack_56x30_58: -8492244225934891683
+      dagger-heaterShield_attack_56x30_59: 7501587823864583436
+      dagger-heaterShield_attack_56x30_6: -6763118584533260446
+      dagger-heaterShield_attack_56x30_60: 5063985027798801922
+      dagger-heaterShield_attack_56x30_61: 8881116502555653183
+      dagger-heaterShield_attack_56x30_62: -5147031193403827993
+      dagger-heaterShield_attack_56x30_63: -3369721832361150728
+      dagger-heaterShield_attack_56x30_64: 1183744951338346163
+      dagger-heaterShield_attack_56x30_65: -1164235652871548538
+      dagger-heaterShield_attack_56x30_66: -7671525747217747377
+      dagger-heaterShield_attack_56x30_67: -8725767406199231671
+      dagger-heaterShield_attack_56x30_68: 5289895011659718199
+      dagger-heaterShield_attack_56x30_69: 661647830368257494
+      dagger-heaterShield_attack_56x30_7: 6409196675989147633
+      dagger-heaterShield_attack_56x30_70: -537774778287492632
+      dagger-heaterShield_attack_56x30_71: 5415410149550370819
+      dagger-heaterShield_attack_56x30_72: -7541970155982930142
+      dagger-heaterShield_attack_56x30_73: -1834299418573074449
+      dagger-heaterShield_attack_56x30_74: -1627607379761120321
+      dagger-heaterShield_attack_56x30_75: -1271220725511991440
+      dagger-heaterShield_attack_56x30_76: 2049984494811683555
+      dagger-heaterShield_attack_56x30_77: -7712286928568773995
+      dagger-heaterShield_attack_56x30_78: -8816576111630605848
+      dagger-heaterShield_attack_56x30_79: -4303328789937887005
+      dagger-heaterShield_attack_56x30_8: 458583380424313405
+      dagger-heaterShield_attack_56x30_80: -5856488522292441382
+      dagger-heaterShield_attack_56x30_81: 6617596702895944488
+      dagger-heaterShield_attack_56x30_82: 1963089185814919552
+      dagger-heaterShield_attack_56x30_83: -3104069673006496170
+      dagger-heaterShield_attack_56x30_9: 3632636103858402527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: 41397dc8a4aa6a54a80bd7c9143fe588
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8610741413716447647
+    second: sharp_38x32_0
+  - first:
+      213: -2131384793676331054
+    second: sharp_38x32_1
+  - first:
+      213: -95324551784028048
+    second: sharp_38x32_2
+  - first:
+      213: 1509759373825701714
+    second: sharp_38x32_3
+  - first:
+      213: 421688901953776222
+    second: sharp_38x32_4
+  - first:
+      213: -4081244538637499568
+    second: sharp_38x32_5
+  - first:
+      213: 7372937137366042930
+    second: sharp_38x32_6
+  - first:
+      213: -2185280031415605698
+    second: sharp_38x32_7
+  - first:
+      213: 7314041301109764927
+    second: sharp_38x32_8
+  - first:
+      213: 7371645652156427412
+    second: sharp_38x32_9
+  - first:
+      213: 6403177644114522426
+    second: sharp_38x32_10
+  - first:
+      213: -1268446578265666917
+    second: sharp_38x32_11
+  - first:
+      213: 923507681905823886
+    second: sharp_38x32_12
+  - first:
+      213: 6809285745587241740
+    second: sharp_38x32_13
+  - first:
+      213: 7413818155417354356
+    second: sharp_38x32_14
+  - first:
+      213: -2350555141543357332
+    second: sharp_38x32_15
+  - first:
+      213: -8926859694178221147
+    second: sharp_38x32_16
+  - first:
+      213: -7944570337190317780
+    second: sharp_38x32_17
+  - first:
+      213: 9147012993169881707
+    second: sharp_38x32_18
+  - first:
+      213: 6730080088929160475
+    second: sharp_38x32_19
+  - first:
+      213: -235385211644565613
+    second: sharp_38x32_20
+  - first:
+      213: 2049214606231203163
+    second: sharp_38x32_21
+  - first:
+      213: 1057693446178209965
+    second: sharp_38x32_22
+  - first:
+      213: 5904448231577138238
+    second: sharp_38x32_23
+  - first:
+      213: 2396154470093531918
+    second: sharp_38x32_24
+  - first:
+      213: -1051730511676174682
+    second: sharp_38x32_25
+  - first:
+      213: -746306925336014058
+    second: sharp_38x32_26
+  - first:
+      213: -6789257615204084807
+    second: sharp_38x32_27
+  - first:
+      213: -8031005519585695623
+    second: sharp_38x32_28
+  - first:
+      213: -4930609411269026264
+    second: sharp_38x32_29
+  - first:
+      213: -143293991582643681
+    second: sharp_38x32_30
+  - first:
+      213: 3432585969183625017
+    second: sharp_38x32_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sharp_38x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eafae4e40808880800000000000000
+      internalID: -8610741413716447647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 96
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7c04d92dccb62e0800000000000000
+      internalID: -2131384793676331054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 96
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0782a8043d65daef0800000000000000
+      internalID: -95324551784028048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 96
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2577235c62eb3f410800000000000000
+      internalID: 1509759373825701714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aeda672d32ad500800000000000000
+      internalID: 421688901953776222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 96
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053420927b18c57c0800000000000000
+      internalID: -4081244538637499568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 96
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2390dff434fe15660800000000000000
+      internalID: 7372937137366042930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 96
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36e7b8b3635ca1e0800000000000000
+      internalID: -2185280031415605698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33fe29dfc1b08560800000000000000
+      internalID: 7314041301109764927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 64
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c26daf9a85d4660800000000000000
+      internalID: 7371645652156427412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a313b2f4428acd850800000000000000
+      internalID: 6403177644114522426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 64
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a4aedbe82956ee0800000000000000
+      internalID: -1268446578265666917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 64
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80575ff755f0dc00800000000000000
+      internalID: 923507681905823886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 64
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03cbd7fe417f7e50800000000000000
+      internalID: 6809285745587241740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 64
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4704efe055c23e660800000000000000
+      internalID: 7413818155417354356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_15
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 64
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6417537d86216fd0800000000000000
+      internalID: -2350555141543357332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a341c8976c6d1480800000000000000
+      internalID: -8926859694178221147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c217aa6de573fb190800000000000000
+      internalID: -7944570337190317780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 32
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6af5c5bad7b0fe70800000000000000
+      internalID: 9147012993169881707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d4d82fe2c066d50800000000000000
+      internalID: 6730080088929160475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397ab8aa56ebbbcf0800000000000000
+      internalID: -235385211644565613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 32
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5de3f0c3d5407c10800000000000000
+      internalID: 2049214606231203163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 32
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da006bcd59eadae00800000000000000
+      internalID: 1057693446178209965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 32
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34b6dd2260d0f150800000000000000
+      internalID: 5904448231577138238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba3e09bc9d04120800000000000000
+      internalID: 2396154470093531918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae0a140ca08761f0800000000000000
+      internalID: -1051730511676174682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613dee53ec594a5f0800000000000000
+      internalID: -746306925336014058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_27
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b315258b26b7c1a0800000000000000
+      internalID: -6789257615204084807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a4efa7032c8090800000000000000
+      internalID: -8031005519585695623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e9c1b2dd4f29bb0800000000000000
+      internalID: -4930609411269026264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ac445bfdae20ef0800000000000000
+      internalID: -143293991582643681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sharp_38x32_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0e2a90cef2af20800000000000000
+      internalID: 3432585969183625017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sharp_38x32_0: -8610741413716447647
+      sharp_38x32_1: -2131384793676331054
+      sharp_38x32_10: 6403177644114522426
+      sharp_38x32_11: -1268446578265666917
+      sharp_38x32_12: 923507681905823886
+      sharp_38x32_13: 6809285745587241740
+      sharp_38x32_14: 7413818155417354356
+      sharp_38x32_15: -2350555141543357332
+      sharp_38x32_16: -8926859694178221147
+      sharp_38x32_17: -7944570337190317780
+      sharp_38x32_18: 9147012993169881707
+      sharp_38x32_19: 6730080088929160475
+      sharp_38x32_2: -95324551784028048
+      sharp_38x32_20: -235385211644565613
+      sharp_38x32_21: 2049214606231203163
+      sharp_38x32_22: 1057693446178209965
+      sharp_38x32_23: 5904448231577138238
+      sharp_38x32_24: 2396154470093531918
+      sharp_38x32_25: -1051730511676174682
+      sharp_38x32_26: -746306925336014058
+      sharp_38x32_27: -6789257615204084807
+      sharp_38x32_28: -8031005519585695623
+      sharp_38x32_29: -4930609411269026264
+      sharp_38x32_3: 1509759373825701714
+      sharp_38x32_30: -143293991582643681
+      sharp_38x32_31: 3432585969183625017
+      sharp_38x32_4: 421688901953776222
+      sharp_38x32_5: -4081244538637499568
+      sharp_38x32_6: 7372937137366042930
+      sharp_38x32_7: -2185280031415605698
+      sharp_38x32_8: 7314041301109764927
+      sharp_38x32_9: 7371645652156427412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: fd0bbf7cd746cce43be52b1972978e43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5187320118091065928
+    second: spear-paviseShield_spearwall_44x42_0
+  - first:
+      213: -3753786485973582624
+    second: spear-paviseShield_spearwall_44x42_1
+  - first:
+      213: 1721171144786319918
+    second: spear-paviseShield_spearwall_44x42_2
+  - first:
+      213: 6706178412121821727
+    second: spear-paviseShield_spearwall_44x42_3
+  - first:
+      213: 5866590924888929016
+    second: spear-paviseShield_spearwall_44x42_4
+  - first:
+      213: 2869019647662367712
+    second: spear-paviseShield_spearwall_44x42_5
+  - first:
+      213: -5685787158710051275
+    second: spear-paviseShield_spearwall_44x42_6
+  - first:
+      213: 3182396086875406051
+    second: spear-paviseShield_spearwall_44x42_7
+  - first:
+      213: 5965073398572961954
+    second: spear-paviseShield_spearwall_44x42_8
+  - first:
+      213: 1837963530239631281
+    second: spear-paviseShield_spearwall_44x42_9
+  - first:
+      213: -4393111157024948508
+    second: spear-paviseShield_spearwall_44x42_10
+  - first:
+      213: 5677591799275979765
+    second: spear-paviseShield_spearwall_44x42_11
+  - first:
+      213: -3822432582509005872
+    second: spear-paviseShield_spearwall_44x42_12
+  - first:
+      213: -3552302491643742661
+    second: spear-paviseShield_spearwall_44x42_13
+  - first:
+      213: 556826611773683580
+    second: spear-paviseShield_spearwall_44x42_14
+  - first:
+      213: -266583285428145722
+    second: spear-paviseShield_spearwall_44x42_15
+  - first:
+      213: -7216223201687297566
+    second: spear-paviseShield_spearwall_44x42_16
+  - first:
+      213: 235030752985735760
+    second: spear-paviseShield_spearwall_44x42_17
+  - first:
+      213: 1164677873569270828
+    second: spear-paviseShield_spearwall_44x42_18
+  - first:
+      213: 4824279078775433252
+    second: spear-paviseShield_spearwall_44x42_19
+  - first:
+      213: 4483180855145785558
+    second: spear-paviseShield_spearwall_44x42_20
+  - first:
+      213: 7942640408015057612
+    second: spear-paviseShield_spearwall_44x42_21
+  - first:
+      213: 850649676506097945
+    second: spear-paviseShield_spearwall_44x42_22
+  - first:
+      213: 7119424094470760386
+    second: spear-paviseShield_spearwall_44x42_23
+  - first:
+      213: 3813526205355579415
+    second: spear-paviseShield_spearwall_44x42_24
+  - first:
+      213: 1724278828163783769
+    second: spear-paviseShield_spearwall_44x42_25
+  - first:
+      213: 2493684775507095558
+    second: spear-paviseShield_spearwall_44x42_26
+  - first:
+      213: -616471922508504566
+    second: spear-paviseShield_spearwall_44x42_27
+  - first:
+      213: -2534208026461897135
+    second: spear-paviseShield_spearwall_44x42_28
+  - first:
+      213: 798197924875994699
+    second: spear-paviseShield_spearwall_44x42_29
+  - first:
+      213: -6785530968580296158
+    second: spear-paviseShield_spearwall_44x42_30
+  - first:
+      213: -8843497136276793704
+    second: spear-paviseShield_spearwall_44x42_31
+  - first:
+      213: -8875546815423266977
+    second: spear-paviseShield_spearwall_44x42_32
+  - first:
+      213: -8556698581845068706
+    second: spear-paviseShield_spearwall_44x42_33
+  - first:
+      213: 6672480279990940180
+    second: spear-paviseShield_spearwall_44x42_34
+  - first:
+      213: -1733253556791347118
+    second: spear-paviseShield_spearwall_44x42_35
+  - first:
+      213: 739165987148413888
+    second: spear-paviseShield_spearwall_44x42_36
+  - first:
+      213: -2635456194929777457
+    second: spear-paviseShield_spearwall_44x42_37
+  - first:
+      213: -938476524202817961
+    second: spear-paviseShield_spearwall_44x42_38
+  - first:
+      213: 3384281484976956602
+    second: spear-paviseShield_spearwall_44x42_39
+  - first:
+      213: -3198346642921936868
+    second: spear-paviseShield_spearwall_44x42_40
+  - first:
+      213: 6018576716475271282
+    second: spear-paviseShield_spearwall_44x42_41
+  - first:
+      213: 456166938186110182
+    second: spear-paviseShield_spearwall_44x42_42
+  - first:
+      213: 5557375670833946312
+    second: spear-paviseShield_spearwall_44x42_43
+  - first:
+      213: -4856856487331581581
+    second: spear-paviseShield_spearwall_44x42_44
+  - first:
+      213: 1869254169057432210
+    second: spear-paviseShield_spearwall_44x42_45
+  - first:
+      213: -9002445029201638097
+    second: spear-paviseShield_spearwall_44x42_46
+  - first:
+      213: -5493644484311142264
+    second: spear-paviseShield_spearwall_44x42_47
+  - first:
+      213: 8157472838949720038
+    second: spear-paviseShield_spearwall_44x42_48
+  - first:
+      213: 705302352880469708
+    second: spear-paviseShield_spearwall_44x42_49
+  - first:
+      213: 9043954016267612087
+    second: spear-paviseShield_spearwall_44x42_50
+  - first:
+      213: -5932091909546109291
+    second: spear-paviseShield_spearwall_44x42_51
+  - first:
+      213: 6310305239658146677
+    second: spear-paviseShield_spearwall_44x42_52
+  - first:
+      213: -4925145130416331848
+    second: spear-paviseShield_spearwall_44x42_53
+  - first:
+      213: -9092765794057080257
+    second: spear-paviseShield_spearwall_44x42_54
+  - first:
+      213: 5007508909082422651
+    second: spear-paviseShield_spearwall_44x42_55
+  - first:
+      213: -1274614919197233334
+    second: spear-paviseShield_spearwall_44x42_56
+  - first:
+      213: -574899153113705510
+    second: spear-paviseShield_spearwall_44x42_57
+  - first:
+      213: -2187548157682570251
+    second: spear-paviseShield_spearwall_44x42_58
+  - first:
+      213: 7951048757659880041
+    second: spear-paviseShield_spearwall_44x42_59
+  - first:
+      213: 3034143101730615469
+    second: spear-paviseShield_spearwall_44x42_60
+  - first:
+      213: 1720369615169429705
+    second: spear-paviseShield_spearwall_44x42_61
+  - first:
+      213: -1770030652373397323
+    second: spear-paviseShield_spearwall_44x42_62
+  - first:
+      213: 6616074610590024473
+    second: spear-paviseShield_spearwall_44x42_63
+  - first:
+      213: 9079493362546424069
+    second: spear-paviseShield_spearwall_44x42_64
+  - first:
+      213: -7017317770405006230
+    second: spear-paviseShield_spearwall_44x42_65
+  - first:
+      213: 1973521511354504009
+    second: spear-paviseShield_spearwall_44x42_66
+  - first:
+      213: -4339222811631063126
+    second: spear-paviseShield_spearwall_44x42_67
+  - first:
+      213: -3631793997840268614
+    second: spear-paviseShield_spearwall_44x42_68
+  - first:
+      213: -1425965414759243684
+    second: spear-paviseShield_spearwall_44x42_69
+  - first:
+      213: 5497527330408207627
+    second: spear-paviseShield_spearwall_44x42_70
+  - first:
+      213: 195978161054280908
+    second: spear-paviseShield_spearwall_44x42_71
+  - first:
+      213: -348035133231337957
+    second: spear-paviseShield_spearwall_44x42_72
+  - first:
+      213: -1473431555630334894
+    second: spear-paviseShield_spearwall_44x42_73
+  - first:
+      213: -1804164680611779484
+    second: spear-paviseShield_spearwall_44x42_74
+  - first:
+      213: 2661133258244069311
+    second: spear-paviseShield_spearwall_44x42_75
+  - first:
+      213: 1776353158583701217
+    second: spear-paviseShield_spearwall_44x42_76
+  - first:
+      213: 3368811952500623327
+    second: spear-paviseShield_spearwall_44x42_77
+  - first:
+      213: 4400401116794522903
+    second: spear-paviseShield_spearwall_44x42_78
+  - first:
+      213: -3416334986843241608
+    second: spear-paviseShield_spearwall_44x42_79
+  - first:
+      213: -25755775751726130
+    second: spear-paviseShield_spearwall_44x42_80
+  - first:
+      213: 172432891232937233
+    second: spear-paviseShield_spearwall_44x42_81
+  - first:
+      213: 5697808103319929290
+    second: spear-paviseShield_spearwall_44x42_82
+  - first:
+      213: -9030223803760921910
+    second: spear-paviseShield_spearwall_44x42_83
+  - first:
+      213: -4549847263704111071
+    second: spear-paviseShield_spearwall_44x42_84
+  - first:
+      213: -2837264347521295425
+    second: spear-paviseShield_spearwall_44x42_85
+  - first:
+      213: -7414241263438416018
+    second: spear-paviseShield_spearwall_44x42_86
+  - first:
+      213: 5954971006293119178
+    second: spear-paviseShield_spearwall_44x42_87
+  - first:
+      213: 2087175357752558172
+    second: spear-paviseShield_spearwall_44x42_88
+  - first:
+      213: 5047875013845699658
+    second: spear-paviseShield_spearwall_44x42_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a2e0fe9201df740800000000000000
+      internalID: 5187320118091065928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecf1e4541fd7ebc0800000000000000
+      internalID: -3753786485973582624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a14aa7904d2e710800000000000000
+      internalID: 1721171144786319918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121ae62cb1211d50800000000000000
+      internalID: 6706178412121821727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2f8881d515a6150800000000000000
+      internalID: 5866590924888929016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e328883b2ec0d720800000000000000
+      internalID: 2869019647662367712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e1c9824b60811b0800000000000000
+      internalID: -5685787158710051275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee3dc441642a2c20800000000000000
+      internalID: 3182396086875406051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d215d6a238c250800000000000000
+      internalID: 5965073398572961954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf5e02c712c18910800000000000000
+      internalID: 1837963530239631281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eef8baada88803c0800000000000000
+      internalID: -4393111157024948508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3048709abdace40800000000000000
+      internalID: 5677591799275979765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fbad71ddf3fac0800000000000000
+      internalID: -3822432582509005872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36f6da64bfa3bec0800000000000000
+      internalID: -3552302491643742661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77314c6ade3ab700800000000000000
+      internalID: 556826611773683580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1bff01ae7ec4cf0800000000000000
+      internalID: -266583285428145722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e12f733b33dadb90800000000000000
+      internalID: -7216223201687297566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e10f793ff24300800000000000000
+      internalID: 235030752985735760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8ad3fa54c92010800000000000000
+      internalID: 1164677873569270828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42822c3134843f240800000000000000
+      internalID: 4824279078775433252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8ebce1c35773e30800000000000000
+      internalID: 4483180855145785558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2b6628e5de93e60800000000000000
+      internalID: 7942640408015057612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9196274bf5d1ecb00800000000000000
+      internalID: 850649676506097945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7694c5e764dc260800000000000000
+      internalID: 7119424094470760386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718dcdbf0ed5ce430800000000000000
+      internalID: 3813526205355579415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cdd66657edde710800000000000000
+      internalID: 1724278828163783769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60076e957195b9220800000000000000
+      internalID: 2493684775507095558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02e0ec7d0ad177f0800000000000000
+      internalID: -616471922508504566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7bcb0a3fa4dcd0800000000000000
+      internalID: -2534208026461897135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4600bc98c4c31b00800000000000000
+      internalID: 798197924875994699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222fb5d0983f4d1a0800000000000000
+      internalID: -6785530968580296158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896990c9536954580800000000000000
+      internalID: -8843497136276793704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fb85f2239b3d480800000000000000
+      internalID: -8875546815423266977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e543903a9ff704980800000000000000
+      internalID: -8556698581845068706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412b8ab5679699c50800000000000000
+      internalID: 6672480279990940180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258f4c1c21f32f7e0800000000000000
+      internalID: -1733253556791347118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb380e8c8b024a00800000000000000
+      internalID: 739165987148413888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ab10dd8afc6bd0800000000000000
+      internalID: -2635456194929777457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75609d0d29cd9f2f0800000000000000
+      internalID: -938476524202817961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4abf3741267fe20800000000000000
+      internalID: 3384281484976956602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1823108ca03d93d0800000000000000
+      internalID: -3198346642921936868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27802f6c2a7468350800000000000000
+      internalID: 6018576716475271282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e45cd4d961a45600800000000000000
+      internalID: 456166938186110182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce94777ab3cf1d40800000000000000
+      internalID: 5557375670833946312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371bc8be1caf89cb0800000000000000
+      internalID: -4856856487331581581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292169553cce0f910800000000000000
+      internalID: 1869254169057432210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d847461f3e01380800000000000000
+      internalID: -9002445029201638097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_47
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b956b277a2c3b0800000000000000
+      internalID: -5493644484311142264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efce7ea35a253170800000000000000
+      internalID: 8157472838949720038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc600bac0ccb9c900800000000000000
+      internalID: 705302352880469708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf2998c244928d70800000000000000
+      internalID: 9043954016267612087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596198c76d9fcada0800000000000000
+      internalID: -5932091909546109291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b2c1a9e25b29750800000000000000
+      internalID: 6310305239658146677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_53
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b32a42399e56abb0800000000000000
+      internalID: -4925145130416331848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32b7639fa100d180800000000000000
+      internalID: -9092765794057080257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d267762de3e7540800000000000000
+      internalID: 5007508909082422651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe5d3fb78af4ee0800000000000000
+      internalID: -1274614919197233334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad31cf4244c8508f0800000000000000
+      internalID: -574899153113705510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb254c6a8444a1e0800000000000000
+      internalID: -2187548157682570251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ac028f7bcc75e60800000000000000
+      internalID: 7951048757659880041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0fa5053117b1a20800000000000000
+      internalID: 3034143101730615469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ac82dc0bffd710800000000000000
+      internalID: 1720369615169429705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b01bbbef769f67e0800000000000000
+      internalID: -1770030652373397323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91303bb0ec401db50800000000000000
+      internalID: 6616074610590024473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509b817ab17d00e70800000000000000
+      internalID: 9079493362546424069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6439facaaa7d9e90800000000000000
+      internalID: -7017317770405006230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94390e0cb5b536b10800000000000000
+      internalID: 1973521511354504009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf657fc7dbf7c3c0800000000000000
+      internalID: -4339222811631063126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2c55dd996499dc0800000000000000
+      internalID: -3631793997840268614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c506847a204f53ce0800000000000000
+      internalID: -1425965414759243684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b059bf7daf32b4c40800000000000000
+      internalID: 5497527330408207627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccef51691148b200800000000000000
+      internalID: 195978161054280908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_72
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ee36ae3e78b2bf0800000000000000
+      internalID: -348035133231337957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c7dc58ec15d8be0800000000000000
+      internalID: -1473431555630334894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c24d728c156f6e0800000000000000
+      internalID: -1804164680611779484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb79d9d599e3ee420800000000000000
+      internalID: 2661133258244069311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee460549cfd6a810800000000000000
+      internalID: 1776353158583701217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_77
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7c3ef3f9c60ce20800000000000000
+      internalID: 3368811952500623327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d05cb508d511d30800000000000000
+      internalID: 4400401116794522903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87348731e6db690d0800000000000000
+      internalID: -3416334986843241608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb5767224f74aff0800000000000000
+      internalID: -25755775751726130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115688d0dca946200800000000000000
+      internalID: 172432891232937233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_82
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac10abc184ea21f40800000000000000
+      internalID: 5697808103319929290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_83
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2bd8e6b433ea280800000000000000
+      internalID: -9030223803760921910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12822a01502bbd0c0800000000000000
+      internalID: -4549847263704111071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbdc10cb1300a8d0800000000000000
+      internalID: -2837264347521295425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_86
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67b5bd6ad25b1990800000000000000
+      internalID: -7414241263438416018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_87
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac01ad5549e44a250800000000000000
+      internalID: 5954971006293119178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c524ac6fde227fc10800000000000000
+      internalID: 2087175357752558172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_spearwall_44x42_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc7de8497ad0640800000000000000
+      internalID: 5047875013845699658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spear-paviseShield_spearwall_44x42_0: 5187320118091065928
+      spear-paviseShield_spearwall_44x42_1: -3753786485973582624
+      spear-paviseShield_spearwall_44x42_10: -4393111157024948508
+      spear-paviseShield_spearwall_44x42_11: 5677591799275979765
+      spear-paviseShield_spearwall_44x42_12: -3822432582509005872
+      spear-paviseShield_spearwall_44x42_13: -3552302491643742661
+      spear-paviseShield_spearwall_44x42_14: 556826611773683580
+      spear-paviseShield_spearwall_44x42_15: -266583285428145722
+      spear-paviseShield_spearwall_44x42_16: -7216223201687297566
+      spear-paviseShield_spearwall_44x42_17: 235030752985735760
+      spear-paviseShield_spearwall_44x42_18: 1164677873569270828
+      spear-paviseShield_spearwall_44x42_19: 4824279078775433252
+      spear-paviseShield_spearwall_44x42_2: 1721171144786319918
+      spear-paviseShield_spearwall_44x42_20: 4483180855145785558
+      spear-paviseShield_spearwall_44x42_21: 7942640408015057612
+      spear-paviseShield_spearwall_44x42_22: 850649676506097945
+      spear-paviseShield_spearwall_44x42_23: 7119424094470760386
+      spear-paviseShield_spearwall_44x42_24: 3813526205355579415
+      spear-paviseShield_spearwall_44x42_25: 1724278828163783769
+      spear-paviseShield_spearwall_44x42_26: 2493684775507095558
+      spear-paviseShield_spearwall_44x42_27: -616471922508504566
+      spear-paviseShield_spearwall_44x42_28: -2534208026461897135
+      spear-paviseShield_spearwall_44x42_29: 798197924875994699
+      spear-paviseShield_spearwall_44x42_3: 6706178412121821727
+      spear-paviseShield_spearwall_44x42_30: -6785530968580296158
+      spear-paviseShield_spearwall_44x42_31: -8843497136276793704
+      spear-paviseShield_spearwall_44x42_32: -8875546815423266977
+      spear-paviseShield_spearwall_44x42_33: -8556698581845068706
+      spear-paviseShield_spearwall_44x42_34: 6672480279990940180
+      spear-paviseShield_spearwall_44x42_35: -1733253556791347118
+      spear-paviseShield_spearwall_44x42_36: 739165987148413888
+      spear-paviseShield_spearwall_44x42_37: -2635456194929777457
+      spear-paviseShield_spearwall_44x42_38: -938476524202817961
+      spear-paviseShield_spearwall_44x42_39: 3384281484976956602
+      spear-paviseShield_spearwall_44x42_4: 5866590924888929016
+      spear-paviseShield_spearwall_44x42_40: -3198346642921936868
+      spear-paviseShield_spearwall_44x42_41: 6018576716475271282
+      spear-paviseShield_spearwall_44x42_42: 456166938186110182
+      spear-paviseShield_spearwall_44x42_43: 5557375670833946312
+      spear-paviseShield_spearwall_44x42_44: -4856856487331581581
+      spear-paviseShield_spearwall_44x42_45: 1869254169057432210
+      spear-paviseShield_spearwall_44x42_46: -9002445029201638097
+      spear-paviseShield_spearwall_44x42_47: -5493644484311142264
+      spear-paviseShield_spearwall_44x42_48: 8157472838949720038
+      spear-paviseShield_spearwall_44x42_49: 705302352880469708
+      spear-paviseShield_spearwall_44x42_5: 2869019647662367712
+      spear-paviseShield_spearwall_44x42_50: 9043954016267612087
+      spear-paviseShield_spearwall_44x42_51: -5932091909546109291
+      spear-paviseShield_spearwall_44x42_52: 6310305239658146677
+      spear-paviseShield_spearwall_44x42_53: -4925145130416331848
+      spear-paviseShield_spearwall_44x42_54: -9092765794057080257
+      spear-paviseShield_spearwall_44x42_55: 5007508909082422651
+      spear-paviseShield_spearwall_44x42_56: -1274614919197233334
+      spear-paviseShield_spearwall_44x42_57: -574899153113705510
+      spear-paviseShield_spearwall_44x42_58: -2187548157682570251
+      spear-paviseShield_spearwall_44x42_59: 7951048757659880041
+      spear-paviseShield_spearwall_44x42_6: -5685787158710051275
+      spear-paviseShield_spearwall_44x42_60: 3034143101730615469
+      spear-paviseShield_spearwall_44x42_61: 1720369615169429705
+      spear-paviseShield_spearwall_44x42_62: -1770030652373397323
+      spear-paviseShield_spearwall_44x42_63: 6616074610590024473
+      spear-paviseShield_spearwall_44x42_64: 9079493362546424069
+      spear-paviseShield_spearwall_44x42_65: -7017317770405006230
+      spear-paviseShield_spearwall_44x42_66: 1973521511354504009
+      spear-paviseShield_spearwall_44x42_67: -4339222811631063126
+      spear-paviseShield_spearwall_44x42_68: -3631793997840268614
+      spear-paviseShield_spearwall_44x42_69: -1425965414759243684
+      spear-paviseShield_spearwall_44x42_7: 3182396086875406051
+      spear-paviseShield_spearwall_44x42_70: 5497527330408207627
+      spear-paviseShield_spearwall_44x42_71: 195978161054280908
+      spear-paviseShield_spearwall_44x42_72: -348035133231337957
+      spear-paviseShield_spearwall_44x42_73: -1473431555630334894
+      spear-paviseShield_spearwall_44x42_74: -1804164680611779484
+      spear-paviseShield_spearwall_44x42_75: 2661133258244069311
+      spear-paviseShield_spearwall_44x42_76: 1776353158583701217
+      spear-paviseShield_spearwall_44x42_77: 3368811952500623327
+      spear-paviseShield_spearwall_44x42_78: 4400401116794522903
+      spear-paviseShield_spearwall_44x42_79: -3416334986843241608
+      spear-paviseShield_spearwall_44x42_8: 5965073398572961954
+      spear-paviseShield_spearwall_44x42_80: -25755775751726130
+      spear-paviseShield_spearwall_44x42_81: 172432891232937233
+      spear-paviseShield_spearwall_44x42_82: 5697808103319929290
+      spear-paviseShield_spearwall_44x42_83: -9030223803760921910
+      spear-paviseShield_spearwall_44x42_84: -4549847263704111071
+      spear-paviseShield_spearwall_44x42_85: -2837264347521295425
+      spear-paviseShield_spearwall_44x42_86: -7414241263438416018
+      spear-paviseShield_spearwall_44x42_87: 5954971006293119178
+      spear-paviseShield_spearwall_44x42_88: 2087175357752558172
+      spear-paviseShield_spearwall_44x42_89: 5047875013845699658
+      spear-paviseShield_spearwall_44x42_9: 1837963530239631281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

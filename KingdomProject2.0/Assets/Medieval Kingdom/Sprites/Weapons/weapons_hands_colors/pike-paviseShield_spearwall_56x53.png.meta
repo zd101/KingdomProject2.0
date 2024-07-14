@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: 7ae17c189ab117d4fb728f074473145b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4565851893773931786
+    second: pike-paviseShield_spearwall_56x53_0
+  - first:
+      213: 7624927619464795066
+    second: pike-paviseShield_spearwall_56x53_1
+  - first:
+      213: 5821374144998152016
+    second: pike-paviseShield_spearwall_56x53_2
+  - first:
+      213: 8118396359909654453
+    second: pike-paviseShield_spearwall_56x53_3
+  - first:
+      213: 5054210705506195901
+    second: pike-paviseShield_spearwall_56x53_4
+  - first:
+      213: -931489144388469731
+    second: pike-paviseShield_spearwall_56x53_5
+  - first:
+      213: 279756707181049931
+    second: pike-paviseShield_spearwall_56x53_6
+  - first:
+      213: 7904600660754060488
+    second: pike-paviseShield_spearwall_56x53_7
+  - first:
+      213: 4315561148942922273
+    second: pike-paviseShield_spearwall_56x53_8
+  - first:
+      213: 8852054292521160212
+    second: pike-paviseShield_spearwall_56x53_9
+  - first:
+      213: -8903722933244085044
+    second: pike-paviseShield_spearwall_56x53_10
+  - first:
+      213: -4387584241216691790
+    second: pike-paviseShield_spearwall_56x53_11
+  - first:
+      213: 7810809362077396875
+    second: pike-paviseShield_spearwall_56x53_12
+  - first:
+      213: -6276987468051573655
+    second: pike-paviseShield_spearwall_56x53_13
+  - first:
+      213: 7635819981085810923
+    second: pike-paviseShield_spearwall_56x53_14
+  - first:
+      213: -3424187580068030578
+    second: pike-paviseShield_spearwall_56x53_15
+  - first:
+      213: -1746171433082567601
+    second: pike-paviseShield_spearwall_56x53_16
+  - first:
+      213: -2808232136920257252
+    second: pike-paviseShield_spearwall_56x53_17
+  - first:
+      213: 2929386000036997692
+    second: pike-paviseShield_spearwall_56x53_18
+  - first:
+      213: -3626877991366024757
+    second: pike-paviseShield_spearwall_56x53_19
+  - first:
+      213: -5420296836211441121
+    second: pike-paviseShield_spearwall_56x53_20
+  - first:
+      213: 1413990921816923850
+    second: pike-paviseShield_spearwall_56x53_21
+  - first:
+      213: -2084829964290762487
+    second: pike-paviseShield_spearwall_56x53_22
+  - first:
+      213: -413683849022602878
+    second: pike-paviseShield_spearwall_56x53_23
+  - first:
+      213: -4713381662661108612
+    second: pike-paviseShield_spearwall_56x53_24
+  - first:
+      213: -6581916572912577171
+    second: pike-paviseShield_spearwall_56x53_25
+  - first:
+      213: 2743906459926867817
+    second: pike-paviseShield_spearwall_56x53_26
+  - first:
+      213: 7083814015601378563
+    second: pike-paviseShield_spearwall_56x53_27
+  - first:
+      213: 5463927185239948332
+    second: pike-paviseShield_spearwall_56x53_28
+  - first:
+      213: -5342734251836647090
+    second: pike-paviseShield_spearwall_56x53_29
+  - first:
+      213: 9065659416475984497
+    second: pike-paviseShield_spearwall_56x53_30
+  - first:
+      213: 1847130255191119047
+    second: pike-paviseShield_spearwall_56x53_31
+  - first:
+      213: -7561539509548941072
+    second: pike-paviseShield_spearwall_56x53_32
+  - first:
+      213: -4583296860509025119
+    second: pike-paviseShield_spearwall_56x53_33
+  - first:
+      213: -6513650424785416472
+    second: pike-paviseShield_spearwall_56x53_34
+  - first:
+      213: -2369975509871585067
+    second: pike-paviseShield_spearwall_56x53_35
+  - first:
+      213: -3084120087740041515
+    second: pike-paviseShield_spearwall_56x53_36
+  - first:
+      213: 2581415429514679327
+    second: pike-paviseShield_spearwall_56x53_37
+  - first:
+      213: -2927029900753390166
+    second: pike-paviseShield_spearwall_56x53_38
+  - first:
+      213: 4892339414104278142
+    second: pike-paviseShield_spearwall_56x53_39
+  - first:
+      213: 6977514880019037077
+    second: pike-paviseShield_spearwall_56x53_40
+  - first:
+      213: -3090511389130109904
+    second: pike-paviseShield_spearwall_56x53_41
+  - first:
+      213: 5692637580758732203
+    second: pike-paviseShield_spearwall_56x53_42
+  - first:
+      213: -4952783415888823191
+    second: pike-paviseShield_spearwall_56x53_43
+  - first:
+      213: 1694155256648817209
+    second: pike-paviseShield_spearwall_56x53_44
+  - first:
+      213: -2116434763581764203
+    second: pike-paviseShield_spearwall_56x53_45
+  - first:
+      213: -1344050486978682903
+    second: pike-paviseShield_spearwall_56x53_46
+  - first:
+      213: -8069756725735439605
+    second: pike-paviseShield_spearwall_56x53_47
+  - first:
+      213: -8537880832403193058
+    second: pike-paviseShield_spearwall_56x53_48
+  - first:
+      213: -5700185600411055679
+    second: pike-paviseShield_spearwall_56x53_49
+  - first:
+      213: 6126706459983147171
+    second: pike-paviseShield_spearwall_56x53_50
+  - first:
+      213: 2803080890084927121
+    second: pike-paviseShield_spearwall_56x53_51
+  - first:
+      213: -2902689964599478411
+    second: pike-paviseShield_spearwall_56x53_52
+  - first:
+      213: -621049354643502897
+    second: pike-paviseShield_spearwall_56x53_53
+  - first:
+      213: 4063643177259645039
+    second: pike-paviseShield_spearwall_56x53_54
+  - first:
+      213: -6241849290959149915
+    second: pike-paviseShield_spearwall_56x53_55
+  - first:
+      213: 6831978951640047309
+    second: pike-paviseShield_spearwall_56x53_56
+  - first:
+      213: -7041987545003733201
+    second: pike-paviseShield_spearwall_56x53_57
+  - first:
+      213: 1706593590192823237
+    second: pike-paviseShield_spearwall_56x53_58
+  - first:
+      213: 420602186934264559
+    second: pike-paviseShield_spearwall_56x53_59
+  - first:
+      213: 5606609445124212450
+    second: pike-paviseShield_spearwall_56x53_60
+  - first:
+      213: 1733144432199619910
+    second: pike-paviseShield_spearwall_56x53_61
+  - first:
+      213: -120099359995856714
+    second: pike-paviseShield_spearwall_56x53_62
+  - first:
+      213: -6271529034859829774
+    second: pike-paviseShield_spearwall_56x53_63
+  - first:
+      213: -1486747277956754872
+    second: pike-paviseShield_spearwall_56x53_64
+  - first:
+      213: 6028132099656261036
+    second: pike-paviseShield_spearwall_56x53_65
+  - first:
+      213: -3338430179521363301
+    second: pike-paviseShield_spearwall_56x53_66
+  - first:
+      213: -8411481185105989954
+    second: pike-paviseShield_spearwall_56x53_67
+  - first:
+      213: 8224052441287727601
+    second: pike-paviseShield_spearwall_56x53_68
+  - first:
+      213: -6420799196686879272
+    second: pike-paviseShield_spearwall_56x53_69
+  - first:
+      213: -4312188777828027242
+    second: pike-paviseShield_spearwall_56x53_70
+  - first:
+      213: -3327983699106743391
+    second: pike-paviseShield_spearwall_56x53_71
+  - first:
+      213: 6136366035818936360
+    second: pike-paviseShield_spearwall_56x53_72
+  - first:
+      213: -901507719477785685
+    second: pike-paviseShield_spearwall_56x53_73
+  - first:
+      213: 188954203324840088
+    second: pike-paviseShield_spearwall_56x53_74
+  - first:
+      213: -1218489125961705376
+    second: pike-paviseShield_spearwall_56x53_75
+  - first:
+      213: 2517779084175971924
+    second: pike-paviseShield_spearwall_56x53_76
+  - first:
+      213: -759582898946758868
+    second: pike-paviseShield_spearwall_56x53_77
+  - first:
+      213: -2085571077606087090
+    second: pike-paviseShield_spearwall_56x53_78
+  - first:
+      213: 1032202465031303730
+    second: pike-paviseShield_spearwall_56x53_79
+  - first:
+      213: 7380148904157020934
+    second: pike-paviseShield_spearwall_56x53_80
+  - first:
+      213: -9103597915780594763
+    second: pike-paviseShield_spearwall_56x53_81
+  - first:
+      213: -9000700435042977344
+    second: pike-paviseShield_spearwall_56x53_82
+  - first:
+      213: -610468489822861362
+    second: pike-paviseShield_spearwall_56x53_83
+  - first:
+      213: 5139560887083996218
+    second: pike-paviseShield_spearwall_56x53_84
+  - first:
+      213: -2926813222666408258
+    second: pike-paviseShield_spearwall_56x53_85
+  - first:
+      213: -103491405893957326
+    second: pike-paviseShield_spearwall_56x53_86
+  - first:
+      213: 5601351214461115810
+    second: pike-paviseShield_spearwall_56x53_87
+  - first:
+      213: -7089264395702465977
+    second: pike-paviseShield_spearwall_56x53_88
+  - first:
+      213: 664427085288038143
+    second: pike-paviseShield_spearwall_56x53_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0590714b1a2d5f30800000000000000
+      internalID: 4565851893773931786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab39344754f21d960800000000000000
+      internalID: 7624927619464795066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057124121fca9c050800000000000000
+      internalID: 5821374144998152016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf3d3ae9765aa070800000000000000
+      internalID: 8118396359909654453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db95ca9bbd9242640800000000000000
+      internalID: 5054210705506195901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb794fe8fa213f0800000000000000
+      internalID: -931489144388469731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b483f033e35e1e300800000000000000
+      internalID: 279756707181049931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4509bab68c2bd60800000000000000
+      internalID: 7904600660754060488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12238390004f3eb30800000000000000
+      internalID: 4315561148942922273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e02369a70d8da70800000000000000
+      internalID: 8852054292521160212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccbc798a2f9f6480800000000000000
+      internalID: -8903722933244085044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b16d28016b2c13c0800000000000000
+      internalID: -4387584241216691790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f2bea3bb1956c60800000000000000
+      internalID: 7810809362077396875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964153b9729a3e8a0800000000000000
+      internalID: -6276987468051573655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0237501d1e7f960800000000000000
+      internalID: 7635819981085810923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e879dbdb987da70d0800000000000000
+      internalID: -3424187580068030578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44cd2e455a54c7e0800000000000000
+      internalID: -1746171433082567601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d280800c72709d0800000000000000
+      internalID: -2808232136920257252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a2536eb0547a820800000000000000
+      internalID: 2929386000036997692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc122f0deadbaadc0800000000000000
+      internalID: -3626877991366024757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f128174debc37c4b0800000000000000
+      internalID: -5420296836211441121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace568270418f9310800000000000000
+      internalID: 1413990921816923850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909db5181323113e0800000000000000
+      internalID: -2084829964290762487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28101b92bbc424af0800000000000000
+      internalID: -413683849022602878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c9e32b954b69eb0800000000000000
+      internalID: -4713381662661108612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d651a4adfb558a4a0800000000000000
+      internalID: -6581916572912577171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f27d03360541620800000000000000
+      internalID: 2743906459926867817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3058ad6c053ce4260800000000000000
+      internalID: 7083814015601378563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cb3da63d4c3db40800000000000000
+      internalID: 5463927185239948332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49d6f5418bcad5b0800000000000000
+      internalID: -5342734251836647090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172e9b51531bfcd70800000000000000
+      internalID: 9065659416475984497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c41b8a3e2352a910800000000000000
+      internalID: 1847130255191119047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0014af0e3001790800000000000000
+      internalID: -7561539509548941072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac4239e9cbd460c0800000000000000
+      internalID: -4583296860509025119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec79f037dda95a0800000000000000
+      internalID: -6513650424785416472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89ab794d72c1fd0800000000000000
+      internalID: -2369975509871585067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6bb9dde110335d0800000000000000
+      internalID: -3084120087740041515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f145fedf7a703d320800000000000000
+      internalID: 2581415429514679327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5b5a630d91167d0800000000000000
+      internalID: -2927029900753390166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e740452c6c415e340800000000000000
+      internalID: 4892339414104278142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b798e90dc15d060800000000000000
+      internalID: 6977514880019037077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cc99c044c4c15d0800000000000000
+      internalID: -3090511389130109904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badc92408bf400f40800000000000000
+      internalID: 5692637580758732203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c308669bd244bb0800000000000000
+      internalID: -4952783415888823191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ad9eada39d28710800000000000000
+      internalID: 1694155256648817209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dcb6ebbc9e0a2e0800000000000000
+      internalID: -2116434763581764203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd1730439f85de0800000000000000
+      internalID: -1344050486978682903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0348ba6307720090800000000000000
+      internalID: -8069756725735439605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13cdf95e9a538980800000000000000
+      internalID: -8537880832403193058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9c3b5b56fd4e0b0800000000000000
+      internalID: -5700185600411055679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0f26e801f660550800000000000000
+      internalID: 6126706459983147171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a23ad73b86e620800000000000000
+      internalID: 2803080890084927121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577f4f63bd297b7d0800000000000000
+      internalID: -2902689964599478411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc80d7407e69167f0800000000000000
+      internalID: -621049354643502897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68308a80f5f46830800000000000000
+      internalID: 4063643177259645039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a42bdef32f7069a0800000000000000
+      internalID: -6241849290959149915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce537db8a010de50800000000000000
+      internalID: 6831978951640047309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc35b43a5d54e90800000000000000
+      internalID: -7041987545003733201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbd66f04d90fa710800000000000000
+      internalID: 1706593590192823237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe228f7e57746d500800000000000000
+      internalID: 420602186934264559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e68af2d59daecd40800000000000000
+      internalID: 5606609445124212450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64554b1bdad5d0810800000000000000
+      internalID: 1733144432199619910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8f1b5b442555ef0800000000000000
+      internalID: -120099359995856714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5a1ae129d07f8a0800000000000000
+      internalID: -6271529034859829774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842db925a330e5be0800000000000000
+      internalID: -1486747277956754872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad142bc43a38a350800000000000000
+      internalID: 6028132099656261036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928f2280738ba1d0800000000000000
+      internalID: -3338430179521363301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe20e69d6a644b80800000000000000
+      internalID: -8411481185105989954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f993295f14b12270800000000000000
+      internalID: 8224052441287727601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57d53462db4e6a0800000000000000
+      internalID: -6420799196686879272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694722d47270824c0800000000000000
+      internalID: -4312188777828027242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abb3744570a0d1d0800000000000000
+      internalID: -3327983699106743391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82872c0d560c82550800000000000000
+      internalID: 6136366035818936360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab014a61833d73f0800000000000000
+      internalID: -901507719477785685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987ef7c8dc4f9200800000000000000
+      internalID: 188954203324840088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0685064889e071fe0800000000000000
+      internalID: -1218489125961705376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456973fbcb2f0f220800000000000000
+      internalID: 2517779084175971924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2721dab06b6575f0800000000000000
+      internalID: -759582898946758868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46e57d97209e03e0800000000000000
+      internalID: -2085571077606087090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23239705cae135e00800000000000000
+      internalID: 1032202465031303730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60384cd935e8b6660800000000000000
+      internalID: 7380148904157020934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b349e3bde589a180800000000000000
+      internalID: -9103597915780594763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c93f8f54a6171380800000000000000
+      internalID: -9000700435042977344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec70a85942e2787f0800000000000000
+      internalID: -610468489822861362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3412207563635740800000000000000
+      internalID: 5139560887083996218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe6d0381eed167d0800000000000000
+      internalID: -2926813222666408258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_86
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239826a5d13509ef0800000000000000
+      internalID: -103491405893957326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad5828904ffbbd40800000000000000
+      internalID: 5601351214461115810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a8457b79fdd9d90800000000000000
+      internalID: -7089264395702465977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-paviseShield_spearwall_56x53_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeddbde9e4883900800000000000000
+      internalID: 664427085288038143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pike-paviseShield_spearwall_56x53_0: 4565851893773931786
+      pike-paviseShield_spearwall_56x53_1: 7624927619464795066
+      pike-paviseShield_spearwall_56x53_10: -8903722933244085044
+      pike-paviseShield_spearwall_56x53_11: -4387584241216691790
+      pike-paviseShield_spearwall_56x53_12: 7810809362077396875
+      pike-paviseShield_spearwall_56x53_13: -6276987468051573655
+      pike-paviseShield_spearwall_56x53_14: 7635819981085810923
+      pike-paviseShield_spearwall_56x53_15: -3424187580068030578
+      pike-paviseShield_spearwall_56x53_16: -1746171433082567601
+      pike-paviseShield_spearwall_56x53_17: -2808232136920257252
+      pike-paviseShield_spearwall_56x53_18: 2929386000036997692
+      pike-paviseShield_spearwall_56x53_19: -3626877991366024757
+      pike-paviseShield_spearwall_56x53_2: 5821374144998152016
+      pike-paviseShield_spearwall_56x53_20: -5420296836211441121
+      pike-paviseShield_spearwall_56x53_21: 1413990921816923850
+      pike-paviseShield_spearwall_56x53_22: -2084829964290762487
+      pike-paviseShield_spearwall_56x53_23: -413683849022602878
+      pike-paviseShield_spearwall_56x53_24: -4713381662661108612
+      pike-paviseShield_spearwall_56x53_25: -6581916572912577171
+      pike-paviseShield_spearwall_56x53_26: 2743906459926867817
+      pike-paviseShield_spearwall_56x53_27: 7083814015601378563
+      pike-paviseShield_spearwall_56x53_28: 5463927185239948332
+      pike-paviseShield_spearwall_56x53_29: -5342734251836647090
+      pike-paviseShield_spearwall_56x53_3: 8118396359909654453
+      pike-paviseShield_spearwall_56x53_30: 9065659416475984497
+      pike-paviseShield_spearwall_56x53_31: 1847130255191119047
+      pike-paviseShield_spearwall_56x53_32: -7561539509548941072
+      pike-paviseShield_spearwall_56x53_33: -4583296860509025119
+      pike-paviseShield_spearwall_56x53_34: -6513650424785416472
+      pike-paviseShield_spearwall_56x53_35: -2369975509871585067
+      pike-paviseShield_spearwall_56x53_36: -3084120087740041515
+      pike-paviseShield_spearwall_56x53_37: 2581415429514679327
+      pike-paviseShield_spearwall_56x53_38: -2927029900753390166
+      pike-paviseShield_spearwall_56x53_39: 4892339414104278142
+      pike-paviseShield_spearwall_56x53_4: 5054210705506195901
+      pike-paviseShield_spearwall_56x53_40: 6977514880019037077
+      pike-paviseShield_spearwall_56x53_41: -3090511389130109904
+      pike-paviseShield_spearwall_56x53_42: 5692637580758732203
+      pike-paviseShield_spearwall_56x53_43: -4952783415888823191
+      pike-paviseShield_spearwall_56x53_44: 1694155256648817209
+      pike-paviseShield_spearwall_56x53_45: -2116434763581764203
+      pike-paviseShield_spearwall_56x53_46: -1344050486978682903
+      pike-paviseShield_spearwall_56x53_47: -8069756725735439605
+      pike-paviseShield_spearwall_56x53_48: -8537880832403193058
+      pike-paviseShield_spearwall_56x53_49: -5700185600411055679
+      pike-paviseShield_spearwall_56x53_5: -931489144388469731
+      pike-paviseShield_spearwall_56x53_50: 6126706459983147171
+      pike-paviseShield_spearwall_56x53_51: 2803080890084927121
+      pike-paviseShield_spearwall_56x53_52: -2902689964599478411
+      pike-paviseShield_spearwall_56x53_53: -621049354643502897
+      pike-paviseShield_spearwall_56x53_54: 4063643177259645039
+      pike-paviseShield_spearwall_56x53_55: -6241849290959149915
+      pike-paviseShield_spearwall_56x53_56: 6831978951640047309
+      pike-paviseShield_spearwall_56x53_57: -7041987545003733201
+      pike-paviseShield_spearwall_56x53_58: 1706593590192823237
+      pike-paviseShield_spearwall_56x53_59: 420602186934264559
+      pike-paviseShield_spearwall_56x53_6: 279756707181049931
+      pike-paviseShield_spearwall_56x53_60: 5606609445124212450
+      pike-paviseShield_spearwall_56x53_61: 1733144432199619910
+      pike-paviseShield_spearwall_56x53_62: -120099359995856714
+      pike-paviseShield_spearwall_56x53_63: -6271529034859829774
+      pike-paviseShield_spearwall_56x53_64: -1486747277956754872
+      pike-paviseShield_spearwall_56x53_65: 6028132099656261036
+      pike-paviseShield_spearwall_56x53_66: -3338430179521363301
+      pike-paviseShield_spearwall_56x53_67: -8411481185105989954
+      pike-paviseShield_spearwall_56x53_68: 8224052441287727601
+      pike-paviseShield_spearwall_56x53_69: -6420799196686879272
+      pike-paviseShield_spearwall_56x53_7: 7904600660754060488
+      pike-paviseShield_spearwall_56x53_70: -4312188777828027242
+      pike-paviseShield_spearwall_56x53_71: -3327983699106743391
+      pike-paviseShield_spearwall_56x53_72: 6136366035818936360
+      pike-paviseShield_spearwall_56x53_73: -901507719477785685
+      pike-paviseShield_spearwall_56x53_74: 188954203324840088
+      pike-paviseShield_spearwall_56x53_75: -1218489125961705376
+      pike-paviseShield_spearwall_56x53_76: 2517779084175971924
+      pike-paviseShield_spearwall_56x53_77: -759582898946758868
+      pike-paviseShield_spearwall_56x53_78: -2085571077606087090
+      pike-paviseShield_spearwall_56x53_79: 1032202465031303730
+      pike-paviseShield_spearwall_56x53_8: 4315561148942922273
+      pike-paviseShield_spearwall_56x53_80: 7380148904157020934
+      pike-paviseShield_spearwall_56x53_81: -9103597915780594763
+      pike-paviseShield_spearwall_56x53_82: -9000700435042977344
+      pike-paviseShield_spearwall_56x53_83: -610468489822861362
+      pike-paviseShield_spearwall_56x53_84: 5139560887083996218
+      pike-paviseShield_spearwall_56x53_85: -2926813222666408258
+      pike-paviseShield_spearwall_56x53_86: -103491405893957326
+      pike-paviseShield_spearwall_56x53_87: 5601351214461115810
+      pike-paviseShield_spearwall_56x53_88: -7089264395702465977
+      pike-paviseShield_spearwall_56x53_89: 664427085288038143
+      pike-paviseShield_spearwall_56x53_9: 8852054292521160212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

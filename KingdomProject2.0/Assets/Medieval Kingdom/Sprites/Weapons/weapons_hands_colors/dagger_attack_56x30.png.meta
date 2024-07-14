@@ -1,0 +1,2214 @@
+fileFormatVersion: 2
+guid: d8c25ba44f25fd847a5255925ad12eb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9135107624294258062
+    second: dagger_attack_56x30_0
+  - first:
+      213: -487210817913739545
+    second: dagger_attack_56x30_1
+  - first:
+      213: -5692782279517329030
+    second: dagger_attack_56x30_2
+  - first:
+      213: 8546920404771416959
+    second: dagger_attack_56x30_3
+  - first:
+      213: -2068398512228811113
+    second: dagger_attack_56x30_4
+  - first:
+      213: 37598105335843133
+    second: dagger_attack_56x30_5
+  - first:
+      213: 8290231777080223178
+    second: dagger_attack_56x30_6
+  - first:
+      213: 5022189433417477639
+    second: dagger_attack_56x30_7
+  - first:
+      213: -3806470606248386626
+    second: dagger_attack_56x30_8
+  - first:
+      213: -4508436635760584871
+    second: dagger_attack_56x30_9
+  - first:
+      213: -3973145593824114291
+    second: dagger_attack_56x30_10
+  - first:
+      213: 430179282998942290
+    second: dagger_attack_56x30_11
+  - first:
+      213: 8139781561045946673
+    second: dagger_attack_56x30_12
+  - first:
+      213: 2334145529262546961
+    second: dagger_attack_56x30_13
+  - first:
+      213: 2242811771715099153
+    second: dagger_attack_56x30_14
+  - first:
+      213: -4503153941727828552
+    second: dagger_attack_56x30_15
+  - first:
+      213: -7888290205506702271
+    second: dagger_attack_56x30_16
+  - first:
+      213: 8569499686415571836
+    second: dagger_attack_56x30_17
+  - first:
+      213: 393964104691745214
+    second: dagger_attack_56x30_18
+  - first:
+      213: 7120694198293525083
+    second: dagger_attack_56x30_19
+  - first:
+      213: 4356433528866717700
+    second: dagger_attack_56x30_20
+  - first:
+      213: 455174552358567749
+    second: dagger_attack_56x30_21
+  - first:
+      213: 546584655000536351
+    second: dagger_attack_56x30_22
+  - first:
+      213: -8030988016935377633
+    second: dagger_attack_56x30_23
+  - first:
+      213: -8690807067049902794
+    second: dagger_attack_56x30_24
+  - first:
+      213: -4332216960098504527
+    second: dagger_attack_56x30_25
+  - first:
+      213: -8067982624396502451
+    second: dagger_attack_56x30_26
+  - first:
+      213: -8564801484100172507
+    second: dagger_attack_56x30_27
+  - first:
+      213: -8952311019183934587
+    second: dagger_attack_56x30_28
+  - first:
+      213: -1998320371292187620
+    second: dagger_attack_56x30_29
+  - first:
+      213: 1096926268073479703
+    second: dagger_attack_56x30_30
+  - first:
+      213: 2358571504208234776
+    second: dagger_attack_56x30_31
+  - first:
+      213: -8935829777600434049
+    second: dagger_attack_56x30_32
+  - first:
+      213: -6327972034240593437
+    second: dagger_attack_56x30_33
+  - first:
+      213: -132171990477917550
+    second: dagger_attack_56x30_34
+  - first:
+      213: 4206404249648010226
+    second: dagger_attack_56x30_35
+  - first:
+      213: 5476786036048689188
+    second: dagger_attack_56x30_36
+  - first:
+      213: 4320580736387402848
+    second: dagger_attack_56x30_37
+  - first:
+      213: -7833621357347297709
+    second: dagger_attack_56x30_38
+  - first:
+      213: -7463591192537058726
+    second: dagger_attack_56x30_39
+  - first:
+      213: -5886159787104467121
+    second: dagger_attack_56x30_40
+  - first:
+      213: -7142053058934035256
+    second: dagger_attack_56x30_41
+  - first:
+      213: -7326150046964937375
+    second: dagger_attack_56x30_42
+  - first:
+      213: -206706635320906096
+    second: dagger_attack_56x30_43
+  - first:
+      213: -3018505749417933217
+    second: dagger_attack_56x30_44
+  - first:
+      213: 2880485097008890378
+    second: dagger_attack_56x30_45
+  - first:
+      213: -2953030695910529678
+    second: dagger_attack_56x30_46
+  - first:
+      213: 716282252708572180
+    second: dagger_attack_56x30_47
+  - first:
+      213: -6080286699430853002
+    second: dagger_attack_56x30_48
+  - first:
+      213: -674327236880209692
+    second: dagger_attack_56x30_49
+  - first:
+      213: -484539401996137965
+    second: dagger_attack_56x30_50
+  - first:
+      213: 1322032605405588769
+    second: dagger_attack_56x30_51
+  - first:
+      213: -4523195340300128281
+    second: dagger_attack_56x30_52
+  - first:
+      213: -8916041992146708378
+    second: dagger_attack_56x30_53
+  - first:
+      213: 1900659921632208248
+    second: dagger_attack_56x30_54
+  - first:
+      213: 5959519004444033178
+    second: dagger_attack_56x30_55
+  - first:
+      213: 3810274364142715422
+    second: dagger_attack_56x30_56
+  - first:
+      213: 4533816759037878743
+    second: dagger_attack_56x30_57
+  - first:
+      213: 6486756187678120253
+    second: dagger_attack_56x30_58
+  - first:
+      213: 3638919963313663628
+    second: dagger_attack_56x30_59
+  - first:
+      213: 9193097250962297506
+    second: dagger_attack_56x30_60
+  - first:
+      213: 1661829348551028906
+    second: dagger_attack_56x30_61
+  - first:
+      213: 9188835854536256735
+    second: dagger_attack_56x30_62
+  - first:
+      213: 2502469029699443509
+    second: dagger_attack_56x30_63
+  - first:
+      213: -7340247996967818462
+    second: dagger_attack_56x30_64
+  - first:
+      213: -668514827275200011
+    second: dagger_attack_56x30_65
+  - first:
+      213: -563893570201466108
+    second: dagger_attack_56x30_66
+  - first:
+      213: 1718492938215520156
+    second: dagger_attack_56x30_67
+  - first:
+      213: -8833709607725850949
+    second: dagger_attack_56x30_68
+  - first:
+      213: -7949376204588771699
+    second: dagger_attack_56x30_69
+  - first:
+      213: -7095613827063564100
+    second: dagger_attack_56x30_70
+  - first:
+      213: 915153126151201550
+    second: dagger_attack_56x30_71
+  - first:
+      213: 8705598047639882274
+    second: dagger_attack_56x30_72
+  - first:
+      213: 67539747472190278
+    second: dagger_attack_56x30_73
+  - first:
+      213: -1881015778148118843
+    second: dagger_attack_56x30_74
+  - first:
+      213: -5370428316810306184
+    second: dagger_attack_56x30_75
+  - first:
+      213: 1484597770452504846
+    second: dagger_attack_56x30_76
+  - first:
+      213: -9057946524161591774
+    second: dagger_attack_56x30_77
+  - first:
+      213: -5343784554584692010
+    second: dagger_attack_56x30_78
+  - first:
+      213: 6950512484899133430
+    second: dagger_attack_56x30_79
+  - first:
+      213: 6032300710955925910
+    second: dagger_attack_56x30_80
+  - first:
+      213: -376895357592494256
+    second: dagger_attack_56x30_81
+  - first:
+      213: -2154663081124300684
+    second: dagger_attack_56x30_82
+  - first:
+      213: -4569218589187678169
+    second: dagger_attack_56x30_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dagger_attack_56x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8595030cfb66ce70800000000000000
+      internalID: 9135107624294258062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6268ba7541d39f0800000000000000
+      internalID: -487210817913739545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a792bbdadac2ff0b0800000000000000
+      internalID: -5692782279517329030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b20f913d2cc9670800000000000000
+      internalID: 8546920404771416959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eb7a013829b43e0800000000000000
+      internalID: -2068398512228811113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3945c01743958000800000000000000
+      internalID: 37598105335843133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5a582b0e1dc0370800000000000000
+      internalID: 8290231777080223178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea1955ea662b540800000000000000
+      internalID: 5022189433417477639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf5992b623bc2bc0800000000000000
+      internalID: -3806470606248386626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957122934c0de61c0800000000000000
+      internalID: -4508436635760584871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89843f022d8cd8c0800000000000000
+      internalID: -3973145593824114291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a52e857cd48f500800000000000000
+      internalID: 430179282998942290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311b6f043056f070800000000000000
+      internalID: 8139781561045946673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a2c5fdfc846020800000000000000
+      internalID: 2334145529262546961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a94276c61102f10800000000000000
+      internalID: 2242811771715099153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a96649559181c0800000000000000
+      internalID: -4503153941727828552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144749f1ad9278290800000000000000
+      internalID: -7888290205506702271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b1f97cf8afce670800000000000000
+      internalID: 8569499686415571836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb108621444a77500800000000000000
+      internalID: 393964104691745214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52787375a9c1d260800000000000000
+      internalID: 7120694198293525083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c3bf8639257c30800000000000000
+      internalID: 4356433528866717700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_21
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f312008da115600800000000000000
+      internalID: 455174552358567749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f158cf809dbd59700800000000000000
+      internalID: 546584655000536351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15e527d2f23c8090800000000000000
+      internalID: -8030988016935377633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d3905b40d046780800000000000000
+      internalID: -8690807067049902794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_25
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f76bb0afd0e3c0800000000000000
+      internalID: -4332216960098504527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a92d29c84c80090800000000000000
+      internalID: -8067982624396502451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_27
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5258870bd66b32980800000000000000
+      internalID: -8564801484100172507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583f9b63f8003c380800000000000000
+      internalID: -8952311019183934587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14d3b9b53a8444e0800000000000000
+      internalID: -1998320371292187620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e805901a0193f00800000000000000
+      internalID: 1096926268073479703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819c0bd69445bb020800000000000000
+      internalID: 2358571504208234776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b4cc492e8df380800000000000000
+      internalID: -8935829777600434049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1cb7e36f68e28a0800000000000000
+      internalID: -6327972034240593437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292be42664e6a2ef0800000000000000
+      internalID: -132171990477917550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f396f9e066206a30800000000000000
+      internalID: 4206404249648010226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428708de1e3710c40800000000000000
+      internalID: 5476786036048689188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c44cfc949c5fb30800000000000000
+      internalID: 4320580736387402848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356a66a31e2694390800000000000000
+      internalID: -7833621357347297709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_39
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52381caa5ffb6890800000000000000
+      internalID: -7463591192537058726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47037e1cd8205ea0800000000000000
+      internalID: -5886159787104467121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_41
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccae37459452ec90800000000000000
+      internalID: -7142053058934035256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d817f0959445a90800000000000000
+      internalID: -7326150046964937375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e2bfc0961a12df0800000000000000
+      internalID: -206706635320906096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56487d730d1c16d0800000000000000
+      internalID: -3018505749417933217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02850c2fe989f720800000000000000
+      internalID: 2880485097008890378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275ad675a3ab407d0800000000000000
+      internalID: -2953030695910529678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c6c9fe9eeb0f900800000000000000
+      internalID: 716282252708572180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67644eb267b7e9ba0800000000000000
+      internalID: -6080286699430853002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8626763fe44a6f0800000000000000
+      internalID: -674327236880209692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a07582bf19649f0800000000000000
+      internalID: -484539401996137965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d2fa276adc85210800000000000000
+      internalID: 1322032605405588769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef65bb8dc16a31c0800000000000000
+      internalID: -4523195340300128281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_53
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66811af1c0bd34480800000000000000
+      internalID: -8916041992146708378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_54
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875a5bbe020806a10800000000000000
+      internalID: 1900659921632208248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_55
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90831ca5f674b250800000000000000
+      internalID: 5959519004444033178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e120183b850d0e430800000000000000
+      internalID: 3810274364142715422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d16a27325a5bee30800000000000000
+      internalID: 4533816759037878743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d391f176266950a50800000000000000
+      internalID: 6486756187678120253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e63634d6a008230800000000000000
+      internalID: 3638919963313663628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25a3d1e31749f70800000000000000
+      internalID: 9193097250962297506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_61
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0f3bddcf0001710800000000000000
+      internalID: 1661829348551028906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdca101768d458f70800000000000000
+      internalID: 9188835854536256735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_63
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bd6a8e25e8ab220800000000000000
+      internalID: 2502469029699443509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22be5794653322a90800000000000000
+      internalID: -7340247996967818462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_65
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f91e297e45f8b6f0800000000000000
+      internalID: -668514827275200011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bc30919c5ac28f0800000000000000
+      internalID: -563893570201466108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_67
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c977a5be83059d710800000000000000
+      internalID: 1718492938215520156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe9b8e2aeb586580800000000000000
+      internalID: -8833709607725850949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_69
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861b83a5742ea190800000000000000
+      internalID: -7949376204588771699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8b68681d0578d90800000000000000
+      internalID: -7095613827063564100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03a4576be643bc00800000000000000
+      internalID: 915153126151201550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ac8e2dc4f70d870800000000000000
+      internalID: 8705598047639882274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bac40ea03ffe000800000000000000
+      internalID: 67539747472190278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce8396ad1a45e5e0800000000000000
+      internalID: -1881015778148118843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d92dc46e76875b0800000000000000
+      internalID: -5370428316810306184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0198267ec95a9410800000000000000
+      internalID: 1484597770452504846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_77
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2263dd890a5bb4280800000000000000
+      internalID: -9057946524161591774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daa2cb924017d5b0800000000000000
+      internalID: -5343784554584692010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f79455974e257060800000000000000
+      internalID: 6950512484899133430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_80
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6914dde398907b350800000000000000
+      internalID: 6032300710955925910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_81
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f943d4baff4caf0800000000000000
+      internalID: -376895357592494256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_82
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478ffe6f7591912e0800000000000000
+      internalID: -2154663081124300684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger_attack_56x30_83
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7206b52e6efd690c0800000000000000
+      internalID: -4569218589187678169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dagger_attack_56x30_0: 9135107624294258062
+      dagger_attack_56x30_1: -487210817913739545
+      dagger_attack_56x30_10: -3973145593824114291
+      dagger_attack_56x30_11: 430179282998942290
+      dagger_attack_56x30_12: 8139781561045946673
+      dagger_attack_56x30_13: 2334145529262546961
+      dagger_attack_56x30_14: 2242811771715099153
+      dagger_attack_56x30_15: -4503153941727828552
+      dagger_attack_56x30_16: -7888290205506702271
+      dagger_attack_56x30_17: 8569499686415571836
+      dagger_attack_56x30_18: 393964104691745214
+      dagger_attack_56x30_19: 7120694198293525083
+      dagger_attack_56x30_2: -5692782279517329030
+      dagger_attack_56x30_20: 4356433528866717700
+      dagger_attack_56x30_21: 455174552358567749
+      dagger_attack_56x30_22: 546584655000536351
+      dagger_attack_56x30_23: -8030988016935377633
+      dagger_attack_56x30_24: -8690807067049902794
+      dagger_attack_56x30_25: -4332216960098504527
+      dagger_attack_56x30_26: -8067982624396502451
+      dagger_attack_56x30_27: -8564801484100172507
+      dagger_attack_56x30_28: -8952311019183934587
+      dagger_attack_56x30_29: -1998320371292187620
+      dagger_attack_56x30_3: 8546920404771416959
+      dagger_attack_56x30_30: 1096926268073479703
+      dagger_attack_56x30_31: 2358571504208234776
+      dagger_attack_56x30_32: -8935829777600434049
+      dagger_attack_56x30_33: -6327972034240593437
+      dagger_attack_56x30_34: -132171990477917550
+      dagger_attack_56x30_35: 4206404249648010226
+      dagger_attack_56x30_36: 5476786036048689188
+      dagger_attack_56x30_37: 4320580736387402848
+      dagger_attack_56x30_38: -7833621357347297709
+      dagger_attack_56x30_39: -7463591192537058726
+      dagger_attack_56x30_4: -2068398512228811113
+      dagger_attack_56x30_40: -5886159787104467121
+      dagger_attack_56x30_41: -7142053058934035256
+      dagger_attack_56x30_42: -7326150046964937375
+      dagger_attack_56x30_43: -206706635320906096
+      dagger_attack_56x30_44: -3018505749417933217
+      dagger_attack_56x30_45: 2880485097008890378
+      dagger_attack_56x30_46: -2953030695910529678
+      dagger_attack_56x30_47: 716282252708572180
+      dagger_attack_56x30_48: -6080286699430853002
+      dagger_attack_56x30_49: -674327236880209692
+      dagger_attack_56x30_5: 37598105335843133
+      dagger_attack_56x30_50: -484539401996137965
+      dagger_attack_56x30_51: 1322032605405588769
+      dagger_attack_56x30_52: -4523195340300128281
+      dagger_attack_56x30_53: -8916041992146708378
+      dagger_attack_56x30_54: 1900659921632208248
+      dagger_attack_56x30_55: 5959519004444033178
+      dagger_attack_56x30_56: 3810274364142715422
+      dagger_attack_56x30_57: 4533816759037878743
+      dagger_attack_56x30_58: 6486756187678120253
+      dagger_attack_56x30_59: 3638919963313663628
+      dagger_attack_56x30_6: 8290231777080223178
+      dagger_attack_56x30_60: 9193097250962297506
+      dagger_attack_56x30_61: 1661829348551028906
+      dagger_attack_56x30_62: 9188835854536256735
+      dagger_attack_56x30_63: 2502469029699443509
+      dagger_attack_56x30_64: -7340247996967818462
+      dagger_attack_56x30_65: -668514827275200011
+      dagger_attack_56x30_66: -563893570201466108
+      dagger_attack_56x30_67: 1718492938215520156
+      dagger_attack_56x30_68: -8833709607725850949
+      dagger_attack_56x30_69: -7949376204588771699
+      dagger_attack_56x30_7: 5022189433417477639
+      dagger_attack_56x30_70: -7095613827063564100
+      dagger_attack_56x30_71: 915153126151201550
+      dagger_attack_56x30_72: 8705598047639882274
+      dagger_attack_56x30_73: 67539747472190278
+      dagger_attack_56x30_74: -1881015778148118843
+      dagger_attack_56x30_75: -5370428316810306184
+      dagger_attack_56x30_76: 1484597770452504846
+      dagger_attack_56x30_77: -9057946524161591774
+      dagger_attack_56x30_78: -5343784554584692010
+      dagger_attack_56x30_79: 6950512484899133430
+      dagger_attack_56x30_8: -3806470606248386626
+      dagger_attack_56x30_80: 6032300710955925910
+      dagger_attack_56x30_81: -376895357592494256
+      dagger_attack_56x30_82: -2154663081124300684
+      dagger_attack_56x30_83: -4569218589187678169
+      dagger_attack_56x30_9: -4508436635760584871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

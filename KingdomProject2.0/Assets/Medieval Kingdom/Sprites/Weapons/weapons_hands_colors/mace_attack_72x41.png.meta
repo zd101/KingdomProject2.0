@@ -1,0 +1,5364 @@
+fileFormatVersion: 2
+guid: fed8f069e3404ff42ba57dcabad70b9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2589383799876587333
+    second: mace_attack_72x41_0
+  - first:
+      213: 7064127727610971609
+    second: mace_attack_72x41_1
+  - first:
+      213: 6391743150241869376
+    second: mace_attack_72x41_2
+  - first:
+      213: 7384471508145492081
+    second: mace_attack_72x41_3
+  - first:
+      213: -8950155929205529906
+    second: mace_attack_72x41_4
+  - first:
+      213: 4423462598750676980
+    second: mace_attack_72x41_5
+  - first:
+      213: 1273024773808101878
+    second: mace_attack_72x41_6
+  - first:
+      213: -7327833082136382527
+    second: mace_attack_72x41_7
+  - first:
+      213: -6961201693101285491
+    second: mace_attack_72x41_8
+  - first:
+      213: 7060834712318913761
+    second: mace_attack_72x41_9
+  - first:
+      213: 8770390222610924724
+    second: mace_attack_72x41_10
+  - first:
+      213: 2333878608984381831
+    second: mace_attack_72x41_11
+  - first:
+      213: 92328349645271246
+    second: mace_attack_72x41_12
+  - first:
+      213: -545744295347686606
+    second: mace_attack_72x41_13
+  - first:
+      213: -8121719989262010404
+    second: mace_attack_72x41_14
+  - first:
+      213: -8973009594119812156
+    second: mace_attack_72x41_15
+  - first:
+      213: 2900540405490119115
+    second: mace_attack_72x41_16
+  - first:
+      213: -4083839215628281787
+    second: mace_attack_72x41_17
+  - first:
+      213: -4461929376445881152
+    second: mace_attack_72x41_18
+  - first:
+      213: -4398300116150147978
+    second: mace_attack_72x41_19
+  - first:
+      213: -581768946381841760
+    second: mace_attack_72x41_20
+  - first:
+      213: 2003277858943102086
+    second: mace_attack_72x41_21
+  - first:
+      213: 5310796739926759498
+    second: mace_attack_72x41_22
+  - first:
+      213: -80014086376234551
+    second: mace_attack_72x41_23
+  - first:
+      213: 569841323435900172
+    second: mace_attack_72x41_24
+  - first:
+      213: -2430666904591675423
+    second: mace_attack_72x41_25
+  - first:
+      213: -598287317401555426
+    second: mace_attack_72x41_26
+  - first:
+      213: -6466877602225253167
+    second: mace_attack_72x41_27
+  - first:
+      213: -5360156299490766458
+    second: mace_attack_72x41_28
+  - first:
+      213: -1265612652555605906
+    second: mace_attack_72x41_29
+  - first:
+      213: -6950204372121831746
+    second: mace_attack_72x41_30
+  - first:
+      213: -3009072308160731889
+    second: mace_attack_72x41_31
+  - first:
+      213: -1492684819495760209
+    second: mace_attack_72x41_32
+  - first:
+      213: -8995859434645520157
+    second: mace_attack_72x41_33
+  - first:
+      213: 9049389096608793720
+    second: mace_attack_72x41_34
+  - first:
+      213: 7635210431249540187
+    second: mace_attack_72x41_35
+  - first:
+      213: 7455072919441879730
+    second: mace_attack_72x41_36
+  - first:
+      213: 7747910528329388425
+    second: mace_attack_72x41_37
+  - first:
+      213: 3323301327585868019
+    second: mace_attack_72x41_38
+  - first:
+      213: 3722394648837594724
+    second: mace_attack_72x41_39
+  - first:
+      213: -1931580335451144023
+    second: mace_attack_72x41_40
+  - first:
+      213: 1369425461952227868
+    second: mace_attack_72x41_41
+  - first:
+      213: 3891602492306512339
+    second: mace_attack_72x41_42
+  - first:
+      213: 4031425511345050567
+    second: mace_attack_72x41_43
+  - first:
+      213: 1416147054176599184
+    second: mace_attack_72x41_44
+  - first:
+      213: 6203306122950801382
+    second: mace_attack_72x41_45
+  - first:
+      213: 360846964003979865
+    second: mace_attack_72x41_46
+  - first:
+      213: 6353449930143793334
+    second: mace_attack_72x41_47
+  - first:
+      213: 4871020423065936463
+    second: mace_attack_72x41_48
+  - first:
+      213: -7765574667221362610
+    second: mace_attack_72x41_49
+  - first:
+      213: -4269907968865498823
+    second: mace_attack_72x41_50
+  - first:
+      213: 4776157801299795982
+    second: mace_attack_72x41_51
+  - first:
+      213: -4097976266957062426
+    second: mace_attack_72x41_52
+  - first:
+      213: -1199739696604509691
+    second: mace_attack_72x41_53
+  - first:
+      213: -6420540456328853631
+    second: mace_attack_72x41_54
+  - first:
+      213: 5595676094901196710
+    second: mace_attack_72x41_55
+  - first:
+      213: -8343933775064871641
+    second: mace_attack_72x41_56
+  - first:
+      213: 8048016643370512218
+    second: mace_attack_72x41_57
+  - first:
+      213: -2157405655963211864
+    second: mace_attack_72x41_58
+  - first:
+      213: 4413538460544562363
+    second: mace_attack_72x41_59
+  - first:
+      213: 3171876540293370432
+    second: mace_attack_72x41_60
+  - first:
+      213: -5813651788923386074
+    second: mace_attack_72x41_61
+  - first:
+      213: -8753074594152560266
+    second: mace_attack_72x41_62
+  - first:
+      213: 9046339071412401904
+    second: mace_attack_72x41_63
+  - first:
+      213: -4165166336222160512
+    second: mace_attack_72x41_64
+  - first:
+      213: -2884131486855964479
+    second: mace_attack_72x41_65
+  - first:
+      213: 1180942041338617300
+    second: mace_attack_72x41_66
+  - first:
+      213: -2586099514154518840
+    second: mace_attack_72x41_67
+  - first:
+      213: 7827173401885615751
+    second: mace_attack_72x41_68
+  - first:
+      213: 4933070679509342619
+    second: mace_attack_72x41_69
+  - first:
+      213: 8784257175688684146
+    second: mace_attack_72x41_70
+  - first:
+      213: -2220314638896172599
+    second: mace_attack_72x41_71
+  - first:
+      213: 6379890139034614786
+    second: mace_attack_72x41_72
+  - first:
+      213: 5183530395876136129
+    second: mace_attack_72x41_73
+  - first:
+      213: -8574589322294639532
+    second: mace_attack_72x41_74
+  - first:
+      213: -4213496590697618690
+    second: mace_attack_72x41_75
+  - first:
+      213: -3958203739129980230
+    second: mace_attack_72x41_76
+  - first:
+      213: -6915113698723031541
+    second: mace_attack_72x41_77
+  - first:
+      213: -3979111124716060138
+    second: mace_attack_72x41_78
+  - first:
+      213: -7902759074848675341
+    second: mace_attack_72x41_79
+  - first:
+      213: 2526042408282969272
+    second: mace_attack_72x41_80
+  - first:
+      213: -2366259775487759445
+    second: mace_attack_72x41_81
+  - first:
+      213: -2979609637639039375
+    second: mace_attack_72x41_82
+  - first:
+      213: 3733901764409951769
+    second: mace_attack_72x41_83
+  - first:
+      213: 8345191944400838548
+    second: mace_attack_72x41_84
+  - first:
+      213: -7420012773413838831
+    second: mace_attack_72x41_85
+  - first:
+      213: -2253839202557860417
+    second: mace_attack_72x41_86
+  - first:
+      213: -358014157242990483
+    second: mace_attack_72x41_87
+  - first:
+      213: 2729357216355148075
+    second: mace_attack_72x41_88
+  - first:
+      213: -3333851981375936221
+    second: mace_attack_72x41_89
+  - first:
+      213: -6796451234906112662
+    second: mace_attack_72x41_90
+  - first:
+      213: -2136510567893453454
+    second: mace_attack_72x41_91
+  - first:
+      213: -6537063220709390608
+    second: mace_attack_72x41_92
+  - first:
+      213: 6643736947568853472
+    second: mace_attack_72x41_93
+  - first:
+      213: -5851687930637804042
+    second: mace_attack_72x41_94
+  - first:
+      213: 344170590926036854
+    second: mace_attack_72x41_95
+  - first:
+      213: -5048722707674931801
+    second: mace_attack_72x41_96
+  - first:
+      213: -5917702315859419019
+    second: mace_attack_72x41_97
+  - first:
+      213: -7308520252276297454
+    second: mace_attack_72x41_98
+  - first:
+      213: -1190169843263315863
+    second: mace_attack_72x41_99
+  - first:
+      213: 2331021234647431741
+    second: mace_attack_72x41_100
+  - first:
+      213: -1120527220627168496
+    second: mace_attack_72x41_101
+  - first:
+      213: 4337326464173458414
+    second: mace_attack_72x41_102
+  - first:
+      213: -2242621507627731313
+    second: mace_attack_72x41_103
+  - first:
+      213: -4061903978343862952
+    second: mace_attack_72x41_104
+  - first:
+      213: -1045053287792326898
+    second: mace_attack_72x41_105
+  - first:
+      213: -457269635714535439
+    second: mace_attack_72x41_106
+  - first:
+      213: 4495944530356276905
+    second: mace_attack_72x41_107
+  - first:
+      213: 6280043218706905047
+    second: mace_attack_72x41_108
+  - first:
+      213: 2411526455233287401
+    second: mace_attack_72x41_109
+  - first:
+      213: 309794853568321477
+    second: mace_attack_72x41_110
+  - first:
+      213: -5479538825476100734
+    second: mace_attack_72x41_111
+  - first:
+      213: -8762331579775252784
+    second: mace_attack_72x41_112
+  - first:
+      213: 3384650434378793236
+    second: mace_attack_72x41_113
+  - first:
+      213: 6041307530974829410
+    second: mace_attack_72x41_114
+  - first:
+      213: -7378568836466596644
+    second: mace_attack_72x41_115
+  - first:
+      213: -7233583961169436171
+    second: mace_attack_72x41_116
+  - first:
+      213: 9023671951734705747
+    second: mace_attack_72x41_117
+  - first:
+      213: 4581298019494983110
+    second: mace_attack_72x41_118
+  - first:
+      213: 152227320220720840
+    second: mace_attack_72x41_119
+  - first:
+      213: 3496316208604388800
+    second: mace_attack_72x41_120
+  - first:
+      213: 1533872269065598021
+    second: mace_attack_72x41_121
+  - first:
+      213: -7139085824889037337
+    second: mace_attack_72x41_122
+  - first:
+      213: 4003606384613991999
+    second: mace_attack_72x41_123
+  - first:
+      213: 6652658486790345657
+    second: mace_attack_72x41_124
+  - first:
+      213: -2009274246534698668
+    second: mace_attack_72x41_125
+  - first:
+      213: -3562741411481906409
+    second: mace_attack_72x41_126
+  - first:
+      213: 1235029078560895334
+    second: mace_attack_72x41_127
+  - first:
+      213: 5224390657419002478
+    second: mace_attack_72x41_128
+  - first:
+      213: -7967743613690293595
+    second: mace_attack_72x41_129
+  - first:
+      213: -4038629704363258992
+    second: mace_attack_72x41_130
+  - first:
+      213: 7525834087070139740
+    second: mace_attack_72x41_131
+  - first:
+      213: -5303857994556323566
+    second: mace_attack_72x41_132
+  - first:
+      213: -314699423967771404
+    second: mace_attack_72x41_133
+  - first:
+      213: 2410290825627207429
+    second: mace_attack_72x41_134
+  - first:
+      213: 8102765020825842845
+    second: mace_attack_72x41_135
+  - first:
+      213: -8882254522846830839
+    second: mace_attack_72x41_136
+  - first:
+      213: 61754931527804109
+    second: mace_attack_72x41_137
+  - first:
+      213: 8984489659344051670
+    second: mace_attack_72x41_138
+  - first:
+      213: 785901292417878357
+    second: mace_attack_72x41_139
+  - first:
+      213: 6700669511474815406
+    second: mace_attack_72x41_140
+  - first:
+      213: -7410605109476108199
+    second: mace_attack_72x41_141
+  - first:
+      213: 4183624290854650114
+    second: mace_attack_72x41_142
+  - first:
+      213: 2986989461622634046
+    second: mace_attack_72x41_143
+  - first:
+      213: 1537473262059479681
+    second: mace_attack_72x41_144
+  - first:
+      213: 7132358282021369647
+    second: mace_attack_72x41_145
+  - first:
+      213: 5783038146417609530
+    second: mace_attack_72x41_146
+  - first:
+      213: 9045134842241336
+    second: mace_attack_72x41_147
+  - first:
+      213: -3435316164989921097
+    second: mace_attack_72x41_148
+  - first:
+      213: -5160883010664669520
+    second: mace_attack_72x41_149
+  - first:
+      213: -1935435641279854732
+    second: mace_attack_72x41_150
+  - first:
+      213: 8612954635515039920
+    second: mace_attack_72x41_151
+  - first:
+      213: 3363087372008938546
+    second: mace_attack_72x41_152
+  - first:
+      213: -8499601152893215459
+    second: mace_attack_72x41_153
+  - first:
+      213: 2909888051208107977
+    second: mace_attack_72x41_154
+  - first:
+      213: 4110551683615653575
+    second: mace_attack_72x41_155
+  - first:
+      213: -5880861668391280404
+    second: mace_attack_72x41_156
+  - first:
+      213: 7524584685850814789
+    second: mace_attack_72x41_157
+  - first:
+      213: -3245832351733020237
+    second: mace_attack_72x41_158
+  - first:
+      213: 2738886606165690590
+    second: mace_attack_72x41_159
+  - first:
+      213: 2007802886496094866
+    second: mace_attack_72x41_160
+  - first:
+      213: -7733883856236844879
+    second: mace_attack_72x41_161
+  - first:
+      213: -3886021292741093269
+    second: mace_attack_72x41_162
+  - first:
+      213: -5558813634512210239
+    second: mace_attack_72x41_163
+  - first:
+      213: 3178796175650851277
+    second: mace_attack_72x41_164
+  - first:
+      213: 9721601004034127
+    second: mace_attack_72x41_165
+  - first:
+      213: 4512175536941815452
+    second: mace_attack_72x41_166
+  - first:
+      213: 3036414674139670186
+    second: mace_attack_72x41_167
+  - first:
+      213: -8540488877861511147
+    second: mace_attack_72x41_168
+  - first:
+      213: -5014513765517407083
+    second: mace_attack_72x41_169
+  - first:
+      213: -1896972091092274598
+    second: mace_attack_72x41_170
+  - first:
+      213: 3357656620321544204
+    second: mace_attack_72x41_171
+  - first:
+      213: 6337062182183501161
+    second: mace_attack_72x41_172
+  - first:
+      213: 4408998890002281516
+    second: mace_attack_72x41_173
+  - first:
+      213: -6672007047539933418
+    second: mace_attack_72x41_174
+  - first:
+      213: -350164277547354154
+    second: mace_attack_72x41_175
+  - first:
+      213: -3076631478179151659
+    second: mace_attack_72x41_176
+  - first:
+      213: 212857447306464605
+    second: mace_attack_72x41_177
+  - first:
+      213: -1417150312278973847
+    second: mace_attack_72x41_178
+  - first:
+      213: -8393080178475675090
+    second: mace_attack_72x41_179
+  - first:
+      213: 7724601671952860121
+    second: mace_attack_72x41_180
+  - first:
+      213: 2844293157047472175
+    second: mace_attack_72x41_181
+  - first:
+      213: 5986749750831640272
+    second: mace_attack_72x41_182
+  - first:
+      213: -7562659809063776359
+    second: mace_attack_72x41_183
+  - first:
+      213: 8535264464103528790
+    second: mace_attack_72x41_184
+  - first:
+      213: -8559805172979564259
+    second: mace_attack_72x41_185
+  - first:
+      213: 4855581858792287130
+    second: mace_attack_72x41_186
+  - first:
+      213: -7121660119515387893
+    second: mace_attack_72x41_187
+  - first:
+      213: 6227077460542870823
+    second: mace_attack_72x41_188
+  - first:
+      213: 7300887916268562436
+    second: mace_attack_72x41_189
+  - first:
+      213: 1775672520745818400
+    second: mace_attack_72x41_190
+  - first:
+      213: 7445163893146249270
+    second: mace_attack_72x41_191
+  - first:
+      213: -6301706798788925933
+    second: mace_attack_72x41_192
+  - first:
+      213: -1768151001961074497
+    second: mace_attack_72x41_193
+  - first:
+      213: 1871934452284304776
+    second: mace_attack_72x41_194
+  - first:
+      213: -8821926620749059355
+    second: mace_attack_72x41_195
+  - first:
+      213: 2599796875383920562
+    second: mace_attack_72x41_196
+  - first:
+      213: -330426736050206478
+    second: mace_attack_72x41_197
+  - first:
+      213: -3206070473945854004
+    second: mace_attack_72x41_198
+  - first:
+      213: 2433264386397087336
+    second: mace_attack_72x41_199
+  - first:
+      213: -5377054129582996054
+    second: mace_attack_72x41_200
+  - first:
+      213: 3446992235425067425
+    second: mace_attack_72x41_201
+  - first:
+      213: -1496445209973227237
+    second: mace_attack_72x41_202
+  - first:
+      213: 4023268268299334161
+    second: mace_attack_72x41_203
+  - first:
+      213: -2069273543064944048
+    second: mace_attack_72x41_204
+  - first:
+      213: -6247634489568472799
+    second: mace_attack_72x41_205
+  - first:
+      213: 1829853618887465918
+    second: mace_attack_72x41_206
+  - first:
+      213: 5561963155056764044
+    second: mace_attack_72x41_207
+  - first:
+      213: 3550725509762507522
+    second: mace_attack_72x41_208
+  - first:
+      213: -2608765769095357462
+    second: mace_attack_72x41_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mace_attack_72x41_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f8bcac8d65fe320800000000000000
+      internalID: 2589383799876587333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d54d3cadb2d80260800000000000000
+      internalID: 7064127727610971609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee3bdb78804b850800000000000000
+      internalID: 6391743150241869376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170510946b9ea7660800000000000000
+      internalID: 7384471508145492081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec229533a98aac380800000000000000
+      internalID: -8950155929205529906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a2cb0ccb436d30800000000000000
+      internalID: 4423462598750676980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f99a197941baa110800000000000000
+      internalID: 1273024773808101878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b7e5e2ae4e4a90800000000000000
+      internalID: -7327833082136382527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f99d031f7d46f90800000000000000
+      internalID: -6961201693101285491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec248dc2cf1df160800000000000000
+      internalID: 7060834712318913761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b48840a07fa6b970800000000000000
+      internalID: 8770390222610924724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789956dba3a936020800000000000000
+      internalID: 2333878608984381831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0fd431524084100800000000000000
+      internalID: 92328349645271246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fa9174702d68f0800000000000000
+      internalID: -545744295347686606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd739d253bad94f80800000000000000
+      internalID: -8121719989262010404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb0150b057797380800000000000000
+      internalID: -8973009594119812156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f7ed812ac04820800000000000000
+      internalID: 2900540405490119115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5489aa8ded94357c0800000000000000
+      internalID: -4083839215628281787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c420185fda0412c0800000000000000
+      internalID: -4461929376445881152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674af49f85916f2c0800000000000000
+      internalID: -4398300116150147978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa9e81c9342de7f0800000000000000
+      internalID: -581768946381841760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c65b059921dcb10800000000000000
+      internalID: 2003277858943102086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4813a54f7db3b940800000000000000
+      internalID: 5310796739926759498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c16484cc9bb3eef0800000000000000
+      internalID: -80014086376234551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d3cbd1aab78e700800000000000000
+      internalID: 569841323435900172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efc3881459844ed0800000000000000
+      internalID: -2430666904591675423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ea8accad472b7f0800000000000000
+      internalID: -598287317401555426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d41f6175190146a0800000000000000
+      internalID: -6466877602225253167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681d744be36ec95b0800000000000000
+      internalID: -5360156299490766458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68ee2d7ff3af6ee0800000000000000
+      internalID: -1265612652555605906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6bf4382f9eb8f90800000000000000
+      internalID: -6950204372121831746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f056d90bda0ad36d0800000000000000
+      internalID: -3009072308160731889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae4654b01be84be0800000000000000
+      internalID: -1492684819495760209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e08b9c9189482380800000000000000
+      internalID: -8995859434645520157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87409a90073e59d70800000000000000
+      internalID: 9049389096608793720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b546cf32f67b5f960800000000000000
+      internalID: 7635210431249540187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2b7f1525db57760800000000000000
+      internalID: 7455072919441879730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9811598439b168b60800000000000000
+      internalID: 7747910528329388425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8f65823fcbe1e20800000000000000
+      internalID: 3323301327585868019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e97c5063a98a330800000000000000
+      internalID: 3722394648837594724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a00e4a3be5a135e0800000000000000
+      internalID: -1931580335451144023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1aa90eb33d210310800000000000000
+      internalID: 1369425461952227868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_42
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d954f029dfb10630800000000000000
+      internalID: 3891602492306512339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c35b26a42082f730800000000000000
+      internalID: 4031425511345050567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c79e12e3a27a310800000000000000
+      internalID: 1416147054176599184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7fc736d02961650800000000000000
+      internalID: 6203306122950801382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_46
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9524cb3e66cf10500800000000000000
+      internalID: 360846964003979865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b08378ac0dfb2850800000000000000
+      internalID: 6353449930143793334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42a48a5447599340800000000000000
+      internalID: 4871020423065936463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e489f73ebf22b3490800000000000000
+      internalID: -7765574667221362610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9398924435d3eb4c0800000000000000
+      internalID: -4269907968865498823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e006fa11732584240800000000000000
+      internalID: 4776157801299795982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eefa061c401127c0800000000000000
+      internalID: -4097976266957062426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a04f83a1ba95fe0800000000000000
+      internalID: -1199739696604509691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878e72f878a5e6a0800000000000000
+      internalID: -6420540456328853631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a71bbad2c5d7ad40800000000000000
+      internalID: 5595676094901196710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dcfdb8074643c80800000000000000
+      internalID: -8343933775064871641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fe7863f7c40bf60800000000000000
+      internalID: 8048016643370512218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_58
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e4ef7cfa5f02e0800000000000000
+      internalID: -2157405655963211864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4784f88d9004d30800000000000000
+      internalID: 4413538460544562363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042d49778e4c40c20800000000000000
+      internalID: 3171876540293370432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62748610082c15fa0800000000000000
+      internalID: -5813651788923386074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6794a0b4805d68680800000000000000
+      internalID: -8753074594152560266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6f545b47d0b8d70800000000000000
+      internalID: 9046339071412401904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0891013094b5236c0800000000000000
+      internalID: -4165166336222160512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c85e6881b189f7d0800000000000000
+      internalID: -2884131486855964479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd105a978c836010800000000000000
+      internalID: 1180942041338617300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6720191345c1cd0800000000000000
+      internalID: -2586099514154518840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78627c62db4bf9c60800000000000000
+      internalID: 7827173401885615751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b999c0085a9c57440800000000000000
+      internalID: 4933070679509342619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272a99c3c53f7e970800000000000000
+      internalID: 8784257175688684146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c17ef2899bdf21e0800000000000000
+      internalID: -2220314638896172599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfc23874ce98850800000000000000
+      internalID: 6379890139034614786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c413a87e699fe740800000000000000
+      internalID: 5183530395876136129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45445c50170f00980800000000000000
+      internalID: -8574589322294639532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef22621cc27a685c0800000000000000
+      internalID: -4213496590697618690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abad884bba2a119c0800000000000000
+      internalID: -3958203739129980230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b061d269ab49800a0800000000000000
+      internalID: -6915113698723031541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6128e79a38b57c8c0800000000000000
+      internalID: -3979111124716060138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_79
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f96626fd72c35290800000000000000
+      internalID: -7902759074848675341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b45741df2e4e0320800000000000000
+      internalID: 2526042408282969272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_81
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baba1cb654b592fd0800000000000000
+      internalID: -2366259775487759445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176d13b32dc46a6d0800000000000000
+      internalID: -2979609637639039375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9160cd52fdb71d330800000000000000
+      internalID: 3733901764409951769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f9674dbd310d370800000000000000
+      internalID: 8345191944400838548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110aecb02b1d60990800000000000000
+      internalID: -7420012773413838831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb560b6cf21c8b0e0800000000000000
+      internalID: -2253839202557860417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6088f45504180bf0800000000000000
+      internalID: -358014157242990483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b216ff17def90e520800000000000000
+      internalID: 2729357216355148075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_89
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ea545947cbb1d0800000000000000
+      internalID: -3333851981375936221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6df72a6c972ea1a0800000000000000
+      internalID: -6796451234906112662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_91
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b7dd45f69952e0800000000000000
+      internalID: -2136510567893453454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_92
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f68857b2afa745a0800000000000000
+      internalID: -6537063220709390608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_93
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1caf4cd8b433c50800000000000000
+      internalID: 6643736947568853472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_94
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd94e5a4d0aacea0800000000000000
+      internalID: -5851687930637804042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f5846345db6c400800000000000000
+      internalID: 344170590926036854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_96
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad569752755fe9b0800000000000000
+      internalID: -5048722707674931801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57061b8d81910eda0800000000000000
+      internalID: -5917702315859419019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211b2518d8be29a90800000000000000
+      internalID: -7308520252276297454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96068e555daab7fe0800000000000000
+      internalID: -1190169843263315863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_100
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a7d0f6673795020800000000000000
+      internalID: 2331021234647431741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013ac5dfd661370f0800000000000000
+      internalID: -1120527220627168496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_102
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3c5f36077413c30800000000000000
+      internalID: 4337326464173458414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b238ee9b90e0e0800000000000000
+      internalID: -2242621507627731313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_104
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d61134ad731a7c0800000000000000
+      internalID: -4061903978343862952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07c8c952993f71f0800000000000000
+      internalID: -1045053287792326898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa9a460b377a9f0800000000000000
+      internalID: -457269635714535439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae0fb5dabdc46e30800000000000000
+      internalID: 4495944530356276905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_108
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d73029c802372750800000000000000
+      internalID: 6280043218706905047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e413a2c886777120800000000000000
+      internalID: 2411526455233287401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c71f2827cc9c4400800000000000000
+      internalID: 309794853568321477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d29865874c4f3b0800000000000000
+      internalID: -5479538825476100734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_112
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60f4f5ad1f56680800000000000000
+      internalID: -8762331579775252784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411050e23a1b8fe20800000000000000
+      internalID: 3384650434378793236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_114
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b95a2f03907d350800000000000000
+      internalID: 6041307530974829410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_115
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd424af8cbe0a9990800000000000000
+      internalID: -7378568836466596644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_116
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1688566b52d9b90800000000000000
+      internalID: -7233583961169436171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e8dc4a4d58a3d70800000000000000
+      internalID: 9023671951734705747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5f236a64a049f30800000000000000
+      internalID: 4581298019494983110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce9dd2f0f1dc1200800000000000000
+      internalID: 152227320220720840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd1e444119658030800000000000000
+      internalID: 3496316208604388800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5443a70b3b8694510800000000000000
+      internalID: 1533872269065598021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_122
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed567a444fdcec90800000000000000
+      internalID: -7139085824889037337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_123
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3627677bcaaf8730800000000000000
+      internalID: 4003606384613991999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_124
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3502d75adf25c50800000000000000
+      internalID: 6652658486790345657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45965f6e7bf9d14e0800000000000000
+      internalID: -2009274246534698668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_126
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131c0eff899e8ec0800000000000000
+      internalID: -3562741411481906409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66176ea4764b32110800000000000000
+      internalID: 1235029078560895334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_128
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6244577f93c08840800000000000000
+      internalID: 5224390657419002478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_129
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a25a94f563ec6190800000000000000
+      internalID: -7967743613690293595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b46147ea7e3f7c0800000000000000
+      internalID: -4038629704363258992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_131
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5587568a32217860800000000000000
+      internalID: 7525834087070139740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219ca574149e466b0800000000000000
+      internalID: -5303857994556323566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_133
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4816f8a86f1abf0800000000000000
+      internalID: -314699423967771404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50784e25cb2137120800000000000000
+      internalID: 2410290825627207429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_135
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94f8cc2bddc27070800000000000000
+      internalID: 8102765020825842845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9b195294ebb480800000000000000
+      internalID: -8882254522846830839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_137
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4e7d478c56bd000800000000000000
+      internalID: 61754931527804109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd5f594eb15fac70800000000000000
+      internalID: 8984489659344051670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_139
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5598613cf0518ea00800000000000000
+      internalID: 785901292417878357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea12fb44b6f8dfc50800000000000000
+      internalID: 6700669511474815406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9585bfe7aed382990800000000000000
+      internalID: -7410605109476108199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201461270283f0a30800000000000000
+      internalID: 4183624290854650114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_143
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e363adfe61be37920800000000000000
+      internalID: 2986989461622634046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18267b439c3365510800000000000000
+      internalID: 1537473262059479681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_145
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27f2b2911a3bf260800000000000000
+      internalID: 7132358282021369647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_146
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b41c7ed8a714050800000000000000
+      internalID: 5783038146417609530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_147
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a7319082202000800000000000000
+      internalID: 9045134842241336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_148
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b85e96262e4350d0800000000000000
+      internalID: -3435316164989921097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_149
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bedbfdce3cd068b0800000000000000
+      internalID: -5160883010664669520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_150
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47742e3e983f325e0800000000000000
+      internalID: -1935435641279854732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_151
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b09d6c8b9c578770800000000000000
+      internalID: 8612954635515039920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cd13d75261cae20800000000000000
+      internalID: 3363087372008938546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_153
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d9c45c8c95b0a80800000000000000
+      internalID: -8499601152893215459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7b96ce3cff16820800000000000000
+      internalID: 2909888051208107977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_155
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7bc44afc9b0930800000000000000
+      internalID: 4110551683615653575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0a352887bf26ea0800000000000000
+      internalID: -5880861668391280404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_157
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5496b72a7e1bc6860800000000000000
+      internalID: 7524584685850814789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b98b7a5cac74f2d0800000000000000
+      internalID: -3245832351733020237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_159
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c4986bda720620800000000000000
+      internalID: 2738886606165690590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a8a9466162ddb10800000000000000
+      internalID: 2007802886496094866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_161
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8efdecb99bba490800000000000000
+      internalID: -7733883856236844879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_162
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6810982934121ac0800000000000000
+      internalID: -3886021292741093269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_163
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c63d4683702bd2b0800000000000000
+      internalID: -5558813634512210239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_164
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc90a0f974a5d1c20800000000000000
+      internalID: 3178796175650851277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f485e7e9eb9822000800000000000000
+      internalID: 9721601004034127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_166
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96df9b8eb77e9e30800000000000000
+      internalID: 4512175536941815452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e0eafe03832a20800000000000000
+      internalID: 3036414674139670186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_168
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510e3e27d961a7980800000000000000
+      internalID: -8540488877861511147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c470d5c4ed86ab0800000000000000
+      internalID: -5014513765517407083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_170
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a527d990fe99ca5e0800000000000000
+      internalID: -1896972091092274598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_171
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08110418eac89e20800000000000000
+      internalID: 3357656620321544204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_172
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dfb90ca74c1f750800000000000000
+      internalID: 6337062182183501161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_173
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c247dad6129ef2d30800000000000000
+      internalID: 4408998890002281516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_174
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fba78a0f44863a0800000000000000
+      internalID: -6672007047539933418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d732cfd177f32bf0800000000000000
+      internalID: -350164277547354154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_176
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0c856a8fb9d45d0800000000000000
+      internalID: -3076631478179151659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d8f7678b834f200800000000000000
+      internalID: 212857447306464605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_178
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9622743ac45455ce0800000000000000
+      internalID: -1417150312278973847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22d59ecb0ac58b80800000000000000
+      internalID: -8393080178475675090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_180
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d383204b4c433b60800000000000000
+      internalID: 7724601671952860121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_181
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2093ee7e85f87720800000000000000
+      internalID: 2844293157047472175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_182
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6a71ed25351350800000000000000
+      internalID: 5986749750831640272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_183
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f41abe8f80c0790800000000000000
+      internalID: -7562659809063776359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_184
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659d7eeeec9537670800000000000000
+      internalID: 8535264464103528790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_185
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1180060c86753980800000000000000
+      internalID: -8559805172979564259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_186
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b252f79fd726340800000000000000
+      internalID: 4855581858792287130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08283d7ad7ca2d90800000000000000
+      internalID: -7121660119515387893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_188
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725df7835f50b6650800000000000000
+      internalID: 6227077460542870823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408212ac0e6f15560800000000000000
+      internalID: 7300887916268562436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_190
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291a7cefb474a810800000000000000
+      internalID: 1775672520745818400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638eb895d19825760800000000000000
+      internalID: 7445163893146249270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_192
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316a58bed07db88a0800000000000000
+      internalID: -6301706798788925933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_193
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0fbd228044677e0800000000000000
+      internalID: -1768151001961074497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_194
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88da83767727af910800000000000000
+      internalID: 1871934452284304776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_195
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaa0bf9a78329580800000000000000
+      internalID: -8821926620749059355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_196
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7dd6ddb75541420800000000000000
+      internalID: 2599796875383920562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_197
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f88f6d52a61a6bf0800000000000000
+      internalID: -330426736050206478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_198
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfc693f3efb183d0800000000000000
+      internalID: -3206070473945854004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_199
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866aec34111b4c120800000000000000
+      internalID: 2433264386397087336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5882c02cdd065b0800000000000000
+      internalID: -5377054129582996054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a17a08dc2d26df20800000000000000
+      internalID: 3446992235425067425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1106b1920f8b3be0800000000000000
+      internalID: -1496445209973227237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_203
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11235108c2585d730800000000000000
+      internalID: 4023268268299334161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05200821da67843e0800000000000000
+      internalID: -2069273543064944048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_205
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121daca7881fb49a0800000000000000
+      internalID: -6247634489568472799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_206
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb10c0eb22f46910800000000000000
+      internalID: 1829853618887465918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_207
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8428fe5500103d40800000000000000
+      internalID: 5561963155056764044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_208
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203ef40e906b64130800000000000000
+      internalID: 3550725509762507522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace_attack_72x41_209
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb5fd6da5dcbcbd0800000000000000
+      internalID: -2608765769095357462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mace_attack_72x41_0: 2589383799876587333
+      mace_attack_72x41_1: 7064127727610971609
+      mace_attack_72x41_10: 8770390222610924724
+      mace_attack_72x41_100: 2331021234647431741
+      mace_attack_72x41_101: -1120527220627168496
+      mace_attack_72x41_102: 4337326464173458414
+      mace_attack_72x41_103: -2242621507627731313
+      mace_attack_72x41_104: -4061903978343862952
+      mace_attack_72x41_105: -1045053287792326898
+      mace_attack_72x41_106: -457269635714535439
+      mace_attack_72x41_107: 4495944530356276905
+      mace_attack_72x41_108: 6280043218706905047
+      mace_attack_72x41_109: 2411526455233287401
+      mace_attack_72x41_11: 2333878608984381831
+      mace_attack_72x41_110: 309794853568321477
+      mace_attack_72x41_111: -5479538825476100734
+      mace_attack_72x41_112: -8762331579775252784
+      mace_attack_72x41_113: 3384650434378793236
+      mace_attack_72x41_114: 6041307530974829410
+      mace_attack_72x41_115: -7378568836466596644
+      mace_attack_72x41_116: -7233583961169436171
+      mace_attack_72x41_117: 9023671951734705747
+      mace_attack_72x41_118: 4581298019494983110
+      mace_attack_72x41_119: 152227320220720840
+      mace_attack_72x41_12: 92328349645271246
+      mace_attack_72x41_120: 3496316208604388800
+      mace_attack_72x41_121: 1533872269065598021
+      mace_attack_72x41_122: -7139085824889037337
+      mace_attack_72x41_123: 4003606384613991999
+      mace_attack_72x41_124: 6652658486790345657
+      mace_attack_72x41_125: -2009274246534698668
+      mace_attack_72x41_126: -3562741411481906409
+      mace_attack_72x41_127: 1235029078560895334
+      mace_attack_72x41_128: 5224390657419002478
+      mace_attack_72x41_129: -7967743613690293595
+      mace_attack_72x41_13: -545744295347686606
+      mace_attack_72x41_130: -4038629704363258992
+      mace_attack_72x41_131: 7525834087070139740
+      mace_attack_72x41_132: -5303857994556323566
+      mace_attack_72x41_133: -314699423967771404
+      mace_attack_72x41_134: 2410290825627207429
+      mace_attack_72x41_135: 8102765020825842845
+      mace_attack_72x41_136: -8882254522846830839
+      mace_attack_72x41_137: 61754931527804109
+      mace_attack_72x41_138: 8984489659344051670
+      mace_attack_72x41_139: 785901292417878357
+      mace_attack_72x41_14: -8121719989262010404
+      mace_attack_72x41_140: 6700669511474815406
+      mace_attack_72x41_141: -7410605109476108199
+      mace_attack_72x41_142: 4183624290854650114
+      mace_attack_72x41_143: 2986989461622634046
+      mace_attack_72x41_144: 1537473262059479681
+      mace_attack_72x41_145: 7132358282021369647
+      mace_attack_72x41_146: 5783038146417609530
+      mace_attack_72x41_147: 9045134842241336
+      mace_attack_72x41_148: -3435316164989921097
+      mace_attack_72x41_149: -5160883010664669520
+      mace_attack_72x41_15: -8973009594119812156
+      mace_attack_72x41_150: -1935435641279854732
+      mace_attack_72x41_151: 8612954635515039920
+      mace_attack_72x41_152: 3363087372008938546
+      mace_attack_72x41_153: -8499601152893215459
+      mace_attack_72x41_154: 2909888051208107977
+      mace_attack_72x41_155: 4110551683615653575
+      mace_attack_72x41_156: -5880861668391280404
+      mace_attack_72x41_157: 7524584685850814789
+      mace_attack_72x41_158: -3245832351733020237
+      mace_attack_72x41_159: 2738886606165690590
+      mace_attack_72x41_16: 2900540405490119115
+      mace_attack_72x41_160: 2007802886496094866
+      mace_attack_72x41_161: -7733883856236844879
+      mace_attack_72x41_162: -3886021292741093269
+      mace_attack_72x41_163: -5558813634512210239
+      mace_attack_72x41_164: 3178796175650851277
+      mace_attack_72x41_165: 9721601004034127
+      mace_attack_72x41_166: 4512175536941815452
+      mace_attack_72x41_167: 3036414674139670186
+      mace_attack_72x41_168: -8540488877861511147
+      mace_attack_72x41_169: -5014513765517407083
+      mace_attack_72x41_17: -4083839215628281787
+      mace_attack_72x41_170: -1896972091092274598
+      mace_attack_72x41_171: 3357656620321544204
+      mace_attack_72x41_172: 6337062182183501161
+      mace_attack_72x41_173: 4408998890002281516
+      mace_attack_72x41_174: -6672007047539933418
+      mace_attack_72x41_175: -350164277547354154
+      mace_attack_72x41_176: -3076631478179151659
+      mace_attack_72x41_177: 212857447306464605
+      mace_attack_72x41_178: -1417150312278973847
+      mace_attack_72x41_179: -8393080178475675090
+      mace_attack_72x41_18: -4461929376445881152
+      mace_attack_72x41_180: 7724601671952860121
+      mace_attack_72x41_181: 2844293157047472175
+      mace_attack_72x41_182: 5986749750831640272
+      mace_attack_72x41_183: -7562659809063776359
+      mace_attack_72x41_184: 8535264464103528790
+      mace_attack_72x41_185: -8559805172979564259
+      mace_attack_72x41_186: 4855581858792287130
+      mace_attack_72x41_187: -7121660119515387893
+      mace_attack_72x41_188: 6227077460542870823
+      mace_attack_72x41_189: 7300887916268562436
+      mace_attack_72x41_19: -4398300116150147978
+      mace_attack_72x41_190: 1775672520745818400
+      mace_attack_72x41_191: 7445163893146249270
+      mace_attack_72x41_192: -6301706798788925933
+      mace_attack_72x41_193: -1768151001961074497
+      mace_attack_72x41_194: 1871934452284304776
+      mace_attack_72x41_195: -8821926620749059355
+      mace_attack_72x41_196: 2599796875383920562
+      mace_attack_72x41_197: -330426736050206478
+      mace_attack_72x41_198: -3206070473945854004
+      mace_attack_72x41_199: 2433264386397087336
+      mace_attack_72x41_2: 6391743150241869376
+      mace_attack_72x41_20: -581768946381841760
+      mace_attack_72x41_200: -5377054129582996054
+      mace_attack_72x41_201: 3446992235425067425
+      mace_attack_72x41_202: -1496445209973227237
+      mace_attack_72x41_203: 4023268268299334161
+      mace_attack_72x41_204: -2069273543064944048
+      mace_attack_72x41_205: -6247634489568472799
+      mace_attack_72x41_206: 1829853618887465918
+      mace_attack_72x41_207: 5561963155056764044
+      mace_attack_72x41_208: 3550725509762507522
+      mace_attack_72x41_209: -2608765769095357462
+      mace_attack_72x41_21: 2003277858943102086
+      mace_attack_72x41_22: 5310796739926759498
+      mace_attack_72x41_23: -80014086376234551
+      mace_attack_72x41_24: 569841323435900172
+      mace_attack_72x41_25: -2430666904591675423
+      mace_attack_72x41_26: -598287317401555426
+      mace_attack_72x41_27: -6466877602225253167
+      mace_attack_72x41_28: -5360156299490766458
+      mace_attack_72x41_29: -1265612652555605906
+      mace_attack_72x41_3: 7384471508145492081
+      mace_attack_72x41_30: -6950204372121831746
+      mace_attack_72x41_31: -3009072308160731889
+      mace_attack_72x41_32: -1492684819495760209
+      mace_attack_72x41_33: -8995859434645520157
+      mace_attack_72x41_34: 9049389096608793720
+      mace_attack_72x41_35: 7635210431249540187
+      mace_attack_72x41_36: 7455072919441879730
+      mace_attack_72x41_37: 7747910528329388425
+      mace_attack_72x41_38: 3323301327585868019
+      mace_attack_72x41_39: 3722394648837594724
+      mace_attack_72x41_4: -8950155929205529906
+      mace_attack_72x41_40: -1931580335451144023
+      mace_attack_72x41_41: 1369425461952227868
+      mace_attack_72x41_42: 3891602492306512339
+      mace_attack_72x41_43: 4031425511345050567
+      mace_attack_72x41_44: 1416147054176599184
+      mace_attack_72x41_45: 6203306122950801382
+      mace_attack_72x41_46: 360846964003979865
+      mace_attack_72x41_47: 6353449930143793334
+      mace_attack_72x41_48: 4871020423065936463
+      mace_attack_72x41_49: -7765574667221362610
+      mace_attack_72x41_5: 4423462598750676980
+      mace_attack_72x41_50: -4269907968865498823
+      mace_attack_72x41_51: 4776157801299795982
+      mace_attack_72x41_52: -4097976266957062426
+      mace_attack_72x41_53: -1199739696604509691
+      mace_attack_72x41_54: -6420540456328853631
+      mace_attack_72x41_55: 5595676094901196710
+      mace_attack_72x41_56: -8343933775064871641
+      mace_attack_72x41_57: 8048016643370512218
+      mace_attack_72x41_58: -2157405655963211864
+      mace_attack_72x41_59: 4413538460544562363
+      mace_attack_72x41_6: 1273024773808101878
+      mace_attack_72x41_60: 3171876540293370432
+      mace_attack_72x41_61: -5813651788923386074
+      mace_attack_72x41_62: -8753074594152560266
+      mace_attack_72x41_63: 9046339071412401904
+      mace_attack_72x41_64: -4165166336222160512
+      mace_attack_72x41_65: -2884131486855964479
+      mace_attack_72x41_66: 1180942041338617300
+      mace_attack_72x41_67: -2586099514154518840
+      mace_attack_72x41_68: 7827173401885615751
+      mace_attack_72x41_69: 4933070679509342619
+      mace_attack_72x41_7: -7327833082136382527
+      mace_attack_72x41_70: 8784257175688684146
+      mace_attack_72x41_71: -2220314638896172599
+      mace_attack_72x41_72: 6379890139034614786
+      mace_attack_72x41_73: 5183530395876136129
+      mace_attack_72x41_74: -8574589322294639532
+      mace_attack_72x41_75: -4213496590697618690
+      mace_attack_72x41_76: -3958203739129980230
+      mace_attack_72x41_77: -6915113698723031541
+      mace_attack_72x41_78: -3979111124716060138
+      mace_attack_72x41_79: -7902759074848675341
+      mace_attack_72x41_8: -6961201693101285491
+      mace_attack_72x41_80: 2526042408282969272
+      mace_attack_72x41_81: -2366259775487759445
+      mace_attack_72x41_82: -2979609637639039375
+      mace_attack_72x41_83: 3733901764409951769
+      mace_attack_72x41_84: 8345191944400838548
+      mace_attack_72x41_85: -7420012773413838831
+      mace_attack_72x41_86: -2253839202557860417
+      mace_attack_72x41_87: -358014157242990483
+      mace_attack_72x41_88: 2729357216355148075
+      mace_attack_72x41_89: -3333851981375936221
+      mace_attack_72x41_9: 7060834712318913761
+      mace_attack_72x41_90: -6796451234906112662
+      mace_attack_72x41_91: -2136510567893453454
+      mace_attack_72x41_92: -6537063220709390608
+      mace_attack_72x41_93: 6643736947568853472
+      mace_attack_72x41_94: -5851687930637804042
+      mace_attack_72x41_95: 344170590926036854
+      mace_attack_72x41_96: -5048722707674931801
+      mace_attack_72x41_97: -5917702315859419019
+      mace_attack_72x41_98: -7308520252276297454
+      mace_attack_72x41_99: -1190169843263315863
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

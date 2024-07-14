@@ -1,0 +1,7014 @@
+fileFormatVersion: 2
+guid: dae75901d8de11040b7e476cbbd0df84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8847265197723658498
+    second: pike_attack_75x57_0
+  - first:
+      213: -2373216911754990942
+    second: pike_attack_75x57_1
+  - first:
+      213: 8918680920700345101
+    second: pike_attack_75x57_2
+  - first:
+      213: 2667768377750891190
+    second: pike_attack_75x57_3
+  - first:
+      213: -8063825790008611472
+    second: pike_attack_75x57_4
+  - first:
+      213: 6555712163454718223
+    second: pike_attack_75x57_5
+  - first:
+      213: 8618945429604776075
+    second: pike_attack_75x57_6
+  - first:
+      213: 3924996227636509894
+    second: pike_attack_75x57_7
+  - first:
+      213: -1851256611511386643
+    second: pike_attack_75x57_8
+  - first:
+      213: -6898374223769743010
+    second: pike_attack_75x57_9
+  - first:
+      213: 5638040916271563831
+    second: pike_attack_75x57_10
+  - first:
+      213: -7856761146756720417
+    second: pike_attack_75x57_11
+  - first:
+      213: -6623189976008550574
+    second: pike_attack_75x57_12
+  - first:
+      213: -1327690808804324193
+    second: pike_attack_75x57_13
+  - first:
+      213: -8896482145538505050
+    second: pike_attack_75x57_14
+  - first:
+      213: -214769858206269731
+    second: pike_attack_75x57_15
+  - first:
+      213: 8827149372614631483
+    second: pike_attack_75x57_16
+  - first:
+      213: 4176942310616960332
+    second: pike_attack_75x57_17
+  - first:
+      213: -77079041924371301
+    second: pike_attack_75x57_18
+  - first:
+      213: 8233171642345814380
+    second: pike_attack_75x57_19
+  - first:
+      213: 2983252424828781856
+    second: pike_attack_75x57_20
+  - first:
+      213: 5377401252641444620
+    second: pike_attack_75x57_21
+  - first:
+      213: -5525824231017561194
+    second: pike_attack_75x57_22
+  - first:
+      213: 7306317176501060786
+    second: pike_attack_75x57_23
+  - first:
+      213: -6465391982574269676
+    second: pike_attack_75x57_24
+  - first:
+      213: -1639340455313739090
+    second: pike_attack_75x57_25
+  - first:
+      213: 7702537548665081837
+    second: pike_attack_75x57_26
+  - first:
+      213: -3625628093699223394
+    second: pike_attack_75x57_27
+  - first:
+      213: 277631987773046152
+    second: pike_attack_75x57_28
+  - first:
+      213: -4235789827950944149
+    second: pike_attack_75x57_29
+  - first:
+      213: -8743638420888070538
+    second: pike_attack_75x57_30
+  - first:
+      213: -4755425495837264135
+    second: pike_attack_75x57_31
+  - first:
+      213: 4749125139423178322
+    second: pike_attack_75x57_32
+  - first:
+      213: -7231832856127518221
+    second: pike_attack_75x57_33
+  - first:
+      213: 2966443893150936015
+    second: pike_attack_75x57_34
+  - first:
+      213: 2597969418987112188
+    second: pike_attack_75x57_35
+  - first:
+      213: -2656612835492342586
+    second: pike_attack_75x57_36
+  - first:
+      213: 1399295752164662974
+    second: pike_attack_75x57_37
+  - first:
+      213: 6329041855764703468
+    second: pike_attack_75x57_38
+  - first:
+      213: 2123314368483677283
+    second: pike_attack_75x57_39
+  - first:
+      213: 566175868794003026
+    second: pike_attack_75x57_40
+  - first:
+      213: 5246774186892781481
+    second: pike_attack_75x57_41
+  - first:
+      213: 2318377585336582281
+    second: pike_attack_75x57_42
+  - first:
+      213: 109294433297226552
+    second: pike_attack_75x57_43
+  - first:
+      213: 3050576991500511719
+    second: pike_attack_75x57_44
+  - first:
+      213: -3313093927619278886
+    second: pike_attack_75x57_45
+  - first:
+      213: -754612378532800325
+    second: pike_attack_75x57_46
+  - first:
+      213: 4746594965739604650
+    second: pike_attack_75x57_47
+  - first:
+      213: 2553122878816384150
+    second: pike_attack_75x57_48
+  - first:
+      213: -7910692296713228799
+    second: pike_attack_75x57_49
+  - first:
+      213: -4876024103635809465
+    second: pike_attack_75x57_50
+  - first:
+      213: 3053593647311475117
+    second: pike_attack_75x57_51
+  - first:
+      213: -1081673845717971714
+    second: pike_attack_75x57_52
+  - first:
+      213: 4508922059276206192
+    second: pike_attack_75x57_53
+  - first:
+      213: 2446610416776636372
+    second: pike_attack_75x57_54
+  - first:
+      213: -1836205642373902370
+    second: pike_attack_75x57_55
+  - first:
+      213: 3977441712702605109
+    second: pike_attack_75x57_56
+  - first:
+      213: -4001923817984265275
+    second: pike_attack_75x57_57
+  - first:
+      213: -8571904331191706123
+    second: pike_attack_75x57_58
+  - first:
+      213: -1939106612711314051
+    second: pike_attack_75x57_59
+  - first:
+      213: -8595520741104689259
+    second: pike_attack_75x57_60
+  - first:
+      213: -6454915365658534668
+    second: pike_attack_75x57_61
+  - first:
+      213: 6082296123751674762
+    second: pike_attack_75x57_62
+  - first:
+      213: 6845642691977195875
+    second: pike_attack_75x57_63
+  - first:
+      213: -6356054649058445736
+    second: pike_attack_75x57_64
+  - first:
+      213: 3796597501372575422
+    second: pike_attack_75x57_65
+  - first:
+      213: 6795687702822381446
+    second: pike_attack_75x57_66
+  - first:
+      213: 1716742306169503515
+    second: pike_attack_75x57_67
+  - first:
+      213: -6178413141883569979
+    second: pike_attack_75x57_68
+  - first:
+      213: -401179605922823116
+    second: pike_attack_75x57_69
+  - first:
+      213: 926755411027655800
+    second: pike_attack_75x57_70
+  - first:
+      213: -399481353766258786
+    second: pike_attack_75x57_71
+  - first:
+      213: -9029928064779864501
+    second: pike_attack_75x57_72
+  - first:
+      213: 1670883843534090111
+    second: pike_attack_75x57_73
+  - first:
+      213: 8541990027274106283
+    second: pike_attack_75x57_74
+  - first:
+      213: -7964612737683792388
+    second: pike_attack_75x57_75
+  - first:
+      213: -9199274202372021445
+    second: pike_attack_75x57_76
+  - first:
+      213: -5044221838133174113
+    second: pike_attack_75x57_77
+  - first:
+      213: -6433774306671331160
+    second: pike_attack_75x57_78
+  - first:
+      213: 1434024751735756478
+    second: pike_attack_75x57_79
+  - first:
+      213: 600788333961003141
+    second: pike_attack_75x57_80
+  - first:
+      213: 1668578170663858194
+    second: pike_attack_75x57_81
+  - first:
+      213: 1994456596974727087
+    second: pike_attack_75x57_82
+  - first:
+      213: -1409084332189214947
+    second: pike_attack_75x57_83
+  - first:
+      213: -2785887274020458238
+    second: pike_attack_75x57_84
+  - first:
+      213: 7561788343333589223
+    second: pike_attack_75x57_85
+  - first:
+      213: -5532175467559554507
+    second: pike_attack_75x57_86
+  - first:
+      213: -555531043592878722
+    second: pike_attack_75x57_87
+  - first:
+      213: -6523103748822604601
+    second: pike_attack_75x57_88
+  - first:
+      213: 8860018892106565158
+    second: pike_attack_75x57_89
+  - first:
+      213: -1782991068190990884
+    second: pike_attack_75x57_90
+  - first:
+      213: -2786336988676100385
+    second: pike_attack_75x57_91
+  - first:
+      213: 6973178675584269334
+    second: pike_attack_75x57_92
+  - first:
+      213: 8508554321427223111
+    second: pike_attack_75x57_93
+  - first:
+      213: 5924816343847084269
+    second: pike_attack_75x57_94
+  - first:
+      213: -5063629015802145086
+    second: pike_attack_75x57_95
+  - first:
+      213: -8404274034571641335
+    second: pike_attack_75x57_96
+  - first:
+      213: 5640940282788482140
+    second: pike_attack_75x57_97
+  - first:
+      213: 5292467877700264659
+    second: pike_attack_75x57_98
+  - first:
+      213: -3753523183262484902
+    second: pike_attack_75x57_99
+  - first:
+      213: -5581273349071740545
+    second: pike_attack_75x57_100
+  - first:
+      213: 527378420335424921
+    second: pike_attack_75x57_101
+  - first:
+      213: -2793376706781514962
+    second: pike_attack_75x57_102
+  - first:
+      213: 1401460943782838764
+    second: pike_attack_75x57_103
+  - first:
+      213: 1773336300704063728
+    second: pike_attack_75x57_104
+  - first:
+      213: -7697128970712538697
+    second: pike_attack_75x57_105
+  - first:
+      213: 6808899511604151177
+    second: pike_attack_75x57_106
+  - first:
+      213: -956335289248127037
+    second: pike_attack_75x57_107
+  - first:
+      213: 316199866946005674
+    second: pike_attack_75x57_108
+  - first:
+      213: -7064570807034757983
+    second: pike_attack_75x57_109
+  - first:
+      213: 2859612875950568009
+    second: pike_attack_75x57_110
+  - first:
+      213: -7265435870010400969
+    second: pike_attack_75x57_111
+  - first:
+      213: -7353366970595620732
+    second: pike_attack_75x57_112
+  - first:
+      213: -3628420972195197001
+    second: pike_attack_75x57_113
+  - first:
+      213: 3985437668449022127
+    second: pike_attack_75x57_114
+  - first:
+      213: -9215679896868552252
+    second: pike_attack_75x57_115
+  - first:
+      213: 3664942407859308859
+    second: pike_attack_75x57_116
+  - first:
+      213: 6443930496002135806
+    second: pike_attack_75x57_117
+  - first:
+      213: 4993231678243878047
+    second: pike_attack_75x57_118
+  - first:
+      213: 9014510833915438344
+    second: pike_attack_75x57_119
+  - first:
+      213: 7097840885928440437
+    second: pike_attack_75x57_120
+  - first:
+      213: -211565589712091122
+    second: pike_attack_75x57_121
+  - first:
+      213: -1454968023631857207
+    second: pike_attack_75x57_122
+  - first:
+      213: -6465585007610997347
+    second: pike_attack_75x57_123
+  - first:
+      213: -7455116979405861767
+    second: pike_attack_75x57_124
+  - first:
+      213: -6295855551460810528
+    second: pike_attack_75x57_125
+  - first:
+      213: -8719554946392980462
+    second: pike_attack_75x57_126
+  - first:
+      213: -7125503604397671945
+    second: pike_attack_75x57_127
+  - first:
+      213: -8889063392718426456
+    second: pike_attack_75x57_128
+  - first:
+      213: -5384526243244982288
+    second: pike_attack_75x57_129
+  - first:
+      213: -3649054675707790730
+    second: pike_attack_75x57_130
+  - first:
+      213: 8261438303862320886
+    second: pike_attack_75x57_131
+  - first:
+      213: -3620190411887369598
+    second: pike_attack_75x57_132
+  - first:
+      213: -6456993769933297790
+    second: pike_attack_75x57_133
+  - first:
+      213: 4263046567357428643
+    second: pike_attack_75x57_134
+  - first:
+      213: 5695060375317099731
+    second: pike_attack_75x57_135
+  - first:
+      213: 7811211183824543416
+    second: pike_attack_75x57_136
+  - first:
+      213: -97931719829862622
+    second: pike_attack_75x57_137
+  - first:
+      213: 7629091845586454122
+    second: pike_attack_75x57_138
+  - first:
+      213: 7328786330229230295
+    second: pike_attack_75x57_139
+  - first:
+      213: 725665748853664934
+    second: pike_attack_75x57_140
+  - first:
+      213: -5063198652219615552
+    second: pike_attack_75x57_141
+  - first:
+      213: -8295651047159923383
+    second: pike_attack_75x57_142
+  - first:
+      213: -5783443162333007772
+    second: pike_attack_75x57_143
+  - first:
+      213: -1288695371373557504
+    second: pike_attack_75x57_144
+  - first:
+      213: -5452125959914161741
+    second: pike_attack_75x57_145
+  - first:
+      213: -6670969309125324484
+    second: pike_attack_75x57_146
+  - first:
+      213: 6478177650835790115
+    second: pike_attack_75x57_147
+  - first:
+      213: 1694371579796107518
+    second: pike_attack_75x57_148
+  - first:
+      213: -5771716278958010058
+    second: pike_attack_75x57_149
+  - first:
+      213: -2302312007221012652
+    second: pike_attack_75x57_150
+  - first:
+      213: 1194455962394839109
+    second: pike_attack_75x57_151
+  - first:
+      213: 5852001124922110965
+    second: pike_attack_75x57_152
+  - first:
+      213: -8404243215014421378
+    second: pike_attack_75x57_153
+  - first:
+      213: -7585718582846473751
+    second: pike_attack_75x57_154
+  - first:
+      213: -907288054666219425
+    second: pike_attack_75x57_155
+  - first:
+      213: -3675327935777696085
+    second: pike_attack_75x57_156
+  - first:
+      213: -4000107937091833137
+    second: pike_attack_75x57_157
+  - first:
+      213: 1052577376427702323
+    second: pike_attack_75x57_158
+  - first:
+      213: 1878538746510630026
+    second: pike_attack_75x57_159
+  - first:
+      213: -2594287110495373641
+    second: pike_attack_75x57_160
+  - first:
+      213: 1755985343205732658
+    second: pike_attack_75x57_161
+  - first:
+      213: -3940653191168697838
+    second: pike_attack_75x57_162
+  - first:
+      213: -2435624173498473282
+    second: pike_attack_75x57_163
+  - first:
+      213: 7809289452979458658
+    second: pike_attack_75x57_164
+  - first:
+      213: 4849493074393109380
+    second: pike_attack_75x57_165
+  - first:
+      213: -6498533966032686309
+    second: pike_attack_75x57_166
+  - first:
+      213: -8646836471931905159
+    second: pike_attack_75x57_167
+  - first:
+      213: -5100756906597996386
+    second: pike_attack_75x57_168
+  - first:
+      213: 434845537150443861
+    second: pike_attack_75x57_169
+  - first:
+      213: -4147151646136377940
+    second: pike_attack_75x57_170
+  - first:
+      213: 3794527303912933407
+    second: pike_attack_75x57_171
+  - first:
+      213: 2685298398119742712
+    second: pike_attack_75x57_172
+  - first:
+      213: -135924445753854266
+    second: pike_attack_75x57_173
+  - first:
+      213: 8422341426058880256
+    second: pike_attack_75x57_174
+  - first:
+      213: -4938961988806733078
+    second: pike_attack_75x57_175
+  - first:
+      213: 3461614109856347573
+    second: pike_attack_75x57_176
+  - first:
+      213: -1458227654638041620
+    second: pike_attack_75x57_177
+  - first:
+      213: -4321907321125398388
+    second: pike_attack_75x57_178
+  - first:
+      213: 9006850789443386579
+    second: pike_attack_75x57_179
+  - first:
+      213: 2264517245821876382
+    second: pike_attack_75x57_180
+  - first:
+      213: -8808571643559288009
+    second: pike_attack_75x57_181
+  - first:
+      213: 4041397541446828297
+    second: pike_attack_75x57_182
+  - first:
+      213: 5367750923303806489
+    second: pike_attack_75x57_183
+  - first:
+      213: -7269983104283171125
+    second: pike_attack_75x57_184
+  - first:
+      213: -5297059263560346115
+    second: pike_attack_75x57_185
+  - first:
+      213: -1349749160609128170
+    second: pike_attack_75x57_186
+  - first:
+      213: -5507719775112827583
+    second: pike_attack_75x57_187
+  - first:
+      213: 1038792724161276289
+    second: pike_attack_75x57_188
+  - first:
+      213: 363910103979700740
+    second: pike_attack_75x57_189
+  - first:
+      213: 2842520065554429720
+    second: pike_attack_75x57_190
+  - first:
+      213: 7621581388666148659
+    second: pike_attack_75x57_191
+  - first:
+      213: -7656282162937463709
+    second: pike_attack_75x57_192
+  - first:
+      213: -7453245548951350117
+    second: pike_attack_75x57_193
+  - first:
+      213: 5034363310618515129
+    second: pike_attack_75x57_194
+  - first:
+      213: -1231069220371074312
+    second: pike_attack_75x57_195
+  - first:
+      213: 5856239544695675911
+    second: pike_attack_75x57_196
+  - first:
+      213: 8532782816416334085
+    second: pike_attack_75x57_197
+  - first:
+      213: 8832891068319482766
+    second: pike_attack_75x57_198
+  - first:
+      213: 146584947010689601
+    second: pike_attack_75x57_199
+  - first:
+      213: -8487921877304540975
+    second: pike_attack_75x57_200
+  - first:
+      213: -5083277193283403906
+    second: pike_attack_75x57_201
+  - first:
+      213: -6856857972426644644
+    second: pike_attack_75x57_202
+  - first:
+      213: -8372802915067368289
+    second: pike_attack_75x57_203
+  - first:
+      213: -4698405147789138263
+    second: pike_attack_75x57_204
+  - first:
+      213: 2680285871590866363
+    second: pike_attack_75x57_205
+  - first:
+      213: 943678505818912444
+    second: pike_attack_75x57_206
+  - first:
+      213: -5909373153705433698
+    second: pike_attack_75x57_207
+  - first:
+      213: -2129255286169684988
+    second: pike_attack_75x57_208
+  - first:
+      213: 5864810971115395378
+    second: pike_attack_75x57_209
+  - first:
+      213: 5211323009528378605
+    second: pike_attack_75x57_210
+  - first:
+      213: -6658252605814304291
+    second: pike_attack_75x57_211
+  - first:
+      213: -7718698945765338479
+    second: pike_attack_75x57_212
+  - first:
+      213: -3693055826367033047
+    second: pike_attack_75x57_213
+  - first:
+      213: -6916795068668110405
+    second: pike_attack_75x57_214
+  - first:
+      213: -1109851417314352139
+    second: pike_attack_75x57_215
+  - first:
+      213: 2413840979649626467
+    second: pike_attack_75x57_216
+  - first:
+      213: -1080581790796634638
+    second: pike_attack_75x57_217
+  - first:
+      213: -1755261999435235137
+    second: pike_attack_75x57_218
+  - first:
+      213: -9055797642199459090
+    second: pike_attack_75x57_219
+  - first:
+      213: 7832548400188697162
+    second: pike_attack_75x57_220
+  - first:
+      213: -2968285744718024569
+    second: pike_attack_75x57_221
+  - first:
+      213: -7397171232901601501
+    second: pike_attack_75x57_222
+  - first:
+      213: 2008906479978200500
+    second: pike_attack_75x57_223
+  - first:
+      213: 3996816991098405703
+    second: pike_attack_75x57_224
+  - first:
+      213: 1842124187473710975
+    second: pike_attack_75x57_225
+  - first:
+      213: 1758985931768156963
+    second: pike_attack_75x57_226
+  - first:
+      213: 8716722206899655551
+    second: pike_attack_75x57_227
+  - first:
+      213: -8085430758912617861
+    second: pike_attack_75x57_228
+  - first:
+      213: 6361087622778619873
+    second: pike_attack_75x57_229
+  - first:
+      213: 219860676380187263
+    second: pike_attack_75x57_230
+  - first:
+      213: 1427470837508864353
+    second: pike_attack_75x57_231
+  - first:
+      213: 264939391966273569
+    second: pike_attack_75x57_232
+  - first:
+      213: -2258440392877013109
+    second: pike_attack_75x57_233
+  - first:
+      213: 7433437527608380873
+    second: pike_attack_75x57_234
+  - first:
+      213: 9214749944346134576
+    second: pike_attack_75x57_235
+  - first:
+      213: 1211787725884485487
+    second: pike_attack_75x57_236
+  - first:
+      213: 3435950502551482914
+    second: pike_attack_75x57_237
+  - first:
+      213: -7299271730459917231
+    second: pike_attack_75x57_238
+  - first:
+      213: 6914260480028855756
+    second: pike_attack_75x57_239
+  - first:
+      213: 2361854444478109033
+    second: pike_attack_75x57_240
+  - first:
+      213: 2033495530010947181
+    second: pike_attack_75x57_241
+  - first:
+      213: 3744952618246619740
+    second: pike_attack_75x57_242
+  - first:
+      213: 5548090143970412121
+    second: pike_attack_75x57_243
+  - first:
+      213: 3716442498890424753
+    second: pike_attack_75x57_244
+  - first:
+      213: -4044880231415885182
+    second: pike_attack_75x57_245
+  - first:
+      213: -129086452024183365
+    second: pike_attack_75x57_246
+  - first:
+      213: -7828999908128758091
+    second: pike_attack_75x57_247
+  - first:
+      213: -2893636870306592224
+    second: pike_attack_75x57_248
+  - first:
+      213: 4507900332129904999
+    second: pike_attack_75x57_249
+  - first:
+      213: 4265802261273933459
+    second: pike_attack_75x57_250
+  - first:
+      213: 840302063058285558
+    second: pike_attack_75x57_251
+  - first:
+      213: -6061910302673534772
+    second: pike_attack_75x57_252
+  - first:
+      213: -8020647773091884425
+    second: pike_attack_75x57_253
+  - first:
+      213: -6537322310518245994
+    second: pike_attack_75x57_254
+  - first:
+      213: 5843493256421388024
+    second: pike_attack_75x57_255
+  - first:
+      213: -7181182740027063777
+    second: pike_attack_75x57_256
+  - first:
+      213: -5495988584741499763
+    second: pike_attack_75x57_257
+  - first:
+      213: -5799230237064060263
+    second: pike_attack_75x57_258
+  - first:
+      213: 2837046803244943101
+    second: pike_attack_75x57_259
+  - first:
+      213: -101829815869166965
+    second: pike_attack_75x57_260
+  - first:
+      213: 229910107992856766
+    second: pike_attack_75x57_261
+  - first:
+      213: 6756921583841367937
+    second: pike_attack_75x57_262
+  - first:
+      213: 2266543311835964295
+    second: pike_attack_75x57_263
+  - first:
+      213: 5931650488709697622
+    second: pike_attack_75x57_264
+  - first:
+      213: -2907793694533129060
+    second: pike_attack_75x57_265
+  - first:
+      213: 6120447818073547387
+    second: pike_attack_75x57_266
+  - first:
+      213: -8473324341094348687
+    second: pike_attack_75x57_267
+  - first:
+      213: -1452345273329418284
+    second: pike_attack_75x57_268
+  - first:
+      213: -5219240224121744401
+    second: pike_attack_75x57_269
+  - first:
+      213: -5950799986589519413
+    second: pike_attack_75x57_270
+  - first:
+      213: -280883694205369608
+    second: pike_attack_75x57_271
+  - first:
+      213: 5415007992844871034
+    second: pike_attack_75x57_272
+  - first:
+      213: 7294871589519346363
+    second: pike_attack_75x57_273
+  - first:
+      213: -6371013255910270528
+    second: pike_attack_75x57_274
+  - first:
+      213: 6242364942138746321
+    second: pike_attack_75x57_275
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pike_attack_75x57_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef651007d23383580800000000000000
+      internalID: -8847265197723658498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aae4e7eac3a01fd0800000000000000
+      internalID: -2373216911754990942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bd56f4b0585cb70800000000000000
+      internalID: 8918680920700345101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baacd28431d50520800000000000000
+      internalID: 2667768377750891190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d27effa29871090800000000000000
+      internalID: -8063825790008611472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f011d60aa719afa50800000000000000
+      internalID: 6555712163454718223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88b11ef335ac9770800000000000000
+      internalID: 8618945429604776075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccb5050643687630800000000000000
+      internalID: 3924996227636509894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded35c29be30f46e0800000000000000
+      internalID: -1851256611511386643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e515e70513d0440a0800000000000000
+      internalID: -6898374223769743010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_10
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7340c7b77585e3e40800000000000000
+      internalID: 5638040916271563831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8997a2d5d27f290800000000000000
+      internalID: -7856761146756720417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2571518dec3b514a0800000000000000
+      internalID: -6623189976008550574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_13
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ccaa96e38139de0800000000000000
+      internalID: -1327690808804324193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_14
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6829ccf98598480800000000000000
+      internalID: -8896482145538505050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_15
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1311
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde772da3fbf40df0800000000000000
+      internalID: -214769858206269731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1254
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e10e0695508a70800000000000000
+      internalID: 8827149372614631483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1254
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d8f9fa6ea77f930800000000000000
+      internalID: 4176942310616960332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1254
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c687e05092eeef0800000000000000
+      internalID: -77079041924371301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1254
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6977dcccf9124270800000000000000
+      internalID: 8233171642345814380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1254
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0250e314644a66920800000000000000
+      internalID: 2983252424828781856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1254
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c031f66d2fd50aa40800000000000000
+      internalID: 5377401252641444620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_22
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1254
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693c3f293245053b0800000000000000
+      internalID: -5525824231017561194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1254
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b44ea1f2c0456560800000000000000
+      internalID: 7306317176501060786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1254
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b80093f305646a0800000000000000
+      internalID: -6465391982574269676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_25
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1254
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2f81f9a84ef39e0800000000000000
+      internalID: -1639340455313739090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1197
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def4a493719e4ea60800000000000000
+      internalID: 7702537548665081837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1197
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90916b457e2fadc0800000000000000
+      internalID: -3625628093699223394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1197
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d7f7962d85ad300800000000000000
+      internalID: 277631987773046152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1197
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6065c9f7937735c0800000000000000
+      internalID: -4235789827950944149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1197
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67652869e2b58a680800000000000000
+      internalID: -8743638420888070538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1197
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6b8c4f4b5510eb0800000000000000
+      internalID: -4755425495837264135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1197
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e2231072848e140800000000000000
+      internalID: 4749125139423178322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1197
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9458f455e53ab90800000000000000
+      internalID: -7231832856127518221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1197
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb6361010dea2920800000000000000
+      internalID: 2966443893150936015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_35
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1197
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf60e040c67dd0420800000000000000
+      internalID: 2597969418987112188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c45cb293b0d12bd0800000000000000
+      internalID: -2656612835492342586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1140
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebedc73a21c4b6310800000000000000
+      internalID: 1399295752164662974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1140
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82f6df80645d750800000000000000
+      internalID: 6329041855764703468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1140
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364d3f71b27877d10800000000000000
+      internalID: 2123314368483677283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1140
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e5dd3f3f57bd700800000000000000
+      internalID: 566175868794003026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1140
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7ee6a035940d840800000000000000
+      internalID: 5246774186892781481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1140
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980073d61288c2020800000000000000
+      internalID: 2318377585336582281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_43
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1140
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bdb9045ba448100800000000000000
+      internalID: 109294433297226552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1140
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e92e527c93d55a20800000000000000
+      internalID: 3050576991500511719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_45
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1140
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7cfb850a68502d0800000000000000
+      internalID: -3313093927619278886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb890723a041785f0800000000000000
+      internalID: -754612378532800325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa019909fa4fd140800000000000000
+      internalID: 4746594965739604650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_48
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694f5c33bb38e6320800000000000000
+      internalID: 2553122878816384150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e2dfec443973290800000000000000
+      internalID: -7910692296713228799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_50
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b8b8a79e1e45cb0800000000000000
+      internalID: -4876024103635809465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_51
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1d36c5e3b806a20800000000000000
+      internalID: 3053593647311475117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc46274e5f1df0f0800000000000000
+      internalID: -1081673845717971714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_53
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070c41f39b8e29e30800000000000000
+      internalID: 4508922059276206192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7edbb163b14f120800000000000000
+      internalID: 2446610416776636372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_55
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf4cb762bc7486e0800000000000000
+      internalID: -1836205642373902370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_56
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537c5701a26b23730800000000000000
+      internalID: 3977441712702605109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_57
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c37fda9d7f4678c0800000000000000
+      internalID: -4001923817984265275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_58
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd9faa3d6a7a0980800000000000000
+      internalID: -8571904331191706123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_59
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d2bbf3fc8e615e0800000000000000
+      internalID: -1939106612711314051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_60
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fd3fe4d6396b880800000000000000
+      internalID: -8595520741104689259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_61
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1083
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc56beaca88b66a0800000000000000
+      internalID: -6454915365658534668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8334f26918a86450800000000000000
+      internalID: 6082296123751674762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1026
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361bc8232cb900f50800000000000000
+      internalID: 6845642691977195875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_64
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1026
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856b6e5f8f1cac7a0800000000000000
+      internalID: -6356054649058445736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1026
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea270ff4930b430800000000000000
+      internalID: 3796597501372575422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1026
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e73be5f12f4e50800000000000000
+      internalID: 6795687702822381446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_67
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1026
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f3e12280813d710800000000000000
+      internalID: 1716742306169503515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1026
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8bc6a6bfdd14aa0800000000000000
+      internalID: -6178413141883569979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_69
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1026
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434c6d12649be6af0800000000000000
+      internalID: -401179605922823116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_70
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1026
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c79fbd22f7cdc00800000000000000
+      internalID: 926755411027655800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_71
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1026
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97be5643d1c47af0800000000000000
+      internalID: -399481353766258786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 969
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46377784404fa280800000000000000
+      internalID: -9029928064779864501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_73
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 969
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe9c2c00c203710800000000000000
+      internalID: 1670883843534090111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_74
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 969
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53a922cae3b8670800000000000000
+      internalID: 8541990027274106283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_75
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 969
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd5ec4d9e2087190800000000000000
+      internalID: -7964612737683792388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_76
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 969
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3363305adc955080800000000000000
+      internalID: -9199274202372021445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_77
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 969
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90edc1b6f25ff9b0800000000000000
+      internalID: -5044221838133174113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_78
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 969
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8f1dd0b54a6b6a0800000000000000
+      internalID: -6433774306671331160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_79
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 969
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d356f9eda6e310800000000000000
+      internalID: 1434024751735756478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_80
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 969
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580c1fe7ecd665800800000000000000
+      internalID: 600788333961003141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_81
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 969
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f366710bf72710800000000000000
+      internalID: 1668578170663858194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafec9635bbbdab10800000000000000
+      internalID: 1994456596974727087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_83
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 912
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d171b49f34de17ce0800000000000000
+      internalID: -1409084332189214947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_84
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 912
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201bab7d84a8659d0800000000000000
+      internalID: -2785887274020458238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_85
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 912
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e096172f6ed0f860800000000000000
+      internalID: 7561788343333589223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_86
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 912
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5327bf419b3c933b0800000000000000
+      internalID: -5532175467559554507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_87
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 912
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75c1fc857b5a48f0800000000000000
+      internalID: -555531043592878722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_88
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 912
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4e86a83b74975a0800000000000000
+      internalID: -6523103748822604601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_89
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 912
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626034f6d3c15fa70800000000000000
+      internalID: 8860018892106565158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_90
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 912
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd18c6f11b8147e0800000000000000
+      internalID: -1782991068190990884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_91
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 912
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeed6d7541f459d0800000000000000
+      internalID: -2786336988676100385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c77895f05b5c060800000000000000
+      internalID: 6973178675584269334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_93
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742d8c83315741670800000000000000
+      internalID: 8508554321427223111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_94
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de02f6ed21d293250800000000000000
+      internalID: 5924816343847084269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c690c60d306ab9b0800000000000000
+      internalID: -5063629015802145086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_96
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e71561b450e5b80800000000000000
+      internalID: -8404274034571641335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_97
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c8ccadc45a84e40800000000000000
+      internalID: 5640940282788482140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_98
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d26d7b7e7f927940800000000000000
+      internalID: 5292467877700264659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_99
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5632754d8ec8ebc0800000000000000
+      internalID: -3753523183262484902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_100
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71693ab5755b82b0800000000000000
+      internalID: -5581273349071740545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_101
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995bc4e01ef915700800000000000000
+      internalID: 527378420335424921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_102
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23ff646faeeb39d0800000000000000
+      internalID: -2793376706781514962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_103
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce182c89d4df27310800000000000000
+      internalID: 1401460943782838764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_104
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f065ce48f72c9810800000000000000
+      internalID: 1773336300704063728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_105
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1af467bfd4e2590800000000000000
+      internalID: -7697128970712538697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_106
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830f7cd7021e7e50800000000000000
+      internalID: 6808899511604151177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_107
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 855
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7e13e0f1a6ab2f0800000000000000
+      internalID: -956335289248127037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa75b8a1e536400800000000000000
+      internalID: 316199866946005674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_109
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 798
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac391cd74a95fd90800000000000000
+      internalID: -7064570807034757983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_110
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 798
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ba2282c26fa720800000000000000
+      internalID: 2859612875950568009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 798
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f16a5f19cfb2b90800000000000000
+      internalID: -7265435870010400969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_112
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 798
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488ce8633b793f990800000000000000
+      internalID: -7353366970595620732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_113
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 798
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf4ab8995245adc0800000000000000
+      internalID: -3628420972195197001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_114
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 798
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa07d56917e1f4730800000000000000
+      internalID: 3985437668449022127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_115
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 798
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c10177e5f35b1080800000000000000
+      internalID: -9215679896868552252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_116
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 798
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3908b6c3bd7cd230800000000000000
+      internalID: 3664942407859308859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_117
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 798
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6938b05a07d6950800000000000000
+      internalID: 6443930496002135806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 741
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9434fe81c58b4540800000000000000
+      internalID: 4993231678243878047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_119
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 741
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a07fa7d9f91d70800000000000000
+      internalID: 9014510833915438344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_120
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 741
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57232060ea8908260800000000000000
+      internalID: 7097840885928440437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_121
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 741
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08c382973e501df0800000000000000
+      internalID: -211565589712091122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_122
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 741
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9fedf8a4aeecbe0800000000000000
+      internalID: -1454968023631857207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_123
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 741
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95514411b0a546a0800000000000000
+      internalID: -6465585007610997347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_124
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 741
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc78b2b9a1a8890800000000000000
+      internalID: -7455116979405861767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_125
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 741
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0e10a9bb0a0a8a0800000000000000
+      internalID: -6295855551460810528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 741
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2140fb479faedf680800000000000000
+      internalID: -8719554946392980462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_127
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 741
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f97c1e69302d1d90800000000000000
+      internalID: -7125503604397671945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee61bc0f3b3a480800000000000000
+      internalID: -8889063392718426456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_129
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 684
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff3d9309e15645b0800000000000000
+      internalID: -5384526243244982288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_130
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 684
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a75702b14fb5dc0800000000000000
+      internalID: -3649054675707790730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_131
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 684
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fee48bcd5686a270800000000000000
+      internalID: 8261438303862320886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_132
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 684
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282ad20400082cdc0800000000000000
+      internalID: -3620190411887369598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_133
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 684
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287273a70662466a0800000000000000
+      internalID: -6456993769933297790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_134
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 684
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b9443442692b30800000000000000
+      internalID: 4263046567357428643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_135
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 684
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4bd25dc3be80f40800000000000000
+      internalID: 5695060375317099731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_136
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 684
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be9b65af2ff66c60800000000000000
+      internalID: 7811211183824543416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_137
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 684
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2274c43ae9314aef0800000000000000
+      internalID: -97931719829862622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a668207ec9affd960800000000000000
+      internalID: 7629091845586454122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_139
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da4d08765415b560800000000000000
+      internalID: 7328786330229230295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_140
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac27126725121a00800000000000000
+      internalID: 725665748853664934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_141
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6963bd6a7ebb9b0800000000000000
+      internalID: -5063198652219615552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_142
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d7f69235defdc80800000000000000
+      internalID: -8295651047159923383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_143
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460ba7af5151dbfa0800000000000000
+      internalID: -5783443162333007772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_144
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c6953362ad1ee0800000000000000
+      internalID: -1288695371373557504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_145
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b971a873582654b0800000000000000
+      internalID: -5452125959914161741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_146
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c315d06f1c4fb63a0800000000000000
+      internalID: -6670969309125324484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_147
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32911f5204c17e950800000000000000
+      internalID: 6478177650835790115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_148
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b34389fd938710800000000000000
+      internalID: 1694371579796107518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_149
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6315e58cf9eb6efa0800000000000000
+      internalID: -5771716278958010058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_150
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45799777d6b8c00e0800000000000000
+      internalID: -2302312007221012652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_151
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548446a8e5f839010800000000000000
+      internalID: 1194455962394839109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_152
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f33b24940c763150800000000000000
+      internalID: 5852001124922110965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_153
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 627
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c1413d2512e5b80800000000000000
+      internalID: -8404243215014421378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e93b57c32d1ab690800000000000000
+      internalID: -7585718582846473751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_155
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 570
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f503aa0425aa863f0800000000000000
+      internalID: -907288054666219425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_156
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 570
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba696e217bc9efcc0800000000000000
+      internalID: -3675327935777696085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_157
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 570
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2bb625603cc78c0800000000000000
+      internalID: -4000107937091833137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_158
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 570
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f59c0c818b9e00800000000000000
+      internalID: 1052577376427702323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_159
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 570
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd29a7909e11a10800000000000000
+      internalID: 1878538746510630026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_160
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 570
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b67c8d3e9d3ffbd0800000000000000
+      internalID: -2594287110495373641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_161
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 570
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231f194bd538e5810800000000000000
+      internalID: 1755985343205732658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_162
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 570
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a51651dccff49c0800000000000000
+      internalID: -3940653191168697838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_163
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 570
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4e44cf7bce23ed0800000000000000
+      internalID: -2435624173498473282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2629b01d16b206c60800000000000000
+      internalID: 7809289452979458658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_165
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 513
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831be7e14cdc4340800000000000000
+      internalID: 4849493074393109380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_166
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 513
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13bfc1e9c190d5a0800000000000000
+      internalID: -6498533966032686309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_167
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 513
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5b9baa04400880800000000000000
+      internalID: -8646836471931905159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_168
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 513
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e982b905e987639b0800000000000000
+      internalID: -5100756906597996386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_169
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 513
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551240e46b1e80600800000000000000
+      internalID: 434845537150443861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_170
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 513
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5d56ec8b5276c0800000000000000
+      internalID: -4147151646136377940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_171
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 513
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1840488a7ed8a430800000000000000
+      internalID: 3794527303912933407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_172
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 513
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc4adf6aa8144520800000000000000
+      internalID: 2685298398119742712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_173
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 513
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6bc8ecf691d1ef0800000000000000
+      internalID: -135924445753854266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005eb4d47ea22e470800000000000000
+      internalID: 8422341426058880256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_175
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 456
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2940a2d38457bb0800000000000000
+      internalID: -4938961988806733078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_176
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 456
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5b77741bf1a0030800000000000000
+      internalID: 3461614109856347573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_177
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 456
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce506a39ca553cbe0800000000000000
+      internalID: -1458227654638041620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_178
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 456
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88192c90308504c0800000000000000
+      internalID: -4321907321125398388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_179
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 456
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc38b99213cefc70800000000000000
+      internalID: 9006850789443386579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_180
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 456
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9875f8ef6e2d6f10800000000000000
+      internalID: 2264517245821876382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_181
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 456
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733e11f82caa1c580800000000000000
+      internalID: -8808571643559288009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_182
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 456
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9014316d6ade51830800000000000000
+      internalID: 4041397541446828297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_183
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 456
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9166c4276051e7a40800000000000000
+      internalID: 5367750923303806489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc62c1a72e4db1b90800000000000000
+      internalID: -7269983104283171125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_185
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df51b413aa01d76b0800000000000000
+      internalID: -5297059263560346115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_186
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e20a2a4ab44de0800000000000000
+      internalID: -1349749160609128170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_187
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d6102bb06a093b0800000000000000
+      internalID: -5507719775112827583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_188
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a4e69a788a6e00800000000000000
+      internalID: 1038792724161276289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_189
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402b2edbf4edc0500800000000000000
+      internalID: 363910103979700740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_190
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ba4670f8a27720800000000000000
+      internalID: 2842520065554429720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_191
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3379c2264eb45c960800000000000000
+      internalID: 7621581388666148659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_192
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cf3f100fb6fb590800000000000000
+      internalID: -7656282162937463709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_193
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b945ef689a0c09890800000000000000
+      internalID: -7453245548951350117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_194
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b61daff1c6add540800000000000000
+      internalID: 5034363310618515129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_195
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f27dd9011d5aeee0800000000000000
+      internalID: -1231069220371074312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_196
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c5e2596da854150800000000000000
+      internalID: 5856239544695675911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_197
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5018d0e43c88a6670800000000000000
+      internalID: 8532782816416334085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_198
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8347e2c0abb49a70800000000000000
+      internalID: 8832891068319482766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_199
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 399
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14addff8b36c80200800000000000000
+      internalID: 146584947010689601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d00ff50608d43a80800000000000000
+      internalID: -8487921877304540975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_201
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 342
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f7f7733529479b0800000000000000
+      internalID: -5083277193283403906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_202
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 342
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c536436d00c87d0a0800000000000000
+      internalID: -6856857972426644644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_203
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 342
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ced091c14ddcb80800000000000000
+      internalID: -8372802915067368289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_204
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 342
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6692b4969ebceb0800000000000000
+      internalID: -4698405147789138263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_205
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 342
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdfba8acc9423520800000000000000
+      internalID: 2680285871590866363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_206
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 342
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6f189e99e981d00800000000000000
+      internalID: 943678505818912444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_207
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 342
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9568280d60bdfda0800000000000000
+      internalID: -5909373153705433698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_208
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 342
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404bbb7399d5372e0800000000000000
+      internalID: -2129255286169684988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_209
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 342
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2399520518ef36150800000000000000
+      internalID: 5864810971115395378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de432c89aa6525840800000000000000
+      internalID: 5211323009528378605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_211
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 285
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd19e9d28822993a0800000000000000
+      internalID: -6658252605814304291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_212
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 285
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929979443ca1e490800000000000000
+      internalID: -7718698945765338479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_213
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 285
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d4b5ea41afbcc0800000000000000
+      internalID: -3693055826367033047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_214
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 285
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb91dd3288b9200a0800000000000000
+      internalID: -6916795068668110405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_215
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 285
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a38524040990f0800000000000000
+      internalID: -1109851417314352139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_216
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 285
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3610c48f49faf7120800000000000000
+      internalID: 2413840979649626467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_217
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 285
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5afc026900101f0800000000000000
+      internalID: -1080581790796634638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_218
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 285
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0cbe3e28e04a7e0800000000000000
+      internalID: -1755261999435235137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_219
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 285
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea91ea2608535280800000000000000
+      internalID: -9055797642199459090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a2d47754dc2bc60800000000000000
+      internalID: 7832548400188697162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_221
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 228
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780f93287d78ec6d0800000000000000
+      internalID: -2968285744718024569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_222
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 228
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3276920a4f7f75990800000000000000
+      internalID: -7397171232901601501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_223
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 228
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb416ccc111eb10800000000000000
+      internalID: 2008906479978200500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_224
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 228
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7438aaa90eb877730800000000000000
+      internalID: 3996816991098405703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_225
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 228
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f8682403a809910800000000000000
+      internalID: 1842124187473710975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_226
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 228
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32353fba26c296810800000000000000
+      internalID: 1758985931768156963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_227
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 228
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73530cf9a408f870800000000000000
+      internalID: 8716722206899655551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_228
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 228
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b721ffe2097cacf80800000000000000
+      internalID: -8085430758912617861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_229
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 228
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e78adc8d7f174850800000000000000
+      internalID: 6361087622778619873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad7bbce1a1d0300800000000000000
+      internalID: 219860676380187263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_231
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169f1f4e9256fc310800000000000000
+      internalID: 1427470837508864353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_232
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120682929f04da300800000000000000
+      internalID: 264939391966273569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_233
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b870c2cad6868a0e0800000000000000
+      internalID: -2258440392877013109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_234
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdc72d1c00e82760800000000000000
+      internalID: 7433437527608380873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_235
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0384dc6a04e51ef70800000000000000
+      internalID: 9214749944346134576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_236
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe580348221d010800000000000000
+      internalID: 1211787725884485487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_237
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f76217c2feaf20800000000000000
+      internalID: 3435950502551482914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_238
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154c2eac807c3ba90800000000000000
+      internalID: -7299271730459917231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_239
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd44a4f54364ff50800000000000000
+      internalID: 6914260480028855756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_240
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659b468a1ef6c020800000000000000
+      internalID: 2361854444478109033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_241
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ea5ae196d683c10800000000000000
+      internalID: 2033495530010947181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_242
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52424f809eb8f330800000000000000
+      internalID: 3744952618246619740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_243
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c3354796cefc40800000000000000
+      internalID: 5548090143970412121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_244
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1678e13c4739330800000000000000
+      internalID: 3716442498890424753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_245
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 171
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282d4773cd2bdd7c0800000000000000
+      internalID: -4044880231415885182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb578c94e84653ef0800000000000000
+      internalID: -129086452024183365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_247
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 114
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b66b69301ec95390800000000000000
+      internalID: -7828999908128758091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_248
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 114
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a076cf89cb7d7d0800000000000000
+      internalID: -2893636870306592224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_249
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 114
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769e77bd7774f8e30800000000000000
+      internalID: 4507900332129904999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_250
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 114
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3967a413e8c233b30800000000000000
+      internalID: 4265802261273933459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_251
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 114
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3fd94364a59ab00800000000000000
+      internalID: 840302063058285558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_252
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 114
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc00dd472b4cfdba0800000000000000
+      internalID: -6061910302673534772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_253
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 114
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7729458785fe0b090800000000000000
+      internalID: -8020647773091884425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_254
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 114
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695f25baef3c645a0800000000000000
+      internalID: -6537322310518245994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_255
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 114
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe23641822481150800000000000000
+      internalID: 5843493256421388024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1245817850575c90800000000000000
+      internalID: -7181182740027063777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_257
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 57
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c81ec40835ab3b0800000000000000
+      internalID: -5495988584741499763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_258
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 57
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992a71533def48fa0800000000000000
+      internalID: -5799230237064060263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_259
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 57
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6829649073f5720800000000000000
+      internalID: 2837046803244943101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_260
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 57
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a239d625a369ef0800000000000000
+      internalID: -101829815869166965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_261
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 57
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb89f2d660ec03300800000000000000
+      internalID: 229910107992856766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_262
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 57
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d80c716865cd50800000000000000
+      internalID: 6756921583841367937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_263
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 57
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783250a2221647f10800000000000000
+      internalID: 2266543311835964295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_264
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 57
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650505731b4715250800000000000000
+      internalID: 5931650488709697622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_265
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 57
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c6b3d7a0175a7d0800000000000000
+      internalID: -2907793694533129060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72a69eecd230f450800000000000000
+      internalID: 6120447818073547387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_267
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1788666c764b86a80800000000000000
+      internalID: -8473324341094348687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_268
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df7bf33bab38dbe0800000000000000
+      internalID: -1452345273329418284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_269
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe31bcb3ba88197b0800000000000000
+      internalID: -5219240224121744401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_270
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1beedd0f28a6da0800000000000000
+      internalID: -5950799986589519413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_271
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f280bfa4c91a1cf0800000000000000
+      internalID: -280883694205369608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_272
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a756b6d5419f52b40800000000000000
+      internalID: 5415007992844871034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_273
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac36f8f079c3560800000000000000
+      internalID: 7294871589519346363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_274
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9d926e23d9597a0800000000000000
+      internalID: -6371013255910270528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_attack_75x57_275
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5288667d551a650800000000000000
+      internalID: 6242364942138746321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pike_attack_75x57_0: -8847265197723658498
+      pike_attack_75x57_1: -2373216911754990942
+      pike_attack_75x57_10: 5638040916271563831
+      pike_attack_75x57_100: -5581273349071740545
+      pike_attack_75x57_101: 527378420335424921
+      pike_attack_75x57_102: -2793376706781514962
+      pike_attack_75x57_103: 1401460943782838764
+      pike_attack_75x57_104: 1773336300704063728
+      pike_attack_75x57_105: -7697128970712538697
+      pike_attack_75x57_106: 6808899511604151177
+      pike_attack_75x57_107: -956335289248127037
+      pike_attack_75x57_108: 316199866946005674
+      pike_attack_75x57_109: -7064570807034757983
+      pike_attack_75x57_11: -7856761146756720417
+      pike_attack_75x57_110: 2859612875950568009
+      pike_attack_75x57_111: -7265435870010400969
+      pike_attack_75x57_112: -7353366970595620732
+      pike_attack_75x57_113: -3628420972195197001
+      pike_attack_75x57_114: 3985437668449022127
+      pike_attack_75x57_115: -9215679896868552252
+      pike_attack_75x57_116: 3664942407859308859
+      pike_attack_75x57_117: 6443930496002135806
+      pike_attack_75x57_118: 4993231678243878047
+      pike_attack_75x57_119: 9014510833915438344
+      pike_attack_75x57_12: -6623189976008550574
+      pike_attack_75x57_120: 7097840885928440437
+      pike_attack_75x57_121: -211565589712091122
+      pike_attack_75x57_122: -1454968023631857207
+      pike_attack_75x57_123: -6465585007610997347
+      pike_attack_75x57_124: -7455116979405861767
+      pike_attack_75x57_125: -6295855551460810528
+      pike_attack_75x57_126: -8719554946392980462
+      pike_attack_75x57_127: -7125503604397671945
+      pike_attack_75x57_128: -8889063392718426456
+      pike_attack_75x57_129: -5384526243244982288
+      pike_attack_75x57_13: -1327690808804324193
+      pike_attack_75x57_130: -3649054675707790730
+      pike_attack_75x57_131: 8261438303862320886
+      pike_attack_75x57_132: -3620190411887369598
+      pike_attack_75x57_133: -6456993769933297790
+      pike_attack_75x57_134: 4263046567357428643
+      pike_attack_75x57_135: 5695060375317099731
+      pike_attack_75x57_136: 7811211183824543416
+      pike_attack_75x57_137: -97931719829862622
+      pike_attack_75x57_138: 7629091845586454122
+      pike_attack_75x57_139: 7328786330229230295
+      pike_attack_75x57_14: -8896482145538505050
+      pike_attack_75x57_140: 725665748853664934
+      pike_attack_75x57_141: -5063198652219615552
+      pike_attack_75x57_142: -8295651047159923383
+      pike_attack_75x57_143: -5783443162333007772
+      pike_attack_75x57_144: -1288695371373557504
+      pike_attack_75x57_145: -5452125959914161741
+      pike_attack_75x57_146: -6670969309125324484
+      pike_attack_75x57_147: 6478177650835790115
+      pike_attack_75x57_148: 1694371579796107518
+      pike_attack_75x57_149: -5771716278958010058
+      pike_attack_75x57_15: -214769858206269731
+      pike_attack_75x57_150: -2302312007221012652
+      pike_attack_75x57_151: 1194455962394839109
+      pike_attack_75x57_152: 5852001124922110965
+      pike_attack_75x57_153: -8404243215014421378
+      pike_attack_75x57_154: -7585718582846473751
+      pike_attack_75x57_155: -907288054666219425
+      pike_attack_75x57_156: -3675327935777696085
+      pike_attack_75x57_157: -4000107937091833137
+      pike_attack_75x57_158: 1052577376427702323
+      pike_attack_75x57_159: 1878538746510630026
+      pike_attack_75x57_16: 8827149372614631483
+      pike_attack_75x57_160: -2594287110495373641
+      pike_attack_75x57_161: 1755985343205732658
+      pike_attack_75x57_162: -3940653191168697838
+      pike_attack_75x57_163: -2435624173498473282
+      pike_attack_75x57_164: 7809289452979458658
+      pike_attack_75x57_165: 4849493074393109380
+      pike_attack_75x57_166: -6498533966032686309
+      pike_attack_75x57_167: -8646836471931905159
+      pike_attack_75x57_168: -5100756906597996386
+      pike_attack_75x57_169: 434845537150443861
+      pike_attack_75x57_17: 4176942310616960332
+      pike_attack_75x57_170: -4147151646136377940
+      pike_attack_75x57_171: 3794527303912933407
+      pike_attack_75x57_172: 2685298398119742712
+      pike_attack_75x57_173: -135924445753854266
+      pike_attack_75x57_174: 8422341426058880256
+      pike_attack_75x57_175: -4938961988806733078
+      pike_attack_75x57_176: 3461614109856347573
+      pike_attack_75x57_177: -1458227654638041620
+      pike_attack_75x57_178: -4321907321125398388
+      pike_attack_75x57_179: 9006850789443386579
+      pike_attack_75x57_18: -77079041924371301
+      pike_attack_75x57_180: 2264517245821876382
+      pike_attack_75x57_181: -8808571643559288009
+      pike_attack_75x57_182: 4041397541446828297
+      pike_attack_75x57_183: 5367750923303806489
+      pike_attack_75x57_184: -7269983104283171125
+      pike_attack_75x57_185: -5297059263560346115
+      pike_attack_75x57_186: -1349749160609128170
+      pike_attack_75x57_187: -5507719775112827583
+      pike_attack_75x57_188: 1038792724161276289
+      pike_attack_75x57_189: 363910103979700740
+      pike_attack_75x57_19: 8233171642345814380
+      pike_attack_75x57_190: 2842520065554429720
+      pike_attack_75x57_191: 7621581388666148659
+      pike_attack_75x57_192: -7656282162937463709
+      pike_attack_75x57_193: -7453245548951350117
+      pike_attack_75x57_194: 5034363310618515129
+      pike_attack_75x57_195: -1231069220371074312
+      pike_attack_75x57_196: 5856239544695675911
+      pike_attack_75x57_197: 8532782816416334085
+      pike_attack_75x57_198: 8832891068319482766
+      pike_attack_75x57_199: 146584947010689601
+      pike_attack_75x57_2: 8918680920700345101
+      pike_attack_75x57_20: 2983252424828781856
+      pike_attack_75x57_200: -8487921877304540975
+      pike_attack_75x57_201: -5083277193283403906
+      pike_attack_75x57_202: -6856857972426644644
+      pike_attack_75x57_203: -8372802915067368289
+      pike_attack_75x57_204: -4698405147789138263
+      pike_attack_75x57_205: 2680285871590866363
+      pike_attack_75x57_206: 943678505818912444
+      pike_attack_75x57_207: -5909373153705433698
+      pike_attack_75x57_208: -2129255286169684988
+      pike_attack_75x57_209: 5864810971115395378
+      pike_attack_75x57_21: 5377401252641444620
+      pike_attack_75x57_210: 5211323009528378605
+      pike_attack_75x57_211: -6658252605814304291
+      pike_attack_75x57_212: -7718698945765338479
+      pike_attack_75x57_213: -3693055826367033047
+      pike_attack_75x57_214: -6916795068668110405
+      pike_attack_75x57_215: -1109851417314352139
+      pike_attack_75x57_216: 2413840979649626467
+      pike_attack_75x57_217: -1080581790796634638
+      pike_attack_75x57_218: -1755261999435235137
+      pike_attack_75x57_219: -9055797642199459090
+      pike_attack_75x57_22: -5525824231017561194
+      pike_attack_75x57_220: 7832548400188697162
+      pike_attack_75x57_221: -2968285744718024569
+      pike_attack_75x57_222: -7397171232901601501
+      pike_attack_75x57_223: 2008906479978200500
+      pike_attack_75x57_224: 3996816991098405703
+      pike_attack_75x57_225: 1842124187473710975
+      pike_attack_75x57_226: 1758985931768156963
+      pike_attack_75x57_227: 8716722206899655551
+      pike_attack_75x57_228: -8085430758912617861
+      pike_attack_75x57_229: 6361087622778619873
+      pike_attack_75x57_23: 7306317176501060786
+      pike_attack_75x57_230: 219860676380187263
+      pike_attack_75x57_231: 1427470837508864353
+      pike_attack_75x57_232: 264939391966273569
+      pike_attack_75x57_233: -2258440392877013109
+      pike_attack_75x57_234: 7433437527608380873
+      pike_attack_75x57_235: 9214749944346134576
+      pike_attack_75x57_236: 1211787725884485487
+      pike_attack_75x57_237: 3435950502551482914
+      pike_attack_75x57_238: -7299271730459917231
+      pike_attack_75x57_239: 6914260480028855756
+      pike_attack_75x57_24: -6465391982574269676
+      pike_attack_75x57_240: 2361854444478109033
+      pike_attack_75x57_241: 2033495530010947181
+      pike_attack_75x57_242: 3744952618246619740
+      pike_attack_75x57_243: 5548090143970412121
+      pike_attack_75x57_244: 3716442498890424753
+      pike_attack_75x57_245: -4044880231415885182
+      pike_attack_75x57_246: -129086452024183365
+      pike_attack_75x57_247: -7828999908128758091
+      pike_attack_75x57_248: -2893636870306592224
+      pike_attack_75x57_249: 4507900332129904999
+      pike_attack_75x57_25: -1639340455313739090
+      pike_attack_75x57_250: 4265802261273933459
+      pike_attack_75x57_251: 840302063058285558
+      pike_attack_75x57_252: -6061910302673534772
+      pike_attack_75x57_253: -8020647773091884425
+      pike_attack_75x57_254: -6537322310518245994
+      pike_attack_75x57_255: 5843493256421388024
+      pike_attack_75x57_256: -7181182740027063777
+      pike_attack_75x57_257: -5495988584741499763
+      pike_attack_75x57_258: -5799230237064060263
+      pike_attack_75x57_259: 2837046803244943101
+      pike_attack_75x57_26: 7702537548665081837
+      pike_attack_75x57_260: -101829815869166965
+      pike_attack_75x57_261: 229910107992856766
+      pike_attack_75x57_262: 6756921583841367937
+      pike_attack_75x57_263: 2266543311835964295
+      pike_attack_75x57_264: 5931650488709697622
+      pike_attack_75x57_265: -2907793694533129060
+      pike_attack_75x57_266: 6120447818073547387
+      pike_attack_75x57_267: -8473324341094348687
+      pike_attack_75x57_268: -1452345273329418284
+      pike_attack_75x57_269: -5219240224121744401
+      pike_attack_75x57_27: -3625628093699223394
+      pike_attack_75x57_270: -5950799986589519413
+      pike_attack_75x57_271: -280883694205369608
+      pike_attack_75x57_272: 5415007992844871034
+      pike_attack_75x57_273: 7294871589519346363
+      pike_attack_75x57_274: -6371013255910270528
+      pike_attack_75x57_275: 6242364942138746321
+      pike_attack_75x57_28: 277631987773046152
+      pike_attack_75x57_29: -4235789827950944149
+      pike_attack_75x57_3: 2667768377750891190
+      pike_attack_75x57_30: -8743638420888070538
+      pike_attack_75x57_31: -4755425495837264135
+      pike_attack_75x57_32: 4749125139423178322
+      pike_attack_75x57_33: -7231832856127518221
+      pike_attack_75x57_34: 2966443893150936015
+      pike_attack_75x57_35: 2597969418987112188
+      pike_attack_75x57_36: -2656612835492342586
+      pike_attack_75x57_37: 1399295752164662974
+      pike_attack_75x57_38: 6329041855764703468
+      pike_attack_75x57_39: 2123314368483677283
+      pike_attack_75x57_4: -8063825790008611472
+      pike_attack_75x57_40: 566175868794003026
+      pike_attack_75x57_41: 5246774186892781481
+      pike_attack_75x57_42: 2318377585336582281
+      pike_attack_75x57_43: 109294433297226552
+      pike_attack_75x57_44: 3050576991500511719
+      pike_attack_75x57_45: -3313093927619278886
+      pike_attack_75x57_46: -754612378532800325
+      pike_attack_75x57_47: 4746594965739604650
+      pike_attack_75x57_48: 2553122878816384150
+      pike_attack_75x57_49: -7910692296713228799
+      pike_attack_75x57_5: 6555712163454718223
+      pike_attack_75x57_50: -4876024103635809465
+      pike_attack_75x57_51: 3053593647311475117
+      pike_attack_75x57_52: -1081673845717971714
+      pike_attack_75x57_53: 4508922059276206192
+      pike_attack_75x57_54: 2446610416776636372
+      pike_attack_75x57_55: -1836205642373902370
+      pike_attack_75x57_56: 3977441712702605109
+      pike_attack_75x57_57: -4001923817984265275
+      pike_attack_75x57_58: -8571904331191706123
+      pike_attack_75x57_59: -1939106612711314051
+      pike_attack_75x57_6: 8618945429604776075
+      pike_attack_75x57_60: -8595520741104689259
+      pike_attack_75x57_61: -6454915365658534668
+      pike_attack_75x57_62: 6082296123751674762
+      pike_attack_75x57_63: 6845642691977195875
+      pike_attack_75x57_64: -6356054649058445736
+      pike_attack_75x57_65: 3796597501372575422
+      pike_attack_75x57_66: 6795687702822381446
+      pike_attack_75x57_67: 1716742306169503515
+      pike_attack_75x57_68: -6178413141883569979
+      pike_attack_75x57_69: -401179605922823116
+      pike_attack_75x57_7: 3924996227636509894
+      pike_attack_75x57_70: 926755411027655800
+      pike_attack_75x57_71: -399481353766258786
+      pike_attack_75x57_72: -9029928064779864501
+      pike_attack_75x57_73: 1670883843534090111
+      pike_attack_75x57_74: 8541990027274106283
+      pike_attack_75x57_75: -7964612737683792388
+      pike_attack_75x57_76: -9199274202372021445
+      pike_attack_75x57_77: -5044221838133174113
+      pike_attack_75x57_78: -6433774306671331160
+      pike_attack_75x57_79: 1434024751735756478
+      pike_attack_75x57_8: -1851256611511386643
+      pike_attack_75x57_80: 600788333961003141
+      pike_attack_75x57_81: 1668578170663858194
+      pike_attack_75x57_82: 1994456596974727087
+      pike_attack_75x57_83: -1409084332189214947
+      pike_attack_75x57_84: -2785887274020458238
+      pike_attack_75x57_85: 7561788343333589223
+      pike_attack_75x57_86: -5532175467559554507
+      pike_attack_75x57_87: -555531043592878722
+      pike_attack_75x57_88: -6523103748822604601
+      pike_attack_75x57_89: 8860018892106565158
+      pike_attack_75x57_9: -6898374223769743010
+      pike_attack_75x57_90: -1782991068190990884
+      pike_attack_75x57_91: -2786336988676100385
+      pike_attack_75x57_92: 6973178675584269334
+      pike_attack_75x57_93: 8508554321427223111
+      pike_attack_75x57_94: 5924816343847084269
+      pike_attack_75x57_95: -5063629015802145086
+      pike_attack_75x57_96: -8404274034571641335
+      pike_attack_75x57_97: 5640940282788482140
+      pike_attack_75x57_98: 5292467877700264659
+      pike_attack_75x57_99: -3753523183262484902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2014 @@
+fileFormatVersion: 2
+guid: a576d0c342ecd144fad28d0f48ac14cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6418417302565321285
+    second: weapon_anvil_41x47_0
+  - first:
+      213: -1262370195944464515
+    second: weapon_anvil_41x47_1
+  - first:
+      213: -3677701692790601858
+    second: weapon_anvil_41x47_2
+  - first:
+      213: -1181849340141490825
+    second: weapon_anvil_41x47_3
+  - first:
+      213: 9030162278126319816
+    second: weapon_anvil_41x47_4
+  - first:
+      213: 2273000985383421344
+    second: weapon_anvil_41x47_5
+  - first:
+      213: 6906349460257501603
+    second: weapon_anvil_41x47_6
+  - first:
+      213: 3259657014276661100
+    second: weapon_anvil_41x47_7
+  - first:
+      213: -6737533709657598743
+    second: weapon_anvil_41x47_8
+  - first:
+      213: -1656702885209131117
+    second: weapon_anvil_41x47_9
+  - first:
+      213: 5501756526457316833
+    second: weapon_anvil_41x47_10
+  - first:
+      213: 8034048402699380138
+    second: weapon_anvil_41x47_11
+  - first:
+      213: 3027900542983265415
+    second: weapon_anvil_41x47_12
+  - first:
+      213: -1158080574797772459
+    second: weapon_anvil_41x47_13
+  - first:
+      213: 5878209363572085342
+    second: weapon_anvil_41x47_14
+  - first:
+      213: -297481330910008973
+    second: weapon_anvil_41x47_15
+  - first:
+      213: -3839826168385887520
+    second: weapon_anvil_41x47_16
+  - first:
+      213: 1437526731040338497
+    second: weapon_anvil_41x47_17
+  - first:
+      213: -5658536310206305753
+    second: weapon_anvil_41x47_18
+  - first:
+      213: -1574697286448815086
+    second: weapon_anvil_41x47_19
+  - first:
+      213: 514650588908013830
+    second: weapon_anvil_41x47_20
+  - first:
+      213: -1639455968314019625
+    second: weapon_anvil_41x47_21
+  - first:
+      213: -3947810916631778247
+    second: weapon_anvil_41x47_22
+  - first:
+      213: -4564052808977565352
+    second: weapon_anvil_41x47_23
+  - first:
+      213: -68429639891139532
+    second: weapon_anvil_41x47_24
+  - first:
+      213: -7005679861744848874
+    second: weapon_anvil_41x47_25
+  - first:
+      213: -982113348787961815
+    second: weapon_anvil_41x47_26
+  - first:
+      213: -7933265443789762258
+    second: weapon_anvil_41x47_27
+  - first:
+      213: -1262124337926744665
+    second: weapon_anvil_41x47_28
+  - first:
+      213: -7193487558676828902
+    second: weapon_anvil_41x47_29
+  - first:
+      213: 5542934382901409781
+    second: weapon_anvil_41x47_30
+  - first:
+      213: -3339699404738604674
+    second: weapon_anvil_41x47_31
+  - first:
+      213: 2446934019986938898
+    second: weapon_anvil_41x47_32
+  - first:
+      213: -7207327686344040559
+    second: weapon_anvil_41x47_33
+  - first:
+      213: 2842475456094922696
+    second: weapon_anvil_41x47_34
+  - first:
+      213: -6642922628583575721
+    second: weapon_anvil_41x47_35
+  - first:
+      213: -8278224780493301798
+    second: weapon_anvil_41x47_36
+  - first:
+      213: -1133861156873633939
+    second: weapon_anvil_41x47_37
+  - first:
+      213: 1838301630992386503
+    second: weapon_anvil_41x47_38
+  - first:
+      213: 5320853505016542281
+    second: weapon_anvil_41x47_39
+  - first:
+      213: -3004300356937527328
+    second: weapon_anvil_41x47_40
+  - first:
+      213: -6514899560669829419
+    second: weapon_anvil_41x47_41
+  - first:
+      213: -8327102253839614230
+    second: weapon_anvil_41x47_42
+  - first:
+      213: 703317611043907780
+    second: weapon_anvil_41x47_43
+  - first:
+      213: -2531225987653042845
+    second: weapon_anvil_41x47_44
+  - first:
+      213: 9210157495787452133
+    second: weapon_anvil_41x47_45
+  - first:
+      213: -2323618595103608405
+    second: weapon_anvil_41x47_46
+  - first:
+      213: -6555906961690581497
+    second: weapon_anvil_41x47_47
+  - first:
+      213: 7262015843375209133
+    second: weapon_anvil_41x47_48
+  - first:
+      213: -6433205132781218720
+    second: weapon_anvil_41x47_49
+  - first:
+      213: -7585754063299085874
+    second: weapon_anvil_41x47_50
+  - first:
+      213: 7851022335002383419
+    second: weapon_anvil_41x47_51
+  - first:
+      213: 3057069163037599820
+    second: weapon_anvil_41x47_52
+  - first:
+      213: -5795944609011828348
+    second: weapon_anvil_41x47_53
+  - first:
+      213: 1045606504172696785
+    second: weapon_anvil_41x47_54
+  - first:
+      213: 631667076061756804
+    second: weapon_anvil_41x47_55
+  - first:
+      213: -9113767237308200744
+    second: weapon_anvil_41x47_56
+  - first:
+      213: -3094470026154406746
+    second: weapon_anvil_41x47_57
+  - first:
+      213: -7468148444980059375
+    second: weapon_anvil_41x47_58
+  - first:
+      213: -7797339134920770619
+    second: weapon_anvil_41x47_59
+  - first:
+      213: -3697030794382853916
+    second: weapon_anvil_41x47_60
+  - first:
+      213: 1461521285609098207
+    second: weapon_anvil_41x47_61
+  - first:
+      213: 5178851297431773028
+    second: weapon_anvil_41x47_62
+  - first:
+      213: -1180375278829888922
+    second: weapon_anvil_41x47_63
+  - first:
+      213: 4502723883722313373
+    second: weapon_anvil_41x47_64
+  - first:
+      213: 53739875162506861
+    second: weapon_anvil_41x47_65
+  - first:
+      213: -7273475874152540077
+    second: weapon_anvil_41x47_66
+  - first:
+      213: -6079891079280499062
+    second: weapon_anvil_41x47_67
+  - first:
+      213: -1373061882928543424
+    second: weapon_anvil_41x47_68
+  - first:
+      213: -1443925892738392816
+    second: weapon_anvil_41x47_69
+  - first:
+      213: 3076007267609126665
+    second: weapon_anvil_41x47_70
+  - first:
+      213: -222473809128694862
+    second: weapon_anvil_41x47_71
+  - first:
+      213: -8101055902917582272
+    second: weapon_anvil_41x47_72
+  - first:
+      213: -2931689112468575924
+    second: weapon_anvil_41x47_73
+  - first:
+      213: 6560872680096654142
+    second: weapon_anvil_41x47_74
+  - first:
+      213: -3519933165137974696
+    second: weapon_anvil_41x47_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a70abc78cc21950800000000000000
+      internalID: 6418417302565321285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f90bfbef82b7ee0800000000000000
+      internalID: -1262370195944464515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e770d53bbcd26fcc0800000000000000
+      internalID: -3677701692790601858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d26de694a399fe0800000000000000
+      internalID: -1181849340141490825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f9d38fb4915d70800000000000000
+      internalID: 9030162278126319816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a544e37a525b8f10800000000000000
+      internalID: 2273000985383421344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1fb512e3848df50800000000000000
+      internalID: 6906349460257501603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f1299b8c0ac3d20800000000000000
+      internalID: 3259657014276661100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e493adb9c87f72a0800000000000000
+      internalID: -6737533709657598743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397beb4e0853209e0800000000000000
+      internalID: -1656702885209131117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ec28496a2a5c40800000000000000
+      internalID: 5501756526457316833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e03fb47cae7f60800000000000000
+      internalID: 8034048402699380138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_12
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cdab75083450a20800000000000000
+      internalID: 3027900542983265415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55906ed5adbadefe0800000000000000
+      internalID: -1158080574797772459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_14
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52d617a548939150800000000000000
+      internalID: 5878209363572085342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3796ccf3e422fdbf0800000000000000
+      internalID: -297481330910008973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_16
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22c12b17236bac0800000000000000
+      internalID: -3839826168385887520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_17
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142b9ce02fe13f310800000000000000
+      internalID: 1437526731040338497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_18
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 141
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ae081c437d871b0800000000000000
+      internalID: -5658536310206305753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214627c392d852ae0800000000000000
+      internalID: -1574697286448815086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ce4fdbf7642700800000000000000
+      internalID: 514650588908013830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0bfb7ab7b7f39e0800000000000000
+      internalID: -1639455968314019625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ce0c143ee8639c0800000000000000
+      internalID: -3947810916631778247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859b4c0d62a39a0c0800000000000000
+      internalID: -4564052808977565352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_24
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4344e26ea93ec0ff0800000000000000
+      internalID: -68429639891139532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610379e8843d6ce90800000000000000
+      internalID: -7005679861744848874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920035cdc15de52f0800000000000000
+      internalID: -982113348787961815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2197027c1167e190800000000000000
+      internalID: -7933265443789762258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_28
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a550870a980c7ee0800000000000000
+      internalID: -1262124337926744665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_29
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d20e89d299b2c90800000000000000
+      internalID: -7193487558676828902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7332a14757cec40800000000000000
+      internalID: 5542934382901409781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71d8fbf51107a1d0800000000000000
+      internalID: -3339699404738604674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_32
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd32ad68145f120800000000000000
+      internalID: 2446934019986938898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_33
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f10a3c7ad6afb90800000000000000
+      internalID: -7207327686344040559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ed430e50827720800000000000000
+      internalID: 2842475456094922696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_35
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f2fd4a0199fc3a0800000000000000
+      internalID: -6642922628583575721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_36
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad75cdb0c66dd1d80800000000000000
+      internalID: -8278224780493301798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_37
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 94
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ffee70947b340f0800000000000000
+      internalID: -1133861156873633939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c98259f795f28910800000000000000
+      internalID: 1838301630992386503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_39
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944376c521877d940800000000000000
+      internalID: 5320853505016542281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efc82a2eb49e46d0800000000000000
+      internalID: -3004300356937527328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_41
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d62de2fd5d6695a0800000000000000
+      internalID: -6514899560669829419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeef8877e90307c80800000000000000
+      internalID: -8327102253839614230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_43
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c86c8214afa2c900800000000000000
+      internalID: 703317611043907780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_44
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36df3bf00674fdcd0800000000000000
+      internalID: -2531225987653042845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6ffc5e17d01df70800000000000000
+      internalID: 9210157495787452133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_46
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba17b55e239d0cfd0800000000000000
+      internalID: -2323618595103608405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_47
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7062cef5a5db405a0800000000000000
+      internalID: -6555906961690581497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa53a90fecd7c460800000000000000
+      internalID: 7262015843375209133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_49
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0641b5d240aa8b6a0800000000000000
+      internalID: -6433205132781218720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_50
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9f497dedcf9b690800000000000000
+      internalID: -7585754063299085874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_51
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b349979973f64fc60800000000000000
+      internalID: 7851022335002383419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_52
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4828ace434ec6a20800000000000000
+      internalID: 3057069163037599820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_53
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489720a161ba09fa0800000000000000
+      internalID: -5795944609011828348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_54
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d43d00639db28e00800000000000000
+      internalID: 1045606504172696785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_55
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d78f4ebd124c800800000000000000
+      internalID: 631667076061756804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_56
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 47
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8c6a60cf4658180800000000000000
+      internalID: -9113767237308200744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac09fa08eb3e05d0800000000000000
+      internalID: -3094470026154406746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e317ae8ecb5890800000000000000
+      internalID: -7468148444980059375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_59
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbbbcd6e594ac390800000000000000
+      internalID: -7797339134920770619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_60
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e83129841281bcc0800000000000000
+      internalID: -3697030794382853916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb0764addd584410800000000000000
+      internalID: 1461521285609098207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_62
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fddf7f0d9fed740800000000000000
+      internalID: 5178851297431773028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_63
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a11b310f67e9fe0800000000000000
+      internalID: -1180375278829888922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e8fea0483ec7e30800000000000000
+      internalID: 4502723883722313373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_65
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c559b12ceeb000800000000000000
+      internalID: 53739875162506861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_66
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35893ce9a3c6f0b90800000000000000
+      internalID: -7273475874152540077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a866b6aa643ef9ba0800000000000000
+      internalID: -6079891079280499062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_68
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0494a650e77e1fce0800000000000000
+      internalID: -1373061882928543424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_69
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dd6510d0526fbe0800000000000000
+      internalID: -1443925892738392816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_70
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ac50005c20ba20800000000000000
+      internalID: 3076007267609126665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_71
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb5e03df3d99ecf0800000000000000
+      internalID: -222473809128694862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_72
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0422409d394439f80800000000000000
+      internalID: -8101055902917582272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_73
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c492e63f84c8057d0800000000000000
+      internalID: -2931689112468575924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_74
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33e9b901f6ec0b50800000000000000
+      internalID: 6560872680096654142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_anvil_41x47_75
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa5da8f6fa62fc0800000000000000
+      internalID: -3519933165137974696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      weapon_anvil_41x47_0: 6418417302565321285
+      weapon_anvil_41x47_1: -1262370195944464515
+      weapon_anvil_41x47_10: 5501756526457316833
+      weapon_anvil_41x47_11: 8034048402699380138
+      weapon_anvil_41x47_12: 3027900542983265415
+      weapon_anvil_41x47_13: -1158080574797772459
+      weapon_anvil_41x47_14: 5878209363572085342
+      weapon_anvil_41x47_15: -297481330910008973
+      weapon_anvil_41x47_16: -3839826168385887520
+      weapon_anvil_41x47_17: 1437526731040338497
+      weapon_anvil_41x47_18: -5658536310206305753
+      weapon_anvil_41x47_19: -1574697286448815086
+      weapon_anvil_41x47_2: -3677701692790601858
+      weapon_anvil_41x47_20: 514650588908013830
+      weapon_anvil_41x47_21: -1639455968314019625
+      weapon_anvil_41x47_22: -3947810916631778247
+      weapon_anvil_41x47_23: -4564052808977565352
+      weapon_anvil_41x47_24: -68429639891139532
+      weapon_anvil_41x47_25: -7005679861744848874
+      weapon_anvil_41x47_26: -982113348787961815
+      weapon_anvil_41x47_27: -7933265443789762258
+      weapon_anvil_41x47_28: -1262124337926744665
+      weapon_anvil_41x47_29: -7193487558676828902
+      weapon_anvil_41x47_3: -1181849340141490825
+      weapon_anvil_41x47_30: 5542934382901409781
+      weapon_anvil_41x47_31: -3339699404738604674
+      weapon_anvil_41x47_32: 2446934019986938898
+      weapon_anvil_41x47_33: -7207327686344040559
+      weapon_anvil_41x47_34: 2842475456094922696
+      weapon_anvil_41x47_35: -6642922628583575721
+      weapon_anvil_41x47_36: -8278224780493301798
+      weapon_anvil_41x47_37: -1133861156873633939
+      weapon_anvil_41x47_38: 1838301630992386503
+      weapon_anvil_41x47_39: 5320853505016542281
+      weapon_anvil_41x47_4: 9030162278126319816
+      weapon_anvil_41x47_40: -3004300356937527328
+      weapon_anvil_41x47_41: -6514899560669829419
+      weapon_anvil_41x47_42: -8327102253839614230
+      weapon_anvil_41x47_43: 703317611043907780
+      weapon_anvil_41x47_44: -2531225987653042845
+      weapon_anvil_41x47_45: 9210157495787452133
+      weapon_anvil_41x47_46: -2323618595103608405
+      weapon_anvil_41x47_47: -6555906961690581497
+      weapon_anvil_41x47_48: 7262015843375209133
+      weapon_anvil_41x47_49: -6433205132781218720
+      weapon_anvil_41x47_5: 2273000985383421344
+      weapon_anvil_41x47_50: -7585754063299085874
+      weapon_anvil_41x47_51: 7851022335002383419
+      weapon_anvil_41x47_52: 3057069163037599820
+      weapon_anvil_41x47_53: -5795944609011828348
+      weapon_anvil_41x47_54: 1045606504172696785
+      weapon_anvil_41x47_55: 631667076061756804
+      weapon_anvil_41x47_56: -9113767237308200744
+      weapon_anvil_41x47_57: -3094470026154406746
+      weapon_anvil_41x47_58: -7468148444980059375
+      weapon_anvil_41x47_59: -7797339134920770619
+      weapon_anvil_41x47_6: 6906349460257501603
+      weapon_anvil_41x47_60: -3697030794382853916
+      weapon_anvil_41x47_61: 1461521285609098207
+      weapon_anvil_41x47_62: 5178851297431773028
+      weapon_anvil_41x47_63: -1180375278829888922
+      weapon_anvil_41x47_64: 4502723883722313373
+      weapon_anvil_41x47_65: 53739875162506861
+      weapon_anvil_41x47_66: -7273475874152540077
+      weapon_anvil_41x47_67: -6079891079280499062
+      weapon_anvil_41x47_68: -1373061882928543424
+      weapon_anvil_41x47_69: -1443925892738392816
+      weapon_anvil_41x47_7: 3259657014276661100
+      weapon_anvil_41x47_70: 3076007267609126665
+      weapon_anvil_41x47_71: -222473809128694862
+      weapon_anvil_41x47_72: -8101055902917582272
+      weapon_anvil_41x47_73: -2931689112468575924
+      weapon_anvil_41x47_74: 6560872680096654142
+      weapon_anvil_41x47_75: -3519933165137974696
+      weapon_anvil_41x47_8: -6737533709657598743
+      weapon_anvil_41x47_9: -1656702885209131117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

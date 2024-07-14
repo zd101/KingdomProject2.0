@@ -1,0 +1,2214 @@
+fileFormatVersion: 2
+guid: 80bfeb4e6e36d074b85b04b6a4899ab0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -87205405080263284
+    second: dagger-buckler_attack_56x30_0
+  - first:
+      213: 4910799486776337541
+    second: dagger-buckler_attack_56x30_1
+  - first:
+      213: -7272215480533894155
+    second: dagger-buckler_attack_56x30_2
+  - first:
+      213: -6101831145562593990
+    second: dagger-buckler_attack_56x30_3
+  - first:
+      213: -796681743071689287
+    second: dagger-buckler_attack_56x30_4
+  - first:
+      213: -3391355631931554654
+    second: dagger-buckler_attack_56x30_5
+  - first:
+      213: -4421734327267796410
+    second: dagger-buckler_attack_56x30_6
+  - first:
+      213: 3732521434803255517
+    second: dagger-buckler_attack_56x30_7
+  - first:
+      213: 7253085928155910702
+    second: dagger-buckler_attack_56x30_8
+  - first:
+      213: -1609071463865370033
+    second: dagger-buckler_attack_56x30_9
+  - first:
+      213: 3924257319119716848
+    second: dagger-buckler_attack_56x30_10
+  - first:
+      213: -1148817426505613258
+    second: dagger-buckler_attack_56x30_11
+  - first:
+      213: 9015884918072780498
+    second: dagger-buckler_attack_56x30_12
+  - first:
+      213: 7141191773095537070
+    second: dagger-buckler_attack_56x30_13
+  - first:
+      213: 4902195772212925593
+    second: dagger-buckler_attack_56x30_14
+  - first:
+      213: -587995513783691517
+    second: dagger-buckler_attack_56x30_15
+  - first:
+      213: 3543422856929947441
+    second: dagger-buckler_attack_56x30_16
+  - first:
+      213: -3336368546736756872
+    second: dagger-buckler_attack_56x30_17
+  - first:
+      213: 4578475731891404216
+    second: dagger-buckler_attack_56x30_18
+  - first:
+      213: -3932148678565850910
+    second: dagger-buckler_attack_56x30_19
+  - first:
+      213: 1330716181191991250
+    second: dagger-buckler_attack_56x30_20
+  - first:
+      213: 9214839671898370933
+    second: dagger-buckler_attack_56x30_21
+  - first:
+      213: -5278208860472654867
+    second: dagger-buckler_attack_56x30_22
+  - first:
+      213: -1698665920077305486
+    second: dagger-buckler_attack_56x30_23
+  - first:
+      213: 4245993681415171044
+    second: dagger-buckler_attack_56x30_24
+  - first:
+      213: -2824580597323223231
+    second: dagger-buckler_attack_56x30_25
+  - first:
+      213: -5819710348176915423
+    second: dagger-buckler_attack_56x30_26
+  - first:
+      213: 2477155100102529227
+    second: dagger-buckler_attack_56x30_27
+  - first:
+      213: -5729223820191071448
+    second: dagger-buckler_attack_56x30_28
+  - first:
+      213: 6063946828922689315
+    second: dagger-buckler_attack_56x30_29
+  - first:
+      213: -2710014088132850598
+    second: dagger-buckler_attack_56x30_30
+  - first:
+      213: 1276116838698565289
+    second: dagger-buckler_attack_56x30_31
+  - first:
+      213: 8679101907929694295
+    second: dagger-buckler_attack_56x30_32
+  - first:
+      213: -522716773508268519
+    second: dagger-buckler_attack_56x30_33
+  - first:
+      213: 3100720974259080605
+    second: dagger-buckler_attack_56x30_34
+  - first:
+      213: 6591345696146631390
+    second: dagger-buckler_attack_56x30_35
+  - first:
+      213: -5612573670027105301
+    second: dagger-buckler_attack_56x30_36
+  - first:
+      213: -5508099424686356866
+    second: dagger-buckler_attack_56x30_37
+  - first:
+      213: 4833866333230418362
+    second: dagger-buckler_attack_56x30_38
+  - first:
+      213: 8850061484948117752
+    second: dagger-buckler_attack_56x30_39
+  - first:
+      213: -5815213876547720276
+    second: dagger-buckler_attack_56x30_40
+  - first:
+      213: 1597889179087229615
+    second: dagger-buckler_attack_56x30_41
+  - first:
+      213: -3092957760058061407
+    second: dagger-buckler_attack_56x30_42
+  - first:
+      213: -2687038598585981333
+    second: dagger-buckler_attack_56x30_43
+  - first:
+      213: -1241278367518275540
+    second: dagger-buckler_attack_56x30_44
+  - first:
+      213: -59842427453935760
+    second: dagger-buckler_attack_56x30_45
+  - first:
+      213: -1443037119145622703
+    second: dagger-buckler_attack_56x30_46
+  - first:
+      213: 2363000565876804464
+    second: dagger-buckler_attack_56x30_47
+  - first:
+      213: 4070561503648095975
+    second: dagger-buckler_attack_56x30_48
+  - first:
+      213: -5752091958783587572
+    second: dagger-buckler_attack_56x30_49
+  - first:
+      213: 2937491841750449179
+    second: dagger-buckler_attack_56x30_50
+  - first:
+      213: 6363705817304255077
+    second: dagger-buckler_attack_56x30_51
+  - first:
+      213: 7187963646354129630
+    second: dagger-buckler_attack_56x30_52
+  - first:
+      213: 105798817731061177
+    second: dagger-buckler_attack_56x30_53
+  - first:
+      213: 2849201124421637458
+    second: dagger-buckler_attack_56x30_54
+  - first:
+      213: -5402095823834350636
+    second: dagger-buckler_attack_56x30_55
+  - first:
+      213: 1450381878122420666
+    second: dagger-buckler_attack_56x30_56
+  - first:
+      213: -7356890547495288848
+    second: dagger-buckler_attack_56x30_57
+  - first:
+      213: -645249330252308943
+    second: dagger-buckler_attack_56x30_58
+  - first:
+      213: 20793486692879769
+    second: dagger-buckler_attack_56x30_59
+  - first:
+      213: -286268272850028472
+    second: dagger-buckler_attack_56x30_60
+  - first:
+      213: 7102435404830985998
+    second: dagger-buckler_attack_56x30_61
+  - first:
+      213: 1693171199238216717
+    second: dagger-buckler_attack_56x30_62
+  - first:
+      213: -3623977292566594451
+    second: dagger-buckler_attack_56x30_63
+  - first:
+      213: 7727281435993776103
+    second: dagger-buckler_attack_56x30_64
+  - first:
+      213: 2727294320099693770
+    second: dagger-buckler_attack_56x30_65
+  - first:
+      213: -1327653660760584867
+    second: dagger-buckler_attack_56x30_66
+  - first:
+      213: -7125701165437468910
+    second: dagger-buckler_attack_56x30_67
+  - first:
+      213: 1641569703112092887
+    second: dagger-buckler_attack_56x30_68
+  - first:
+      213: -8042578517372478154
+    second: dagger-buckler_attack_56x30_69
+  - first:
+      213: -1606583585436440951
+    second: dagger-buckler_attack_56x30_70
+  - first:
+      213: 3294080520111348780
+    second: dagger-buckler_attack_56x30_71
+  - first:
+      213: -2936672699614999286
+    second: dagger-buckler_attack_56x30_72
+  - first:
+      213: 4762620671202301526
+    second: dagger-buckler_attack_56x30_73
+  - first:
+      213: -4945045330716430054
+    second: dagger-buckler_attack_56x30_74
+  - first:
+      213: -2153539810506168699
+    second: dagger-buckler_attack_56x30_75
+  - first:
+      213: 4129818585479500635
+    second: dagger-buckler_attack_56x30_76
+  - first:
+      213: 8522688674295081995
+    second: dagger-buckler_attack_56x30_77
+  - first:
+      213: 668957287486083122
+    second: dagger-buckler_attack_56x30_78
+  - first:
+      213: 7173861834494726967
+    second: dagger-buckler_attack_56x30_79
+  - first:
+      213: 1653008670329167226
+    second: dagger-buckler_attack_56x30_80
+  - first:
+      213: 250193957333752809
+    second: dagger-buckler_attack_56x30_81
+  - first:
+      213: 7660641409971536058
+    second: dagger-buckler_attack_56x30_82
+  - first:
+      213: 5559304147518700262
+    second: dagger-buckler_attack_56x30_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8562b7652f2acef0800000000000000
+      internalID: -87205405080263284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584697c5d1aa62440800000000000000
+      internalID: 4910799486776337541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb3ea0ec86e31b90800000000000000
+      internalID: -7272215480533894155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a359e6e0f15ba0800000000000000
+      internalID: -6101831145562593990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b54c29fc2e91f4f0800000000000000
+      internalID: -796681743071689287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a403bb550c7fe0d0800000000000000
+      internalID: -3391355631931554654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a5d048e08d2a2c0800000000000000
+      internalID: -4421734327267796410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8bafd18749cc330800000000000000
+      internalID: 3732521434803255517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e221e11293328a460800000000000000
+      internalID: 7253085928155910702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a3612670e6ba9e0800000000000000
+      internalID: -1609071463865370033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f18b597d33c57630800000000000000
+      internalID: 3924257319119716848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630ca5523a49e00f0800000000000000
+      internalID: -1148817426505613258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6a785909bde1d70800000000000000
+      internalID: 9015884918072780498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea92d4cf41c9a1360800000000000000
+      internalID: 7141191773095537070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9945c26f419180440800000000000000
+      internalID: 4902195772212925593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307566f023507d7f0800000000000000
+      internalID: -587995513783691517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f2f448054cc2130800000000000000
+      internalID: 3543422856929947441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87728fbcb76d2b1d0800000000000000
+      internalID: -3336368546736756872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd322c9b630a8f30800000000000000
+      internalID: 4578475731891404216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e09f0a3c933e69c0800000000000000
+      internalID: -3932148678565850910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df10dcf057a77210800000000000000
+      internalID: 1330716181191991250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_21
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573fda9fbdfa1ef70800000000000000
+      internalID: 9214839671898370933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3453da10900c6b0800000000000000
+      internalID: -5278208860472654867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279eab978502d68e0800000000000000
+      internalID: -1698665920077305486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebed4bc1ccccea30800000000000000
+      internalID: 4245993681415171044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_25
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fa61979e21dc8d0800000000000000
+      internalID: -2824580597323223231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1240041c54c3c3fa0800000000000000
+      internalID: -5819710348176915423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_27
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc09823607f906220800000000000000
+      internalID: 2477155100102529227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8230ece4a45bd70b0800000000000000
+      internalID: -5729223820191071448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3271bc24387772450800000000000000
+      internalID: 6063946828922689315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c898c8b88146ad0800000000000000
+      internalID: -2710014088132850598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeb58ee08da5b110800000000000000
+      internalID: 1276116838698565289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750809f833d527870800000000000000
+      internalID: 8679101907929694295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eb6ec2ddfeeb8f0800000000000000
+      internalID: -522716773508268519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc05a3c49f70b20800000000000000
+      internalID: 3100720974259080605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaae9afcf9297b50800000000000000
+      internalID: 6591345696146631390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebe25adbf12c12b0800000000000000
+      internalID: -5612573670027105301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e764904a1cc4f83b0800000000000000
+      internalID: -5508099424686356866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab94be3b1d7551340800000000000000
+      internalID: 4833866333230418362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_39
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8d2bae70cb1da70800000000000000
+      internalID: 8850061484948117752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab63732ac53c4fa0800000000000000
+      internalID: -5815213876547720276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_41
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa25fed0eb7dc2610800000000000000
+      internalID: 1597889179087229615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad837eed4b9315d0800000000000000
+      internalID: -3092957760058061407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66e48191a8b5bad0800000000000000
+      internalID: -2687038598585981333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2842bcb6e716cee0800000000000000
+      internalID: -1241278367518275540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f6c1911a56b2ff0800000000000000
+      internalID: -59842427453935760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1534f9bb26d49fbe0800000000000000
+      internalID: -1443037119145622703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b4225be701bc020800000000000000
+      internalID: 2363000565876804464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee135dee1a8d7830800000000000000
+      internalID: 4070561503648095975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bc251e6d67c20b0800000000000000
+      internalID: -5752091958783587572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cb42e344114c820800000000000000
+      internalID: 2937491841750449179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ac18779bc605850800000000000000
+      internalID: 6363705817304255077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed20c575ad6c0c360800000000000000
+      internalID: 7187963646354129630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_53
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b52484d67fd77100800000000000000
+      internalID: 105798817731061177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_54
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2559bc2b3556a8720800000000000000
+      internalID: 2849201124421637458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_55
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db7bb14876e705b0800000000000000
+      internalID: -5402095823834350636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9962a32aac02410800000000000000
+      internalID: 1450381878122420666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff3d19860317e990800000000000000
+      internalID: -7356890547495288848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e90ce172d9b07f0800000000000000
+      internalID: -645249330252308943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d88f3e09fd94000800000000000000
+      internalID: 20793486692879769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8483f46c588f60cf0800000000000000
+      internalID: -286268272850028472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_61
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fcb11de5be09260800000000000000
+      internalID: 7102435404830985998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c14822c3a5f7710800000000000000
+      internalID: 1693171199238216717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_63
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c7c726adb05bdc0800000000000000
+      internalID: -3623977292566594451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef11ef6681dc3b60800000000000000
+      internalID: 7727281435993776103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_65
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49b7bfbbb49d520800000000000000
+      internalID: 2727294320099693770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d4e9d970a339de0800000000000000
+      internalID: -1327653660760584867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_67
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f338a2b8c6c1d90800000000000000
+      internalID: -7125701165437468910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc2a0492f608c610800000000000000
+      internalID: 1641569703112092887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_69
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d53d92375036090800000000000000
+      internalID: -8042578517372478154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9866618bdb444b9e0800000000000000
+      internalID: -1606583585436440951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c55ceb7cce6bd20800000000000000
+      internalID: 3294080520111348780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d4cd52db7de37d0800000000000000
+      internalID: -2936672699614999286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65612fa544a381240800000000000000
+      internalID: 4762620671202301526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a117170c87baf5bb0800000000000000
+      internalID: -4945045330716430054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5862e19c3f61d12e0800000000000000
+      internalID: -2153539810506168699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53df4e6f10105930800000000000000
+      internalID: 4129818585479500635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_77
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c6a92b13ca64670800000000000000
+      internalID: 8522688674295081995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2305482db1d984900800000000000000
+      internalID: 668957287486083122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7335ac8645dae8360800000000000000
+      internalID: 7173861834494726967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_80
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d5c9da0aaa0f610800000000000000
+      internalID: 1653008670329167226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_81
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebd3df141ed87300800000000000000
+      internalID: 250193957333752809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_82
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0400946c0105a60800000000000000
+      internalID: 7660641409971536058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-buckler_attack_56x30_83
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea353feaad962d40800000000000000
+      internalID: 5559304147518700262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dagger-buckler_attack_56x30_0: -87205405080263284
+      dagger-buckler_attack_56x30_1: 4910799486776337541
+      dagger-buckler_attack_56x30_10: 3924257319119716848
+      dagger-buckler_attack_56x30_11: -1148817426505613258
+      dagger-buckler_attack_56x30_12: 9015884918072780498
+      dagger-buckler_attack_56x30_13: 7141191773095537070
+      dagger-buckler_attack_56x30_14: 4902195772212925593
+      dagger-buckler_attack_56x30_15: -587995513783691517
+      dagger-buckler_attack_56x30_16: 3543422856929947441
+      dagger-buckler_attack_56x30_17: -3336368546736756872
+      dagger-buckler_attack_56x30_18: 4578475731891404216
+      dagger-buckler_attack_56x30_19: -3932148678565850910
+      dagger-buckler_attack_56x30_2: -7272215480533894155
+      dagger-buckler_attack_56x30_20: 1330716181191991250
+      dagger-buckler_attack_56x30_21: 9214839671898370933
+      dagger-buckler_attack_56x30_22: -5278208860472654867
+      dagger-buckler_attack_56x30_23: -1698665920077305486
+      dagger-buckler_attack_56x30_24: 4245993681415171044
+      dagger-buckler_attack_56x30_25: -2824580597323223231
+      dagger-buckler_attack_56x30_26: -5819710348176915423
+      dagger-buckler_attack_56x30_27: 2477155100102529227
+      dagger-buckler_attack_56x30_28: -5729223820191071448
+      dagger-buckler_attack_56x30_29: 6063946828922689315
+      dagger-buckler_attack_56x30_3: -6101831145562593990
+      dagger-buckler_attack_56x30_30: -2710014088132850598
+      dagger-buckler_attack_56x30_31: 1276116838698565289
+      dagger-buckler_attack_56x30_32: 8679101907929694295
+      dagger-buckler_attack_56x30_33: -522716773508268519
+      dagger-buckler_attack_56x30_34: 3100720974259080605
+      dagger-buckler_attack_56x30_35: 6591345696146631390
+      dagger-buckler_attack_56x30_36: -5612573670027105301
+      dagger-buckler_attack_56x30_37: -5508099424686356866
+      dagger-buckler_attack_56x30_38: 4833866333230418362
+      dagger-buckler_attack_56x30_39: 8850061484948117752
+      dagger-buckler_attack_56x30_4: -796681743071689287
+      dagger-buckler_attack_56x30_40: -5815213876547720276
+      dagger-buckler_attack_56x30_41: 1597889179087229615
+      dagger-buckler_attack_56x30_42: -3092957760058061407
+      dagger-buckler_attack_56x30_43: -2687038598585981333
+      dagger-buckler_attack_56x30_44: -1241278367518275540
+      dagger-buckler_attack_56x30_45: -59842427453935760
+      dagger-buckler_attack_56x30_46: -1443037119145622703
+      dagger-buckler_attack_56x30_47: 2363000565876804464
+      dagger-buckler_attack_56x30_48: 4070561503648095975
+      dagger-buckler_attack_56x30_49: -5752091958783587572
+      dagger-buckler_attack_56x30_5: -3391355631931554654
+      dagger-buckler_attack_56x30_50: 2937491841750449179
+      dagger-buckler_attack_56x30_51: 6363705817304255077
+      dagger-buckler_attack_56x30_52: 7187963646354129630
+      dagger-buckler_attack_56x30_53: 105798817731061177
+      dagger-buckler_attack_56x30_54: 2849201124421637458
+      dagger-buckler_attack_56x30_55: -5402095823834350636
+      dagger-buckler_attack_56x30_56: 1450381878122420666
+      dagger-buckler_attack_56x30_57: -7356890547495288848
+      dagger-buckler_attack_56x30_58: -645249330252308943
+      dagger-buckler_attack_56x30_59: 20793486692879769
+      dagger-buckler_attack_56x30_6: -4421734327267796410
+      dagger-buckler_attack_56x30_60: -286268272850028472
+      dagger-buckler_attack_56x30_61: 7102435404830985998
+      dagger-buckler_attack_56x30_62: 1693171199238216717
+      dagger-buckler_attack_56x30_63: -3623977292566594451
+      dagger-buckler_attack_56x30_64: 7727281435993776103
+      dagger-buckler_attack_56x30_65: 2727294320099693770
+      dagger-buckler_attack_56x30_66: -1327653660760584867
+      dagger-buckler_attack_56x30_67: -7125701165437468910
+      dagger-buckler_attack_56x30_68: 1641569703112092887
+      dagger-buckler_attack_56x30_69: -8042578517372478154
+      dagger-buckler_attack_56x30_7: 3732521434803255517
+      dagger-buckler_attack_56x30_70: -1606583585436440951
+      dagger-buckler_attack_56x30_71: 3294080520111348780
+      dagger-buckler_attack_56x30_72: -2936672699614999286
+      dagger-buckler_attack_56x30_73: 4762620671202301526
+      dagger-buckler_attack_56x30_74: -4945045330716430054
+      dagger-buckler_attack_56x30_75: -2153539810506168699
+      dagger-buckler_attack_56x30_76: 4129818585479500635
+      dagger-buckler_attack_56x30_77: 8522688674295081995
+      dagger-buckler_attack_56x30_78: 668957287486083122
+      dagger-buckler_attack_56x30_79: 7173861834494726967
+      dagger-buckler_attack_56x30_8: 7253085928155910702
+      dagger-buckler_attack_56x30_80: 1653008670329167226
+      dagger-buckler_attack_56x30_81: 250193957333752809
+      dagger-buckler_attack_56x30_82: 7660641409971536058
+      dagger-buckler_attack_56x30_83: 5559304147518700262
+      dagger-buckler_attack_56x30_9: -1609071463865370033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

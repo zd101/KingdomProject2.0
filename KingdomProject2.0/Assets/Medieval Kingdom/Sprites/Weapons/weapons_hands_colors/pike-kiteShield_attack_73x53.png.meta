@@ -1,0 +1,5514 @@
+fileFormatVersion: 2
+guid: fc2acc49cfe295443ad15eaf205c76cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3761416008176451535
+    second: pike-kiteShield_attack_73x53_0
+  - first:
+      213: 5318212217826584861
+    second: pike-kiteShield_attack_73x53_1
+  - first:
+      213: 1004526745841276092
+    second: pike-kiteShield_attack_73x53_2
+  - first:
+      213: -2116970894666832629
+    second: pike-kiteShield_attack_73x53_3
+  - first:
+      213: 489816764122445096
+    second: pike-kiteShield_attack_73x53_4
+  - first:
+      213: -1756553541472687891
+    second: pike-kiteShield_attack_73x53_5
+  - first:
+      213: 8552517116791602593
+    second: pike-kiteShield_attack_73x53_6
+  - first:
+      213: -2993074956100163541
+    second: pike-kiteShield_attack_73x53_7
+  - first:
+      213: 8523809866719261277
+    second: pike-kiteShield_attack_73x53_8
+  - first:
+      213: -861877002139444444
+    second: pike-kiteShield_attack_73x53_9
+  - first:
+      213: -7665407908650728832
+    second: pike-kiteShield_attack_73x53_10
+  - first:
+      213: -7502312535142452192
+    second: pike-kiteShield_attack_73x53_11
+  - first:
+      213: 5068166092043280290
+    second: pike-kiteShield_attack_73x53_12
+  - first:
+      213: -8233183615091009457
+    second: pike-kiteShield_attack_73x53_13
+  - first:
+      213: 835703170917445306
+    second: pike-kiteShield_attack_73x53_14
+  - first:
+      213: 230380961137186004
+    second: pike-kiteShield_attack_73x53_15
+  - first:
+      213: 4389936682943044987
+    second: pike-kiteShield_attack_73x53_16
+  - first:
+      213: -903734668260923281
+    second: pike-kiteShield_attack_73x53_17
+  - first:
+      213: -2966493555017384277
+    second: pike-kiteShield_attack_73x53_18
+  - first:
+      213: -2033908131540775280
+    second: pike-kiteShield_attack_73x53_19
+  - first:
+      213: 2465718534492371625
+    second: pike-kiteShield_attack_73x53_20
+  - first:
+      213: 5684380748383546264
+    second: pike-kiteShield_attack_73x53_21
+  - first:
+      213: 6797911030322102788
+    second: pike-kiteShield_attack_73x53_22
+  - first:
+      213: 4424920630592883709
+    second: pike-kiteShield_attack_73x53_23
+  - first:
+      213: 4562744928384910640
+    second: pike-kiteShield_attack_73x53_24
+  - first:
+      213: 3726348065035348825
+    second: pike-kiteShield_attack_73x53_25
+  - first:
+      213: -4436305745236177256
+    second: pike-kiteShield_attack_73x53_26
+  - first:
+      213: -4888832041404954488
+    second: pike-kiteShield_attack_73x53_27
+  - first:
+      213: -3824817095755035128
+    second: pike-kiteShield_attack_73x53_28
+  - first:
+      213: 6356704637908092091
+    second: pike-kiteShield_attack_73x53_29
+  - first:
+      213: 2433082777101343669
+    second: pike-kiteShield_attack_73x53_30
+  - first:
+      213: 8734008557741500219
+    second: pike-kiteShield_attack_73x53_31
+  - first:
+      213: -500442982478136612
+    second: pike-kiteShield_attack_73x53_32
+  - first:
+      213: -2344363722373890902
+    second: pike-kiteShield_attack_73x53_33
+  - first:
+      213: -4381327718847565647
+    second: pike-kiteShield_attack_73x53_34
+  - first:
+      213: -5113395456154600041
+    second: pike-kiteShield_attack_73x53_35
+  - first:
+      213: -8195840084410407868
+    second: pike-kiteShield_attack_73x53_36
+  - first:
+      213: -8115826768786659633
+    second: pike-kiteShield_attack_73x53_37
+  - first:
+      213: -1963741214486658856
+    second: pike-kiteShield_attack_73x53_38
+  - first:
+      213: 6467992912966414977
+    second: pike-kiteShield_attack_73x53_39
+  - first:
+      213: 4122222311251771423
+    second: pike-kiteShield_attack_73x53_40
+  - first:
+      213: -266558266485071356
+    second: pike-kiteShield_attack_73x53_41
+  - first:
+      213: -7996744368236426110
+    second: pike-kiteShield_attack_73x53_42
+  - first:
+      213: 4741848287937663209
+    second: pike-kiteShield_attack_73x53_43
+  - first:
+      213: -5665951775818977015
+    second: pike-kiteShield_attack_73x53_44
+  - first:
+      213: -4783064626453613194
+    second: pike-kiteShield_attack_73x53_45
+  - first:
+      213: 7724047251580265184
+    second: pike-kiteShield_attack_73x53_46
+  - first:
+      213: -1921459103399410837
+    second: pike-kiteShield_attack_73x53_47
+  - first:
+      213: -4035696311235312407
+    second: pike-kiteShield_attack_73x53_48
+  - first:
+      213: -5989821990524514690
+    second: pike-kiteShield_attack_73x53_49
+  - first:
+      213: -2357473810755258937
+    second: pike-kiteShield_attack_73x53_50
+  - first:
+      213: -3370645051293284409
+    second: pike-kiteShield_attack_73x53_51
+  - first:
+      213: 293011446240170796
+    second: pike-kiteShield_attack_73x53_52
+  - first:
+      213: 7040399676437759957
+    second: pike-kiteShield_attack_73x53_53
+  - first:
+      213: 1975972913121146411
+    second: pike-kiteShield_attack_73x53_54
+  - first:
+      213: -8986652520496568023
+    second: pike-kiteShield_attack_73x53_55
+  - first:
+      213: -21876185604757626
+    second: pike-kiteShield_attack_73x53_56
+  - first:
+      213: -6654287720787981300
+    second: pike-kiteShield_attack_73x53_57
+  - first:
+      213: -1468861858530929381
+    second: pike-kiteShield_attack_73x53_58
+  - first:
+      213: 8275789715332842810
+    second: pike-kiteShield_attack_73x53_59
+  - first:
+      213: 2505334383778453963
+    second: pike-kiteShield_attack_73x53_60
+  - first:
+      213: -8599372734527905416
+    second: pike-kiteShield_attack_73x53_61
+  - first:
+      213: -5459674849790562370
+    second: pike-kiteShield_attack_73x53_62
+  - first:
+      213: 7930946027757133767
+    second: pike-kiteShield_attack_73x53_63
+  - first:
+      213: -5129368316960920690
+    second: pike-kiteShield_attack_73x53_64
+  - first:
+      213: -4127570182683924287
+    second: pike-kiteShield_attack_73x53_65
+  - first:
+      213: 4232846048650345559
+    second: pike-kiteShield_attack_73x53_66
+  - first:
+      213: -1697671630312336009
+    second: pike-kiteShield_attack_73x53_67
+  - first:
+      213: 1189130781259360411
+    second: pike-kiteShield_attack_73x53_68
+  - first:
+      213: -3463617482710830155
+    second: pike-kiteShield_attack_73x53_69
+  - first:
+      213: 1023970900997539182
+    second: pike-kiteShield_attack_73x53_70
+  - first:
+      213: -8773878418594899048
+    second: pike-kiteShield_attack_73x53_71
+  - first:
+      213: -5406179171064401521
+    second: pike-kiteShield_attack_73x53_72
+  - first:
+      213: 2692954679535795635
+    second: pike-kiteShield_attack_73x53_73
+  - first:
+      213: 5717432430376052114
+    second: pike-kiteShield_attack_73x53_74
+  - first:
+      213: 4960965818596556352
+    second: pike-kiteShield_attack_73x53_75
+  - first:
+      213: 9173834293795032819
+    second: pike-kiteShield_attack_73x53_76
+  - first:
+      213: 5429765300304483010
+    second: pike-kiteShield_attack_73x53_77
+  - first:
+      213: -2341244502890497892
+    second: pike-kiteShield_attack_73x53_78
+  - first:
+      213: 4886583715094335540
+    second: pike-kiteShield_attack_73x53_79
+  - first:
+      213: 394369261435607349
+    second: pike-kiteShield_attack_73x53_80
+  - first:
+      213: 8999975472223071006
+    second: pike-kiteShield_attack_73x53_81
+  - first:
+      213: -8202676779445076983
+    second: pike-kiteShield_attack_73x53_82
+  - first:
+      213: 1988812344631264446
+    second: pike-kiteShield_attack_73x53_83
+  - first:
+      213: -5309445483762210772
+    second: pike-kiteShield_attack_73x53_84
+  - first:
+      213: -2055081066694937817
+    second: pike-kiteShield_attack_73x53_85
+  - first:
+      213: 517088170250071714
+    second: pike-kiteShield_attack_73x53_86
+  - first:
+      213: -2637653635205236817
+    second: pike-kiteShield_attack_73x53_87
+  - first:
+      213: -6154995746302464504
+    second: pike-kiteShield_attack_73x53_88
+  - first:
+      213: 5726703312154636870
+    second: pike-kiteShield_attack_73x53_89
+  - first:
+      213: -6257469223584795279
+    second: pike-kiteShield_attack_73x53_90
+  - first:
+      213: -8042849173179540093
+    second: pike-kiteShield_attack_73x53_91
+  - first:
+      213: 6797623584336232638
+    second: pike-kiteShield_attack_73x53_92
+  - first:
+      213: -514240219660735901
+    second: pike-kiteShield_attack_73x53_93
+  - first:
+      213: 5704589447498787413
+    second: pike-kiteShield_attack_73x53_94
+  - first:
+      213: -8877486806495603929
+    second: pike-kiteShield_attack_73x53_95
+  - first:
+      213: 5640492468457057552
+    second: pike-kiteShield_attack_73x53_96
+  - first:
+      213: -8832782984580774395
+    second: pike-kiteShield_attack_73x53_97
+  - first:
+      213: 6755210888813041247
+    second: pike-kiteShield_attack_73x53_98
+  - first:
+      213: 5269362132939990410
+    second: pike-kiteShield_attack_73x53_99
+  - first:
+      213: -3490374347754562800
+    second: pike-kiteShield_attack_73x53_100
+  - first:
+      213: -8718522082736309170
+    second: pike-kiteShield_attack_73x53_101
+  - first:
+      213: -8198056975540777166
+    second: pike-kiteShield_attack_73x53_102
+  - first:
+      213: -5345225360855455921
+    second: pike-kiteShield_attack_73x53_103
+  - first:
+      213: -509551262279204269
+    second: pike-kiteShield_attack_73x53_104
+  - first:
+      213: -6387154383870572363
+    second: pike-kiteShield_attack_73x53_105
+  - first:
+      213: -3165905848836510883
+    second: pike-kiteShield_attack_73x53_106
+  - first:
+      213: 8318551345433093048
+    second: pike-kiteShield_attack_73x53_107
+  - first:
+      213: -3973108784922321783
+    second: pike-kiteShield_attack_73x53_108
+  - first:
+      213: 2421662249595802317
+    second: pike-kiteShield_attack_73x53_109
+  - first:
+      213: -481254641807671005
+    second: pike-kiteShield_attack_73x53_110
+  - first:
+      213: -2900278605380917842
+    second: pike-kiteShield_attack_73x53_111
+  - first:
+      213: -5727826845202926003
+    second: pike-kiteShield_attack_73x53_112
+  - first:
+      213: 7612303117570534380
+    second: pike-kiteShield_attack_73x53_113
+  - first:
+      213: -7387327040841933680
+    second: pike-kiteShield_attack_73x53_114
+  - first:
+      213: -285822112739477938
+    second: pike-kiteShield_attack_73x53_115
+  - first:
+      213: -6574398124862250021
+    second: pike-kiteShield_attack_73x53_116
+  - first:
+      213: 3267259676523200598
+    second: pike-kiteShield_attack_73x53_117
+  - first:
+      213: 897937216028223156
+    second: pike-kiteShield_attack_73x53_118
+  - first:
+      213: 8536209663273757337
+    second: pike-kiteShield_attack_73x53_119
+  - first:
+      213: -1908846909668126695
+    second: pike-kiteShield_attack_73x53_120
+  - first:
+      213: -3486500113384730541
+    second: pike-kiteShield_attack_73x53_121
+  - first:
+      213: 3363404448687131186
+    second: pike-kiteShield_attack_73x53_122
+  - first:
+      213: 8448647209133325606
+    second: pike-kiteShield_attack_73x53_123
+  - first:
+      213: -517067996016963584
+    second: pike-kiteShield_attack_73x53_124
+  - first:
+      213: 1767031426630334258
+    second: pike-kiteShield_attack_73x53_125
+  - first:
+      213: -3227959146876096835
+    second: pike-kiteShield_attack_73x53_126
+  - first:
+      213: -1214644191123629852
+    second: pike-kiteShield_attack_73x53_127
+  - first:
+      213: -6640192128349373921
+    second: pike-kiteShield_attack_73x53_128
+  - first:
+      213: 703986242206058627
+    second: pike-kiteShield_attack_73x53_129
+  - first:
+      213: -253256001925097602
+    second: pike-kiteShield_attack_73x53_130
+  - first:
+      213: -2783580934261430878
+    second: pike-kiteShield_attack_73x53_131
+  - first:
+      213: 682797633301566538
+    second: pike-kiteShield_attack_73x53_132
+  - first:
+      213: -5477502197906144876
+    second: pike-kiteShield_attack_73x53_133
+  - first:
+      213: 1290245395656084011
+    second: pike-kiteShield_attack_73x53_134
+  - first:
+      213: 5251566101130748295
+    second: pike-kiteShield_attack_73x53_135
+  - first:
+      213: 7120045327953873700
+    second: pike-kiteShield_attack_73x53_136
+  - first:
+      213: -2076364954073504803
+    second: pike-kiteShield_attack_73x53_137
+  - first:
+      213: 7155805656493325861
+    second: pike-kiteShield_attack_73x53_138
+  - first:
+      213: -1779035493979782285
+    second: pike-kiteShield_attack_73x53_139
+  - first:
+      213: 7032265082872278733
+    second: pike-kiteShield_attack_73x53_140
+  - first:
+      213: -9041091108077666945
+    second: pike-kiteShield_attack_73x53_141
+  - first:
+      213: 8047270854068445445
+    second: pike-kiteShield_attack_73x53_142
+  - first:
+      213: 3252123034481484765
+    second: pike-kiteShield_attack_73x53_143
+  - first:
+      213: 4723737396216312360
+    second: pike-kiteShield_attack_73x53_144
+  - first:
+      213: 8212441946327055616
+    second: pike-kiteShield_attack_73x53_145
+  - first:
+      213: 7466058705048186135
+    second: pike-kiteShield_attack_73x53_146
+  - first:
+      213: 6413494442931501804
+    second: pike-kiteShield_attack_73x53_147
+  - first:
+      213: 5030834217700125627
+    second: pike-kiteShield_attack_73x53_148
+  - first:
+      213: 8276946546179642257
+    second: pike-kiteShield_attack_73x53_149
+  - first:
+      213: 2306311837369079518
+    second: pike-kiteShield_attack_73x53_150
+  - first:
+      213: -6623616061088962067
+    second: pike-kiteShield_attack_73x53_151
+  - first:
+      213: 6141764187529090748
+    second: pike-kiteShield_attack_73x53_152
+  - first:
+      213: 5725693490736818710
+    second: pike-kiteShield_attack_73x53_153
+  - first:
+      213: 6024212549563453232
+    second: pike-kiteShield_attack_73x53_154
+  - first:
+      213: -3069661346100327104
+    second: pike-kiteShield_attack_73x53_155
+  - first:
+      213: 8220261796463345713
+    second: pike-kiteShield_attack_73x53_156
+  - first:
+      213: 4349275410659696239
+    second: pike-kiteShield_attack_73x53_157
+  - first:
+      213: 4470077812157219682
+    second: pike-kiteShield_attack_73x53_158
+  - first:
+      213: 7216196401280445384
+    second: pike-kiteShield_attack_73x53_159
+  - first:
+      213: 6078315558690012984
+    second: pike-kiteShield_attack_73x53_160
+  - first:
+      213: -1026204102721350230
+    second: pike-kiteShield_attack_73x53_161
+  - first:
+      213: -6495995436855216750
+    second: pike-kiteShield_attack_73x53_162
+  - first:
+      213: 3167286735994357446
+    second: pike-kiteShield_attack_73x53_163
+  - first:
+      213: 4407924216593893384
+    second: pike-kiteShield_attack_73x53_164
+  - first:
+      213: -7243126110070045604
+    second: pike-kiteShield_attack_73x53_165
+  - first:
+      213: 6428194677034794681
+    second: pike-kiteShield_attack_73x53_166
+  - first:
+      213: -6869236572559690805
+    second: pike-kiteShield_attack_73x53_167
+  - first:
+      213: 8916803450073465445
+    second: pike-kiteShield_attack_73x53_168
+  - first:
+      213: -3007110336703439964
+    second: pike-kiteShield_attack_73x53_169
+  - first:
+      213: 474991594762459985
+    second: pike-kiteShield_attack_73x53_170
+  - first:
+      213: 5540819024686081099
+    second: pike-kiteShield_attack_73x53_171
+  - first:
+      213: 6208964957008141106
+    second: pike-kiteShield_attack_73x53_172
+  - first:
+      213: -3038287200065647348
+    second: pike-kiteShield_attack_73x53_173
+  - first:
+      213: 4805974563349850866
+    second: pike-kiteShield_attack_73x53_174
+  - first:
+      213: -7654253568205593706
+    second: pike-kiteShield_attack_73x53_175
+  - first:
+      213: -2130350719707941321
+    second: pike-kiteShield_attack_73x53_176
+  - first:
+      213: -920225579258372951
+    second: pike-kiteShield_attack_73x53_177
+  - first:
+      213: 3190832032422185130
+    second: pike-kiteShield_attack_73x53_178
+  - first:
+      213: -8978685177724751869
+    second: pike-kiteShield_attack_73x53_179
+  - first:
+      213: -1612682648723923214
+    second: pike-kiteShield_attack_73x53_180
+  - first:
+      213: -5214168043037362987
+    second: pike-kiteShield_attack_73x53_181
+  - first:
+      213: -3890082864624760483
+    second: pike-kiteShield_attack_73x53_182
+  - first:
+      213: 2759579942437877010
+    second: pike-kiteShield_attack_73x53_183
+  - first:
+      213: 2021708668194631247
+    second: pike-kiteShield_attack_73x53_184
+  - first:
+      213: 7814178863571139038
+    second: pike-kiteShield_attack_73x53_185
+  - first:
+      213: 1464655728619767433
+    second: pike-kiteShield_attack_73x53_186
+  - first:
+      213: 7948678638368236457
+    second: pike-kiteShield_attack_73x53_187
+  - first:
+      213: 8799026247488657004
+    second: pike-kiteShield_attack_73x53_188
+  - first:
+      213: 4946304306935792077
+    second: pike-kiteShield_attack_73x53_189
+  - first:
+      213: -5055012774864670082
+    second: pike-kiteShield_attack_73x53_190
+  - first:
+      213: -8999509332904666332
+    second: pike-kiteShield_attack_73x53_191
+  - first:
+      213: 7795623761096442113
+    second: pike-kiteShield_attack_73x53_192
+  - first:
+      213: -1000634971112896477
+    second: pike-kiteShield_attack_73x53_193
+  - first:
+      213: 5250723117872285333
+    second: pike-kiteShield_attack_73x53_194
+  - first:
+      213: -5871750664069764086
+    second: pike-kiteShield_attack_73x53_195
+  - first:
+      213: 8280800525795261309
+    second: pike-kiteShield_attack_73x53_196
+  - first:
+      213: -7451339495903956594
+    second: pike-kiteShield_attack_73x53_197
+  - first:
+      213: -213701695894098627
+    second: pike-kiteShield_attack_73x53_198
+  - first:
+      213: 5075080844952559632
+    second: pike-kiteShield_attack_73x53_199
+  - first:
+      213: 3030895977994404208
+    second: pike-kiteShield_attack_73x53_200
+  - first:
+      213: -8337157830638766392
+    second: pike-kiteShield_attack_73x53_201
+  - first:
+      213: -5204056222061878870
+    second: pike-kiteShield_attack_73x53_202
+  - first:
+      213: 5220083528771011579
+    second: pike-kiteShield_attack_73x53_203
+  - first:
+      213: -4817454086877139398
+    second: pike-kiteShield_attack_73x53_204
+  - first:
+      213: 1536830714300457100
+    second: pike-kiteShield_attack_73x53_205
+  - first:
+      213: 2651498076208021850
+    second: pike-kiteShield_attack_73x53_206
+  - first:
+      213: -3339023683761319766
+    second: pike-kiteShield_attack_73x53_207
+  - first:
+      213: 3991027710855776563
+    second: pike-kiteShield_attack_73x53_208
+  - first:
+      213: -7271022631477282326
+    second: pike-kiteShield_attack_73x53_209
+  - first:
+      213: 2774895766062653629
+    second: pike-kiteShield_attack_73x53_210
+  - first:
+      213: 7308188751050725318
+    second: pike-kiteShield_attack_73x53_211
+  - first:
+      213: 3088062917752578773
+    second: pike-kiteShield_attack_73x53_212
+  - first:
+      213: 3297662189077847384
+    second: pike-kiteShield_attack_73x53_213
+  - first:
+      213: 3465846000824770273
+    second: pike-kiteShield_attack_73x53_214
+  - first:
+      213: -1819140705121085656
+    second: pike-kiteShield_attack_73x53_215
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130cc24c114cccbc0800000000000000
+      internalID: -3761416008176451535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1922b3c5d51ec940800000000000000
+      internalID: 5318212217826584861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb49f3dc0cbc0fd00800000000000000
+      internalID: 1004526745841276092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05ea8fff220f92e0800000000000000
+      internalID: -2116970894666832629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825bc8670cd2cc600800000000000000
+      internalID: 489816764122445096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8e0935cd77f97e0800000000000000
+      internalID: -1756553541472687891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adbfc92105a0b670800000000000000
+      internalID: 8552517116791602593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2828877f267676d0800000000000000
+      internalID: -2993074956100163541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5275c6a9e7aa4670800000000000000
+      internalID: 8523809866719261277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b5667de6ff904f0800000000000000
+      internalID: -861877002139444444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0824762ce100f9590800000000000000
+      internalID: -7665407908650728832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_11
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024bfdc8f7e62e790800000000000000
+      internalID: -7502312535142452192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_12
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af5bea553eb55640800000000000000
+      internalID: 5068166092043280290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_13
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f481fe39f1bddbd80800000000000000
+      internalID: -8233183615091009457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_14
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abea3303b93099b00800000000000000
+      internalID: 835703170917445306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_15
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d45897734a723300800000000000000
+      internalID: 230380961137186004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd64d77203cec30800000000000000
+      internalID: 4389936682943044987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f682a1f7b1a4573f0800000000000000
+      internalID: -903734668260923281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baef3b034d5e4d6d0800000000000000
+      internalID: -2966493555017384277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ecbb9945b16c3e0800000000000000
+      internalID: -2033908131540775280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aab38471fdf73220800000000000000
+      internalID: 2465718534492371625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_21
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b687b6c2af2ee40800000000000000
+      internalID: 5684380748383546264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020f01b018075e50800000000000000
+      internalID: 6797911030322102788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_23
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb49c98ed9786d30800000000000000
+      internalID: 4424920630592883709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03509118650225f30800000000000000
+      internalID: 4562744928384910640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_25
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b65e572d5a6b330800000000000000
+      internalID: 3726348065035348825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e4c24ed631f62c0800000000000000
+      internalID: -4436305745236177256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88882851921672cb0800000000000000
+      internalID: -4888832041404954488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e0eacbd158beac0800000000000000
+      internalID: -3824817095755035128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4079c503d873850800000000000000
+      internalID: 6356704637908092091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1f3e05eb04c120800000000000000
+      internalID: 2433082777101343669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_31
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37676d228e653970800000000000000
+      internalID: 8734008557741500219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdabd0742c11e09f0800000000000000
+      internalID: -500442982478136612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_33
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac779f8d95277fd0800000000000000
+      internalID: -2344363722373890902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_34
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0b48927a56233c0800000000000000
+      internalID: -4381327718847565647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_35
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dfecface19909b0800000000000000
+      internalID: -5113395456154600041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4446fccddd6824e80800000000000000
+      internalID: -8195840084410407868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc66dd3ad8ace5f80800000000000000
+      internalID: -8115826768786659633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d08abf05c36fb4e0800000000000000
+      internalID: -1963741214486658856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1827b13194de2c950800000000000000
+      internalID: 6467992912966414977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f100a530a53153930800000000000000
+      internalID: 4122222311251771423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402a63e3baefc4cf0800000000000000
+      internalID: -266558266485071356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c89ab9d5bd50190800000000000000
+      internalID: -7996744368236426110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_43
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0915df4ed6ec140800000000000000
+      internalID: 4741848287937663209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901f0df11ee7e51b0800000000000000
+      internalID: -5665951775818977015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_45
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675fe7260142f9db0800000000000000
+      internalID: -4783064626453613194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_46
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e226c23d04513b60800000000000000
+      internalID: 7724047251580265184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_47
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b630073302b9555e0800000000000000
+      internalID: -1921459103399410837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_48
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4077346935ef7c0800000000000000
+      internalID: -4035696311235312407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_49
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e86f292a0efdca0800000000000000
+      internalID: -5989821990524514690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_50
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c575ae3f02984fd0800000000000000
+      internalID: -2357473810755258937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_51
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74cbd2f201931d0800000000000000
+      internalID: -3370645051293284409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d440ab5cf01400800000000000000
+      internalID: 293011446240170796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d709de343684b160800000000000000
+      internalID: 7040399676437759957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26316435e01c6b10800000000000000
+      internalID: 1975972913121146411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_55
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929eeeb552ff84380800000000000000
+      internalID: -8986652520496568023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_56
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687ecff99b742bff0800000000000000
+      internalID: -21876185604757626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c4039e29837a3a0800000000000000
+      internalID: -6654287720787981300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_58
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15d42a0ced8d9be0800000000000000
+      internalID: -1468861858530929381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_59
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35ce3a26e289d270800000000000000
+      internalID: 8275789715332842810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_60
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9dfa4295cb4c220800000000000000
+      internalID: 2505334383778453963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_61
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871e8433f04e8a880800000000000000
+      internalID: -8599372734527905416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf691596a65b34b0800000000000000
+      internalID: -5459674849790562370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_63
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf524d6461601e60800000000000000
+      internalID: 7930946027757133767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ba66931b2d0d8b0800000000000000
+      internalID: -5129368316960920690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_65
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c861a3a9cce7b6c0800000000000000
+      internalID: -4127570182683924287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_66
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c38befd071eba30800000000000000
+      internalID: 4232846048650345559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_67
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77599f995a8a078e0800000000000000
+      internalID: -1697671630312336009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_68
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9862703524a08010800000000000000
+      internalID: 1189130781259360411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_69
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b330312042ceefc0800000000000000
+      internalID: -3463617482710830155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_70
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e658b46fb10e53e00800000000000000
+      internalID: 1023970900997539182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_71
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b5f25701cec3680800000000000000
+      internalID: -8773878418594899048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f813794efa469f4b0800000000000000
+      internalID: -5406179171064401521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_73
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdf4fd530c4f5520800000000000000
+      internalID: 2692954679535795635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295ecdfc086685f40800000000000000
+      internalID: 5717432430376052114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_75
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e7d40b024e8d440800000000000000
+      internalID: 4960965818596556352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe03f56fa1005f70800000000000000
+      internalID: 9173834293795032819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_77
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c21462c5c66a5b40800000000000000
+      internalID: 5429765300304483010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_78
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9830e0778a328fd0800000000000000
+      internalID: -2341244502890497892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_79
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301867aff1a0d340800000000000000
+      internalID: 4886583715094335540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_80
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d33af0c4197500800000000000000
+      internalID: 394369261435607349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_81
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ba511120656ec70800000000000000
+      internalID: 8999975472223071006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_82
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cb4d1cdec3a2e80800000000000000
+      internalID: -8202676779445076983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_83
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb488ae4a4ea99b10800000000000000
+      internalID: 1988812344631264446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_84
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c282d02967f0156b0800000000000000
+      internalID: -5309445483762210772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_85
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723740b78a2ea73e0800000000000000
+      internalID: -2055081066694937817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_86
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeef4183f01d2700800000000000000
+      internalID: 517088170250071714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_87
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f2116efb256bd0800000000000000
+      internalID: -2637653635205236817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee993baff059aa0800000000000000
+      internalID: -6154995746302464504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_89
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b70f2256597f40800000000000000
+      internalID: 5726703312154636870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_90
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f94705e00929a0800000000000000
+      internalID: -6257469223584795279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_91
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dd6923a4f026090800000000000000
+      internalID: -8042849173179540093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_92
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0cd2572a2065e50800000000000000
+      internalID: 6797623584336232638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_93
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a27e9ae3d0dd8f0800000000000000
+      internalID: -514240219660735901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_94
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6b97d0e5ca2f40800000000000000
+      internalID: 5704589447498787413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_95
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723dc90d8c4dcc480800000000000000
+      internalID: -8877486806495603929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_96
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d26a4f30e074e40800000000000000
+      internalID: 5640492468457057552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_97
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506c2f17ca6ab6580800000000000000
+      internalID: -8832782984580774395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f565d8243845fbd50800000000000000
+      internalID: 6755210888813041247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_99
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8568ce01f8802940800000000000000
+      internalID: 5269362132939990410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_100
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b14f40603bf8fc0800000000000000
+      internalID: -3490374347754562800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_101
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c7a14cb56910780800000000000000
+      internalID: -8718522082736309170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_102
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f8a7cad96aa3e80800000000000000
+      internalID: -8198056975540777166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_103
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472dc1cad1f1d5b0800000000000000
+      internalID: -5345225360855455921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_104
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3520ff0a3d5bde8f0800000000000000
+      internalID: -509551262279204269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_105
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8c0dfade44c57a0800000000000000
+      internalID: -6387154383870572363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_106
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba4c777617014d0800000000000000
+      internalID: -3165905848836510883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_107
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b32366006e617370800000000000000
+      internalID: 8318551345433093048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c98bc4c9eacd8c0800000000000000
+      internalID: -3973108784922321783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_109
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc291294cf87b9120800000000000000
+      internalID: 2421662249595802317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321cb8cf37d3259f0800000000000000
+      internalID: -481254641807671005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_111
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5ea9889f320c7d0800000000000000
+      internalID: -2900278605380917842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_112
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46bbb4e4dba280b0800000000000000
+      internalID: -5727826845202926003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_113
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebe36d8a5554a960800000000000000
+      internalID: 7612303117570534380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_114
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c9af23231fa7990800000000000000
+      internalID: -7387327040841933680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_115
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4636358d4e880cf0800000000000000
+      internalID: -285822112739477938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_116
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd36793fcbb03c4a0800000000000000
+      internalID: -6574398124862250021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_117
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6508f187d53a75d20800000000000000
+      internalID: 3267259676523200598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_118
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b627f7f32d167c00800000000000000
+      internalID: 897937216028223156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_119
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a60b34675b67670800000000000000
+      internalID: 8536209663273757337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_120
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91011a269d96285e0800000000000000
+      internalID: -1908846909668126695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_121
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35018508e967d9fc0800000000000000
+      internalID: -3486500113384730541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_122
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a07f7a6863dae20800000000000000
+      internalID: 3363404448687131186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_123
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dbcf4bfdf9f3570800000000000000
+      internalID: 8448647209133325606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0009faca56103d8f0800000000000000
+      internalID: -517067996016963584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_125
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237b04b68b1c58810800000000000000
+      internalID: 1767031426630334258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_126
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe2af4224cf333d0800000000000000
+      internalID: -3227959146876096835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_127
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8959b2b87b42fe0800000000000000
+      internalID: -1214644191123629852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_128
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1af365c07c49d3a0800000000000000
+      internalID: -6640192128349373921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_129
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3884475e1cf05c900800000000000000
+      internalID: 703986242206058627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_130
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77d40012014c7cf0800000000000000
+      internalID: -253256001925097602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_131
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a52cc963ebbe59d0800000000000000
+      internalID: -2783580934261430878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_132
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44da6274d8c97900800000000000000
+      internalID: 682797633301566538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_133
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4910265a5c00cf3b0800000000000000
+      internalID: -5477502197906144876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0a21f95fd7e110800000000000000
+      internalID: 1290245395656084011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_135
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781a1648b8f41e840800000000000000
+      internalID: 5251566101130748295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_136
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bce5d808b7fc260800000000000000
+      internalID: 7120045327953873700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_137
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3e06843154f23e0800000000000000
+      internalID: -2076364954073504803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_138
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef30dd4578e4360800000000000000
+      internalID: 7155805656493325861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_139
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373068ad4a89f47e0800000000000000
+      internalID: -1779035493979782285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_140
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce2cf695df979160800000000000000
+      internalID: 7032265082872278733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_141
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d7619f987978280800000000000000
+      internalID: -9041091108077666945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_142
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501aa1c9436adaf60800000000000000
+      internalID: 8047270854068445445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_143
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3622c5bacd12d20800000000000000
+      internalID: 3252123034481484765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822b3b962261e8140800000000000000
+      internalID: 4723737396216312360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_145
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d7755507478f170800000000000000
+      internalID: 8212441946327055616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_146
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d2c9ad5d4cc9760800000000000000
+      internalID: 7466058705048186135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_147
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceabfd7373f410950800000000000000
+      internalID: 6413494442931501804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_148
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb65e5011d11d540800000000000000
+      internalID: 5030834217700125627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_149
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1931fe5d70f9dd270800000000000000
+      internalID: 8276946546179642257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_150
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed699af856aa10020800000000000000
+      internalID: 2306311837369079518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_151
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9683e29403414a0800000000000000
+      internalID: -6623616061088962067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_152
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb613e3fcfdeb3550800000000000000
+      internalID: 6141764187529090748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_153
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a6220d4efb57f40800000000000000
+      internalID: 5725693490736818710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_154
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f0e2c656d4a9350800000000000000
+      internalID: 6024212549563453232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_155
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d41fcf44f5665d0800000000000000
+      internalID: -3069661346100327104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_156
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13089e21d8c341270800000000000000
+      internalID: 8220261796463345713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_157
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e56ba41fabb5c30800000000000000
+      internalID: 4349275410659696239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_158
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2638cff2618e80e30800000000000000
+      internalID: 4470077812157219682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_159
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbe5c7d464152460800000000000000
+      internalID: 7216196401280445384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fb27cdbc38a5450800000000000000
+      internalID: 6078315558690012984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5de3e3ec032c1f0800000000000000
+      internalID: -1026204102721350230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_162
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295bfa3419699d5a0800000000000000
+      internalID: -6495995436855216750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_163
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c600c0618674fb20800000000000000
+      internalID: 3167286735994357446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_164
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808cbe688b71c2d30800000000000000
+      internalID: 4407924216593893384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_165
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c540be9bd2f3b7b90800000000000000
+      internalID: -7243126110070045604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_166
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be37bf2009853950800000000000000
+      internalID: 6428194677034794681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_167
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc335766bb19ba0a0800000000000000
+      internalID: -6869236572559690805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_168
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5624b9d9e79debb70800000000000000
+      internalID: 8916803450073465445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abd264c4199446d0800000000000000
+      internalID: -3007110336703439964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bdc1db652879600800000000000000
+      internalID: 474991594762459985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_171
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44e323eb81f4ec40800000000000000
+      internalID: 5540819024686081099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_172
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b915d5bbcaa2650800000000000000
+      internalID: 6208964957008141106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_173
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d887a93e5d5d5d0800000000000000
+      internalID: -3038287200065647348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_174
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae708f66042b240800000000000000
+      internalID: 4805974563349850866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_175
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693e6560fe0a6c590800000000000000
+      internalID: -7654253568205593706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_176
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367fc8be497f62e0800000000000000
+      internalID: -2130350719707941321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_177
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac931316b3ba33f0800000000000000
+      internalID: -920225579258372951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_178
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84676e3dc184c20800000000000000
+      internalID: 3190832032422185130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_179
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b6a7e66d456380800000000000000
+      internalID: -8978685177724751869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fedf53eca99e99e0800000000000000
+      internalID: -1612682648723923214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_181
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4709b6acd83a7b0800000000000000
+      internalID: -5214168043037362987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_182
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d590533ce36a30ac0800000000000000
+      internalID: -3890082864624760483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_183
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2157d46365ffb4620800000000000000
+      internalID: 2759579942437877010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_184
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea11f725d8e0c10800000000000000
+      internalID: 2021708668194631247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9f58e664a817c60800000000000000
+      internalID: 7814178863571139038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_186
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9864f9600a0835410800000000000000
+      internalID: 1464655728619767433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_187
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3aca19b116f4e60800000000000000
+      internalID: 7948678638368236457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_188
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6656eab0cb6c1a70800000000000000
+      internalID: 8799026247488657004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_189
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc184ed7f8dc4a440800000000000000
+      internalID: 4946304306935792077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_190
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723123f9acf8d9b0800000000000000
+      internalID: -5055012774864670082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_191
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b976371f15b1380800000000000000
+      internalID: -8999509332904666332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_192
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1018fbaf18e9f2c60800000000000000
+      internalID: 7795623761096442113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_193
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3288bfc9bc70d12f0800000000000000
+      internalID: -1000634971112896477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_194
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59685be2bd05ed840800000000000000
+      internalID: 5250723117872285333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_195
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c257281e9538ea0800000000000000
+      internalID: -5871750664069764086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bf4e364305be270800000000000000
+      internalID: 8280800525795261309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_197
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e817ec51536879890800000000000000
+      internalID: -7451339495903956594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_198
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d65589077c80df0800000000000000
+      internalID: -213701695894098627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_199
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01069c9b32f4e6640800000000000000
+      internalID: 5075080844952559632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_200
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071448765d7ef0a20800000000000000
+      internalID: 3030895977994404208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_201
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6f86c00277c4c80800000000000000
+      internalID: -8337157830638766392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_202
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa127d4307a77c7b0800000000000000
+      internalID: -5204056222061878870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_203
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3834eef46717840800000000000000
+      internalID: 5220083528771011579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_204
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e2fed2807f42db0800000000000000
+      internalID: -4817454086877139398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_205
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80e9c5646be35510800000000000000
+      internalID: 1536830714300457100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c20bb3730cc420800000000000000
+      internalID: 2651498076208021850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_207
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa05ac886a769a1d0800000000000000
+      internalID: -3339023683761319766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_208
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3398c42ce8af26730800000000000000
+      internalID: 3991027710855776563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_209
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae978f0b073281b90800000000000000
+      internalID: -7271022631477282326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_210
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db066e84ff8628620800000000000000
+      internalID: 2774895766062653629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_211
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c752e9d2f6eb6560800000000000000
+      internalID: 7308188751050725318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_212
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e2b8ccd00bda20800000000000000
+      internalID: 3088062917752578773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_213
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dd8390a46a3cd20800000000000000
+      internalID: 3297662189077847384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_214
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee5e5d2398291030800000000000000
+      internalID: 3465846000824770273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-kiteShield_attack_73x53_215
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827ddcaba2d11c6e0800000000000000
+      internalID: -1819140705121085656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pike-kiteShield_attack_73x53_0: -3761416008176451535
+      pike-kiteShield_attack_73x53_1: 5318212217826584861
+      pike-kiteShield_attack_73x53_10: -7665407908650728832
+      pike-kiteShield_attack_73x53_100: -3490374347754562800
+      pike-kiteShield_attack_73x53_101: -8718522082736309170
+      pike-kiteShield_attack_73x53_102: -8198056975540777166
+      pike-kiteShield_attack_73x53_103: -5345225360855455921
+      pike-kiteShield_attack_73x53_104: -509551262279204269
+      pike-kiteShield_attack_73x53_105: -6387154383870572363
+      pike-kiteShield_attack_73x53_106: -3165905848836510883
+      pike-kiteShield_attack_73x53_107: 8318551345433093048
+      pike-kiteShield_attack_73x53_108: -3973108784922321783
+      pike-kiteShield_attack_73x53_109: 2421662249595802317
+      pike-kiteShield_attack_73x53_11: -7502312535142452192
+      pike-kiteShield_attack_73x53_110: -481254641807671005
+      pike-kiteShield_attack_73x53_111: -2900278605380917842
+      pike-kiteShield_attack_73x53_112: -5727826845202926003
+      pike-kiteShield_attack_73x53_113: 7612303117570534380
+      pike-kiteShield_attack_73x53_114: -7387327040841933680
+      pike-kiteShield_attack_73x53_115: -285822112739477938
+      pike-kiteShield_attack_73x53_116: -6574398124862250021
+      pike-kiteShield_attack_73x53_117: 3267259676523200598
+      pike-kiteShield_attack_73x53_118: 897937216028223156
+      pike-kiteShield_attack_73x53_119: 8536209663273757337
+      pike-kiteShield_attack_73x53_12: 5068166092043280290
+      pike-kiteShield_attack_73x53_120: -1908846909668126695
+      pike-kiteShield_attack_73x53_121: -3486500113384730541
+      pike-kiteShield_attack_73x53_122: 3363404448687131186
+      pike-kiteShield_attack_73x53_123: 8448647209133325606
+      pike-kiteShield_attack_73x53_124: -517067996016963584
+      pike-kiteShield_attack_73x53_125: 1767031426630334258
+      pike-kiteShield_attack_73x53_126: -3227959146876096835
+      pike-kiteShield_attack_73x53_127: -1214644191123629852
+      pike-kiteShield_attack_73x53_128: -6640192128349373921
+      pike-kiteShield_attack_73x53_129: 703986242206058627
+      pike-kiteShield_attack_73x53_13: -8233183615091009457
+      pike-kiteShield_attack_73x53_130: -253256001925097602
+      pike-kiteShield_attack_73x53_131: -2783580934261430878
+      pike-kiteShield_attack_73x53_132: 682797633301566538
+      pike-kiteShield_attack_73x53_133: -5477502197906144876
+      pike-kiteShield_attack_73x53_134: 1290245395656084011
+      pike-kiteShield_attack_73x53_135: 5251566101130748295
+      pike-kiteShield_attack_73x53_136: 7120045327953873700
+      pike-kiteShield_attack_73x53_137: -2076364954073504803
+      pike-kiteShield_attack_73x53_138: 7155805656493325861
+      pike-kiteShield_attack_73x53_139: -1779035493979782285
+      pike-kiteShield_attack_73x53_14: 835703170917445306
+      pike-kiteShield_attack_73x53_140: 7032265082872278733
+      pike-kiteShield_attack_73x53_141: -9041091108077666945
+      pike-kiteShield_attack_73x53_142: 8047270854068445445
+      pike-kiteShield_attack_73x53_143: 3252123034481484765
+      pike-kiteShield_attack_73x53_144: 4723737396216312360
+      pike-kiteShield_attack_73x53_145: 8212441946327055616
+      pike-kiteShield_attack_73x53_146: 7466058705048186135
+      pike-kiteShield_attack_73x53_147: 6413494442931501804
+      pike-kiteShield_attack_73x53_148: 5030834217700125627
+      pike-kiteShield_attack_73x53_149: 8276946546179642257
+      pike-kiteShield_attack_73x53_15: 230380961137186004
+      pike-kiteShield_attack_73x53_150: 2306311837369079518
+      pike-kiteShield_attack_73x53_151: -6623616061088962067
+      pike-kiteShield_attack_73x53_152: 6141764187529090748
+      pike-kiteShield_attack_73x53_153: 5725693490736818710
+      pike-kiteShield_attack_73x53_154: 6024212549563453232
+      pike-kiteShield_attack_73x53_155: -3069661346100327104
+      pike-kiteShield_attack_73x53_156: 8220261796463345713
+      pike-kiteShield_attack_73x53_157: 4349275410659696239
+      pike-kiteShield_attack_73x53_158: 4470077812157219682
+      pike-kiteShield_attack_73x53_159: 7216196401280445384
+      pike-kiteShield_attack_73x53_16: 4389936682943044987
+      pike-kiteShield_attack_73x53_160: 6078315558690012984
+      pike-kiteShield_attack_73x53_161: -1026204102721350230
+      pike-kiteShield_attack_73x53_162: -6495995436855216750
+      pike-kiteShield_attack_73x53_163: 3167286735994357446
+      pike-kiteShield_attack_73x53_164: 4407924216593893384
+      pike-kiteShield_attack_73x53_165: -7243126110070045604
+      pike-kiteShield_attack_73x53_166: 6428194677034794681
+      pike-kiteShield_attack_73x53_167: -6869236572559690805
+      pike-kiteShield_attack_73x53_168: 8916803450073465445
+      pike-kiteShield_attack_73x53_169: -3007110336703439964
+      pike-kiteShield_attack_73x53_17: -903734668260923281
+      pike-kiteShield_attack_73x53_170: 474991594762459985
+      pike-kiteShield_attack_73x53_171: 5540819024686081099
+      pike-kiteShield_attack_73x53_172: 6208964957008141106
+      pike-kiteShield_attack_73x53_173: -3038287200065647348
+      pike-kiteShield_attack_73x53_174: 4805974563349850866
+      pike-kiteShield_attack_73x53_175: -7654253568205593706
+      pike-kiteShield_attack_73x53_176: -2130350719707941321
+      pike-kiteShield_attack_73x53_177: -920225579258372951
+      pike-kiteShield_attack_73x53_178: 3190832032422185130
+      pike-kiteShield_attack_73x53_179: -8978685177724751869
+      pike-kiteShield_attack_73x53_18: -2966493555017384277
+      pike-kiteShield_attack_73x53_180: -1612682648723923214
+      pike-kiteShield_attack_73x53_181: -5214168043037362987
+      pike-kiteShield_attack_73x53_182: -3890082864624760483
+      pike-kiteShield_attack_73x53_183: 2759579942437877010
+      pike-kiteShield_attack_73x53_184: 2021708668194631247
+      pike-kiteShield_attack_73x53_185: 7814178863571139038
+      pike-kiteShield_attack_73x53_186: 1464655728619767433
+      pike-kiteShield_attack_73x53_187: 7948678638368236457
+      pike-kiteShield_attack_73x53_188: 8799026247488657004
+      pike-kiteShield_attack_73x53_189: 4946304306935792077
+      pike-kiteShield_attack_73x53_19: -2033908131540775280
+      pike-kiteShield_attack_73x53_190: -5055012774864670082
+      pike-kiteShield_attack_73x53_191: -8999509332904666332
+      pike-kiteShield_attack_73x53_192: 7795623761096442113
+      pike-kiteShield_attack_73x53_193: -1000634971112896477
+      pike-kiteShield_attack_73x53_194: 5250723117872285333
+      pike-kiteShield_attack_73x53_195: -5871750664069764086
+      pike-kiteShield_attack_73x53_196: 8280800525795261309
+      pike-kiteShield_attack_73x53_197: -7451339495903956594
+      pike-kiteShield_attack_73x53_198: -213701695894098627
+      pike-kiteShield_attack_73x53_199: 5075080844952559632
+      pike-kiteShield_attack_73x53_2: 1004526745841276092
+      pike-kiteShield_attack_73x53_20: 2465718534492371625
+      pike-kiteShield_attack_73x53_200: 3030895977994404208
+      pike-kiteShield_attack_73x53_201: -8337157830638766392
+      pike-kiteShield_attack_73x53_202: -5204056222061878870
+      pike-kiteShield_attack_73x53_203: 5220083528771011579
+      pike-kiteShield_attack_73x53_204: -4817454086877139398
+      pike-kiteShield_attack_73x53_205: 1536830714300457100
+      pike-kiteShield_attack_73x53_206: 2651498076208021850
+      pike-kiteShield_attack_73x53_207: -3339023683761319766
+      pike-kiteShield_attack_73x53_208: 3991027710855776563
+      pike-kiteShield_attack_73x53_209: -7271022631477282326
+      pike-kiteShield_attack_73x53_21: 5684380748383546264
+      pike-kiteShield_attack_73x53_210: 2774895766062653629
+      pike-kiteShield_attack_73x53_211: 7308188751050725318
+      pike-kiteShield_attack_73x53_212: 3088062917752578773
+      pike-kiteShield_attack_73x53_213: 3297662189077847384
+      pike-kiteShield_attack_73x53_214: 3465846000824770273
+      pike-kiteShield_attack_73x53_215: -1819140705121085656
+      pike-kiteShield_attack_73x53_22: 6797911030322102788
+      pike-kiteShield_attack_73x53_23: 4424920630592883709
+      pike-kiteShield_attack_73x53_24: 4562744928384910640
+      pike-kiteShield_attack_73x53_25: 3726348065035348825
+      pike-kiteShield_attack_73x53_26: -4436305745236177256
+      pike-kiteShield_attack_73x53_27: -4888832041404954488
+      pike-kiteShield_attack_73x53_28: -3824817095755035128
+      pike-kiteShield_attack_73x53_29: 6356704637908092091
+      pike-kiteShield_attack_73x53_3: -2116970894666832629
+      pike-kiteShield_attack_73x53_30: 2433082777101343669
+      pike-kiteShield_attack_73x53_31: 8734008557741500219
+      pike-kiteShield_attack_73x53_32: -500442982478136612
+      pike-kiteShield_attack_73x53_33: -2344363722373890902
+      pike-kiteShield_attack_73x53_34: -4381327718847565647
+      pike-kiteShield_attack_73x53_35: -5113395456154600041
+      pike-kiteShield_attack_73x53_36: -8195840084410407868
+      pike-kiteShield_attack_73x53_37: -8115826768786659633
+      pike-kiteShield_attack_73x53_38: -1963741214486658856
+      pike-kiteShield_attack_73x53_39: 6467992912966414977
+      pike-kiteShield_attack_73x53_4: 489816764122445096
+      pike-kiteShield_attack_73x53_40: 4122222311251771423
+      pike-kiteShield_attack_73x53_41: -266558266485071356
+      pike-kiteShield_attack_73x53_42: -7996744368236426110
+      pike-kiteShield_attack_73x53_43: 4741848287937663209
+      pike-kiteShield_attack_73x53_44: -5665951775818977015
+      pike-kiteShield_attack_73x53_45: -4783064626453613194
+      pike-kiteShield_attack_73x53_46: 7724047251580265184
+      pike-kiteShield_attack_73x53_47: -1921459103399410837
+      pike-kiteShield_attack_73x53_48: -4035696311235312407
+      pike-kiteShield_attack_73x53_49: -5989821990524514690
+      pike-kiteShield_attack_73x53_5: -1756553541472687891
+      pike-kiteShield_attack_73x53_50: -2357473810755258937
+      pike-kiteShield_attack_73x53_51: -3370645051293284409
+      pike-kiteShield_attack_73x53_52: 293011446240170796
+      pike-kiteShield_attack_73x53_53: 7040399676437759957
+      pike-kiteShield_attack_73x53_54: 1975972913121146411
+      pike-kiteShield_attack_73x53_55: -8986652520496568023
+      pike-kiteShield_attack_73x53_56: -21876185604757626
+      pike-kiteShield_attack_73x53_57: -6654287720787981300
+      pike-kiteShield_attack_73x53_58: -1468861858530929381
+      pike-kiteShield_attack_73x53_59: 8275789715332842810
+      pike-kiteShield_attack_73x53_6: 8552517116791602593
+      pike-kiteShield_attack_73x53_60: 2505334383778453963
+      pike-kiteShield_attack_73x53_61: -8599372734527905416
+      pike-kiteShield_attack_73x53_62: -5459674849790562370
+      pike-kiteShield_attack_73x53_63: 7930946027757133767
+      pike-kiteShield_attack_73x53_64: -5129368316960920690
+      pike-kiteShield_attack_73x53_65: -4127570182683924287
+      pike-kiteShield_attack_73x53_66: 4232846048650345559
+      pike-kiteShield_attack_73x53_67: -1697671630312336009
+      pike-kiteShield_attack_73x53_68: 1189130781259360411
+      pike-kiteShield_attack_73x53_69: -3463617482710830155
+      pike-kiteShield_attack_73x53_7: -2993074956100163541
+      pike-kiteShield_attack_73x53_70: 1023970900997539182
+      pike-kiteShield_attack_73x53_71: -8773878418594899048
+      pike-kiteShield_attack_73x53_72: -5406179171064401521
+      pike-kiteShield_attack_73x53_73: 2692954679535795635
+      pike-kiteShield_attack_73x53_74: 5717432430376052114
+      pike-kiteShield_attack_73x53_75: 4960965818596556352
+      pike-kiteShield_attack_73x53_76: 9173834293795032819
+      pike-kiteShield_attack_73x53_77: 5429765300304483010
+      pike-kiteShield_attack_73x53_78: -2341244502890497892
+      pike-kiteShield_attack_73x53_79: 4886583715094335540
+      pike-kiteShield_attack_73x53_8: 8523809866719261277
+      pike-kiteShield_attack_73x53_80: 394369261435607349
+      pike-kiteShield_attack_73x53_81: 8999975472223071006
+      pike-kiteShield_attack_73x53_82: -8202676779445076983
+      pike-kiteShield_attack_73x53_83: 1988812344631264446
+      pike-kiteShield_attack_73x53_84: -5309445483762210772
+      pike-kiteShield_attack_73x53_85: -2055081066694937817
+      pike-kiteShield_attack_73x53_86: 517088170250071714
+      pike-kiteShield_attack_73x53_87: -2637653635205236817
+      pike-kiteShield_attack_73x53_88: -6154995746302464504
+      pike-kiteShield_attack_73x53_89: 5726703312154636870
+      pike-kiteShield_attack_73x53_9: -861877002139444444
+      pike-kiteShield_attack_73x53_90: -6257469223584795279
+      pike-kiteShield_attack_73x53_91: -8042849173179540093
+      pike-kiteShield_attack_73x53_92: 6797623584336232638
+      pike-kiteShield_attack_73x53_93: -514240219660735901
+      pike-kiteShield_attack_73x53_94: 5704589447498787413
+      pike-kiteShield_attack_73x53_95: -8877486806495603929
+      pike-kiteShield_attack_73x53_96: 5640492468457057552
+      pike-kiteShield_attack_73x53_97: -8832782984580774395
+      pike-kiteShield_attack_73x53_98: 6755210888813041247
+      pike-kiteShield_attack_73x53_99: 5269362132939990410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5214 @@
+fileFormatVersion: 2
+guid: a0eaa82339082bf4e9fa61093736647b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -154159839083991278
+    second: arbalest_shoot_34x30_0
+  - first:
+      213: -5632363747104696847
+    second: arbalest_shoot_34x30_1
+  - first:
+      213: -681687683660234814
+    second: arbalest_shoot_34x30_2
+  - first:
+      213: -5130843686170998883
+    second: arbalest_shoot_34x30_3
+  - first:
+      213: 7819085709187515467
+    second: arbalest_shoot_34x30_4
+  - first:
+      213: 1215251262818874903
+    second: arbalest_shoot_34x30_5
+  - first:
+      213: 5744742834152518545
+    second: arbalest_shoot_34x30_6
+  - first:
+      213: 2167229744324334653
+    second: arbalest_shoot_34x30_7
+  - first:
+      213: 7031314147428574563
+    second: arbalest_shoot_34x30_8
+  - first:
+      213: 6494860622518176290
+    second: arbalest_shoot_34x30_9
+  - first:
+      213: 7998453873028675931
+    second: arbalest_shoot_34x30_10
+  - first:
+      213: -1547159431902188541
+    second: arbalest_shoot_34x30_11
+  - first:
+      213: 1968611550355983627
+    second: arbalest_shoot_34x30_12
+  - first:
+      213: 2612871097425756794
+    second: arbalest_shoot_34x30_13
+  - first:
+      213: -3600117163295954588
+    second: arbalest_shoot_34x30_14
+  - first:
+      213: 7079964382383856749
+    second: arbalest_shoot_34x30_15
+  - first:
+      213: 2826439200046509769
+    second: arbalest_shoot_34x30_16
+  - first:
+      213: -3217714778180958374
+    second: arbalest_shoot_34x30_17
+  - first:
+      213: 2049903367873401985
+    second: arbalest_shoot_34x30_18
+  - first:
+      213: -7027090810861457499
+    second: arbalest_shoot_34x30_19
+  - first:
+      213: 2391408512991236895
+    second: arbalest_shoot_34x30_20
+  - first:
+      213: -8048486943110654054
+    second: arbalest_shoot_34x30_21
+  - first:
+      213: 3850687335926417936
+    second: arbalest_shoot_34x30_22
+  - first:
+      213: -3285494350047744185
+    second: arbalest_shoot_34x30_23
+  - first:
+      213: -6974059921364118724
+    second: arbalest_shoot_34x30_24
+  - first:
+      213: 4600231245883777934
+    second: arbalest_shoot_34x30_25
+  - first:
+      213: -7386475727523586544
+    second: arbalest_shoot_34x30_26
+  - first:
+      213: 314014549187265017
+    second: arbalest_shoot_34x30_27
+  - first:
+      213: -4977665005039730602
+    second: arbalest_shoot_34x30_28
+  - first:
+      213: -6098398901452171571
+    second: arbalest_shoot_34x30_29
+  - first:
+      213: -666583016096165971
+    second: arbalest_shoot_34x30_30
+  - first:
+      213: -4247619308399672702
+    second: arbalest_shoot_34x30_31
+  - first:
+      213: 3528358081987822040
+    second: arbalest_shoot_34x30_32
+  - first:
+      213: -4501339279730949069
+    second: arbalest_shoot_34x30_33
+  - first:
+      213: -7711378956412756049
+    second: arbalest_shoot_34x30_34
+  - first:
+      213: 4280206834911016799
+    second: arbalest_shoot_34x30_35
+  - first:
+      213: 5886665084662936593
+    second: arbalest_shoot_34x30_36
+  - first:
+      213: -2132195372633369919
+    second: arbalest_shoot_34x30_37
+  - first:
+      213: -6463658800544530780
+    second: arbalest_shoot_34x30_38
+  - first:
+      213: 4052221546880886728
+    second: arbalest_shoot_34x30_39
+  - first:
+      213: 3471790774897515970
+    second: arbalest_shoot_34x30_40
+  - first:
+      213: -4302359030788815395
+    second: arbalest_shoot_34x30_41
+  - first:
+      213: -3572910584627223207
+    second: arbalest_shoot_34x30_42
+  - first:
+      213: -5925785111382997885
+    second: arbalest_shoot_34x30_43
+  - first:
+      213: -4119738512779787773
+    second: arbalest_shoot_34x30_44
+  - first:
+      213: 1679767949839180427
+    second: arbalest_shoot_34x30_45
+  - first:
+      213: 2345642449948548271
+    second: arbalest_shoot_34x30_46
+  - first:
+      213: 3958527621294231260
+    second: arbalest_shoot_34x30_47
+  - first:
+      213: -4834511783007752254
+    second: arbalest_shoot_34x30_48
+  - first:
+      213: 4273748438696429262
+    second: arbalest_shoot_34x30_49
+  - first:
+      213: 2507492951127640154
+    second: arbalest_shoot_34x30_50
+  - first:
+      213: -4720642013803246421
+    second: arbalest_shoot_34x30_51
+  - first:
+      213: 3185129679190098760
+    second: arbalest_shoot_34x30_52
+  - first:
+      213: -2586407400799464842
+    second: arbalest_shoot_34x30_53
+  - first:
+      213: -1434937540536221859
+    second: arbalest_shoot_34x30_54
+  - first:
+      213: 3284142871424743931
+    second: arbalest_shoot_34x30_55
+  - first:
+      213: 6076501632570912917
+    second: arbalest_shoot_34x30_56
+  - first:
+      213: 6201501907404356097
+    second: arbalest_shoot_34x30_57
+  - first:
+      213: -2381002140992057701
+    second: arbalest_shoot_34x30_58
+  - first:
+      213: 4911511930584057992
+    second: arbalest_shoot_34x30_59
+  - first:
+      213: -2783054858942528410
+    second: arbalest_shoot_34x30_60
+  - first:
+      213: -2280642992527426796
+    second: arbalest_shoot_34x30_61
+  - first:
+      213: -8246260989262229704
+    second: arbalest_shoot_34x30_62
+  - first:
+      213: 7017876231485472491
+    second: arbalest_shoot_34x30_63
+  - first:
+      213: 1857916018587531453
+    second: arbalest_shoot_34x30_64
+  - first:
+      213: 6525243421402566139
+    second: arbalest_shoot_34x30_65
+  - first:
+      213: 168066119291665554
+    second: arbalest_shoot_34x30_66
+  - first:
+      213: -4222552479916338159
+    second: arbalest_shoot_34x30_67
+  - first:
+      213: 9074344776915296935
+    second: arbalest_shoot_34x30_68
+  - first:
+      213: -4655757162050861312
+    second: arbalest_shoot_34x30_69
+  - first:
+      213: -8425735725957968508
+    second: arbalest_shoot_34x30_70
+  - first:
+      213: 7195935944849094830
+    second: arbalest_shoot_34x30_71
+  - first:
+      213: -7277042198894254089
+    second: arbalest_shoot_34x30_72
+  - first:
+      213: -5192635083531796912
+    second: arbalest_shoot_34x30_73
+  - first:
+      213: 1514308608800597338
+    second: arbalest_shoot_34x30_74
+  - first:
+      213: 4314717036246034183
+    second: arbalest_shoot_34x30_75
+  - first:
+      213: -6976414299564950514
+    second: arbalest_shoot_34x30_76
+  - first:
+      213: 313458272948213884
+    second: arbalest_shoot_34x30_77
+  - first:
+      213: -4855941541366195590
+    second: arbalest_shoot_34x30_78
+  - first:
+      213: 7164590515074677163
+    second: arbalest_shoot_34x30_79
+  - first:
+      213: 7754880497938076159
+    second: arbalest_shoot_34x30_80
+  - first:
+      213: 1849812290727223305
+    second: arbalest_shoot_34x30_81
+  - first:
+      213: -4011905500097659867
+    second: arbalest_shoot_34x30_82
+  - first:
+      213: -8170092378117906318
+    second: arbalest_shoot_34x30_83
+  - first:
+      213: -8798453752631325848
+    second: arbalest_shoot_34x30_84
+  - first:
+      213: 6118493529321867850
+    second: arbalest_shoot_34x30_85
+  - first:
+      213: 8920094318588684588
+    second: arbalest_shoot_34x30_86
+  - first:
+      213: -2143781704196744473
+    second: arbalest_shoot_34x30_87
+  - first:
+      213: 6642515610159710075
+    second: arbalest_shoot_34x30_88
+  - first:
+      213: -7904141312090456118
+    second: arbalest_shoot_34x30_89
+  - first:
+      213: -6519860499576679469
+    second: arbalest_shoot_34x30_90
+  - first:
+      213: 968468526544194534
+    second: arbalest_shoot_34x30_91
+  - first:
+      213: -6842429852402324170
+    second: arbalest_shoot_34x30_92
+  - first:
+      213: 1886524925860962422
+    second: arbalest_shoot_34x30_93
+  - first:
+      213: 54044222761057991
+    second: arbalest_shoot_34x30_94
+  - first:
+      213: -7252997755404346197
+    second: arbalest_shoot_34x30_95
+  - first:
+      213: -2504712749577444864
+    second: arbalest_shoot_34x30_96
+  - first:
+      213: 539195072300019580
+    second: arbalest_shoot_34x30_97
+  - first:
+      213: -1495214856575424088
+    second: arbalest_shoot_34x30_98
+  - first:
+      213: 8982352646254405555
+    second: arbalest_shoot_34x30_99
+  - first:
+      213: 7658242064366462709
+    second: arbalest_shoot_34x30_100
+  - first:
+      213: 973982649209347178
+    second: arbalest_shoot_34x30_101
+  - first:
+      213: 5182573079367720341
+    second: arbalest_shoot_34x30_102
+  - first:
+      213: 1726759042994154739
+    second: arbalest_shoot_34x30_103
+  - first:
+      213: -2096162385490408638
+    second: arbalest_shoot_34x30_104
+  - first:
+      213: -5931574379952992597
+    second: arbalest_shoot_34x30_105
+  - first:
+      213: -1279224122324123906
+    second: arbalest_shoot_34x30_106
+  - first:
+      213: -9024726520815028612
+    second: arbalest_shoot_34x30_107
+  - first:
+      213: -4438355388759271045
+    second: arbalest_shoot_34x30_108
+  - first:
+      213: -1853398990451661805
+    second: arbalest_shoot_34x30_109
+  - first:
+      213: 3726222709741203635
+    second: arbalest_shoot_34x30_110
+  - first:
+      213: 2338157144482105874
+    second: arbalest_shoot_34x30_111
+  - first:
+      213: -8543837665425853250
+    second: arbalest_shoot_34x30_112
+  - first:
+      213: -6465758404497627657
+    second: arbalest_shoot_34x30_113
+  - first:
+      213: 351025628426856754
+    second: arbalest_shoot_34x30_114
+  - first:
+      213: -3859700123619512913
+    second: arbalest_shoot_34x30_115
+  - first:
+      213: 3702730989630106788
+    second: arbalest_shoot_34x30_116
+  - first:
+      213: -5372394097094223934
+    second: arbalest_shoot_34x30_117
+  - first:
+      213: -8578370894171338296
+    second: arbalest_shoot_34x30_118
+  - first:
+      213: -1431738109468621969
+    second: arbalest_shoot_34x30_119
+  - first:
+      213: 5319712228414360891
+    second: arbalest_shoot_34x30_120
+  - first:
+      213: 7008112602474662991
+    second: arbalest_shoot_34x30_121
+  - first:
+      213: -642864360247896566
+    second: arbalest_shoot_34x30_122
+  - first:
+      213: -6350763572498346874
+    second: arbalest_shoot_34x30_123
+  - first:
+      213: -6784938450731987441
+    second: arbalest_shoot_34x30_124
+  - first:
+      213: -6106207599765634088
+    second: arbalest_shoot_34x30_125
+  - first:
+      213: -6862064368695307985
+    second: arbalest_shoot_34x30_126
+  - first:
+      213: -5590481570214972871
+    second: arbalest_shoot_34x30_127
+  - first:
+      213: 6673153571589057033
+    second: arbalest_shoot_34x30_128
+  - first:
+      213: 3720444640507007252
+    second: arbalest_shoot_34x30_129
+  - first:
+      213: -1906525586514119760
+    second: arbalest_shoot_34x30_130
+  - first:
+      213: -9053472054280219859
+    second: arbalest_shoot_34x30_131
+  - first:
+      213: -1392624308022941271
+    second: arbalest_shoot_34x30_132
+  - first:
+      213: -5954820258869751730
+    second: arbalest_shoot_34x30_133
+  - first:
+      213: -5754650097099761294
+    second: arbalest_shoot_34x30_134
+  - first:
+      213: -2045604855236418153
+    second: arbalest_shoot_34x30_135
+  - first:
+      213: -3637480110994635851
+    second: arbalest_shoot_34x30_136
+  - first:
+      213: 3371864818180362932
+    second: arbalest_shoot_34x30_137
+  - first:
+      213: 9034192423123907034
+    second: arbalest_shoot_34x30_138
+  - first:
+      213: -8246960699844886735
+    second: arbalest_shoot_34x30_139
+  - first:
+      213: 7837398238902775317
+    second: arbalest_shoot_34x30_140
+  - first:
+      213: 5844622797980473903
+    second: arbalest_shoot_34x30_141
+  - first:
+      213: -1415406459816995244
+    second: arbalest_shoot_34x30_142
+  - first:
+      213: 8865828583979917706
+    second: arbalest_shoot_34x30_143
+  - first:
+      213: -3075551282706752898
+    second: arbalest_shoot_34x30_144
+  - first:
+      213: 2837290589082253329
+    second: arbalest_shoot_34x30_145
+  - first:
+      213: -4647485406520226008
+    second: arbalest_shoot_34x30_146
+  - first:
+      213: -7503573953474235905
+    second: arbalest_shoot_34x30_147
+  - first:
+      213: -1246775577605990250
+    second: arbalest_shoot_34x30_148
+  - first:
+      213: 2392669307165655958
+    second: arbalest_shoot_34x30_149
+  - first:
+      213: -7921166742258108236
+    second: arbalest_shoot_34x30_150
+  - first:
+      213: 1920529814210501103
+    second: arbalest_shoot_34x30_151
+  - first:
+      213: -8149462323750031430
+    second: arbalest_shoot_34x30_152
+  - first:
+      213: -8681622825894740534
+    second: arbalest_shoot_34x30_153
+  - first:
+      213: -3974356708457326388
+    second: arbalest_shoot_34x30_154
+  - first:
+      213: 3481867984154949439
+    second: arbalest_shoot_34x30_155
+  - first:
+      213: 5053419551163558592
+    second: arbalest_shoot_34x30_156
+  - first:
+      213: -6348137087210074759
+    second: arbalest_shoot_34x30_157
+  - first:
+      213: 5742097390531215762
+    second: arbalest_shoot_34x30_158
+  - first:
+      213: -5335160112893729905
+    second: arbalest_shoot_34x30_159
+  - first:
+      213: -8721814309440929984
+    second: arbalest_shoot_34x30_160
+  - first:
+      213: -7785177504191620794
+    second: arbalest_shoot_34x30_161
+  - first:
+      213: 1158986877536645228
+    second: arbalest_shoot_34x30_162
+  - first:
+      213: 4942311254955141281
+    second: arbalest_shoot_34x30_163
+  - first:
+      213: 2768656817160622793
+    second: arbalest_shoot_34x30_164
+  - first:
+      213: 467001106167671002
+    second: arbalest_shoot_34x30_165
+  - first:
+      213: -7228070467359217228
+    second: arbalest_shoot_34x30_166
+  - first:
+      213: 165962055974610560
+    second: arbalest_shoot_34x30_167
+  - first:
+      213: 3105476421099955863
+    second: arbalest_shoot_34x30_168
+  - first:
+      213: 8207697426287631623
+    second: arbalest_shoot_34x30_169
+  - first:
+      213: 7057896304762821194
+    second: arbalest_shoot_34x30_170
+  - first:
+      213: 992181489883981698
+    second: arbalest_shoot_34x30_171
+  - first:
+      213: -7495539353472671298
+    second: arbalest_shoot_34x30_172
+  - first:
+      213: 5964666428920173310
+    second: arbalest_shoot_34x30_173
+  - first:
+      213: -3825990859991380806
+    second: arbalest_shoot_34x30_174
+  - first:
+      213: 2663386265211434309
+    second: arbalest_shoot_34x30_175
+  - first:
+      213: -5014836331570722516
+    second: arbalest_shoot_34x30_176
+  - first:
+      213: 1134718207470698760
+    second: arbalest_shoot_34x30_177
+  - first:
+      213: -2029911266762573645
+    second: arbalest_shoot_34x30_178
+  - first:
+      213: 1773789617384910841
+    second: arbalest_shoot_34x30_179
+  - first:
+      213: 2977157596806609711
+    second: arbalest_shoot_34x30_180
+  - first:
+      213: -2126895118743358183
+    second: arbalest_shoot_34x30_181
+  - first:
+      213: 891111830065161290
+    second: arbalest_shoot_34x30_182
+  - first:
+      213: 5575045860989717188
+    second: arbalest_shoot_34x30_183
+  - first:
+      213: -1407466985607098115
+    second: arbalest_shoot_34x30_184
+  - first:
+      213: -1147627786541917997
+    second: arbalest_shoot_34x30_185
+  - first:
+      213: 9204516364403588264
+    second: arbalest_shoot_34x30_186
+  - first:
+      213: -2377620685091893338
+    second: arbalest_shoot_34x30_187
+  - first:
+      213: 7965284583453378616
+    second: arbalest_shoot_34x30_188
+  - first:
+      213: -1724120317770273764
+    second: arbalest_shoot_34x30_189
+  - first:
+      213: 3241030324532093959
+    second: arbalest_shoot_34x30_190
+  - first:
+      213: 2168032030965052457
+    second: arbalest_shoot_34x30_191
+  - first:
+      213: 8056323697870088190
+    second: arbalest_shoot_34x30_192
+  - first:
+      213: 7237189712166256115
+    second: arbalest_shoot_34x30_193
+  - first:
+      213: -1085731451358832796
+    second: arbalest_shoot_34x30_194
+  - first:
+      213: 1783098638675981909
+    second: arbalest_shoot_34x30_195
+  - first:
+      213: -2543578545867197944
+    second: arbalest_shoot_34x30_196
+  - first:
+      213: -6310276013683024362
+    second: arbalest_shoot_34x30_197
+  - first:
+      213: 4930977916116311740
+    second: arbalest_shoot_34x30_198
+  - first:
+      213: 1135005943657359633
+    second: arbalest_shoot_34x30_199
+  - first:
+      213: 6024304502773212417
+    second: arbalest_shoot_34x30_200
+  - first:
+      213: -6615908512203781483
+    second: arbalest_shoot_34x30_201
+  - first:
+      213: -735111931925991794
+    second: arbalest_shoot_34x30_202
+  - first:
+      213: -3891819880830107301
+    second: arbalest_shoot_34x30_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f64c071705cddf0800000000000000
+      internalID: -154159839083991278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f559087303d5d1b0800000000000000
+      internalID: -5632363747104696847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf3ca7d9a82a86f0800000000000000
+      internalID: -681687683660234814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c8bf0ad49bc8b0800000000000000
+      internalID: -5130843686170998883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4484747609f28c60800000000000000
+      internalID: 7819085709187515467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716f929b5907dd010800000000000000
+      internalID: 1215251262818874903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193b1a3bb2d69bf40800000000000000
+      internalID: 5744742834152518545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34dc1158fb831e10800000000000000
+      internalID: 2167229744324334653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a8ada6fe349160800000000000000
+      internalID: 7031314147428574563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a4ede2351622a50800000000000000
+      internalID: 6494860622518176290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b83e7b67300f60800000000000000
+      internalID: 7998453873028675931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c2392a1b2678ae0800000000000000
+      internalID: -1547159431902188541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d03bf56c9e15b10800000000000000
+      internalID: 1968611550355983627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7282f56b68c24420800000000000000
+      internalID: 2612871097425756794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46925f3a380d90ec0800000000000000
+      internalID: -3600117163295954588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c58623816114260800000000000000
+      internalID: 7079964382383856749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee2023a77893720800000000000000
+      internalID: 2826439200046509769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_17
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57cff915716853d0800000000000000
+      internalID: -3217714778180958374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18498f19048b27c10800000000000000
+      internalID: 2049903367873401985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_19
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afe03e7322ca7e90800000000000000
+      internalID: -7027090810861457499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1310b15f5dff2120800000000000000
+      internalID: 2391408512991236895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97158894c70e4090800000000000000
+      internalID: -8048486943110654054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_22
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a4dfeeab3607530800000000000000
+      internalID: 3850687335926417936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_23
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fe9d1cb449762d0800000000000000
+      internalID: -3285494350047744185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339dc0a379273f90800000000000000
+      internalID: -6974059921364118724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_25
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e832e8fe1fd47df30800000000000000
+      internalID: 4600231245883777934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_26
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e59e60677fd7990800000000000000
+      internalID: -7386475727523586544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_27
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f18c9a919a9b5400800000000000000
+      internalID: 314014549187265017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_28
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650c6bbfc08cbeab0800000000000000
+      internalID: -4977665005039730602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_29
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69f4482822e5ba0800000000000000
+      internalID: -6098398901452171571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf87405742dfb6f0800000000000000
+      internalID: -666583016096165971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_31
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2824fbd6ebc6d05c0800000000000000
+      internalID: -4247619308399672702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_32
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d143454bfe37f030800000000000000
+      internalID: 3528358081987822040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_33
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334cf1236c70881c0800000000000000
+      internalID: -4501339279730949069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf589e12bdabf490800000000000000
+      internalID: -7711378956412756049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f1185079566b30800000000000000
+      internalID: 4280206834911016799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1147703a4b2a1b150800000000000000
+      internalID: 5886665084662936593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2d47efa9be862e0800000000000000
+      internalID: -2132195372633369919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae373c11987c46a0800000000000000
+      internalID: -6463658800544530780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7e40df6026c3830800000000000000
+      internalID: 4052221546880886728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd9e30c0574e2030800000000000000
+      internalID: 3471790774897515970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_41
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd583a1a143fa44c0800000000000000
+      internalID: -4302359030788815395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955af0dd0c87a6ec0800000000000000
+      internalID: -3572910584627223207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c7bc56d163cda0800000000000000
+      internalID: -5925785111382997885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_44
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c34266afb3d6c0800000000000000
+      internalID: -4119738512779787773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_45
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b822043fc0cbf4710800000000000000
+      internalID: 1679767949839180427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac924761656d8020800000000000000
+      internalID: 2345642449948548271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_47
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde80dcf5e38fe630800000000000000
+      internalID: 3958527621294231260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_48
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfe16fc52d58ecb0800000000000000
+      internalID: -4834511783007752254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_49
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec681ebcf876f4b30800000000000000
+      internalID: 4273748438696429262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_50
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5842c4cd876cc220800000000000000
+      internalID: 2507492951127640154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_51
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac09777919ec7eb0800000000000000
+      internalID: -4720642013803246421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_52
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8430ea3519ad33c20800000000000000
+      internalID: 3185129679190098760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_53
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67218ee1c2c3b1cd0800000000000000
+      internalID: -2586407400799464842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_54
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3775d8e3161ce0800000000000000
+      internalID: -1434937540536221859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_55
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf937ea9a8e939d20800000000000000
+      internalID: 3284142871424743931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_56
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59078764a02145450800000000000000
+      internalID: 6076501632570912917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_57
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a7eb8b029201650800000000000000
+      internalID: 6201501907404356097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e49b8fa2bf4fed0800000000000000
+      internalID: -2381002140992057701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_59
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8884e8c1412392440800000000000000
+      internalID: 4911511930584057992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_60
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6644e4ed95a9069d0800000000000000
+      internalID: -2783054858942528410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_61
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b3bea18478950e0800000000000000
+      internalID: -2280642992527426796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_62
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f0dd122556f8d80800000000000000
+      internalID: -8246260989262229704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_63
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee395f0041846160800000000000000
+      internalID: 7017876231485472491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_64
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8fa6676c4a8c910800000000000000
+      internalID: 1857916018587531453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_65
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd87adc1525e8a50800000000000000
+      internalID: 6525243421402566139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_66
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c782bbe37155200800000000000000
+      internalID: 168066119291665554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_67
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114542d34ea7665c0800000000000000
+      internalID: -4222552479916338159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a225752f7c8eed70800000000000000
+      internalID: 9074344776915296935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0074a73478d636fb0800000000000000
+      internalID: -4655757162050861312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d05faaff5c11b80800000000000000
+      internalID: -8425735725957968508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8f13bbd991dd360800000000000000
+      internalID: 7195935944849094830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7616feca0c20b90800000000000000
+      internalID: -7277042198894254089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e3bdd37ed00f7b0800000000000000
+      internalID: -5192635083531796912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_74
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5520e318a7e30510800000000000000
+      internalID: 1514308608800597338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_75
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70765cbb844f0eb30800000000000000
+      internalID: 4314717036246034183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_76
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cb97c382cce2f90800000000000000
+      internalID: -6976414299564950514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_77
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c785cf273a0a95400800000000000000
+      internalID: 313458272948213884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a1ec065ea3c9cb0800000000000000
+      internalID: -4855941541366195590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_79
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9b8242d1dbd6360800000000000000
+      internalID: 7164590515074677163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_80
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1143bc9bede9b60800000000000000
+      internalID: 7754880497938076159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_81
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900a2f94a7adba910800000000000000
+      internalID: 1849812290727223305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_82
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c3e322439d258c0800000000000000
+      internalID: -4011905500097659867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_83
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e724e4400e9e80800000000000000
+      internalID: -8170092378117906318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_84
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b05bd9dec95e580800000000000000
+      internalID: -8798453752631325848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_85
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a81cf927149e450800000000000000
+      internalID: 6118493529321867850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_86
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c296576a58a8acb70800000000000000
+      internalID: 8920094318588684588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_87
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea1f55f5e1cf32e0800000000000000
+      internalID: -2143781704196744473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_88
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f7e8ef0c4fe2c50800000000000000
+      internalID: 6642515610159710075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_89
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfbb56ca59de4290800000000000000
+      internalID: -7904141312090456118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_90
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d391a95b6dc485a0800000000000000
+      internalID: -6519860499576679469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_91
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb00d46ef0b07d00800000000000000
+      internalID: 968468526544194534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_92
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63de70f4d4eca01a0800000000000000
+      internalID: -6842429852402324170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_93
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670ecd1cc684e2a10800000000000000
+      internalID: 1886524925860962422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_94
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceb5db2fe000c000800000000000000
+      internalID: 54044222761057991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_95
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac1b6038fc285b90800000000000000
+      internalID: -7252997755404346197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_96
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0026b0956097d3dd0800000000000000
+      internalID: -2504712749577444864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_97
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f651dbf0b9b7700800000000000000
+      internalID: 539195072300019580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_98
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a96fea820eef3be0800000000000000
+      internalID: -1495214856575424088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_99
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7a847242ab7ac70800000000000000
+      internalID: 8982352646254405555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_100
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6648a159a874a60800000000000000
+      internalID: 7658242064366462709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_101
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c548f1f08448d00800000000000000
+      internalID: 973982649209347178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d173ad1c23ce740800000000000000
+      internalID: 5182573079367720341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc2c5a633ea6f710800000000000000
+      internalID: 1726759042994154739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_104
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b0f459a6fe8e2e0800000000000000
+      internalID: -2096162385490408638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_105
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae081c3780deada0800000000000000
+      internalID: -5931574379952992597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_106
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe72c830784f3ee0800000000000000
+      internalID: -1279224122324123906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_107
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76f5cb5b0bb1c280800000000000000
+      internalID: -9024726520815028612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_108
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7910121a4bc762c0800000000000000
+      internalID: -4438355388759271045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_109
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314af0b10776746e0800000000000000
+      internalID: -1853398990451661805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_110
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b03e18efc336b330800000000000000
+      internalID: 3726222709741203635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_111
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ac5e9e88dc27020800000000000000
+      internalID: 2338157144482105874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_112
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb470b519e03e6980800000000000000
+      internalID: -8543837665425853250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_113
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f52c68fcf20546a0800000000000000
+      internalID: -6465758404497627657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_114
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239e07103f71fd400800000000000000
+      internalID: 351025628426856754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_115
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fada028ef279f6ac0800000000000000
+      internalID: -3859700123619512913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_116
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acabb7973eb26330800000000000000
+      internalID: 3702730989630106788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_117
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c71b49680c6175b0800000000000000
+      internalID: -5372394097094223934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_118
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c90e553f1183f880800000000000000
+      internalID: -8578370894171338296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_119
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63cbbd66c1712ce0800000000000000
+      internalID: -1431738109468621969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_120
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d80f1361a63d940800000000000000
+      internalID: 5319712228414360891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_121
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cc0780841d14160800000000000000
+      internalID: 7008112602474662991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_122
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a065aa835461417f0800000000000000
+      internalID: -642864360247896566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_123
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cceb8bd2e8dd7a0800000000000000
+      internalID: -6350763572498346874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_124
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e0b3d5d6e07d1a0800000000000000
+      internalID: -6784938450731987441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_125
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3cd234a84624ba0800000000000000
+      internalID: -6106207599765634088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_126
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f211d0e30dc05c0a0800000000000000
+      internalID: -6862064368695307985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_127
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932f7fba1ae9a62b0800000000000000
+      internalID: -5590481570214972871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_128
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae13641ddcb9c50800000000000000
+      internalID: 6673153571589057033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_129
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4111de350bca1a330800000000000000
+      internalID: 3720444640507007252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_130
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f1ac8419aa85e0800000000000000
+      internalID: -1906525586514119760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_131
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2393bc422b9b5280800000000000000
+      internalID: -9053472054280219859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_132
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9e7bef1976cace0800000000000000
+      internalID: -1392624308022941271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_133
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40d4c8468a3c5da0800000000000000
+      internalID: -5954820258869751730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_134
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27993b3e9306320b0800000000000000
+      internalID: -5754650097099761294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_135
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795a1d4e83d8c93e0800000000000000
+      internalID: -2045604855236418153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3cd9a7c13158dc0800000000000000
+      internalID: -3637480110994635851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_137
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2174eef254bce20800000000000000
+      internalID: 3371864818180362932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_138
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad173d4c426ef5d70800000000000000
+      internalID: 9034192423123907034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_139
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f732110f8ec8d80800000000000000
+      internalID: -8246960699844886735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_140
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e62198c2804cc60800000000000000
+      internalID: 7837398238902775317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_141
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a96c7f7754c1150800000000000000
+      internalID: 5844622797980473903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_142
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45690dde2577b5ce0800000000000000
+      internalID: -1415406459816995244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_143
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a0abbf10c90b70800000000000000
+      internalID: 8865828583979917706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_144
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a54c147627155d0800000000000000
+      internalID: -3075551282706752898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_145
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187ec612c4106720800000000000000
+      internalID: 2837290589082253329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_146
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fcc8d65a0d08fb0800000000000000
+      internalID: -4647485406520226008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_147
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff17b45be33fdd790800000000000000
+      internalID: -7503573953474235905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_148
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989926c73092bee0800000000000000
+      internalID: -1246775577605990250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_149
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693c696de08743120800000000000000
+      internalID: 2392669307165655958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_150
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b83119e0dc521290800000000000000
+      internalID: -7921166742258108236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_151
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9509cc0b717aa10800000000000000
+      internalID: 1920529814210501103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_152
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf237ab13b47ee80800000000000000
+      internalID: -8149462323750031430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_153
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdfe9c790ea48780800000000000000
+      internalID: -8681622825894740534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_154
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8d5b571af38d8c0800000000000000
+      internalID: -3974356708457326388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_155
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f377c5edb74125030800000000000000
+      internalID: 3481867984154949439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_156
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca2e10ce4a512640800000000000000
+      internalID: 5053419551163558592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_157
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d4c5bf3f2e6e7a0800000000000000
+      internalID: -6348137087210074759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_158
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918f4c572700bf40800000000000000
+      internalID: 5742097390531215762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_159
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83e22be424b5f5b0800000000000000
+      internalID: -5335160112893729905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_160
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fbad08814e5f680800000000000000
+      internalID: -8721814309440929984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_161
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649db4dbe4e75f390800000000000000
+      internalID: -7785177504191620794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_162
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6039eeac6c851010800000000000000
+      internalID: 1158986877536645228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_163
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a82401a6ed969440800000000000000
+      internalID: 4942311254955141281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_164
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c292dbc4be3c6620800000000000000
+      internalID: 2768656817160622793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_165
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8a6d2280f1b7600800000000000000
+      internalID: 467001106167671002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_166
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9ef85b43cb0bb90800000000000000
+      internalID: -7228070467359217228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_167
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0866f805c9d9d4200800000000000000
+      internalID: 165962055974610560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_168
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796a30af95ed81b20800000000000000
+      internalID: 3105476421099955863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_169
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d13cda25997e170800000000000000
+      internalID: 8207697426287631623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a1eea7b4fa2f160800000000000000
+      internalID: 7057896304762821194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_171
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a049eecfe4cd00800000000000000
+      internalID: 992181489883981698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_172
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1ec4ccbae7af790800000000000000
+      internalID: -7495539353472671298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_173
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef21c73d380c6c250800000000000000
+      internalID: 5964666428920173310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_174
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8254759957eac0800000000000000
+      internalID: -3825990859991380806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_175
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545f49d62bf36f420800000000000000
+      internalID: 2663386265211434309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_176
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29010a1de8b76ab0800000000000000
+      internalID: -5014836331570722516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_177
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801857c92345fbf00800000000000000
+      internalID: 1134718207470698760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_178
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8bd03357e44d3e0800000000000000
+      internalID: -2029911266762573645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_179
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffe0825244cd9810800000000000000
+      internalID: 1773789617384910841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_180
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b73068f0df05920800000000000000
+      internalID: 2977157596806609711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_181
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9153ac48820cb72e0800000000000000
+      internalID: -2126895118743358183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_182
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44ae26fc7ddd5c00800000000000000
+      internalID: 891111830065161290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_183
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cacdc63caa8e5d40800000000000000
+      internalID: 5575045860989717188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_184
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df09cc1db3ca77ce0800000000000000
+      internalID: -1407466985607098115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_185
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d81dc8cb9ec210f0800000000000000
+      internalID: -1147627786541917997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_186
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acbb85add20dbf70800000000000000
+      internalID: 9204516364403588264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_187
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af0a76859ef00fd0800000000000000
+      internalID: -2377620685091893338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_188
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83842a370206a8e60800000000000000
+      internalID: 7965284583453378616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_189
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce44da4b1b218e0800000000000000
+      internalID: -1724120317770273764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_190
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704210098e37afc20800000000000000
+      internalID: 3241030324532093959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_191
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924375b35a5661e10800000000000000
+      internalID: 2168032030965052457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_192
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7ab1f08bfcdcf60800000000000000
+      internalID: 8056323697870088190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_193
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdf7cde2b9af6460800000000000000
+      internalID: 7237189712166256115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_194
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46799485ff4bee0f0800000000000000
+      internalID: -1085731451358832796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_195
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556b3cdb3c6deb810800000000000000
+      internalID: 1783098638675981909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_196
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802f74bf9c463bcd0800000000000000
+      internalID: -2543578545867197944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_197
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e51c916656d68a0800000000000000
+      internalID: -6310276013683024362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_198
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe986d0a4a5e6440800000000000000
+      internalID: 4930977916116311740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_199
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11967a964e950cf00800000000000000
+      internalID: 1135005943657359633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_200
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1056592f601aa9350800000000000000
+      internalID: 6024304502773212417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_201
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a4c9fb2429f24a0800000000000000
+      internalID: -6615908512203781483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_202
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e666bb79b5cc5f0800000000000000
+      internalID: -735111931925991794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbalest_shoot_34x30_203
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b518159207a7df9c0800000000000000
+      internalID: -3891819880830107301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      arbalest_shoot_34x30_0: -154159839083991278
+      arbalest_shoot_34x30_1: -5632363747104696847
+      arbalest_shoot_34x30_10: 7998453873028675931
+      arbalest_shoot_34x30_100: 7658242064366462709
+      arbalest_shoot_34x30_101: 973982649209347178
+      arbalest_shoot_34x30_102: 5182573079367720341
+      arbalest_shoot_34x30_103: 1726759042994154739
+      arbalest_shoot_34x30_104: -2096162385490408638
+      arbalest_shoot_34x30_105: -5931574379952992597
+      arbalest_shoot_34x30_106: -1279224122324123906
+      arbalest_shoot_34x30_107: -9024726520815028612
+      arbalest_shoot_34x30_108: -4438355388759271045
+      arbalest_shoot_34x30_109: -1853398990451661805
+      arbalest_shoot_34x30_11: -1547159431902188541
+      arbalest_shoot_34x30_110: 3726222709741203635
+      arbalest_shoot_34x30_111: 2338157144482105874
+      arbalest_shoot_34x30_112: -8543837665425853250
+      arbalest_shoot_34x30_113: -6465758404497627657
+      arbalest_shoot_34x30_114: 351025628426856754
+      arbalest_shoot_34x30_115: -3859700123619512913
+      arbalest_shoot_34x30_116: 3702730989630106788
+      arbalest_shoot_34x30_117: -5372394097094223934
+      arbalest_shoot_34x30_118: -8578370894171338296
+      arbalest_shoot_34x30_119: -1431738109468621969
+      arbalest_shoot_34x30_12: 1968611550355983627
+      arbalest_shoot_34x30_120: 5319712228414360891
+      arbalest_shoot_34x30_121: 7008112602474662991
+      arbalest_shoot_34x30_122: -642864360247896566
+      arbalest_shoot_34x30_123: -6350763572498346874
+      arbalest_shoot_34x30_124: -6784938450731987441
+      arbalest_shoot_34x30_125: -6106207599765634088
+      arbalest_shoot_34x30_126: -6862064368695307985
+      arbalest_shoot_34x30_127: -5590481570214972871
+      arbalest_shoot_34x30_128: 6673153571589057033
+      arbalest_shoot_34x30_129: 3720444640507007252
+      arbalest_shoot_34x30_13: 2612871097425756794
+      arbalest_shoot_34x30_130: -1906525586514119760
+      arbalest_shoot_34x30_131: -9053472054280219859
+      arbalest_shoot_34x30_132: -1392624308022941271
+      arbalest_shoot_34x30_133: -5954820258869751730
+      arbalest_shoot_34x30_134: -5754650097099761294
+      arbalest_shoot_34x30_135: -2045604855236418153
+      arbalest_shoot_34x30_136: -3637480110994635851
+      arbalest_shoot_34x30_137: 3371864818180362932
+      arbalest_shoot_34x30_138: 9034192423123907034
+      arbalest_shoot_34x30_139: -8246960699844886735
+      arbalest_shoot_34x30_14: -3600117163295954588
+      arbalest_shoot_34x30_140: 7837398238902775317
+      arbalest_shoot_34x30_141: 5844622797980473903
+      arbalest_shoot_34x30_142: -1415406459816995244
+      arbalest_shoot_34x30_143: 8865828583979917706
+      arbalest_shoot_34x30_144: -3075551282706752898
+      arbalest_shoot_34x30_145: 2837290589082253329
+      arbalest_shoot_34x30_146: -4647485406520226008
+      arbalest_shoot_34x30_147: -7503573953474235905
+      arbalest_shoot_34x30_148: -1246775577605990250
+      arbalest_shoot_34x30_149: 2392669307165655958
+      arbalest_shoot_34x30_15: 7079964382383856749
+      arbalest_shoot_34x30_150: -7921166742258108236
+      arbalest_shoot_34x30_151: 1920529814210501103
+      arbalest_shoot_34x30_152: -8149462323750031430
+      arbalest_shoot_34x30_153: -8681622825894740534
+      arbalest_shoot_34x30_154: -3974356708457326388
+      arbalest_shoot_34x30_155: 3481867984154949439
+      arbalest_shoot_34x30_156: 5053419551163558592
+      arbalest_shoot_34x30_157: -6348137087210074759
+      arbalest_shoot_34x30_158: 5742097390531215762
+      arbalest_shoot_34x30_159: -5335160112893729905
+      arbalest_shoot_34x30_16: 2826439200046509769
+      arbalest_shoot_34x30_160: -8721814309440929984
+      arbalest_shoot_34x30_161: -7785177504191620794
+      arbalest_shoot_34x30_162: 1158986877536645228
+      arbalest_shoot_34x30_163: 4942311254955141281
+      arbalest_shoot_34x30_164: 2768656817160622793
+      arbalest_shoot_34x30_165: 467001106167671002
+      arbalest_shoot_34x30_166: -7228070467359217228
+      arbalest_shoot_34x30_167: 165962055974610560
+      arbalest_shoot_34x30_168: 3105476421099955863
+      arbalest_shoot_34x30_169: 8207697426287631623
+      arbalest_shoot_34x30_17: -3217714778180958374
+      arbalest_shoot_34x30_170: 7057896304762821194
+      arbalest_shoot_34x30_171: 992181489883981698
+      arbalest_shoot_34x30_172: -7495539353472671298
+      arbalest_shoot_34x30_173: 5964666428920173310
+      arbalest_shoot_34x30_174: -3825990859991380806
+      arbalest_shoot_34x30_175: 2663386265211434309
+      arbalest_shoot_34x30_176: -5014836331570722516
+      arbalest_shoot_34x30_177: 1134718207470698760
+      arbalest_shoot_34x30_178: -2029911266762573645
+      arbalest_shoot_34x30_179: 1773789617384910841
+      arbalest_shoot_34x30_18: 2049903367873401985
+      arbalest_shoot_34x30_180: 2977157596806609711
+      arbalest_shoot_34x30_181: -2126895118743358183
+      arbalest_shoot_34x30_182: 891111830065161290
+      arbalest_shoot_34x30_183: 5575045860989717188
+      arbalest_shoot_34x30_184: -1407466985607098115
+      arbalest_shoot_34x30_185: -1147627786541917997
+      arbalest_shoot_34x30_186: 9204516364403588264
+      arbalest_shoot_34x30_187: -2377620685091893338
+      arbalest_shoot_34x30_188: 7965284583453378616
+      arbalest_shoot_34x30_189: -1724120317770273764
+      arbalest_shoot_34x30_19: -7027090810861457499
+      arbalest_shoot_34x30_190: 3241030324532093959
+      arbalest_shoot_34x30_191: 2168032030965052457
+      arbalest_shoot_34x30_192: 8056323697870088190
+      arbalest_shoot_34x30_193: 7237189712166256115
+      arbalest_shoot_34x30_194: -1085731451358832796
+      arbalest_shoot_34x30_195: 1783098638675981909
+      arbalest_shoot_34x30_196: -2543578545867197944
+      arbalest_shoot_34x30_197: -6310276013683024362
+      arbalest_shoot_34x30_198: 4930977916116311740
+      arbalest_shoot_34x30_199: 1135005943657359633
+      arbalest_shoot_34x30_2: -681687683660234814
+      arbalest_shoot_34x30_20: 2391408512991236895
+      arbalest_shoot_34x30_200: 6024304502773212417
+      arbalest_shoot_34x30_201: -6615908512203781483
+      arbalest_shoot_34x30_202: -735111931925991794
+      arbalest_shoot_34x30_203: -3891819880830107301
+      arbalest_shoot_34x30_21: -8048486943110654054
+      arbalest_shoot_34x30_22: 3850687335926417936
+      arbalest_shoot_34x30_23: -3285494350047744185
+      arbalest_shoot_34x30_24: -6974059921364118724
+      arbalest_shoot_34x30_25: 4600231245883777934
+      arbalest_shoot_34x30_26: -7386475727523586544
+      arbalest_shoot_34x30_27: 314014549187265017
+      arbalest_shoot_34x30_28: -4977665005039730602
+      arbalest_shoot_34x30_29: -6098398901452171571
+      arbalest_shoot_34x30_3: -5130843686170998883
+      arbalest_shoot_34x30_30: -666583016096165971
+      arbalest_shoot_34x30_31: -4247619308399672702
+      arbalest_shoot_34x30_32: 3528358081987822040
+      arbalest_shoot_34x30_33: -4501339279730949069
+      arbalest_shoot_34x30_34: -7711378956412756049
+      arbalest_shoot_34x30_35: 4280206834911016799
+      arbalest_shoot_34x30_36: 5886665084662936593
+      arbalest_shoot_34x30_37: -2132195372633369919
+      arbalest_shoot_34x30_38: -6463658800544530780
+      arbalest_shoot_34x30_39: 4052221546880886728
+      arbalest_shoot_34x30_4: 7819085709187515467
+      arbalest_shoot_34x30_40: 3471790774897515970
+      arbalest_shoot_34x30_41: -4302359030788815395
+      arbalest_shoot_34x30_42: -3572910584627223207
+      arbalest_shoot_34x30_43: -5925785111382997885
+      arbalest_shoot_34x30_44: -4119738512779787773
+      arbalest_shoot_34x30_45: 1679767949839180427
+      arbalest_shoot_34x30_46: 2345642449948548271
+      arbalest_shoot_34x30_47: 3958527621294231260
+      arbalest_shoot_34x30_48: -4834511783007752254
+      arbalest_shoot_34x30_49: 4273748438696429262
+      arbalest_shoot_34x30_5: 1215251262818874903
+      arbalest_shoot_34x30_50: 2507492951127640154
+      arbalest_shoot_34x30_51: -4720642013803246421
+      arbalest_shoot_34x30_52: 3185129679190098760
+      arbalest_shoot_34x30_53: -2586407400799464842
+      arbalest_shoot_34x30_54: -1434937540536221859
+      arbalest_shoot_34x30_55: 3284142871424743931
+      arbalest_shoot_34x30_56: 6076501632570912917
+      arbalest_shoot_34x30_57: 6201501907404356097
+      arbalest_shoot_34x30_58: -2381002140992057701
+      arbalest_shoot_34x30_59: 4911511930584057992
+      arbalest_shoot_34x30_6: 5744742834152518545
+      arbalest_shoot_34x30_60: -2783054858942528410
+      arbalest_shoot_34x30_61: -2280642992527426796
+      arbalest_shoot_34x30_62: -8246260989262229704
+      arbalest_shoot_34x30_63: 7017876231485472491
+      arbalest_shoot_34x30_64: 1857916018587531453
+      arbalest_shoot_34x30_65: 6525243421402566139
+      arbalest_shoot_34x30_66: 168066119291665554
+      arbalest_shoot_34x30_67: -4222552479916338159
+      arbalest_shoot_34x30_68: 9074344776915296935
+      arbalest_shoot_34x30_69: -4655757162050861312
+      arbalest_shoot_34x30_7: 2167229744324334653
+      arbalest_shoot_34x30_70: -8425735725957968508
+      arbalest_shoot_34x30_71: 7195935944849094830
+      arbalest_shoot_34x30_72: -7277042198894254089
+      arbalest_shoot_34x30_73: -5192635083531796912
+      arbalest_shoot_34x30_74: 1514308608800597338
+      arbalest_shoot_34x30_75: 4314717036246034183
+      arbalest_shoot_34x30_76: -6976414299564950514
+      arbalest_shoot_34x30_77: 313458272948213884
+      arbalest_shoot_34x30_78: -4855941541366195590
+      arbalest_shoot_34x30_79: 7164590515074677163
+      arbalest_shoot_34x30_8: 7031314147428574563
+      arbalest_shoot_34x30_80: 7754880497938076159
+      arbalest_shoot_34x30_81: 1849812290727223305
+      arbalest_shoot_34x30_82: -4011905500097659867
+      arbalest_shoot_34x30_83: -8170092378117906318
+      arbalest_shoot_34x30_84: -8798453752631325848
+      arbalest_shoot_34x30_85: 6118493529321867850
+      arbalest_shoot_34x30_86: 8920094318588684588
+      arbalest_shoot_34x30_87: -2143781704196744473
+      arbalest_shoot_34x30_88: 6642515610159710075
+      arbalest_shoot_34x30_89: -7904141312090456118
+      arbalest_shoot_34x30_9: 6494860622518176290
+      arbalest_shoot_34x30_90: -6519860499576679469
+      arbalest_shoot_34x30_91: 968468526544194534
+      arbalest_shoot_34x30_92: -6842429852402324170
+      arbalest_shoot_34x30_93: 1886524925860962422
+      arbalest_shoot_34x30_94: 54044222761057991
+      arbalest_shoot_34x30_95: -7252997755404346197
+      arbalest_shoot_34x30_96: -2504712749577444864
+      arbalest_shoot_34x30_97: 539195072300019580
+      arbalest_shoot_34x30_98: -1495214856575424088
+      arbalest_shoot_34x30_99: 8982352646254405555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3914 @@
+fileFormatVersion: 2
+guid: 64a9595503e9a7c40a76cbde6d1e00bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5205200613885658578
+    second: beer_46x32_0
+  - first:
+      213: -7416862911965090014
+    second: beer_46x32_1
+  - first:
+      213: 8455429092450095547
+    second: beer_46x32_2
+  - first:
+      213: -7239742818886899065
+    second: beer_46x32_3
+  - first:
+      213: 6411824550424944075
+    second: beer_46x32_4
+  - first:
+      213: 1129872534853523097
+    second: beer_46x32_5
+  - first:
+      213: -6641566908116605913
+    second: beer_46x32_6
+  - first:
+      213: 3314428382564304014
+    second: beer_46x32_7
+  - first:
+      213: 7362925117558662844
+    second: beer_46x32_8
+  - first:
+      213: -2229854689855231863
+    second: beer_46x32_9
+  - first:
+      213: 8998683614965526154
+    second: beer_46x32_10
+  - first:
+      213: 3826864137933959815
+    second: beer_46x32_11
+  - first:
+      213: -5857461568711986024
+    second: beer_46x32_12
+  - first:
+      213: -5612874201929862633
+    second: beer_46x32_13
+  - first:
+      213: 4467262470483572011
+    second: beer_46x32_14
+  - first:
+      213: 193641654885702094
+    second: beer_46x32_15
+  - first:
+      213: 5774712658306644649
+    second: beer_46x32_16
+  - first:
+      213: 8712108549207447115
+    second: beer_46x32_17
+  - first:
+      213: -6788198869342268269
+    second: beer_46x32_18
+  - first:
+      213: 8582302431692455454
+    second: beer_46x32_19
+  - first:
+      213: 7613958615728428847
+    second: beer_46x32_20
+  - first:
+      213: -203972685342109810
+    second: beer_46x32_21
+  - first:
+      213: 2194326208519980924
+    second: beer_46x32_22
+  - first:
+      213: -1955630859913175031
+    second: beer_46x32_23
+  - first:
+      213: 4827559054555756534
+    second: beer_46x32_24
+  - first:
+      213: 7670870968625172872
+    second: beer_46x32_25
+  - first:
+      213: 3989181768514284583
+    second: beer_46x32_26
+  - first:
+      213: 4975000495345189045
+    second: beer_46x32_27
+  - first:
+      213: -3730661606314771230
+    second: beer_46x32_28
+  - first:
+      213: 3635319186086061633
+    second: beer_46x32_29
+  - first:
+      213: -4819617385715678065
+    second: beer_46x32_30
+  - first:
+      213: -5760452509666898572
+    second: beer_46x32_31
+  - first:
+      213: 1187923095932296082
+    second: beer_46x32_32
+  - first:
+      213: 5901469989898782956
+    second: beer_46x32_33
+  - first:
+      213: -6505448506008167061
+    second: beer_46x32_34
+  - first:
+      213: 4412523224989277056
+    second: beer_46x32_35
+  - first:
+      213: 2292598126867670272
+    second: beer_46x32_36
+  - first:
+      213: -8441185928367759681
+    second: beer_46x32_37
+  - first:
+      213: 217644332508829588
+    second: beer_46x32_38
+  - first:
+      213: -8678700418510767066
+    second: beer_46x32_39
+  - first:
+      213: 7564395081834758398
+    second: beer_46x32_40
+  - first:
+      213: -3848150839932085937
+    second: beer_46x32_41
+  - first:
+      213: 6533822610824381240
+    second: beer_46x32_42
+  - first:
+      213: 6239199381408673277
+    second: beer_46x32_43
+  - first:
+      213: 7786651387945883158
+    second: beer_46x32_44
+  - first:
+      213: -2939804804298162029
+    second: beer_46x32_45
+  - first:
+      213: 323104395863055710
+    second: beer_46x32_46
+  - first:
+      213: 7482976100165733345
+    second: beer_46x32_47
+  - first:
+      213: -6439429095357085384
+    second: beer_46x32_48
+  - first:
+      213: 507655146999419948
+    second: beer_46x32_49
+  - first:
+      213: -4031757622599688040
+    second: beer_46x32_50
+  - first:
+      213: 8129771733617834999
+    second: beer_46x32_51
+  - first:
+      213: -5674140534024065596
+    second: beer_46x32_52
+  - first:
+      213: -6283903892561972140
+    second: beer_46x32_53
+  - first:
+      213: 3013655835931456927
+    second: beer_46x32_54
+  - first:
+      213: -1413916399173198590
+    second: beer_46x32_55
+  - first:
+      213: 3725324416069361857
+    second: beer_46x32_56
+  - first:
+      213: -2764170873894559338
+    second: beer_46x32_57
+  - first:
+      213: -7516213428288820287
+    second: beer_46x32_58
+  - first:
+      213: -6350559193208025573
+    second: beer_46x32_59
+  - first:
+      213: 9123830822959023811
+    second: beer_46x32_60
+  - first:
+      213: -7519823563368664800
+    second: beer_46x32_61
+  - first:
+      213: 8126222851753226872
+    second: beer_46x32_62
+  - first:
+      213: 4371615164060558649
+    second: beer_46x32_63
+  - first:
+      213: 9081212933767909289
+    second: beer_46x32_64
+  - first:
+      213: -9059547399600407002
+    second: beer_46x32_65
+  - first:
+      213: 8512143713883875787
+    second: beer_46x32_66
+  - first:
+      213: -2908858064473610531
+    second: beer_46x32_67
+  - first:
+      213: -6979748184449308267
+    second: beer_46x32_68
+  - first:
+      213: -5862995818802313771
+    second: beer_46x32_69
+  - first:
+      213: 6029156505560020096
+    second: beer_46x32_70
+  - first:
+      213: 653217203712855666
+    second: beer_46x32_71
+  - first:
+      213: 6645091956554226333
+    second: beer_46x32_72
+  - first:
+      213: -9092679011235120397
+    second: beer_46x32_73
+  - first:
+      213: 3403727519387801029
+    second: beer_46x32_74
+  - first:
+      213: -1695294508225337878
+    second: beer_46x32_75
+  - first:
+      213: 1905611504464861582
+    second: beer_46x32_76
+  - first:
+      213: -9158749900072153540
+    second: beer_46x32_77
+  - first:
+      213: 3845025953934295439
+    second: beer_46x32_78
+  - first:
+      213: 2246627133637316273
+    second: beer_46x32_79
+  - first:
+      213: -6935878676275316440
+    second: beer_46x32_80
+  - first:
+      213: -3431240047601904440
+    second: beer_46x32_81
+  - first:
+      213: 7785066265709544043
+    second: beer_46x32_82
+  - first:
+      213: -4280193083884910330
+    second: beer_46x32_83
+  - first:
+      213: -3990366941457091350
+    second: beer_46x32_84
+  - first:
+      213: -3954641399460754664
+    second: beer_46x32_85
+  - first:
+      213: -531193264827106006
+    second: beer_46x32_86
+  - first:
+      213: 2150704736258386100
+    second: beer_46x32_87
+  - first:
+      213: -8987500332037123267
+    second: beer_46x32_88
+  - first:
+      213: -4132444130808096327
+    second: beer_46x32_89
+  - first:
+      213: 7744553483924402106
+    second: beer_46x32_90
+  - first:
+      213: 1313320437290437176
+    second: beer_46x32_91
+  - first:
+      213: -5339732936659098966
+    second: beer_46x32_92
+  - first:
+      213: 8946741717355047926
+    second: beer_46x32_93
+  - first:
+      213: -7981601493648865350
+    second: beer_46x32_94
+  - first:
+      213: -4312250474573198777
+    second: beer_46x32_95
+  - first:
+      213: 2809556632956743946
+    second: beer_46x32_96
+  - first:
+      213: 6195506475317299815
+    second: beer_46x32_97
+  - first:
+      213: -3358561988039030103
+    second: beer_46x32_98
+  - first:
+      213: -8192828448284538374
+    second: beer_46x32_99
+  - first:
+      213: 2852171552264630061
+    second: beer_46x32_100
+  - first:
+      213: -3162208011715782137
+    second: beer_46x32_101
+  - first:
+      213: 5880856855724497612
+    second: beer_46x32_102
+  - first:
+      213: 2935227439189395623
+    second: beer_46x32_103
+  - first:
+      213: -946147079612857005
+    second: beer_46x32_104
+  - first:
+      213: -5598757661633416381
+    second: beer_46x32_105
+  - first:
+      213: -1541827417930087272
+    second: beer_46x32_106
+  - first:
+      213: 3811936625419111375
+    second: beer_46x32_107
+  - first:
+      213: -2188760919738001400
+    second: beer_46x32_108
+  - first:
+      213: 7299880820529906958
+    second: beer_46x32_109
+  - first:
+      213: 199911092095475164
+    second: beer_46x32_110
+  - first:
+      213: -2864738656115029403
+    second: beer_46x32_111
+  - first:
+      213: 7969031754938415922
+    second: beer_46x32_112
+  - first:
+      213: -4185490512154897056
+    second: beer_46x32_113
+  - first:
+      213: 5584588477669663501
+    second: beer_46x32_114
+  - first:
+      213: 3426363960767103810
+    second: beer_46x32_115
+  - first:
+      213: -7942759509908677138
+    second: beer_46x32_116
+  - first:
+      213: 7311368096685041044
+    second: beer_46x32_117
+  - first:
+      213: -1700724547907819261
+    second: beer_46x32_118
+  - first:
+      213: 3106775237135149747
+    second: beer_46x32_119
+  - first:
+      213: -1692240159668383740
+    second: beer_46x32_120
+  - first:
+      213: 1023681631140725781
+    second: beer_46x32_121
+  - first:
+      213: -2330644959932152572
+    second: beer_46x32_122
+  - first:
+      213: 4590295142773403269
+    second: beer_46x32_123
+  - first:
+      213: 3281894309791090849
+    second: beer_46x32_124
+  - first:
+      213: -1513749034262029649
+    second: beer_46x32_125
+  - first:
+      213: 4932510379095284596
+    second: beer_46x32_126
+  - first:
+      213: -2505111689209680066
+    second: beer_46x32_127
+  - first:
+      213: 6530172729108294351
+    second: beer_46x32_128
+  - first:
+      213: 7802629609836376470
+    second: beer_46x32_129
+  - first:
+      213: 5670073110011667092
+    second: beer_46x32_130
+  - first:
+      213: 6851348485934078439
+    second: beer_46x32_131
+  - first:
+      213: 7676419527319031694
+    second: beer_46x32_132
+  - first:
+      213: -301515484113739471
+    second: beer_46x32_133
+  - first:
+      213: -7499892073556140310
+    second: beer_46x32_134
+  - first:
+      213: 2009126875447726579
+    second: beer_46x32_135
+  - first:
+      213: -5362441227057810717
+    second: beer_46x32_136
+  - first:
+      213: 5582631807210957247
+    second: beer_46x32_137
+  - first:
+      213: 2169704404409920799
+    second: beer_46x32_138
+  - first:
+      213: -1746715744880412004
+    second: beer_46x32_139
+  - first:
+      213: -4343226454893313143
+    second: beer_46x32_140
+  - first:
+      213: -7346531822253339494
+    second: beer_46x32_141
+  - first:
+      213: 2902135024194696162
+    second: beer_46x32_142
+  - first:
+      213: -7581015999438556547
+    second: beer_46x32_143
+  - first:
+      213: 1905469572703395934
+    second: beer_46x32_144
+  - first:
+      213: 3846106114326742236
+    second: beer_46x32_145
+  - first:
+      213: -1955891823291890590
+    second: beer_46x32_146
+  - first:
+      213: -2453296473876199422
+    second: beer_46x32_147
+  - first:
+      213: -3256018096422648356
+    second: beer_46x32_148
+  - first:
+      213: 944033311042089189
+    second: beer_46x32_149
+  - first:
+      213: -699159464727370242
+    second: beer_46x32_150
+  - first:
+      213: -6972782283190412138
+    second: beer_46x32_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beer_46x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a33b8be9963c7b0800000000000000
+      internalID: -5205200613885658578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f2d805a72021990800000000000000
+      internalID: -7416862911965090014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1ddf6f5f7b75570800000000000000
+      internalID: 8455429092450095547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aaf079344478b90800000000000000
+      internalID: -7239742818886899065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd153215706bf850800000000000000
+      internalID: 6411824550424944075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9961a69851d1eaf00800000000000000
+      internalID: 1129872534853523097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72468b9e51a64d3a0800000000000000
+      internalID: -6641566908116605913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84c738ad073ffd20800000000000000
+      internalID: 3314428382564304014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a2eb426d5e2660800000000000000
+      internalID: 7362925117558662844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988a07e49f6fd01e0800000000000000
+      internalID: -2229854689855231863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee52c121fb1ec70800000000000000
+      internalID: 8998683614965526154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7823c3968a0cb1530800000000000000
+      internalID: 3826864137933959815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8947b67ccbd16bea0800000000000000
+      internalID: -5857461568711986024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123401d6a01b12b0800000000000000
+      internalID: -5612874201929862633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b257b9f5c87eefd30800000000000000
+      internalID: 4467262470483572011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_15
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec95e252f04ffa200800000000000000
+      internalID: 193641654885702094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aab1562196e32050800000000000000
+      internalID: 5774712658306644649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_17
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4657281190a7e870800000000000000
+      internalID: 8712108549207447115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_18
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 224
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394552008197bc1a0800000000000000
+      internalID: -6788198869342268269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1efff337967a1770800000000000000
+      internalID: 8582302431692455454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27940145073aa960800000000000000
+      internalID: 7613958615728428847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f0d426ce75b2df0800000000000000
+      internalID: -203972685342109810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77c9248f00d37e10800000000000000
+      internalID: 2194326208519980924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900651328143cd4e0800000000000000
+      internalID: -1955630859913175031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f73403f16feef240800000000000000
+      internalID: 4827559054555756534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88192c20188647a60800000000000000
+      internalID: 7670870968625172872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c22c0deab6c5730800000000000000
+      internalID: 3989181768514284583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b041728790ca0540800000000000000
+      internalID: 4975000495345189045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_28
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec7b62f8070a3cc0800000000000000
+      internalID: -3730661606314771230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14662dbf98f337230800000000000000
+      internalID: 3635319186086061633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_30
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ce1be5874d1db0800000000000000
+      internalID: -4819617385715678065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_31
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d0ccf66f2ce00b0800000000000000
+      internalID: -5760452509666898572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_32
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd68903c95c7010800000000000000
+      internalID: 1187923095932296082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_33
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce88b8040bb36e150800000000000000
+      internalID: 5901469989898782956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_34
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d99c61d0108b5a0800000000000000
+      internalID: -6505448506008167061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_35
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b95ac9e7e6c3d30800000000000000
+      internalID: 4412523224989277056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_36
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0056ca489d1f0df10800000000000000
+      internalID: 2292598126867670272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_37
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 192
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe1d981f12eada80800000000000000
+      internalID: -8441185928367759681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d0960e5a350300800000000000000
+      internalID: 217644332508829588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_39
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cb1aa73ff0f8780800000000000000
+      internalID: -8678700418510767066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_40
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef00971cf312af860800000000000000
+      internalID: 7564395081834758398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_41
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f491abf033f989ac0800000000000000
+      internalID: -3848150839932085937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_42
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8334a9ffb0dccaa50800000000000000
+      internalID: 6533822610824381240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd63bbd7c6169650800000000000000
+      internalID: 6239199381408673277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61611509e2ebf0c60800000000000000
+      internalID: 7786651387945883158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_45
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39042d23b17b337d0800000000000000
+      internalID: -2939804804298162029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dd8c47cb5eb7400800000000000000
+      internalID: 323104395863055710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_47
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebcd19dd1fd8d760800000000000000
+      internalID: 7482976100165733345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_48
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8390de6fa5d82a6a0800000000000000
+      internalID: -6439429095357085384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_49
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c249c41aaad8b0700800000000000000
+      internalID: 507655146999419948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_50
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890e87cadc15c08c0800000000000000
+      internalID: -4031757622599688040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_51
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb7d4f7150c2d070800000000000000
+      internalID: 8129771733617834999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_52
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cda9d74f376141b0800000000000000
+      internalID: -5674140534024065596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_53
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454362904b61bc8a0800000000000000
+      internalID: -6283903892561972140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_54
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f953af70408a2d920800000000000000
+      internalID: 3013655835931456927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_55
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9e25b682c06ce0800000000000000
+      internalID: -1413916399173198590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_56
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 160
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c067ec91d203b330800000000000000
+      internalID: 3725324416069361857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691a8034c31b3a9d0800000000000000
+      internalID: -2764170873894559338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_58
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbe2d6a5bb01b790800000000000000
+      internalID: -7516213428288820287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_59
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e8ebb7f084ed7a0800000000000000
+      internalID: -6350559193208025573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_60
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c68b391bcb5e9e70800000000000000
+      internalID: 9123830822959023811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_61
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0217cc39f4834a790800000000000000
+      internalID: -7519823563368664800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_62
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b96c01a426c070800000000000000
+      internalID: 8126222851753226872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_63
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9356a8474d81bac30800000000000000
+      internalID: 4371615164060558649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_64
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4be68c03f60e70800000000000000
+      internalID: 9081212933767909289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef00db3a5064280800000000000000
+      internalID: -9059547399600407002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_66
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc96f17cb95312670800000000000000
+      internalID: 8512143713883875787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6250d8009a1a7d0800000000000000
+      internalID: -2908858064473610531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_68
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599a83ca104f22f90800000000000000
+      internalID: -6979748184449308267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_69
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d500b4cd5472aea0800000000000000
+      internalID: -5862995818802313771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_70
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084f321e5eddba350800000000000000
+      internalID: 6029156505560020096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_71
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e8a7cf591b01900800000000000000
+      internalID: 653217203712855666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_72
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a58326deb183c50800000000000000
+      internalID: 6645091956554226333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_73
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa3ea64d9050d180800000000000000
+      internalID: -9092679011235120397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_74
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5d45925287c3f20800000000000000
+      internalID: 3403727519387801029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_75
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 128
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5ee8770aa1978e0800000000000000
+      internalID: -1695294508225337878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8996832197127a10800000000000000
+      internalID: 1905611504464861582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_77
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e0e83bd7595e080800000000000000
+      internalID: -9158749900072153540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_78
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f814968bbb64c5530800000000000000
+      internalID: 3845025953934295439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_79
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec433997f9d2f10800000000000000
+      internalID: 2246627133637316273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_80
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829376f771fcebf90800000000000000
+      internalID: -6935878676275316440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_81
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4189f2b59c160d0800000000000000
+      internalID: -3431240047601904440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_82
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b628e78858c1a0c60800000000000000
+      internalID: 7785066265709544043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_83
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609c4f05113b994c0800000000000000
+      internalID: -4280193083884910330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_84
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4fcfa986e5f98c0800000000000000
+      internalID: -3990366941457091350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_85
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b861b899a4e19c0800000000000000
+      internalID: -3954641399460754664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_86
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d76ee3a82d0a8f0800000000000000
+      internalID: -531193264827106006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_87
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b86e6d0096d8dd10800000000000000
+      internalID: 2150704736258386100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_88
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d83ad01cf54380800000000000000
+      internalID: -8987500332037123267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_89
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9190925fb96a6c0800000000000000
+      internalID: -4132444130808096327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_90
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe3597c5e2a7b60800000000000000
+      internalID: 7744553483924402106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_91
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a05fcbaf9d93210800000000000000
+      internalID: 1313320437290437176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_92
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa22bfa6f2575e5b0800000000000000
+      internalID: -5339732936659098966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_93
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbad18a036392c70800000000000000
+      internalID: 8946741717355047926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_94
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab70558dab7ab3190800000000000000
+      internalID: -7981601493648865350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0e886a0fc724c0800000000000000
+      internalID: -4312250474573198777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_96
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01babb3fdc8df620800000000000000
+      internalID: 2809556632956743946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_97
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a8be8605cdaf550800000000000000
+      internalID: 6195506475317299815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_98
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aacdc29aadf361d0800000000000000
+      internalID: -3358561988039030103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_99
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9094a0fe93d4e80800000000000000
+      internalID: -8192828448284538374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_100
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f25335ae2f49720800000000000000
+      internalID: 2852171552264630061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_101
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a59c341949d14d0800000000000000
+      internalID: -3162208011715782137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_102
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca1164f6200d9150800000000000000
+      internalID: 5880856855724497612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_103
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a80ddfedc50cb820800000000000000
+      internalID: 2935227439189395623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_104
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35507667e3c9ed2f0800000000000000
+      internalID: -946147079612857005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_105
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343f7daf1973d42b0800000000000000
+      internalID: -5598757661633416381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_106
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894c151e1245a9ae0800000000000000
+      internalID: -1541827417930087272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_107
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb48601a28b6e430800000000000000
+      internalID: 3811936625419111375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_108
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80852c04a85ff91e0800000000000000
+      internalID: -2188760919738001400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_109
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e054f5a0ee26e4560800000000000000
+      internalID: 7299880820529906958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_110
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddd20f341a36c200800000000000000
+      internalID: 199911092095475164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_111
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a0febce576e38d0800000000000000
+      internalID: -2864738656115029403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_112
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b79ecc820b79e60800000000000000
+      internalID: 7969031754938415922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_113
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 64
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0655d3c0e862ae5c0800000000000000
+      internalID: -4185490512154897056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d036d3cc1a1708d40800000000000000
+      internalID: 5584588477669663501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_115
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24349b06ed3ec8f20800000000000000
+      internalID: 3426363960767103810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_116
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed998bee46a5c190800000000000000
+      internalID: -7942759509908677138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_117
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4952901fb82377560800000000000000
+      internalID: 7311368096685041044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_118
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ea25d800d568e0800000000000000
+      internalID: -1700724547907819261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_119
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baab662e9b7d1b20800000000000000
+      internalID: 3106775237135149747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_120
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400d0586a84f388e0800000000000000
+      internalID: -1692240159668383740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_121
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144c331509d43e00800000000000000
+      internalID: 1023681631140725781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_122
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40580b9d1c2e7afd0800000000000000
+      internalID: -2330644959932152572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_123
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ea537ac1104bf30800000000000000
+      internalID: 4590295142773403269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_124
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8497d8c71ab8d20800000000000000
+      internalID: 3281894309791090849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_125
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa98b506451efae0800000000000000
+      internalID: -1513749034262029649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_126
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bd6e46e0cc37440800000000000000
+      internalID: 4932510379095284596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_127
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f6af9f03e0c3dd0800000000000000
+      internalID: -2505111689209680066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_128
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca6170bf75df9a50800000000000000
+      internalID: 6530172729108294351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_129
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691fd304a42884c60800000000000000
+      internalID: 7802629609836376470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_130
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4926db4c37520be40800000000000000
+      internalID: 5670073110011667092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_131
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d280e521e41f50800000000000000
+      internalID: 6851348485934078439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_132
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 32
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f09b083ee188a60800000000000000
+      internalID: 7676419527319031694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ee13c34dc0dbf0800000000000000
+      internalID: -301515484113739471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_134
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee1bed25e70be790800000000000000
+      internalID: -7499892073556140310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_135
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f190c79f3ad1eb10800000000000000
+      internalID: 2009126875447726579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_136
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e23f4c8d18c495b0800000000000000
+      internalID: -5362441227057810717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_137
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb92b94fc0e797d40800000000000000
+      internalID: 5582631807210957247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_138
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d247409a65c1e10800000000000000
+      internalID: 2169704404409920799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_139
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a32d6d84b62c7e0800000000000000
+      internalID: -1746715744880412004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_140
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9834109fc82c9b3c0800000000000000
+      internalID: -4343226454893313143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_141
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c8c733b30eb0a90800000000000000
+      internalID: -7346531822253339494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_142
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e33857ad64764820800000000000000
+      internalID: 2902135024194696162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_143
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7279ec4d12dac690800000000000000
+      internalID: -7581015999438556547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_144
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e502d431b76917a10800000000000000
+      internalID: 1905469572703395934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_145
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd447e8222d106530800000000000000
+      internalID: 3846106114326742236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_146
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264889ddfb64bd4e0800000000000000
+      internalID: -1955891823291890590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_147
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20804e9ead324fdd0800000000000000
+      internalID: -2453296473876199422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_148
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd50c7cdacc40d2d0800000000000000
+      internalID: -3256018096422648356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_149
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0bcc07b41e91d00800000000000000
+      internalID: 944033311042089189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_150
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a29fcb261c46f0800000000000000
+      internalID: -699159464727370242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beer_46x32_151
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c5c42f473bb3f90800000000000000
+      internalID: -6972782283190412138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      beer_46x32_0: -5205200613885658578
+      beer_46x32_1: -7416862911965090014
+      beer_46x32_10: 8998683614965526154
+      beer_46x32_100: 2852171552264630061
+      beer_46x32_101: -3162208011715782137
+      beer_46x32_102: 5880856855724497612
+      beer_46x32_103: 2935227439189395623
+      beer_46x32_104: -946147079612857005
+      beer_46x32_105: -5598757661633416381
+      beer_46x32_106: -1541827417930087272
+      beer_46x32_107: 3811936625419111375
+      beer_46x32_108: -2188760919738001400
+      beer_46x32_109: 7299880820529906958
+      beer_46x32_11: 3826864137933959815
+      beer_46x32_110: 199911092095475164
+      beer_46x32_111: -2864738656115029403
+      beer_46x32_112: 7969031754938415922
+      beer_46x32_113: -4185490512154897056
+      beer_46x32_114: 5584588477669663501
+      beer_46x32_115: 3426363960767103810
+      beer_46x32_116: -7942759509908677138
+      beer_46x32_117: 7311368096685041044
+      beer_46x32_118: -1700724547907819261
+      beer_46x32_119: 3106775237135149747
+      beer_46x32_12: -5857461568711986024
+      beer_46x32_120: -1692240159668383740
+      beer_46x32_121: 1023681631140725781
+      beer_46x32_122: -2330644959932152572
+      beer_46x32_123: 4590295142773403269
+      beer_46x32_124: 3281894309791090849
+      beer_46x32_125: -1513749034262029649
+      beer_46x32_126: 4932510379095284596
+      beer_46x32_127: -2505111689209680066
+      beer_46x32_128: 6530172729108294351
+      beer_46x32_129: 7802629609836376470
+      beer_46x32_13: -5612874201929862633
+      beer_46x32_130: 5670073110011667092
+      beer_46x32_131: 6851348485934078439
+      beer_46x32_132: 7676419527319031694
+      beer_46x32_133: -301515484113739471
+      beer_46x32_134: -7499892073556140310
+      beer_46x32_135: 2009126875447726579
+      beer_46x32_136: -5362441227057810717
+      beer_46x32_137: 5582631807210957247
+      beer_46x32_138: 2169704404409920799
+      beer_46x32_139: -1746715744880412004
+      beer_46x32_14: 4467262470483572011
+      beer_46x32_140: -4343226454893313143
+      beer_46x32_141: -7346531822253339494
+      beer_46x32_142: 2902135024194696162
+      beer_46x32_143: -7581015999438556547
+      beer_46x32_144: 1905469572703395934
+      beer_46x32_145: 3846106114326742236
+      beer_46x32_146: -1955891823291890590
+      beer_46x32_147: -2453296473876199422
+      beer_46x32_148: -3256018096422648356
+      beer_46x32_149: 944033311042089189
+      beer_46x32_15: 193641654885702094
+      beer_46x32_150: -699159464727370242
+      beer_46x32_151: -6972782283190412138
+      beer_46x32_16: 5774712658306644649
+      beer_46x32_17: 8712108549207447115
+      beer_46x32_18: -6788198869342268269
+      beer_46x32_19: 8582302431692455454
+      beer_46x32_2: 8455429092450095547
+      beer_46x32_20: 7613958615728428847
+      beer_46x32_21: -203972685342109810
+      beer_46x32_22: 2194326208519980924
+      beer_46x32_23: -1955630859913175031
+      beer_46x32_24: 4827559054555756534
+      beer_46x32_25: 7670870968625172872
+      beer_46x32_26: 3989181768514284583
+      beer_46x32_27: 4975000495345189045
+      beer_46x32_28: -3730661606314771230
+      beer_46x32_29: 3635319186086061633
+      beer_46x32_3: -7239742818886899065
+      beer_46x32_30: -4819617385715678065
+      beer_46x32_31: -5760452509666898572
+      beer_46x32_32: 1187923095932296082
+      beer_46x32_33: 5901469989898782956
+      beer_46x32_34: -6505448506008167061
+      beer_46x32_35: 4412523224989277056
+      beer_46x32_36: 2292598126867670272
+      beer_46x32_37: -8441185928367759681
+      beer_46x32_38: 217644332508829588
+      beer_46x32_39: -8678700418510767066
+      beer_46x32_4: 6411824550424944075
+      beer_46x32_40: 7564395081834758398
+      beer_46x32_41: -3848150839932085937
+      beer_46x32_42: 6533822610824381240
+      beer_46x32_43: 6239199381408673277
+      beer_46x32_44: 7786651387945883158
+      beer_46x32_45: -2939804804298162029
+      beer_46x32_46: 323104395863055710
+      beer_46x32_47: 7482976100165733345
+      beer_46x32_48: -6439429095357085384
+      beer_46x32_49: 507655146999419948
+      beer_46x32_5: 1129872534853523097
+      beer_46x32_50: -4031757622599688040
+      beer_46x32_51: 8129771733617834999
+      beer_46x32_52: -5674140534024065596
+      beer_46x32_53: -6283903892561972140
+      beer_46x32_54: 3013655835931456927
+      beer_46x32_55: -1413916399173198590
+      beer_46x32_56: 3725324416069361857
+      beer_46x32_57: -2764170873894559338
+      beer_46x32_58: -7516213428288820287
+      beer_46x32_59: -6350559193208025573
+      beer_46x32_6: -6641566908116605913
+      beer_46x32_60: 9123830822959023811
+      beer_46x32_61: -7519823563368664800
+      beer_46x32_62: 8126222851753226872
+      beer_46x32_63: 4371615164060558649
+      beer_46x32_64: 9081212933767909289
+      beer_46x32_65: -9059547399600407002
+      beer_46x32_66: 8512143713883875787
+      beer_46x32_67: -2908858064473610531
+      beer_46x32_68: -6979748184449308267
+      beer_46x32_69: -5862995818802313771
+      beer_46x32_7: 3314428382564304014
+      beer_46x32_70: 6029156505560020096
+      beer_46x32_71: 653217203712855666
+      beer_46x32_72: 6645091956554226333
+      beer_46x32_73: -9092679011235120397
+      beer_46x32_74: 3403727519387801029
+      beer_46x32_75: -1695294508225337878
+      beer_46x32_76: 1905611504464861582
+      beer_46x32_77: -9158749900072153540
+      beer_46x32_78: 3845025953934295439
+      beer_46x32_79: 2246627133637316273
+      beer_46x32_8: 7362925117558662844
+      beer_46x32_80: -6935878676275316440
+      beer_46x32_81: -3431240047601904440
+      beer_46x32_82: 7785066265709544043
+      beer_46x32_83: -4280193083884910330
+      beer_46x32_84: -3990366941457091350
+      beer_46x32_85: -3954641399460754664
+      beer_46x32_86: -531193264827106006
+      beer_46x32_87: 2150704736258386100
+      beer_46x32_88: -8987500332037123267
+      beer_46x32_89: -4132444130808096327
+      beer_46x32_9: -2229854689855231863
+      beer_46x32_90: 7744553483924402106
+      beer_46x32_91: 1313320437290437176
+      beer_46x32_92: -5339732936659098966
+      beer_46x32_93: 8946741717355047926
+      beer_46x32_94: -7981601493648865350
+      beer_46x32_95: -4312250474573198777
+      beer_46x32_96: 2809556632956743946
+      beer_46x32_97: 6195506475317299815
+      beer_46x32_98: -3358561988039030103
+      beer_46x32_99: -8192828448284538374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

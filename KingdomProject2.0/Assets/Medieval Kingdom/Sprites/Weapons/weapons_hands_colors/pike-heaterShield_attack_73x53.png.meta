@@ -1,0 +1,5514 @@
+fileFormatVersion: 2
+guid: ab1a98faaf122fa45b0817c56b9e26fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7042586716247865671
+    second: pike-heaterShield_attack_73x53_0
+  - first:
+      213: -4151268296600776318
+    second: pike-heaterShield_attack_73x53_1
+  - first:
+      213: 6115040377916751592
+    second: pike-heaterShield_attack_73x53_2
+  - first:
+      213: -3446572673043456236
+    second: pike-heaterShield_attack_73x53_3
+  - first:
+      213: -7108046584419819349
+    second: pike-heaterShield_attack_73x53_4
+  - first:
+      213: 2110957129892052306
+    second: pike-heaterShield_attack_73x53_5
+  - first:
+      213: 9176664189050683927
+    second: pike-heaterShield_attack_73x53_6
+  - first:
+      213: 5837416144148738012
+    second: pike-heaterShield_attack_73x53_7
+  - first:
+      213: 461397548578127453
+    second: pike-heaterShield_attack_73x53_8
+  - first:
+      213: -7732367293915515914
+    second: pike-heaterShield_attack_73x53_9
+  - first:
+      213: 9167051845370075215
+    second: pike-heaterShield_attack_73x53_10
+  - first:
+      213: 7867317090801217748
+    second: pike-heaterShield_attack_73x53_11
+  - first:
+      213: -9193602707053260058
+    second: pike-heaterShield_attack_73x53_12
+  - first:
+      213: -9001079296695833996
+    second: pike-heaterShield_attack_73x53_13
+  - first:
+      213: -2872589707960393320
+    second: pike-heaterShield_attack_73x53_14
+  - first:
+      213: -7635966799202250786
+    second: pike-heaterShield_attack_73x53_15
+  - first:
+      213: 4796934055907978498
+    second: pike-heaterShield_attack_73x53_16
+  - first:
+      213: 799680745255229967
+    second: pike-heaterShield_attack_73x53_17
+  - first:
+      213: -5008935045070355192
+    second: pike-heaterShield_attack_73x53_18
+  - first:
+      213: 2205542420947843088
+    second: pike-heaterShield_attack_73x53_19
+  - first:
+      213: -2545016966249082059
+    second: pike-heaterShield_attack_73x53_20
+  - first:
+      213: 6781023813272690585
+    second: pike-heaterShield_attack_73x53_21
+  - first:
+      213: -2249136919066876122
+    second: pike-heaterShield_attack_73x53_22
+  - first:
+      213: -7215934076708764047
+    second: pike-heaterShield_attack_73x53_23
+  - first:
+      213: -8017889336995382584
+    second: pike-heaterShield_attack_73x53_24
+  - first:
+      213: -2655697665027251162
+    second: pike-heaterShield_attack_73x53_25
+  - first:
+      213: -6601214870971578627
+    second: pike-heaterShield_attack_73x53_26
+  - first:
+      213: 652494859036515382
+    second: pike-heaterShield_attack_73x53_27
+  - first:
+      213: -3274823181503010023
+    second: pike-heaterShield_attack_73x53_28
+  - first:
+      213: 7450980698941686509
+    second: pike-heaterShield_attack_73x53_29
+  - first:
+      213: -8336222913119737901
+    second: pike-heaterShield_attack_73x53_30
+  - first:
+      213: -1426469436175275095
+    second: pike-heaterShield_attack_73x53_31
+  - first:
+      213: 5003438228439794725
+    second: pike-heaterShield_attack_73x53_32
+  - first:
+      213: -869628338261020947
+    second: pike-heaterShield_attack_73x53_33
+  - first:
+      213: -7816301820179759966
+    second: pike-heaterShield_attack_73x53_34
+  - first:
+      213: 8454939962996075078
+    second: pike-heaterShield_attack_73x53_35
+  - first:
+      213: -1808191280277762410
+    second: pike-heaterShield_attack_73x53_36
+  - first:
+      213: 4773537740130742833
+    second: pike-heaterShield_attack_73x53_37
+  - first:
+      213: -2394466509677994023
+    second: pike-heaterShield_attack_73x53_38
+  - first:
+      213: 3835976434924617205
+    second: pike-heaterShield_attack_73x53_39
+  - first:
+      213: -6041734523962073178
+    second: pike-heaterShield_attack_73x53_40
+  - first:
+      213: 3398782006645539337
+    second: pike-heaterShield_attack_73x53_41
+  - first:
+      213: 6038620226174916006
+    second: pike-heaterShield_attack_73x53_42
+  - first:
+      213: -2351774944633219948
+    second: pike-heaterShield_attack_73x53_43
+  - first:
+      213: 512062394707137300
+    second: pike-heaterShield_attack_73x53_44
+  - first:
+      213: 420275084085364800
+    second: pike-heaterShield_attack_73x53_45
+  - first:
+      213: -4262751932284983530
+    second: pike-heaterShield_attack_73x53_46
+  - first:
+      213: -4622196647476245338
+    second: pike-heaterShield_attack_73x53_47
+  - first:
+      213: -3752010324162603218
+    second: pike-heaterShield_attack_73x53_48
+  - first:
+      213: 8052880572708433332
+    second: pike-heaterShield_attack_73x53_49
+  - first:
+      213: 6136457853490171651
+    second: pike-heaterShield_attack_73x53_50
+  - first:
+      213: 9063527461912983374
+    second: pike-heaterShield_attack_73x53_51
+  - first:
+      213: 1396816044576982100
+    second: pike-heaterShield_attack_73x53_52
+  - first:
+      213: -9127858506172399553
+    second: pike-heaterShield_attack_73x53_53
+  - first:
+      213: -4654467372678349623
+    second: pike-heaterShield_attack_73x53_54
+  - first:
+      213: 4105068219663374967
+    second: pike-heaterShield_attack_73x53_55
+  - first:
+      213: -6118771501725981543
+    second: pike-heaterShield_attack_73x53_56
+  - first:
+      213: 2626849769730520300
+    second: pike-heaterShield_attack_73x53_57
+  - first:
+      213: 6203637673379780111
+    second: pike-heaterShield_attack_73x53_58
+  - first:
+      213: -309032764761102603
+    second: pike-heaterShield_attack_73x53_59
+  - first:
+      213: 6225617500746469810
+    second: pike-heaterShield_attack_73x53_60
+  - first:
+      213: -3276398243125333843
+    second: pike-heaterShield_attack_73x53_61
+  - first:
+      213: 6023192559935924221
+    second: pike-heaterShield_attack_73x53_62
+  - first:
+      213: -5288098615197744063
+    second: pike-heaterShield_attack_73x53_63
+  - first:
+      213: -4615761941608166238
+    second: pike-heaterShield_attack_73x53_64
+  - first:
+      213: 2608847866676272345
+    second: pike-heaterShield_attack_73x53_65
+  - first:
+      213: -64534147425259302
+    second: pike-heaterShield_attack_73x53_66
+  - first:
+      213: -9082990367794704761
+    second: pike-heaterShield_attack_73x53_67
+  - first:
+      213: -9037693425024595522
+    second: pike-heaterShield_attack_73x53_68
+  - first:
+      213: 5648488440322603123
+    second: pike-heaterShield_attack_73x53_69
+  - first:
+      213: 7960262984698974997
+    second: pike-heaterShield_attack_73x53_70
+  - first:
+      213: -5351593522595323400
+    second: pike-heaterShield_attack_73x53_71
+  - first:
+      213: -7550751380547291711
+    second: pike-heaterShield_attack_73x53_72
+  - first:
+      213: 8022304854437782380
+    second: pike-heaterShield_attack_73x53_73
+  - first:
+      213: -2636901330336755514
+    second: pike-heaterShield_attack_73x53_74
+  - first:
+      213: -8785613022971729186
+    second: pike-heaterShield_attack_73x53_75
+  - first:
+      213: -8901996819334528565
+    second: pike-heaterShield_attack_73x53_76
+  - first:
+      213: 3807388798463283977
+    second: pike-heaterShield_attack_73x53_77
+  - first:
+      213: -1330988148079865123
+    second: pike-heaterShield_attack_73x53_78
+  - first:
+      213: -8672533668443457108
+    second: pike-heaterShield_attack_73x53_79
+  - first:
+      213: -5164152724987608272
+    second: pike-heaterShield_attack_73x53_80
+  - first:
+      213: -1990094469978926704
+    second: pike-heaterShield_attack_73x53_81
+  - first:
+      213: -847788112725417699
+    second: pike-heaterShield_attack_73x53_82
+  - first:
+      213: -8601374398669663097
+    second: pike-heaterShield_attack_73x53_83
+  - first:
+      213: -2084952458816753799
+    second: pike-heaterShield_attack_73x53_84
+  - first:
+      213: -1005972896857673283
+    second: pike-heaterShield_attack_73x53_85
+  - first:
+      213: 939303781234033548
+    second: pike-heaterShield_attack_73x53_86
+  - first:
+      213: 4356511870704291365
+    second: pike-heaterShield_attack_73x53_87
+  - first:
+      213: 5550856170796834029
+    second: pike-heaterShield_attack_73x53_88
+  - first:
+      213: -5897636027229763682
+    second: pike-heaterShield_attack_73x53_89
+  - first:
+      213: 1399607355860061681
+    second: pike-heaterShield_attack_73x53_90
+  - first:
+      213: -1829773449139149314
+    second: pike-heaterShield_attack_73x53_91
+  - first:
+      213: -4106423053789245106
+    second: pike-heaterShield_attack_73x53_92
+  - first:
+      213: -2007363553003647625
+    second: pike-heaterShield_attack_73x53_93
+  - first:
+      213: 1588214305324231470
+    second: pike-heaterShield_attack_73x53_94
+  - first:
+      213: -8773513276907513040
+    second: pike-heaterShield_attack_73x53_95
+  - first:
+      213: 1597831249476508670
+    second: pike-heaterShield_attack_73x53_96
+  - first:
+      213: -6153588023149686230
+    second: pike-heaterShield_attack_73x53_97
+  - first:
+      213: 3611277810469228375
+    second: pike-heaterShield_attack_73x53_98
+  - first:
+      213: -7399406856198161929
+    second: pike-heaterShield_attack_73x53_99
+  - first:
+      213: -5730495319501766319
+    second: pike-heaterShield_attack_73x53_100
+  - first:
+      213: 3629724340730788380
+    second: pike-heaterShield_attack_73x53_101
+  - first:
+      213: -9033103864015123689
+    second: pike-heaterShield_attack_73x53_102
+  - first:
+      213: -8979010854327362147
+    second: pike-heaterShield_attack_73x53_103
+  - first:
+      213: -540329014857909273
+    second: pike-heaterShield_attack_73x53_104
+  - first:
+      213: -6709823741731414076
+    second: pike-heaterShield_attack_73x53_105
+  - first:
+      213: 1740989912486073551
+    second: pike-heaterShield_attack_73x53_106
+  - first:
+      213: -4726796064317069237
+    second: pike-heaterShield_attack_73x53_107
+  - first:
+      213: -7528300429758778466
+    second: pike-heaterShield_attack_73x53_108
+  - first:
+      213: -559829693638718122
+    second: pike-heaterShield_attack_73x53_109
+  - first:
+      213: 6387918011360159255
+    second: pike-heaterShield_attack_73x53_110
+  - first:
+      213: -3910858087821602298
+    second: pike-heaterShield_attack_73x53_111
+  - first:
+      213: 4573336050243067498
+    second: pike-heaterShield_attack_73x53_112
+  - first:
+      213: -5044725755313137853
+    second: pike-heaterShield_attack_73x53_113
+  - first:
+      213: 6058783808795805579
+    second: pike-heaterShield_attack_73x53_114
+  - first:
+      213: -7540577243558423305
+    second: pike-heaterShield_attack_73x53_115
+  - first:
+      213: -8024722100109357024
+    second: pike-heaterShield_attack_73x53_116
+  - first:
+      213: -2778874758062423571
+    second: pike-heaterShield_attack_73x53_117
+  - first:
+      213: 771331800986358535
+    second: pike-heaterShield_attack_73x53_118
+  - first:
+      213: 4808499097822766845
+    second: pike-heaterShield_attack_73x53_119
+  - first:
+      213: 8499770922372997634
+    second: pike-heaterShield_attack_73x53_120
+  - first:
+      213: 4600495763323681718
+    second: pike-heaterShield_attack_73x53_121
+  - first:
+      213: -7626686242446716714
+    second: pike-heaterShield_attack_73x53_122
+  - first:
+      213: 3878089619464062725
+    second: pike-heaterShield_attack_73x53_123
+  - first:
+      213: 8732147274146372832
+    second: pike-heaterShield_attack_73x53_124
+  - first:
+      213: 1539089213214050224
+    second: pike-heaterShield_attack_73x53_125
+  - first:
+      213: -6097663312618720423
+    second: pike-heaterShield_attack_73x53_126
+  - first:
+      213: 3031905910719138813
+    second: pike-heaterShield_attack_73x53_127
+  - first:
+      213: 4640691416434859142
+    second: pike-heaterShield_attack_73x53_128
+  - first:
+      213: -1767433732021459226
+    second: pike-heaterShield_attack_73x53_129
+  - first:
+      213: 2620092320666393480
+    second: pike-heaterShield_attack_73x53_130
+  - first:
+      213: -7076395376715482801
+    second: pike-heaterShield_attack_73x53_131
+  - first:
+      213: 6289904358936526041
+    second: pike-heaterShield_attack_73x53_132
+  - first:
+      213: 9090818282559324711
+    second: pike-heaterShield_attack_73x53_133
+  - first:
+      213: 2054400767882917865
+    second: pike-heaterShield_attack_73x53_134
+  - first:
+      213: -7631917113026271400
+    second: pike-heaterShield_attack_73x53_135
+  - first:
+      213: 1901714891512877809
+    second: pike-heaterShield_attack_73x53_136
+  - first:
+      213: -1626322843721972277
+    second: pike-heaterShield_attack_73x53_137
+  - first:
+      213: 6052213708871937809
+    second: pike-heaterShield_attack_73x53_138
+  - first:
+      213: -6027779536675963738
+    second: pike-heaterShield_attack_73x53_139
+  - first:
+      213: -8128113247705273731
+    second: pike-heaterShield_attack_73x53_140
+  - first:
+      213: -1608820586197765406
+    second: pike-heaterShield_attack_73x53_141
+  - first:
+      213: -8727942987123850125
+    second: pike-heaterShield_attack_73x53_142
+  - first:
+      213: -4860399630780377680
+    second: pike-heaterShield_attack_73x53_143
+  - first:
+      213: 1714430759587361751
+    second: pike-heaterShield_attack_73x53_144
+  - first:
+      213: -2385386812135617456
+    second: pike-heaterShield_attack_73x53_145
+  - first:
+      213: -2808419409921968804
+    second: pike-heaterShield_attack_73x53_146
+  - first:
+      213: -5219090924705313337
+    second: pike-heaterShield_attack_73x53_147
+  - first:
+      213: 2833364943370358445
+    second: pike-heaterShield_attack_73x53_148
+  - first:
+      213: 1321940457105262735
+    second: pike-heaterShield_attack_73x53_149
+  - first:
+      213: 487278422288018764
+    second: pike-heaterShield_attack_73x53_150
+  - first:
+      213: 2497175349765783770
+    second: pike-heaterShield_attack_73x53_151
+  - first:
+      213: 6086462903689158669
+    second: pike-heaterShield_attack_73x53_152
+  - first:
+      213: -8866119537640016771
+    second: pike-heaterShield_attack_73x53_153
+  - first:
+      213: 1757340079250024295
+    second: pike-heaterShield_attack_73x53_154
+  - first:
+      213: -114538517409999611
+    second: pike-heaterShield_attack_73x53_155
+  - first:
+      213: 8246436233837784167
+    second: pike-heaterShield_attack_73x53_156
+  - first:
+      213: 1134454973750411919
+    second: pike-heaterShield_attack_73x53_157
+  - first:
+      213: -5636849868461959343
+    second: pike-heaterShield_attack_73x53_158
+  - first:
+      213: -1925598609450838343
+    second: pike-heaterShield_attack_73x53_159
+  - first:
+      213: -4746825094691531475
+    second: pike-heaterShield_attack_73x53_160
+  - first:
+      213: 766457972431538470
+    second: pike-heaterShield_attack_73x53_161
+  - first:
+      213: 4516924504123143487
+    second: pike-heaterShield_attack_73x53_162
+  - first:
+      213: 211551523374851689
+    second: pike-heaterShield_attack_73x53_163
+  - first:
+      213: -4707039179159825233
+    second: pike-heaterShield_attack_73x53_164
+  - first:
+      213: 4057833075324854026
+    second: pike-heaterShield_attack_73x53_165
+  - first:
+      213: -5580939125649398296
+    second: pike-heaterShield_attack_73x53_166
+  - first:
+      213: -6369165481264441865
+    second: pike-heaterShield_attack_73x53_167
+  - first:
+      213: -7147487532357450092
+    second: pike-heaterShield_attack_73x53_168
+  - first:
+      213: 3756104660704065811
+    second: pike-heaterShield_attack_73x53_169
+  - first:
+      213: -1016817819386404374
+    second: pike-heaterShield_attack_73x53_170
+  - first:
+      213: 1589652919243962218
+    second: pike-heaterShield_attack_73x53_171
+  - first:
+      213: -9084013733260127223
+    second: pike-heaterShield_attack_73x53_172
+  - first:
+      213: 3156463857005191069
+    second: pike-heaterShield_attack_73x53_173
+  - first:
+      213: 1460361229945515985
+    second: pike-heaterShield_attack_73x53_174
+  - first:
+      213: 364946820301125589
+    second: pike-heaterShield_attack_73x53_175
+  - first:
+      213: -8091952335819227275
+    second: pike-heaterShield_attack_73x53_176
+  - first:
+      213: -7995916335321929640
+    second: pike-heaterShield_attack_73x53_177
+  - first:
+      213: 6176130245156569583
+    second: pike-heaterShield_attack_73x53_178
+  - first:
+      213: -99955800636628855
+    second: pike-heaterShield_attack_73x53_179
+  - first:
+      213: -3018997014551711544
+    second: pike-heaterShield_attack_73x53_180
+  - first:
+      213: -3207741812410315920
+    second: pike-heaterShield_attack_73x53_181
+  - first:
+      213: 1583381675192772285
+    second: pike-heaterShield_attack_73x53_182
+  - first:
+      213: 1507949387795885496
+    second: pike-heaterShield_attack_73x53_183
+  - first:
+      213: -2187772314123084241
+    second: pike-heaterShield_attack_73x53_184
+  - first:
+      213: -5089759605527449514
+    second: pike-heaterShield_attack_73x53_185
+  - first:
+      213: 3507423512756112155
+    second: pike-heaterShield_attack_73x53_186
+  - first:
+      213: 2951401737767192835
+    second: pike-heaterShield_attack_73x53_187
+  - first:
+      213: 719548208404834641
+    second: pike-heaterShield_attack_73x53_188
+  - first:
+      213: 6601278281390494855
+    second: pike-heaterShield_attack_73x53_189
+  - first:
+      213: -8697777713591780033
+    second: pike-heaterShield_attack_73x53_190
+  - first:
+      213: 3105902157345090893
+    second: pike-heaterShield_attack_73x53_191
+  - first:
+      213: 1881058835382662271
+    second: pike-heaterShield_attack_73x53_192
+  - first:
+      213: 5117601198756219250
+    second: pike-heaterShield_attack_73x53_193
+  - first:
+      213: 4642952909957316034
+    second: pike-heaterShield_attack_73x53_194
+  - first:
+      213: -8255496194176731395
+    second: pike-heaterShield_attack_73x53_195
+  - first:
+      213: 8305975121211773558
+    second: pike-heaterShield_attack_73x53_196
+  - first:
+      213: 7869842362436898259
+    second: pike-heaterShield_attack_73x53_197
+  - first:
+      213: 7020440544489901657
+    second: pike-heaterShield_attack_73x53_198
+  - first:
+      213: 669436807257632835
+    second: pike-heaterShield_attack_73x53_199
+  - first:
+      213: -9096206380980620345
+    second: pike-heaterShield_attack_73x53_200
+  - first:
+      213: -4303897059074694929
+    second: pike-heaterShield_attack_73x53_201
+  - first:
+      213: 2741647076236050305
+    second: pike-heaterShield_attack_73x53_202
+  - first:
+      213: 4694554800262312828
+    second: pike-heaterShield_attack_73x53_203
+  - first:
+      213: -2130087512322402571
+    second: pike-heaterShield_attack_73x53_204
+  - first:
+      213: 9072694645558316842
+    second: pike-heaterShield_attack_73x53_205
+  - first:
+      213: -1333735584266786244
+    second: pike-heaterShield_attack_73x53_206
+  - first:
+      213: -1112157288690558640
+    second: pike-heaterShield_attack_73x53_207
+  - first:
+      213: -2324983251536845063
+    second: pike-heaterShield_attack_73x53_208
+  - first:
+      213: -4811179105821596439
+    second: pike-heaterShield_attack_73x53_209
+  - first:
+      213: -1986304395232256060
+    second: pike-heaterShield_attack_73x53_210
+  - first:
+      213: -6516281176374620637
+    second: pike-heaterShield_attack_73x53_211
+  - first:
+      213: -2387337943942761050
+    second: pike-heaterShield_attack_73x53_212
+  - first:
+      213: -8337276374704115397
+    second: pike-heaterShield_attack_73x53_213
+  - first:
+      213: -7072556747512189691
+    second: pike-heaterShield_attack_73x53_214
+  - first:
+      213: 6852704055027342357
+    second: pike-heaterShield_attack_73x53_215
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6492ed1b4b34e90800000000000000
+      internalID: -7042586716247865671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28115c58a7bb366c0800000000000000
+      internalID: -4151268296600776318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eef5e823dcfcd450800000000000000
+      internalID: 6115040377916751592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f1da22a605b20d0800000000000000
+      internalID: -3446572673043456236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba06ab0aa452b5d90800000000000000
+      internalID: -7108046584419819349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d3b474350ab4d10800000000000000
+      internalID: 2110957129892052306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7120a6bb57f0a5f70800000000000000
+      internalID: 9176664189050683927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfad1e1e0ba20150800000000000000
+      internalID: 5837416144148738012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3c3730a6376600800000000000000
+      internalID: 461397548578127453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3315df9ec11b490800000000000000
+      internalID: -7732367293915515914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f485fd09519e73f70800000000000000
+      internalID: 9167051845370075215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_11
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0f09416335e2d60800000000000000
+      internalID: 7867317090801217748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_12
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e255083c03c96080800000000000000
+      internalID: -9193602707053260058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_13
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a6255c11eb51380800000000000000
+      internalID: -9001079296695833996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_14
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891e39751e28228d0800000000000000
+      internalID: -2872589707960393320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_15
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 901
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8fd837a8970690800000000000000
+      internalID: -7635966799202250786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d6e5dcb12229240800000000000000
+      internalID: 4796934055907978498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a58a2a669091b00800000000000000
+      internalID: 799680745255229967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805839f6d10bc7ab0800000000000000
+      internalID: -5008935045070355192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018b6a97529ab9e10800000000000000
+      internalID: 2205542420947843088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5339163ad884eacd0800000000000000
+      internalID: -2545016966249082059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_21
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f55931b390b1e50800000000000000
+      internalID: 6781023813272690585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6276dc773e579c0e0800000000000000
+      internalID: -2249136919066876122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_23
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176432b503adbdb90800000000000000
+      internalID: -7215934076708764047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca7ffbe02cbab090800000000000000
+      internalID: -8017889336995382584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_25
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 848
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624673d4b01152bd0800000000000000
+      internalID: -2655697665027251162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df686b1bc06c364a0800000000000000
+      internalID: -6601214870971578627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cd3a20e902e0900800000000000000
+      internalID: 652494859036515382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6c4ccaad7d82d0800000000000000
+      internalID: -3274823181503010023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de206bcf773376760800000000000000
+      internalID: 7450980698941686509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7a60f7d69cf4c80800000000000000
+      internalID: -8336222913119737901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_31
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab22d50b99243ce0800000000000000
+      internalID: -1426469436175275095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52483c53f88cf6540800000000000000
+      internalID: 5003438228439794725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_33
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deea65342a57ee3f0800000000000000
+      internalID: -869628338261020947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_34
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac32f638eae68390800000000000000
+      internalID: -7816301820179759966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_35
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 795
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa2a3a91bf55570800000000000000
+      internalID: 8454939962996075078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ec51d5c9308e6e0800000000000000
+      internalID: -1808191280277762410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132f96a88430f3240800000000000000
+      internalID: 4773537740130742833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd218556525ced0800000000000000
+      internalID: -2394466509677994023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd73726e302c3530800000000000000
+      internalID: 3835976434924617205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afd6000672772ca0800000000000000
+      internalID: -6041734523962073178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_41
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c81f3a36ea2f20800000000000000
+      internalID: 3398782006645539337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_42
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a515aa0a1d7dc350800000000000000
+      internalID: 6038620226174916006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_43
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4941979e521dc5fd0800000000000000
+      internalID: -2351774944633219948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413da53f8063b1700800000000000000
+      internalID: 512062394707137300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_45
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0480bd656fd15d500800000000000000
+      internalID: 420275084085364800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_46
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6172b8ed3b9a7d4c0800000000000000
+      internalID: -4262751932284983530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_47
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac4d2973a8aadfb0800000000000000
+      internalID: -4622196647476245338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_48
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2790ba3d7e2eebc0800000000000000
+      internalID: -3752010324162603218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_49
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd2ee2073491cf60800000000000000
+      internalID: 8052880572708433332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_50
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f0078c7e3192550800000000000000
+      internalID: 6136457853490171651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_51
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 742
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47325bb43e18cd70800000000000000
+      internalID: 9063527461912983374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454c399bacc726310800000000000000
+      internalID: 1396816044576982100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f300193dc05535180800000000000000
+      internalID: -9127858506172399553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc7cd0c592086fb0800000000000000
+      internalID: -4654467372678349623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_55
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad7c3dbc128f830800000000000000
+      internalID: 4105068219663374967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_56
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994e6d1ecb1c51ba0800000000000000
+      internalID: -6118771501725981543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_57
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4ba1ba2f1747420800000000000000
+      internalID: 2626849769730520300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_58
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06580d789fb71650800000000000000
+      internalID: 6203637673379780111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_59
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f62578765816bbf0800000000000000
+      internalID: -309032764761102603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_60
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1d277d126d56650800000000000000
+      internalID: 6225617500746469810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_61
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 689
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0fccf2825e782d0800000000000000
+      internalID: -3276398243125333843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7a1c498bda69350800000000000000
+      internalID: 6023192559935924221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_63
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14447e7b356ec96b0800000000000000
+      internalID: -5288098615197744063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac8dae28f481ffb0800000000000000
+      internalID: -4615761941608166238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_65
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc564eff4d743420800000000000000
+      internalID: 2608847866676272345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_66
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0b5dae88aba1ff0800000000000000
+      internalID: -64534147425259302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_67
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e4d4d526cb2f180800000000000000
+      internalID: -9082990367794704761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_68
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb98684b6b9a39280800000000000000
+      internalID: -9037693425024595522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_69
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378345b3f46736e40800000000000000
+      internalID: 5648488440322603123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_70
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5135ca16209887e60800000000000000
+      internalID: 7960262984698974997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_71
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 636
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1ac6f8b025bb5b0800000000000000
+      internalID: -5351593522595323400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5303fff97563790800000000000000
+      internalID: -7550751380547291711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_73
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63e7a8d2c3f45f60800000000000000
+      internalID: 8022304854437782380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d5810638d76bd0800000000000000
+      internalID: -2636901330336755514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_75
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda69b7f08b331680800000000000000
+      internalID: -8785613022971729186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc188efbe01c57480800000000000000
+      internalID: -8901996819334528565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_77
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903943690ff86d430800000000000000
+      internalID: 3807388798463283977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_78
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2d179c451678de0800000000000000
+      internalID: -1330988148079865123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_79
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9ffcdd398f4a780800000000000000
+      internalID: -8672533668443457108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_80
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0338f3d157e3558b0800000000000000
+      internalID: -5164152724987608272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_81
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091df6f9f93c164e0800000000000000
+      internalID: -1990094469978926704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_82
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11e338043d0c34f0800000000000000
+      internalID: -847788112725417699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_83
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784d7237e87c1a880800000000000000
+      internalID: -8601374398669663097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_84
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f66a609c2c013e0800000000000000
+      internalID: -2084952458816753799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_85
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1b02deaf01a02f0800000000000000
+      internalID: -1005972896857673283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_86
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c2a8ffc3190d00800000000000000
+      internalID: 939303781234033548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_87
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 583
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e0a11f670757c30800000000000000
+      internalID: 4356511870704291365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec51a3174a980d40800000000000000
+      internalID: 5550856170796834029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_89
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e978c6eb743672ea0800000000000000
+      internalID: -5897636027229763682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_90
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd001789776c6310800000000000000
+      internalID: 1399607355860061681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_91
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5ae981eb65b96e0800000000000000
+      internalID: -1829773449139149314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_92
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41da654dfd0307c0800000000000000
+      internalID: -4106423053789245106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_93
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dc628eb796424e0800000000000000
+      internalID: -2007363553003647625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_94
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6b08fe787a0610800000000000000
+      internalID: 1588214305324231470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_95
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b11c1a8283e3680800000000000000
+      internalID: -8773513276907513040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_96
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbd0144e03ac2610800000000000000
+      internalID: 1597831249476508670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_97
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 530
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22901acb401a9aa0800000000000000
+      internalID: -6153588023149686230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fc4460906dd1230800000000000000
+      internalID: 3611277810469228375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_99
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9f7b30ba6005990800000000000000
+      internalID: -7399406856198161929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_100
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1510f0e4ed03970b0800000000000000
+      internalID: -5730495319501766319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_101
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1af8d98e0f5f5230800000000000000
+      internalID: 3629724340730788380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_102
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b8b2625e7f3a280800000000000000
+      internalID: -9033103864015123689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_103
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd0796335246380800000000000000
+      internalID: -8979010854327362147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_104
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebbe8faf9d5088f0800000000000000
+      internalID: -540329014857909273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_105
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfdd986bdae1e2a0800000000000000
+      internalID: -6709823741731414076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_106
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4554be91d392810800000000000000
+      internalID: 1740989912486073551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_107
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 477
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48aaace50c076eb0800000000000000
+      internalID: -4726796064317069237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93bec155aa168790800000000000000
+      internalID: -7528300429758778466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_109
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc2f71cd51b38f0800000000000000
+      internalID: -559829693638718122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7162171369176a850800000000000000
+      internalID: 6387918011360159255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_111
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6021e6c2a47d9b9c0800000000000000
+      internalID: -3910858087821602298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_112
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ed93938e0c77f30800000000000000
+      internalID: 4573336050243067498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_113
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347db4557a88df9b0800000000000000
+      internalID: -5044725755313137853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_114
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b878926f5cf151450800000000000000
+      internalID: 6058783808795805579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_115
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f45e4cd2fc7a5790800000000000000
+      internalID: -7540577243558423305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_116
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02051c944c572a090800000000000000
+      internalID: -8024722100109357024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_117
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c36271247f69d0800000000000000
+      internalID: -2778874758062423571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_118
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70311c1bf2254ba00800000000000000
+      internalID: 771331800986358535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_119
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df62384f3783bb240800000000000000
+      internalID: 4808499097822766845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_120
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202ac34ce9045f570800000000000000
+      internalID: 8499770922372997634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_121
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbf893b58e38df30800000000000000
+      internalID: 4600495763323681718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_122
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0da993541982690800000000000000
+      internalID: -7626686242446716714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_123
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 424
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507094f36fdb1d530800000000000000
+      internalID: 3878089619464062725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd3e15ea1de2970800000000000000
+      internalID: 8732147274146372832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_125
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b742472c71fb5510800000000000000
+      internalID: 1539089213214050224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_126
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953fd63268fb06ba0800000000000000
+      internalID: -6097663312618720423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_127
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb42d0bc5e731a20800000000000000
+      internalID: 3031905910719138813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_128
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cddcc714c076040800000000000000
+      internalID: 4640691416434859142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_129
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e661de8260d877e0800000000000000
+      internalID: -1767433732021459226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_130
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b9c0475107c5420800000000000000
+      internalID: 2620092320666393480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_131
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4938a0b5e79bcd90800000000000000
+      internalID: -7076395376715482801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_132
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcb79960ba3a4750800000000000000
+      internalID: 6289904358936526041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_133
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 371
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72243911013192e70800000000000000
+      internalID: 9090818282559324711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e773fb1d92b28c10800000000000000
+      internalID: 2054400767882917865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_135
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85728d242dbf51690800000000000000
+      internalID: -7631917113026271400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_136
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f212bc3e9f346a10800000000000000
+      internalID: 1901714891512877809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_137
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc549d18df32e69e0800000000000000
+      internalID: -1626322843721972277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_138
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11faf0e5d48cdf350800000000000000
+      internalID: 6052213708871937809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_139
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac7f0ca276095ca0800000000000000
+      internalID: -6027779536675963738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_140
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a6168d014233f80800000000000000
+      internalID: -8128113247705273731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_141
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2b85463325ca9e0800000000000000
+      internalID: -1608820586197765406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_142
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3740f98881e10e680800000000000000
+      internalID: -8727942987123850125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_143
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 318
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b555ec89446c8cb0800000000000000
+      internalID: -4860399630780377680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3353141b1eac710800000000000000
+      internalID: 1714430759587361751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_145
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c41ca255765eed0800000000000000
+      internalID: -2385386812135617456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_146
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f9432d6d7609d0800000000000000
+      internalID: -2808419409921968804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_147
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd8976b4701297b0800000000000000
+      internalID: -5219090924705313337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_148
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae82a87762225720800000000000000
+      internalID: 2833364943370358445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_149
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f880aff77d9785210800000000000000
+      internalID: 1321940457105262735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_150
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da033b42923c600800000000000000
+      internalID: 487278422288018764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_151
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0c6a000cfb7a220800000000000000
+      internalID: 2497175349765783770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_152
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d002cf073c5777450800000000000000
+      internalID: 6086462903689158669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_153
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74f0d6514735f480800000000000000
+      internalID: -8866119537640016771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_154
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7672145cd73536810800000000000000
+      internalID: 1757340079250024295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_155
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5055da443d3196ef0800000000000000
+      internalID: -114538517409999611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_156
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cafcc201a317270800000000000000
+      internalID: 8246436233837784167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_157
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82811cb9c46ebf00800000000000000
+      internalID: 1134454973750411919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_158
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1571e12f8e2e5c1b0800000000000000
+      internalID: -5636849868461959343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_159
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 265
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b652b75446e645e0800000000000000
+      internalID: -1925598609450838343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d255004e9b3ef1eb0800000000000000
+      internalID: -4746825094691531475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294c0e077103aa00800000000000000
+      internalID: 766457972431538470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_162
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f357481a7e65fae30800000000000000
+      internalID: 4516924504123143487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_163
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966637a5df49fe200800000000000000
+      internalID: 211551523374851689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_164
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa415563ecc3daeb0800000000000000
+      internalID: -4707039179159825233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_165
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f9194cea1505830800000000000000
+      internalID: 4057833075324854026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_166
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5a69e2f658c82b0800000000000000
+      internalID: -5580939125649398296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_167
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f59d857dbd2c97a0800000000000000
+      internalID: -6369165481264441865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_168
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4960d4555f50fcc90800000000000000
+      internalID: -7147487532357450092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 212
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197478c94d502430800000000000000
+      internalID: 3756104660704065811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1af22a49983e1f0800000000000000
+      internalID: -1016817819386404374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_171
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67f2bf58e49f0610800000000000000
+      internalID: 1589652919243962218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_172
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904924683a91fe180800000000000000
+      internalID: -9084013733260127223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_173
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f572f77230ecb20800000000000000
+      internalID: 3156463857005191069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_174
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfa7a22dce344410800000000000000
+      internalID: 1460361229945515985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_175
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7f4f1133d801500800000000000000
+      internalID: 364946820301125589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_176
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f3a1c393c93bf80800000000000000
+      internalID: -8091952335819227275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_177
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858a46b057cc80190800000000000000
+      internalID: -7995916335321929640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_178
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe18a154cb506b550800000000000000
+      internalID: 6176130245156569583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_179
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 159
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98060d99ab2ec9ef0800000000000000
+      internalID: -99955800636628855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03ea9e53e5a16d0800000000000000
+      internalID: -3018997014551711544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_181
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b8d1421dfcb73d0800000000000000
+      internalID: -3207741812410315920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_182
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db66ab59e3d49f510800000000000000
+      internalID: 1583381675192772285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_183
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd67de8aff4de410800000000000000
+      internalID: 1507949387795885496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_184
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e524feba873a1e0800000000000000
+      internalID: -2187772314123084241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65077600b9a8d59b0800000000000000
+      internalID: -5089759605527449514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_186
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b4eaa0a1fdca030800000000000000
+      internalID: 3507423512756112155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_187
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30985194e3c75f820800000000000000
+      internalID: 2951401737767192835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_188
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1592db088495cf900800000000000000
+      internalID: 719548208404834641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_189
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78418c13f937c9b50800000000000000
+      internalID: 6601278281390494855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_190
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d7d0690494b4780800000000000000
+      internalID: -8697777713591780033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_191
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d6cab6e816a1b20800000000000000
+      internalID: 3105902157345090893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_192
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f7946b0dda1a10800000000000000
+      internalID: 1881058835382662271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_193
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2794af11d2f550740800000000000000
+      internalID: 5117601198756219250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_194
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd3fda72151f6040800000000000000
+      internalID: 4642952909957316034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_195
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 106
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6b18d63f59e6d80800000000000000
+      internalID: -8255496194176731395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725f05ad50c44370800000000000000
+      internalID: 8305975121211773558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_197
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd4f53beeb473d60800000000000000
+      internalID: 7869842362436898259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_198
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e0215ba7d9d6160800000000000000
+      internalID: 7020440544489901657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_199
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340b928ba315a4900800000000000000
+      internalID: 669436807257632835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_200
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c332028d78c3c180800000000000000
+      internalID: -9096206380980620345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_201
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe021048d6c7544c0800000000000000
+      internalID: -4303897059074694929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_202
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fb98e6d794c0620800000000000000
+      internalID: 2741647076236050305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_203
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c737d30d7b8662140800000000000000
+      internalID: 4694554800262312828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_204
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6178771b86072e0800000000000000
+      internalID: -2130087512322402571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_205
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 53
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f871006bfa8ed70800000000000000
+      internalID: 9072694645558316842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aea737d8e9d7de0800000000000000
+      internalID: -1333735584266786244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_207
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059dc31a6d2d090f0800000000000000
+      internalID: -1112157288690558640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_208
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6e96f0d000cbfd0800000000000000
+      internalID: -2324983251536845063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_209
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4e8be08124b3db0800000000000000
+      internalID: -4811179105821596439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_210
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf526a2daa3f64e0800000000000000
+      internalID: -1986304395232256060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_211
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e40a97bc48195a0800000000000000
+      internalID: -6516281176374620637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_212
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5fa74e9c87eded0800000000000000
+      internalID: -2387337943942761050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_213
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31318b5f4b0c4c80800000000000000
+      internalID: -8337276374704115397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_214
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d6eb23c1b39dd90800000000000000
+      internalID: -7072556747512189691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-heaterShield_attack_73x53_215
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c98c6e702b91f50800000000000000
+      internalID: 6852704055027342357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pike-heaterShield_attack_73x53_0: -7042586716247865671
+      pike-heaterShield_attack_73x53_1: -4151268296600776318
+      pike-heaterShield_attack_73x53_10: 9167051845370075215
+      pike-heaterShield_attack_73x53_100: -5730495319501766319
+      pike-heaterShield_attack_73x53_101: 3629724340730788380
+      pike-heaterShield_attack_73x53_102: -9033103864015123689
+      pike-heaterShield_attack_73x53_103: -8979010854327362147
+      pike-heaterShield_attack_73x53_104: -540329014857909273
+      pike-heaterShield_attack_73x53_105: -6709823741731414076
+      pike-heaterShield_attack_73x53_106: 1740989912486073551
+      pike-heaterShield_attack_73x53_107: -4726796064317069237
+      pike-heaterShield_attack_73x53_108: -7528300429758778466
+      pike-heaterShield_attack_73x53_109: -559829693638718122
+      pike-heaterShield_attack_73x53_11: 7867317090801217748
+      pike-heaterShield_attack_73x53_110: 6387918011360159255
+      pike-heaterShield_attack_73x53_111: -3910858087821602298
+      pike-heaterShield_attack_73x53_112: 4573336050243067498
+      pike-heaterShield_attack_73x53_113: -5044725755313137853
+      pike-heaterShield_attack_73x53_114: 6058783808795805579
+      pike-heaterShield_attack_73x53_115: -7540577243558423305
+      pike-heaterShield_attack_73x53_116: -8024722100109357024
+      pike-heaterShield_attack_73x53_117: -2778874758062423571
+      pike-heaterShield_attack_73x53_118: 771331800986358535
+      pike-heaterShield_attack_73x53_119: 4808499097822766845
+      pike-heaterShield_attack_73x53_12: -9193602707053260058
+      pike-heaterShield_attack_73x53_120: 8499770922372997634
+      pike-heaterShield_attack_73x53_121: 4600495763323681718
+      pike-heaterShield_attack_73x53_122: -7626686242446716714
+      pike-heaterShield_attack_73x53_123: 3878089619464062725
+      pike-heaterShield_attack_73x53_124: 8732147274146372832
+      pike-heaterShield_attack_73x53_125: 1539089213214050224
+      pike-heaterShield_attack_73x53_126: -6097663312618720423
+      pike-heaterShield_attack_73x53_127: 3031905910719138813
+      pike-heaterShield_attack_73x53_128: 4640691416434859142
+      pike-heaterShield_attack_73x53_129: -1767433732021459226
+      pike-heaterShield_attack_73x53_13: -9001079296695833996
+      pike-heaterShield_attack_73x53_130: 2620092320666393480
+      pike-heaterShield_attack_73x53_131: -7076395376715482801
+      pike-heaterShield_attack_73x53_132: 6289904358936526041
+      pike-heaterShield_attack_73x53_133: 9090818282559324711
+      pike-heaterShield_attack_73x53_134: 2054400767882917865
+      pike-heaterShield_attack_73x53_135: -7631917113026271400
+      pike-heaterShield_attack_73x53_136: 1901714891512877809
+      pike-heaterShield_attack_73x53_137: -1626322843721972277
+      pike-heaterShield_attack_73x53_138: 6052213708871937809
+      pike-heaterShield_attack_73x53_139: -6027779536675963738
+      pike-heaterShield_attack_73x53_14: -2872589707960393320
+      pike-heaterShield_attack_73x53_140: -8128113247705273731
+      pike-heaterShield_attack_73x53_141: -1608820586197765406
+      pike-heaterShield_attack_73x53_142: -8727942987123850125
+      pike-heaterShield_attack_73x53_143: -4860399630780377680
+      pike-heaterShield_attack_73x53_144: 1714430759587361751
+      pike-heaterShield_attack_73x53_145: -2385386812135617456
+      pike-heaterShield_attack_73x53_146: -2808419409921968804
+      pike-heaterShield_attack_73x53_147: -5219090924705313337
+      pike-heaterShield_attack_73x53_148: 2833364943370358445
+      pike-heaterShield_attack_73x53_149: 1321940457105262735
+      pike-heaterShield_attack_73x53_15: -7635966799202250786
+      pike-heaterShield_attack_73x53_150: 487278422288018764
+      pike-heaterShield_attack_73x53_151: 2497175349765783770
+      pike-heaterShield_attack_73x53_152: 6086462903689158669
+      pike-heaterShield_attack_73x53_153: -8866119537640016771
+      pike-heaterShield_attack_73x53_154: 1757340079250024295
+      pike-heaterShield_attack_73x53_155: -114538517409999611
+      pike-heaterShield_attack_73x53_156: 8246436233837784167
+      pike-heaterShield_attack_73x53_157: 1134454973750411919
+      pike-heaterShield_attack_73x53_158: -5636849868461959343
+      pike-heaterShield_attack_73x53_159: -1925598609450838343
+      pike-heaterShield_attack_73x53_16: 4796934055907978498
+      pike-heaterShield_attack_73x53_160: -4746825094691531475
+      pike-heaterShield_attack_73x53_161: 766457972431538470
+      pike-heaterShield_attack_73x53_162: 4516924504123143487
+      pike-heaterShield_attack_73x53_163: 211551523374851689
+      pike-heaterShield_attack_73x53_164: -4707039179159825233
+      pike-heaterShield_attack_73x53_165: 4057833075324854026
+      pike-heaterShield_attack_73x53_166: -5580939125649398296
+      pike-heaterShield_attack_73x53_167: -6369165481264441865
+      pike-heaterShield_attack_73x53_168: -7147487532357450092
+      pike-heaterShield_attack_73x53_169: 3756104660704065811
+      pike-heaterShield_attack_73x53_17: 799680745255229967
+      pike-heaterShield_attack_73x53_170: -1016817819386404374
+      pike-heaterShield_attack_73x53_171: 1589652919243962218
+      pike-heaterShield_attack_73x53_172: -9084013733260127223
+      pike-heaterShield_attack_73x53_173: 3156463857005191069
+      pike-heaterShield_attack_73x53_174: 1460361229945515985
+      pike-heaterShield_attack_73x53_175: 364946820301125589
+      pike-heaterShield_attack_73x53_176: -8091952335819227275
+      pike-heaterShield_attack_73x53_177: -7995916335321929640
+      pike-heaterShield_attack_73x53_178: 6176130245156569583
+      pike-heaterShield_attack_73x53_179: -99955800636628855
+      pike-heaterShield_attack_73x53_18: -5008935045070355192
+      pike-heaterShield_attack_73x53_180: -3018997014551711544
+      pike-heaterShield_attack_73x53_181: -3207741812410315920
+      pike-heaterShield_attack_73x53_182: 1583381675192772285
+      pike-heaterShield_attack_73x53_183: 1507949387795885496
+      pike-heaterShield_attack_73x53_184: -2187772314123084241
+      pike-heaterShield_attack_73x53_185: -5089759605527449514
+      pike-heaterShield_attack_73x53_186: 3507423512756112155
+      pike-heaterShield_attack_73x53_187: 2951401737767192835
+      pike-heaterShield_attack_73x53_188: 719548208404834641
+      pike-heaterShield_attack_73x53_189: 6601278281390494855
+      pike-heaterShield_attack_73x53_19: 2205542420947843088
+      pike-heaterShield_attack_73x53_190: -8697777713591780033
+      pike-heaterShield_attack_73x53_191: 3105902157345090893
+      pike-heaterShield_attack_73x53_192: 1881058835382662271
+      pike-heaterShield_attack_73x53_193: 5117601198756219250
+      pike-heaterShield_attack_73x53_194: 4642952909957316034
+      pike-heaterShield_attack_73x53_195: -8255496194176731395
+      pike-heaterShield_attack_73x53_196: 8305975121211773558
+      pike-heaterShield_attack_73x53_197: 7869842362436898259
+      pike-heaterShield_attack_73x53_198: 7020440544489901657
+      pike-heaterShield_attack_73x53_199: 669436807257632835
+      pike-heaterShield_attack_73x53_2: 6115040377916751592
+      pike-heaterShield_attack_73x53_20: -2545016966249082059
+      pike-heaterShield_attack_73x53_200: -9096206380980620345
+      pike-heaterShield_attack_73x53_201: -4303897059074694929
+      pike-heaterShield_attack_73x53_202: 2741647076236050305
+      pike-heaterShield_attack_73x53_203: 4694554800262312828
+      pike-heaterShield_attack_73x53_204: -2130087512322402571
+      pike-heaterShield_attack_73x53_205: 9072694645558316842
+      pike-heaterShield_attack_73x53_206: -1333735584266786244
+      pike-heaterShield_attack_73x53_207: -1112157288690558640
+      pike-heaterShield_attack_73x53_208: -2324983251536845063
+      pike-heaterShield_attack_73x53_209: -4811179105821596439
+      pike-heaterShield_attack_73x53_21: 6781023813272690585
+      pike-heaterShield_attack_73x53_210: -1986304395232256060
+      pike-heaterShield_attack_73x53_211: -6516281176374620637
+      pike-heaterShield_attack_73x53_212: -2387337943942761050
+      pike-heaterShield_attack_73x53_213: -8337276374704115397
+      pike-heaterShield_attack_73x53_214: -7072556747512189691
+      pike-heaterShield_attack_73x53_215: 6852704055027342357
+      pike-heaterShield_attack_73x53_22: -2249136919066876122
+      pike-heaterShield_attack_73x53_23: -7215934076708764047
+      pike-heaterShield_attack_73x53_24: -8017889336995382584
+      pike-heaterShield_attack_73x53_25: -2655697665027251162
+      pike-heaterShield_attack_73x53_26: -6601214870971578627
+      pike-heaterShield_attack_73x53_27: 652494859036515382
+      pike-heaterShield_attack_73x53_28: -3274823181503010023
+      pike-heaterShield_attack_73x53_29: 7450980698941686509
+      pike-heaterShield_attack_73x53_3: -3446572673043456236
+      pike-heaterShield_attack_73x53_30: -8336222913119737901
+      pike-heaterShield_attack_73x53_31: -1426469436175275095
+      pike-heaterShield_attack_73x53_32: 5003438228439794725
+      pike-heaterShield_attack_73x53_33: -869628338261020947
+      pike-heaterShield_attack_73x53_34: -7816301820179759966
+      pike-heaterShield_attack_73x53_35: 8454939962996075078
+      pike-heaterShield_attack_73x53_36: -1808191280277762410
+      pike-heaterShield_attack_73x53_37: 4773537740130742833
+      pike-heaterShield_attack_73x53_38: -2394466509677994023
+      pike-heaterShield_attack_73x53_39: 3835976434924617205
+      pike-heaterShield_attack_73x53_4: -7108046584419819349
+      pike-heaterShield_attack_73x53_40: -6041734523962073178
+      pike-heaterShield_attack_73x53_41: 3398782006645539337
+      pike-heaterShield_attack_73x53_42: 6038620226174916006
+      pike-heaterShield_attack_73x53_43: -2351774944633219948
+      pike-heaterShield_attack_73x53_44: 512062394707137300
+      pike-heaterShield_attack_73x53_45: 420275084085364800
+      pike-heaterShield_attack_73x53_46: -4262751932284983530
+      pike-heaterShield_attack_73x53_47: -4622196647476245338
+      pike-heaterShield_attack_73x53_48: -3752010324162603218
+      pike-heaterShield_attack_73x53_49: 8052880572708433332
+      pike-heaterShield_attack_73x53_5: 2110957129892052306
+      pike-heaterShield_attack_73x53_50: 6136457853490171651
+      pike-heaterShield_attack_73x53_51: 9063527461912983374
+      pike-heaterShield_attack_73x53_52: 1396816044576982100
+      pike-heaterShield_attack_73x53_53: -9127858506172399553
+      pike-heaterShield_attack_73x53_54: -4654467372678349623
+      pike-heaterShield_attack_73x53_55: 4105068219663374967
+      pike-heaterShield_attack_73x53_56: -6118771501725981543
+      pike-heaterShield_attack_73x53_57: 2626849769730520300
+      pike-heaterShield_attack_73x53_58: 6203637673379780111
+      pike-heaterShield_attack_73x53_59: -309032764761102603
+      pike-heaterShield_attack_73x53_6: 9176664189050683927
+      pike-heaterShield_attack_73x53_60: 6225617500746469810
+      pike-heaterShield_attack_73x53_61: -3276398243125333843
+      pike-heaterShield_attack_73x53_62: 6023192559935924221
+      pike-heaterShield_attack_73x53_63: -5288098615197744063
+      pike-heaterShield_attack_73x53_64: -4615761941608166238
+      pike-heaterShield_attack_73x53_65: 2608847866676272345
+      pike-heaterShield_attack_73x53_66: -64534147425259302
+      pike-heaterShield_attack_73x53_67: -9082990367794704761
+      pike-heaterShield_attack_73x53_68: -9037693425024595522
+      pike-heaterShield_attack_73x53_69: 5648488440322603123
+      pike-heaterShield_attack_73x53_7: 5837416144148738012
+      pike-heaterShield_attack_73x53_70: 7960262984698974997
+      pike-heaterShield_attack_73x53_71: -5351593522595323400
+      pike-heaterShield_attack_73x53_72: -7550751380547291711
+      pike-heaterShield_attack_73x53_73: 8022304854437782380
+      pike-heaterShield_attack_73x53_74: -2636901330336755514
+      pike-heaterShield_attack_73x53_75: -8785613022971729186
+      pike-heaterShield_attack_73x53_76: -8901996819334528565
+      pike-heaterShield_attack_73x53_77: 3807388798463283977
+      pike-heaterShield_attack_73x53_78: -1330988148079865123
+      pike-heaterShield_attack_73x53_79: -8672533668443457108
+      pike-heaterShield_attack_73x53_8: 461397548578127453
+      pike-heaterShield_attack_73x53_80: -5164152724987608272
+      pike-heaterShield_attack_73x53_81: -1990094469978926704
+      pike-heaterShield_attack_73x53_82: -847788112725417699
+      pike-heaterShield_attack_73x53_83: -8601374398669663097
+      pike-heaterShield_attack_73x53_84: -2084952458816753799
+      pike-heaterShield_attack_73x53_85: -1005972896857673283
+      pike-heaterShield_attack_73x53_86: 939303781234033548
+      pike-heaterShield_attack_73x53_87: 4356511870704291365
+      pike-heaterShield_attack_73x53_88: 5550856170796834029
+      pike-heaterShield_attack_73x53_89: -5897636027229763682
+      pike-heaterShield_attack_73x53_9: -7732367293915515914
+      pike-heaterShield_attack_73x53_90: 1399607355860061681
+      pike-heaterShield_attack_73x53_91: -1829773449139149314
+      pike-heaterShield_attack_73x53_92: -4106423053789245106
+      pike-heaterShield_attack_73x53_93: -2007363553003647625
+      pike-heaterShield_attack_73x53_94: 1588214305324231470
+      pike-heaterShield_attack_73x53_95: -8773513276907513040
+      pike-heaterShield_attack_73x53_96: 1597831249476508670
+      pike-heaterShield_attack_73x53_97: -6153588023149686230
+      pike-heaterShield_attack_73x53_98: 3611277810469228375
+      pike-heaterShield_attack_73x53_99: -7399406856198161929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

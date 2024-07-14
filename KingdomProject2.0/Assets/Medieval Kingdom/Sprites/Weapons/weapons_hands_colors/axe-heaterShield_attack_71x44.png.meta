@@ -1,0 +1,3414 @@
+fileFormatVersion: 2
+guid: 230109c08f177254092ce60fd6cee2dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8084446477529717663
+    second: axe-heaterShield_attack_71x44_0
+  - first:
+      213: 1164077041219964050
+    second: axe-heaterShield_attack_71x44_1
+  - first:
+      213: -8782493899771788880
+    second: axe-heaterShield_attack_71x44_2
+  - first:
+      213: -6908636530872761801
+    second: axe-heaterShield_attack_71x44_3
+  - first:
+      213: -3386480588913582825
+    second: axe-heaterShield_attack_71x44_4
+  - first:
+      213: -4866367332914680825
+    second: axe-heaterShield_attack_71x44_5
+  - first:
+      213: -5424525501122020258
+    second: axe-heaterShield_attack_71x44_6
+  - first:
+      213: 8398050496528982649
+    second: axe-heaterShield_attack_71x44_7
+  - first:
+      213: 8870209040555990718
+    second: axe-heaterShield_attack_71x44_8
+  - first:
+      213: -3943534588156026554
+    second: axe-heaterShield_attack_71x44_9
+  - first:
+      213: -4062411931533477126
+    second: axe-heaterShield_attack_71x44_10
+  - first:
+      213: -3800259888373649724
+    second: axe-heaterShield_attack_71x44_11
+  - first:
+      213: -4616131003915056135
+    second: axe-heaterShield_attack_71x44_12
+  - first:
+      213: -9216461762879603186
+    second: axe-heaterShield_attack_71x44_13
+  - first:
+      213: 5227089832499485957
+    second: axe-heaterShield_attack_71x44_14
+  - first:
+      213: 1828703269932561482
+    second: axe-heaterShield_attack_71x44_15
+  - first:
+      213: -5759110620384700821
+    second: axe-heaterShield_attack_71x44_16
+  - first:
+      213: 1812582942760779730
+    second: axe-heaterShield_attack_71x44_17
+  - first:
+      213: 6148321028424664754
+    second: axe-heaterShield_attack_71x44_18
+  - first:
+      213: 182674123827620287
+    second: axe-heaterShield_attack_71x44_19
+  - first:
+      213: 6073540796245006931
+    second: axe-heaterShield_attack_71x44_20
+  - first:
+      213: -8423503216254974727
+    second: axe-heaterShield_attack_71x44_21
+  - first:
+      213: 5878753134450851940
+    second: axe-heaterShield_attack_71x44_22
+  - first:
+      213: 7369950200726106628
+    second: axe-heaterShield_attack_71x44_23
+  - first:
+      213: 1566749128560829664
+    second: axe-heaterShield_attack_71x44_24
+  - first:
+      213: -5311669074678878953
+    second: axe-heaterShield_attack_71x44_25
+  - first:
+      213: -3659517542365008690
+    second: axe-heaterShield_attack_71x44_26
+  - first:
+      213: 4827570372318905596
+    second: axe-heaterShield_attack_71x44_27
+  - first:
+      213: 5801606476952048365
+    second: axe-heaterShield_attack_71x44_28
+  - first:
+      213: -2958692919059276506
+    second: axe-heaterShield_attack_71x44_29
+  - first:
+      213: 6489493923061388061
+    second: axe-heaterShield_attack_71x44_30
+  - first:
+      213: 4558707369337013112
+    second: axe-heaterShield_attack_71x44_31
+  - first:
+      213: 6222049964398467592
+    second: axe-heaterShield_attack_71x44_32
+  - first:
+      213: -3708380309374654973
+    second: axe-heaterShield_attack_71x44_33
+  - first:
+      213: -7035973704380915562
+    second: axe-heaterShield_attack_71x44_34
+  - first:
+      213: 6723373160228162405
+    second: axe-heaterShield_attack_71x44_35
+  - first:
+      213: 8586351500823310075
+    second: axe-heaterShield_attack_71x44_36
+  - first:
+      213: -8444885579999634096
+    second: axe-heaterShield_attack_71x44_37
+  - first:
+      213: 8173503876686157081
+    second: axe-heaterShield_attack_71x44_38
+  - first:
+      213: 6984582278706666159
+    second: axe-heaterShield_attack_71x44_39
+  - first:
+      213: -4627026145272973883
+    second: axe-heaterShield_attack_71x44_40
+  - first:
+      213: 3839832433104432386
+    second: axe-heaterShield_attack_71x44_41
+  - first:
+      213: 4896715204698182424
+    second: axe-heaterShield_attack_71x44_42
+  - first:
+      213: 8847558780775401721
+    second: axe-heaterShield_attack_71x44_43
+  - first:
+      213: -3317957606682642240
+    second: axe-heaterShield_attack_71x44_44
+  - first:
+      213: 2593859523508540226
+    second: axe-heaterShield_attack_71x44_45
+  - first:
+      213: 6591337458975978285
+    second: axe-heaterShield_attack_71x44_46
+  - first:
+      213: -6850737905072271388
+    second: axe-heaterShield_attack_71x44_47
+  - first:
+      213: -3841111438898597216
+    second: axe-heaterShield_attack_71x44_48
+  - first:
+      213: -3450994489089317324
+    second: axe-heaterShield_attack_71x44_49
+  - first:
+      213: -3014570535708710790
+    second: axe-heaterShield_attack_71x44_50
+  - first:
+      213: 6515243307563366503
+    second: axe-heaterShield_attack_71x44_51
+  - first:
+      213: 8536806605245271738
+    second: axe-heaterShield_attack_71x44_52
+  - first:
+      213: -6957174827486303679
+    second: axe-heaterShield_attack_71x44_53
+  - first:
+      213: 3602222264171992309
+    second: axe-heaterShield_attack_71x44_54
+  - first:
+      213: 6126826175746500090
+    second: axe-heaterShield_attack_71x44_55
+  - first:
+      213: -5956649112612029486
+    second: axe-heaterShield_attack_71x44_56
+  - first:
+      213: -1541721189796634249
+    second: axe-heaterShield_attack_71x44_57
+  - first:
+      213: 6541971015402450625
+    second: axe-heaterShield_attack_71x44_58
+  - first:
+      213: -2000525427292896301
+    second: axe-heaterShield_attack_71x44_59
+  - first:
+      213: 8640870106752188547
+    second: axe-heaterShield_attack_71x44_60
+  - first:
+      213: -7409120026223736818
+    second: axe-heaterShield_attack_71x44_61
+  - first:
+      213: -2070292579068181188
+    second: axe-heaterShield_attack_71x44_62
+  - first:
+      213: -8050153550564012342
+    second: axe-heaterShield_attack_71x44_63
+  - first:
+      213: 3928669158526045615
+    second: axe-heaterShield_attack_71x44_64
+  - first:
+      213: -3538972779878609204
+    second: axe-heaterShield_attack_71x44_65
+  - first:
+      213: -2821900438327232903
+    second: axe-heaterShield_attack_71x44_66
+  - first:
+      213: -4118629721718232966
+    second: axe-heaterShield_attack_71x44_67
+  - first:
+      213: -1398099196070930834
+    second: axe-heaterShield_attack_71x44_68
+  - first:
+      213: -9002304796086347027
+    second: axe-heaterShield_attack_71x44_69
+  - first:
+      213: -3405090414441935306
+    second: axe-heaterShield_attack_71x44_70
+  - first:
+      213: 3268232753983464775
+    second: axe-heaterShield_attack_71x44_71
+  - first:
+      213: -1061770972523993404
+    second: axe-heaterShield_attack_71x44_72
+  - first:
+      213: -2573676659151916134
+    second: axe-heaterShield_attack_71x44_73
+  - first:
+      213: 5754553074410422674
+    second: axe-heaterShield_attack_71x44_74
+  - first:
+      213: -5851936786503963386
+    second: axe-heaterShield_attack_71x44_75
+  - first:
+      213: 7419191359314110974
+    second: axe-heaterShield_attack_71x44_76
+  - first:
+      213: -6837398260249231119
+    second: axe-heaterShield_attack_71x44_77
+  - first:
+      213: 8783947277010302359
+    second: axe-heaterShield_attack_71x44_78
+  - first:
+      213: -8100675318234812632
+    second: axe-heaterShield_attack_71x44_79
+  - first:
+      213: -7385496456665090343
+    second: axe-heaterShield_attack_71x44_80
+  - first:
+      213: -1459109852330521758
+    second: axe-heaterShield_attack_71x44_81
+  - first:
+      213: 2488024628514611890
+    second: axe-heaterShield_attack_71x44_82
+  - first:
+      213: 4299876083028013926
+    second: axe-heaterShield_attack_71x44_83
+  - first:
+      213: 7950729600205121409
+    second: axe-heaterShield_attack_71x44_84
+  - first:
+      213: 4249876588052437635
+    second: axe-heaterShield_attack_71x44_85
+  - first:
+      213: 7403789465220608738
+    second: axe-heaterShield_attack_71x44_86
+  - first:
+      213: 658172243679586159
+    second: axe-heaterShield_attack_71x44_87
+  - first:
+      213: -7257780933160740804
+    second: axe-heaterShield_attack_71x44_88
+  - first:
+      213: -1587169389607168102
+    second: axe-heaterShield_attack_71x44_89
+  - first:
+      213: 3746223028880622803
+    second: axe-heaterShield_attack_71x44_90
+  - first:
+      213: 5390622261792072855
+    second: axe-heaterShield_attack_71x44_91
+  - first:
+      213: -8953421876225039583
+    second: axe-heaterShield_attack_71x44_92
+  - first:
+      213: 8995742943717897811
+    second: axe-heaterShield_attack_71x44_93
+  - first:
+      213: 1028381869726834382
+    second: axe-heaterShield_attack_71x44_94
+  - first:
+      213: -4168713815360759374
+    second: axe-heaterShield_attack_71x44_95
+  - first:
+      213: 5487043517035911461
+    second: axe-heaterShield_attack_71x44_96
+  - first:
+      213: -7306161987085326133
+    second: axe-heaterShield_attack_71x44_97
+  - first:
+      213: -4360243796012753470
+    second: axe-heaterShield_attack_71x44_98
+  - first:
+      213: -2569416957850955073
+    second: axe-heaterShield_attack_71x44_99
+  - first:
+      213: -3588792070649913865
+    second: axe-heaterShield_attack_71x44_100
+  - first:
+      213: -1654165378025776847
+    second: axe-heaterShield_attack_71x44_101
+  - first:
+      213: -5113702553838307801
+    second: axe-heaterShield_attack_71x44_102
+  - first:
+      213: 3205929897859407258
+    second: axe-heaterShield_attack_71x44_103
+  - first:
+      213: 80790877813625336
+    second: axe-heaterShield_attack_71x44_104
+  - first:
+      213: 4747389929779121227
+    second: axe-heaterShield_attack_71x44_105
+  - first:
+      213: 1654707151241957559
+    second: axe-heaterShield_attack_71x44_106
+  - first:
+      213: -2515097124085502247
+    second: axe-heaterShield_attack_71x44_107
+  - first:
+      213: -8292758574741116672
+    second: axe-heaterShield_attack_71x44_108
+  - first:
+      213: -1434803010894260807
+    second: axe-heaterShield_attack_71x44_109
+  - first:
+      213: 7158553075832879684
+    second: axe-heaterShield_attack_71x44_110
+  - first:
+      213: -2896168043622017336
+    second: axe-heaterShield_attack_71x44_111
+  - first:
+      213: 1645036819430923932
+    second: axe-heaterShield_attack_71x44_112
+  - first:
+      213: -3911389359079386663
+    second: axe-heaterShield_attack_71x44_113
+  - first:
+      213: -6575397564600865045
+    second: axe-heaterShield_attack_71x44_114
+  - first:
+      213: 8393850434455910342
+    second: axe-heaterShield_attack_71x44_115
+  - first:
+      213: 4328031420797734169
+    second: axe-heaterShield_attack_71x44_116
+  - first:
+      213: -5998249291070013176
+    second: axe-heaterShield_attack_71x44_117
+  - first:
+      213: 4893259500267982169
+    second: axe-heaterShield_attack_71x44_118
+  - first:
+      213: 5672721805741723484
+    second: axe-heaterShield_attack_71x44_119
+  - first:
+      213: 5650163556620174799
+    second: axe-heaterShield_attack_71x44_120
+  - first:
+      213: -344860131097457723
+    second: axe-heaterShield_attack_71x44_121
+  - first:
+      213: -4007192463038280205
+    second: axe-heaterShield_attack_71x44_122
+  - first:
+      213: -8561075108815497498
+    second: axe-heaterShield_attack_71x44_123
+  - first:
+      213: 3291892385120389208
+    second: axe-heaterShield_attack_71x44_124
+  - first:
+      213: 2107726158276372022
+    second: axe-heaterShield_attack_71x44_125
+  - first:
+      213: 1989391904173169688
+    second: axe-heaterShield_attack_71x44_126
+  - first:
+      213: 3599462658174176421
+    second: axe-heaterShield_attack_71x44_127
+  - first:
+      213: -6310429163162751546
+    second: axe-heaterShield_attack_71x44_128
+  - first:
+      213: 7268299867403264587
+    second: axe-heaterShield_attack_71x44_129
+  - first:
+      213: 8990368013897266477
+    second: axe-heaterShield_attack_71x44_130
+  - first:
+      213: -1174713760674810936
+    second: axe-heaterShield_attack_71x44_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b11d2fc39b13070800000000000000
+      internalID: 8084446477529717663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c8a15c6e1a72010800000000000000
+      internalID: 1164077041219964050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1411e64505e1680800000000000000
+      internalID: -8782493899771788880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ca0fbda79f10a0800000000000000
+      internalID: -6908636530872761801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ddc03c8ddc001d0800000000000000
+      internalID: -3386480588913582825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c2e0f91b0377cb0800000000000000
+      internalID: -4866367332914680825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf29e0cc638b4b0800000000000000
+      internalID: -5424525501122020258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972276b8e6edb8470800000000000000
+      internalID: 8398050496528982649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe5cc14020591b70800000000000000
+      internalID: 8870209040555990718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6416e719f20c549c0800000000000000
+      internalID: -3943534588156026554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa73a13fd96f97c0800000000000000
+      internalID: -4062411931533477126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 484
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea25324c3c24bc0800000000000000
+      internalID: -3800259888373649724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbc9fa2f4530ffb0800000000000000
+      internalID: -4616131003915056135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e37998bdc881080800000000000000
+      internalID: -9216461762879603186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1033228a5a8840800000000000000
+      internalID: 5227089832499485957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44fce36febd06910800000000000000
+      internalID: 1828703269932561482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b665ac167678310b0800000000000000
+      internalID: -5759110620384700821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df303d3596972910800000000000000
+      internalID: 1812582942760779730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b601507669335550800000000000000
+      internalID: 6148321028424664754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9a664d52df88200800000000000000
+      internalID: 182674123827620287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ad609dc2d894450800000000000000
+      internalID: 6073540796245006931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 440
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f403c65474b91b80800000000000000
+      internalID: -8423503216254974727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460482d24d6859150800000000000000
+      internalID: 5878753134450851940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402399ee8a2574660800000000000000
+      internalID: 7369950200726106628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4650c08063eb510800000000000000
+      internalID: 1566749128560829664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d66577e192946b0800000000000000
+      internalID: -5311669074678878953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce5062f28c63dc0800000000000000
+      internalID: -3659517542365008690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4c4421da9fef240800000000000000
+      internalID: 4827570372318905596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de215514a52738050800000000000000
+      internalID: 5801606476952048365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_29
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d1208477c90f6d0800000000000000
+      internalID: -2958692919059276506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13512817505f0a50800000000000000
+      internalID: 6489493923061388061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873c9480338c34f30800000000000000
+      internalID: 4558707369337013112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_32
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad3be0a79295650800000000000000
+      internalID: 6222049964398467592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 396
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306aba7a1cf298cc0800000000000000
+      internalID: -3708380309374654973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690e26da1333b5e90800000000000000
+      internalID: -7035973704380915562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b8bcb64483e4d50800000000000000
+      internalID: 6723373160228162405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe27339239d82770800000000000000
+      internalID: 8586351500823310075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d9d43de4dbdca80800000000000000
+      internalID: -8444885579999634096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9151824887e1e6170800000000000000
+      internalID: 8173503876686157081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_39
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa9cca93983ee060800000000000000
+      internalID: 6984582278706666159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_40
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c53f846c3089cfb0800000000000000
+      internalID: -4627026145272973883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_41
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20da63ce043d94530800000000000000
+      internalID: 3839832433104432386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8131a46e880a4f340800000000000000
+      internalID: 4896715204698182424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 352
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f88181b5d7d8ca70800000000000000
+      internalID: 8847558780775401721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c830e1d22f34f1d0800000000000000
+      internalID: -3317957606682642240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2439df76e7d3ff320800000000000000
+      internalID: 2593859523508540226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d233dfc1f72297b50800000000000000
+      internalID: 6591337458975978285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef0dde0c2a4de0a0800000000000000
+      internalID: -6850737905072271388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_48
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a272c55f71a1bac0800000000000000
+      internalID: -3841111438898597216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_49
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436200cdbca9b10d0800000000000000
+      internalID: -3450994489089317324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7829b4d1181a26d0800000000000000
+      internalID: -3014570535708710790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7683e8cd44bca6a50800000000000000
+      internalID: 6515243307563366503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe4ad5a064d87670800000000000000
+      internalID: 8536806605245271738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_53
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aa367ea56237f90800000000000000
+      internalID: -6957174827486303679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_54
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f499f9501aadf130800000000000000
+      internalID: 3602222264171992309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_55
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 308
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af56fed02fbd60550800000000000000
+      internalID: 6126826175746500090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db3d17113bb55da0800000000000000
+      internalID: -5956649112612029486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771aa7b0fb4ba9ae0800000000000000
+      internalID: -1541721189796634249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_58
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee6f74affb9ca50800000000000000
+      internalID: 6541971015402450625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_59
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3021e19b4bc34e0800000000000000
+      internalID: -2000525427292896301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380814fa4998ae770800000000000000
+      internalID: 8640870106752188547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_61
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0883b267948d2990800000000000000
+      internalID: -7409120026223736818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3583834ed7d443e0800000000000000
+      internalID: -2070292579068181188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_63
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace484f4ffb184090800000000000000
+      internalID: -8050153550564012342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_64
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad4af1e8cf658630800000000000000
+      internalID: 3928669158526045615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_65
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 264
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce0f89c10b03eec0800000000000000
+      internalID: -3538972779878609204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9767cfd908896d8d0800000000000000
+      internalID: -2821900438327232903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_67
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a786e9be610b7d6c0800000000000000
+      internalID: -4118629721718232966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66de694034f89ce0800000000000000
+      internalID: -1398099196070930834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_69
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea5a75fb73611380800000000000000
+      internalID: -9002304796086347027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_70
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec91b1f40beb0d0800000000000000
+      internalID: -3405090414441935306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_71
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452b78bf581b5d20800000000000000
+      internalID: 3268232753983464775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6e2ed0de4d341f0800000000000000
+      internalID: -1061770972523993404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_73
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a933984e6b6784cd0800000000000000
+      internalID: -2573676659151916134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_74
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918d5148874cdf40800000000000000
+      internalID: 5754553074410422674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_75
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60de3606f7eb9cea0800000000000000
+      internalID: -5851936786503963386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_76
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9a0949b3346f660800000000000000
+      internalID: 7419191359314110974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_77
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 220
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f088f5228eac11a0800000000000000
+      internalID: -6837398260249231119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79575f35289d6e970800000000000000
+      internalID: 8783947277010302359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_79
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fe6df97be949f80800000000000000
+      internalID: -8100675318234812632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_80
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6329a4a12718990800000000000000
+      internalID: -7385496456665090343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_81
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b019be15330cbe0800000000000000
+      internalID: -1459109852330521758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_82
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2690fa73d378220800000000000000
+      internalID: 2488024628514611890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_83
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663351b048a3cab30800000000000000
+      internalID: 4299876083028013926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_84
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187e865527aa65e60800000000000000
+      internalID: 7950729600205121409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_85
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a5d127d389afa30800000000000000
+      internalID: 4249876588052437635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_86
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2f04aaa4b8fb660800000000000000
+      internalID: 7403789465220608738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_87
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 176
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f672b812b2c422900800000000000000
+      internalID: 658172243679586159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38d955d1be274b90800000000000000
+      internalID: -7257780933160740804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97571e69dd39f9e0800000000000000
+      internalID: -1587169389607168102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d441d51ff14df330800000000000000
+      internalID: 3746223028880622803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794ed68e2665fca40800000000000000
+      internalID: 5390622261792072855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_92
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1232567ad3e0fb380800000000000000
+      internalID: -8953421876225039583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356380bbb8c47dc70800000000000000
+      internalID: 8995742943717897811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece1586acdb854e00800000000000000
+      internalID: 1028381869726834382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_95
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b998292fd0c526c0800000000000000
+      internalID: -4168713815360759374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5291904d105e52c40800000000000000
+      internalID: 5487043517035911461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_97
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc82158e16c4b9a90800000000000000
+      internalID: -7306161987085326133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_98
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1f8c7e5d4d73c0800000000000000
+      internalID: -4360243796012753470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_99
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 132
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2dd63e3e8975cd0800000000000000
+      internalID: -2569416957850955073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd5c2040ac023ec0800000000000000
+      internalID: -3588792070649913865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_101
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13916035a593b09e0800000000000000
+      internalID: -1654165378025776847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726b57fee9a7809b0800000000000000
+      internalID: -5113702553838307801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dd6b0a140cd7c20800000000000000
+      internalID: 3205929897859407258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_104
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f15c2510e60f1100800000000000000
+      internalID: 80790877813625336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_105
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c40c60dfd12e140800000000000000
+      internalID: 4747389929779121227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_106
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b053151363b6f610800000000000000
+      internalID: 1654707151241957559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_107
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee64fbd74981dd0800000000000000
+      internalID: -2515097124085502247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_108
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0092b7063043aec80800000000000000
+      internalID: -8292758574741116672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_109
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 88
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b59cf4734e861ce0800000000000000
+      internalID: -1434803010894260807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a7cc6481a485360800000000000000
+      internalID: 7158553075832879684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_111
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c65216428ebec7d0800000000000000
+      internalID: -2896168043622017336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_112
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e5e90854854d610800000000000000
+      internalID: 1645036819430923932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_113
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d194d1f914f7b9c0800000000000000
+      internalID: -3911389359079386663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_114
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee2ff0c0ce7fb4a0800000000000000
+      internalID: -6575397564600865045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_115
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7b0836f72fc7470800000000000000
+      internalID: 8393850434455910342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_116
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dc06575a1401c30800000000000000
+      internalID: 4328031420797734169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_117
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8018883cc00f1cca0800000000000000
+      internalID: -5998249291070013176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_118
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4743079958e340800000000000000
+      internalID: 4893259500267982169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_119
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f09dc4d6e89be40800000000000000
+      internalID: 5672721805741723484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_120
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc50433a1d9696e40800000000000000
+      internalID: 5650163556620174799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_121
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 44
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbcdb4b98fc63bf0800000000000000
+      internalID: -344860131097457723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd0bf59fa79368c0800000000000000
+      internalID: -4007192463038280205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_123
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e61d9b0c83f03980800000000000000
+      internalID: -8561075108815497498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_124
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8580aeddea62fad20800000000000000
+      internalID: 3291892385120389208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_125
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636acd316c5204d10800000000000000
+      internalID: 2107726158276372022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_126
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c9747856dbb9b10800000000000000
+      internalID: 1989391904173169688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_127
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac41c2873cd3f130800000000000000
+      internalID: 3599462658174176421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_128
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd2b653c1adc68a0800000000000000
+      internalID: -6310429163162751546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_129
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42279568303ed460800000000000000
+      internalID: 7268299867403264587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_130
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25716c531434cc70800000000000000
+      internalID: 8990368013897266477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe-heaterShield_attack_71x44_131
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f63efe0492bfe0800000000000000
+      internalID: -1174713760674810936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      axe-heaterShield_attack_71x44_0: 8084446477529717663
+      axe-heaterShield_attack_71x44_1: 1164077041219964050
+      axe-heaterShield_attack_71x44_10: -4062411931533477126
+      axe-heaterShield_attack_71x44_100: -3588792070649913865
+      axe-heaterShield_attack_71x44_101: -1654165378025776847
+      axe-heaterShield_attack_71x44_102: -5113702553838307801
+      axe-heaterShield_attack_71x44_103: 3205929897859407258
+      axe-heaterShield_attack_71x44_104: 80790877813625336
+      axe-heaterShield_attack_71x44_105: 4747389929779121227
+      axe-heaterShield_attack_71x44_106: 1654707151241957559
+      axe-heaterShield_attack_71x44_107: -2515097124085502247
+      axe-heaterShield_attack_71x44_108: -8292758574741116672
+      axe-heaterShield_attack_71x44_109: -1434803010894260807
+      axe-heaterShield_attack_71x44_11: -3800259888373649724
+      axe-heaterShield_attack_71x44_110: 7158553075832879684
+      axe-heaterShield_attack_71x44_111: -2896168043622017336
+      axe-heaterShield_attack_71x44_112: 1645036819430923932
+      axe-heaterShield_attack_71x44_113: -3911389359079386663
+      axe-heaterShield_attack_71x44_114: -6575397564600865045
+      axe-heaterShield_attack_71x44_115: 8393850434455910342
+      axe-heaterShield_attack_71x44_116: 4328031420797734169
+      axe-heaterShield_attack_71x44_117: -5998249291070013176
+      axe-heaterShield_attack_71x44_118: 4893259500267982169
+      axe-heaterShield_attack_71x44_119: 5672721805741723484
+      axe-heaterShield_attack_71x44_12: -4616131003915056135
+      axe-heaterShield_attack_71x44_120: 5650163556620174799
+      axe-heaterShield_attack_71x44_121: -344860131097457723
+      axe-heaterShield_attack_71x44_122: -4007192463038280205
+      axe-heaterShield_attack_71x44_123: -8561075108815497498
+      axe-heaterShield_attack_71x44_124: 3291892385120389208
+      axe-heaterShield_attack_71x44_125: 2107726158276372022
+      axe-heaterShield_attack_71x44_126: 1989391904173169688
+      axe-heaterShield_attack_71x44_127: 3599462658174176421
+      axe-heaterShield_attack_71x44_128: -6310429163162751546
+      axe-heaterShield_attack_71x44_129: 7268299867403264587
+      axe-heaterShield_attack_71x44_13: -9216461762879603186
+      axe-heaterShield_attack_71x44_130: 8990368013897266477
+      axe-heaterShield_attack_71x44_131: -1174713760674810936
+      axe-heaterShield_attack_71x44_14: 5227089832499485957
+      axe-heaterShield_attack_71x44_15: 1828703269932561482
+      axe-heaterShield_attack_71x44_16: -5759110620384700821
+      axe-heaterShield_attack_71x44_17: 1812582942760779730
+      axe-heaterShield_attack_71x44_18: 6148321028424664754
+      axe-heaterShield_attack_71x44_19: 182674123827620287
+      axe-heaterShield_attack_71x44_2: -8782493899771788880
+      axe-heaterShield_attack_71x44_20: 6073540796245006931
+      axe-heaterShield_attack_71x44_21: -8423503216254974727
+      axe-heaterShield_attack_71x44_22: 5878753134450851940
+      axe-heaterShield_attack_71x44_23: 7369950200726106628
+      axe-heaterShield_attack_71x44_24: 1566749128560829664
+      axe-heaterShield_attack_71x44_25: -5311669074678878953
+      axe-heaterShield_attack_71x44_26: -3659517542365008690
+      axe-heaterShield_attack_71x44_27: 4827570372318905596
+      axe-heaterShield_attack_71x44_28: 5801606476952048365
+      axe-heaterShield_attack_71x44_29: -2958692919059276506
+      axe-heaterShield_attack_71x44_3: -6908636530872761801
+      axe-heaterShield_attack_71x44_30: 6489493923061388061
+      axe-heaterShield_attack_71x44_31: 4558707369337013112
+      axe-heaterShield_attack_71x44_32: 6222049964398467592
+      axe-heaterShield_attack_71x44_33: -3708380309374654973
+      axe-heaterShield_attack_71x44_34: -7035973704380915562
+      axe-heaterShield_attack_71x44_35: 6723373160228162405
+      axe-heaterShield_attack_71x44_36: 8586351500823310075
+      axe-heaterShield_attack_71x44_37: -8444885579999634096
+      axe-heaterShield_attack_71x44_38: 8173503876686157081
+      axe-heaterShield_attack_71x44_39: 6984582278706666159
+      axe-heaterShield_attack_71x44_4: -3386480588913582825
+      axe-heaterShield_attack_71x44_40: -4627026145272973883
+      axe-heaterShield_attack_71x44_41: 3839832433104432386
+      axe-heaterShield_attack_71x44_42: 4896715204698182424
+      axe-heaterShield_attack_71x44_43: 8847558780775401721
+      axe-heaterShield_attack_71x44_44: -3317957606682642240
+      axe-heaterShield_attack_71x44_45: 2593859523508540226
+      axe-heaterShield_attack_71x44_46: 6591337458975978285
+      axe-heaterShield_attack_71x44_47: -6850737905072271388
+      axe-heaterShield_attack_71x44_48: -3841111438898597216
+      axe-heaterShield_attack_71x44_49: -3450994489089317324
+      axe-heaterShield_attack_71x44_5: -4866367332914680825
+      axe-heaterShield_attack_71x44_50: -3014570535708710790
+      axe-heaterShield_attack_71x44_51: 6515243307563366503
+      axe-heaterShield_attack_71x44_52: 8536806605245271738
+      axe-heaterShield_attack_71x44_53: -6957174827486303679
+      axe-heaterShield_attack_71x44_54: 3602222264171992309
+      axe-heaterShield_attack_71x44_55: 6126826175746500090
+      axe-heaterShield_attack_71x44_56: -5956649112612029486
+      axe-heaterShield_attack_71x44_57: -1541721189796634249
+      axe-heaterShield_attack_71x44_58: 6541971015402450625
+      axe-heaterShield_attack_71x44_59: -2000525427292896301
+      axe-heaterShield_attack_71x44_6: -5424525501122020258
+      axe-heaterShield_attack_71x44_60: 8640870106752188547
+      axe-heaterShield_attack_71x44_61: -7409120026223736818
+      axe-heaterShield_attack_71x44_62: -2070292579068181188
+      axe-heaterShield_attack_71x44_63: -8050153550564012342
+      axe-heaterShield_attack_71x44_64: 3928669158526045615
+      axe-heaterShield_attack_71x44_65: -3538972779878609204
+      axe-heaterShield_attack_71x44_66: -2821900438327232903
+      axe-heaterShield_attack_71x44_67: -4118629721718232966
+      axe-heaterShield_attack_71x44_68: -1398099196070930834
+      axe-heaterShield_attack_71x44_69: -9002304796086347027
+      axe-heaterShield_attack_71x44_7: 8398050496528982649
+      axe-heaterShield_attack_71x44_70: -3405090414441935306
+      axe-heaterShield_attack_71x44_71: 3268232753983464775
+      axe-heaterShield_attack_71x44_72: -1061770972523993404
+      axe-heaterShield_attack_71x44_73: -2573676659151916134
+      axe-heaterShield_attack_71x44_74: 5754553074410422674
+      axe-heaterShield_attack_71x44_75: -5851936786503963386
+      axe-heaterShield_attack_71x44_76: 7419191359314110974
+      axe-heaterShield_attack_71x44_77: -6837398260249231119
+      axe-heaterShield_attack_71x44_78: 8783947277010302359
+      axe-heaterShield_attack_71x44_79: -8100675318234812632
+      axe-heaterShield_attack_71x44_8: 8870209040555990718
+      axe-heaterShield_attack_71x44_80: -7385496456665090343
+      axe-heaterShield_attack_71x44_81: -1459109852330521758
+      axe-heaterShield_attack_71x44_82: 2488024628514611890
+      axe-heaterShield_attack_71x44_83: 4299876083028013926
+      axe-heaterShield_attack_71x44_84: 7950729600205121409
+      axe-heaterShield_attack_71x44_85: 4249876588052437635
+      axe-heaterShield_attack_71x44_86: 7403789465220608738
+      axe-heaterShield_attack_71x44_87: 658172243679586159
+      axe-heaterShield_attack_71x44_88: -7257780933160740804
+      axe-heaterShield_attack_71x44_89: -1587169389607168102
+      axe-heaterShield_attack_71x44_9: -3943534588156026554
+      axe-heaterShield_attack_71x44_90: 3746223028880622803
+      axe-heaterShield_attack_71x44_91: 5390622261792072855
+      axe-heaterShield_attack_71x44_92: -8953421876225039583
+      axe-heaterShield_attack_71x44_93: 8995742943717897811
+      axe-heaterShield_attack_71x44_94: 1028381869726834382
+      axe-heaterShield_attack_71x44_95: -4168713815360759374
+      axe-heaterShield_attack_71x44_96: 5487043517035911461
+      axe-heaterShield_attack_71x44_97: -7306161987085326133
+      axe-heaterShield_attack_71x44_98: -4360243796012753470
+      axe-heaterShield_attack_71x44_99: -2569416957850955073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

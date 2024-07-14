@@ -1,0 +1,5814 @@
+fileFormatVersion: 2
+guid: 6f62df6624a1401459e1b8ceaaaff2c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3173236989470930821
+    second: poleaxe_attack_80x54_0
+  - first:
+      213: -3762377433039489899
+    second: poleaxe_attack_80x54_1
+  - first:
+      213: 1143811587931935607
+    second: poleaxe_attack_80x54_2
+  - first:
+      213: -4907057575222830381
+    second: poleaxe_attack_80x54_3
+  - first:
+      213: -7493171185440966208
+    second: poleaxe_attack_80x54_4
+  - first:
+      213: -7753089512538805015
+    second: poleaxe_attack_80x54_5
+  - first:
+      213: 491473284355667104
+    second: poleaxe_attack_80x54_6
+  - first:
+      213: -8117318218096966096
+    second: poleaxe_attack_80x54_7
+  - first:
+      213: 6556168404689790548
+    second: poleaxe_attack_80x54_8
+  - first:
+      213: -561260737127265179
+    second: poleaxe_attack_80x54_9
+  - first:
+      213: -3404323010772836765
+    second: poleaxe_attack_80x54_10
+  - first:
+      213: -1110848578652161096
+    second: poleaxe_attack_80x54_11
+  - first:
+      213: -7673640432263234092
+    second: poleaxe_attack_80x54_12
+  - first:
+      213: 9085307347233243021
+    second: poleaxe_attack_80x54_13
+  - first:
+      213: 9073091085916315432
+    second: poleaxe_attack_80x54_14
+  - first:
+      213: 1637108731153149484
+    second: poleaxe_attack_80x54_15
+  - first:
+      213: 2934641030239098442
+    second: poleaxe_attack_80x54_16
+  - first:
+      213: -1895864915050348328
+    second: poleaxe_attack_80x54_17
+  - first:
+      213: 4226384974255598938
+    second: poleaxe_attack_80x54_18
+  - first:
+      213: 4484311878194519903
+    second: poleaxe_attack_80x54_19
+  - first:
+      213: -3579914606960613829
+    second: poleaxe_attack_80x54_20
+  - first:
+      213: -1619771976310853592
+    second: poleaxe_attack_80x54_21
+  - first:
+      213: 7644006949874903168
+    second: poleaxe_attack_80x54_22
+  - first:
+      213: 7264820782514251459
+    second: poleaxe_attack_80x54_23
+  - first:
+      213: -7053243467373328457
+    second: poleaxe_attack_80x54_24
+  - first:
+      213: -6806512762660393263
+    second: poleaxe_attack_80x54_25
+  - first:
+      213: 3477439421025296938
+    second: poleaxe_attack_80x54_26
+  - first:
+      213: -4119925239612962115
+    second: poleaxe_attack_80x54_27
+  - first:
+      213: -2048709986666997259
+    second: poleaxe_attack_80x54_28
+  - first:
+      213: 7500707138996340948
+    second: poleaxe_attack_80x54_29
+  - first:
+      213: -7110891288561222273
+    second: poleaxe_attack_80x54_30
+  - first:
+      213: -8033836932157087604
+    second: poleaxe_attack_80x54_31
+  - first:
+      213: 3903635214437084564
+    second: poleaxe_attack_80x54_32
+  - first:
+      213: -6153247061858228232
+    second: poleaxe_attack_80x54_33
+  - first:
+      213: -3624236091989925758
+    second: poleaxe_attack_80x54_34
+  - first:
+      213: 6797935946129549361
+    second: poleaxe_attack_80x54_35
+  - first:
+      213: 4152814077489973389
+    second: poleaxe_attack_80x54_36
+  - first:
+      213: -87123037364022555
+    second: poleaxe_attack_80x54_37
+  - first:
+      213: -5471542526447124313
+    second: poleaxe_attack_80x54_38
+  - first:
+      213: -7828710640116444220
+    second: poleaxe_attack_80x54_39
+  - first:
+      213: 2650795291404868660
+    second: poleaxe_attack_80x54_40
+  - first:
+      213: -2059425479954189669
+    second: poleaxe_attack_80x54_41
+  - first:
+      213: 5315234167819799617
+    second: poleaxe_attack_80x54_42
+  - first:
+      213: -3428369162103409652
+    second: poleaxe_attack_80x54_43
+  - first:
+      213: -3783746169601040188
+    second: poleaxe_attack_80x54_44
+  - first:
+      213: 8161961312665804424
+    second: poleaxe_attack_80x54_45
+  - first:
+      213: -3257108567643918359
+    second: poleaxe_attack_80x54_46
+  - first:
+      213: -4988832640037128132
+    second: poleaxe_attack_80x54_47
+  - first:
+      213: -4404832870267922157
+    second: poleaxe_attack_80x54_48
+  - first:
+      213: 1989377549463277536
+    second: poleaxe_attack_80x54_49
+  - first:
+      213: -3647495893802791289
+    second: poleaxe_attack_80x54_50
+  - first:
+      213: -288388925994958955
+    second: poleaxe_attack_80x54_51
+  - first:
+      213: 2423779958943376207
+    second: poleaxe_attack_80x54_52
+  - first:
+      213: -687589949418881868
+    second: poleaxe_attack_80x54_53
+  - first:
+      213: 4744040339531464369
+    second: poleaxe_attack_80x54_54
+  - first:
+      213: 7838270146472994909
+    second: poleaxe_attack_80x54_55
+  - first:
+      213: -6002303155097966516
+    second: poleaxe_attack_80x54_56
+  - first:
+      213: -8545580179543233274
+    second: poleaxe_attack_80x54_57
+  - first:
+      213: -3913067108733371501
+    second: poleaxe_attack_80x54_58
+  - first:
+      213: 8589414338791284966
+    second: poleaxe_attack_80x54_59
+  - first:
+      213: -742860391876874042
+    second: poleaxe_attack_80x54_60
+  - first:
+      213: 1420930157757197017
+    second: poleaxe_attack_80x54_61
+  - first:
+      213: 7876119301223195554
+    second: poleaxe_attack_80x54_62
+  - first:
+      213: -3256198806312959010
+    second: poleaxe_attack_80x54_63
+  - first:
+      213: -5180883708316456108
+    second: poleaxe_attack_80x54_64
+  - first:
+      213: -6745394933825547697
+    second: poleaxe_attack_80x54_65
+  - first:
+      213: 6502850385000789041
+    second: poleaxe_attack_80x54_66
+  - first:
+      213: -4722407374293864274
+    second: poleaxe_attack_80x54_67
+  - first:
+      213: 4460866313084362513
+    second: poleaxe_attack_80x54_68
+  - first:
+      213: -2460104131254814671
+    second: poleaxe_attack_80x54_69
+  - first:
+      213: 2224724852546496998
+    second: poleaxe_attack_80x54_70
+  - first:
+      213: -7463562459623422123
+    second: poleaxe_attack_80x54_71
+  - first:
+      213: -7497462723869574755
+    second: poleaxe_attack_80x54_72
+  - first:
+      213: 2003653091832560436
+    second: poleaxe_attack_80x54_73
+  - first:
+      213: -4717557337157399919
+    second: poleaxe_attack_80x54_74
+  - first:
+      213: 8098326442368911537
+    second: poleaxe_attack_80x54_75
+  - first:
+      213: 4009186960056316609
+    second: poleaxe_attack_80x54_76
+  - first:
+      213: 3319348124327084394
+    second: poleaxe_attack_80x54_77
+  - first:
+      213: 6898081876843699353
+    second: poleaxe_attack_80x54_78
+  - first:
+      213: 6057569692937008016
+    second: poleaxe_attack_80x54_79
+  - first:
+      213: 6776312933530817936
+    second: poleaxe_attack_80x54_80
+  - first:
+      213: 8598373917364201706
+    second: poleaxe_attack_80x54_81
+  - first:
+      213: -1589917914585033853
+    second: poleaxe_attack_80x54_82
+  - first:
+      213: 7465191550225740030
+    second: poleaxe_attack_80x54_83
+  - first:
+      213: -4508600260458730251
+    second: poleaxe_attack_80x54_84
+  - first:
+      213: 7110261813575275079
+    second: poleaxe_attack_80x54_85
+  - first:
+      213: -6530029658860396015
+    second: poleaxe_attack_80x54_86
+  - first:
+      213: -1245385103841849257
+    second: poleaxe_attack_80x54_87
+  - first:
+      213: -6606305286505540616
+    second: poleaxe_attack_80x54_88
+  - first:
+      213: -5635595423268727567
+    second: poleaxe_attack_80x54_89
+  - first:
+      213: -6769030325639939593
+    second: poleaxe_attack_80x54_90
+  - first:
+      213: 5184902133471937662
+    second: poleaxe_attack_80x54_91
+  - first:
+      213: 7681637612667492393
+    second: poleaxe_attack_80x54_92
+  - first:
+      213: -4702608396645954515
+    second: poleaxe_attack_80x54_93
+  - first:
+      213: 3005164837374458279
+    second: poleaxe_attack_80x54_94
+  - first:
+      213: -4495017415012672086
+    second: poleaxe_attack_80x54_95
+  - first:
+      213: 1673768524963745313
+    second: poleaxe_attack_80x54_96
+  - first:
+      213: -8623833431966150031
+    second: poleaxe_attack_80x54_97
+  - first:
+      213: -1849897885669738258
+    second: poleaxe_attack_80x54_98
+  - first:
+      213: -7932102921666884100
+    second: poleaxe_attack_80x54_99
+  - first:
+      213: -2712826370522449786
+    second: poleaxe_attack_80x54_100
+  - first:
+      213: -5061493627672513436
+    second: poleaxe_attack_80x54_101
+  - first:
+      213: -668716699435231240
+    second: poleaxe_attack_80x54_102
+  - first:
+      213: -1991312036081605528
+    second: poleaxe_attack_80x54_103
+  - first:
+      213: -9107905749717428356
+    second: poleaxe_attack_80x54_104
+  - first:
+      213: -7919998152101837802
+    second: poleaxe_attack_80x54_105
+  - first:
+      213: -3549050806722414793
+    second: poleaxe_attack_80x54_106
+  - first:
+      213: -5539658969372415783
+    second: poleaxe_attack_80x54_107
+  - first:
+      213: -2649464431613255466
+    second: poleaxe_attack_80x54_108
+  - first:
+      213: -8910001989425898074
+    second: poleaxe_attack_80x54_109
+  - first:
+      213: -6064978153154206389
+    second: poleaxe_attack_80x54_110
+  - first:
+      213: 4929518636401418742
+    second: poleaxe_attack_80x54_111
+  - first:
+      213: -6849777287003871244
+    second: poleaxe_attack_80x54_112
+  - first:
+      213: 8118540823262740571
+    second: poleaxe_attack_80x54_113
+  - first:
+      213: -4436112742528499455
+    second: poleaxe_attack_80x54_114
+  - first:
+      213: 8422219684401197889
+    second: poleaxe_attack_80x54_115
+  - first:
+      213: 1334652358217074018
+    second: poleaxe_attack_80x54_116
+  - first:
+      213: -1711116847741420285
+    second: poleaxe_attack_80x54_117
+  - first:
+      213: 5356862572956373821
+    second: poleaxe_attack_80x54_118
+  - first:
+      213: 1953448869823119221
+    second: poleaxe_attack_80x54_119
+  - first:
+      213: -5346331217513771146
+    second: poleaxe_attack_80x54_120
+  - first:
+      213: 8545821430703122365
+    second: poleaxe_attack_80x54_121
+  - first:
+      213: 4383436500873669458
+    second: poleaxe_attack_80x54_122
+  - first:
+      213: -6368456595406569284
+    second: poleaxe_attack_80x54_123
+  - first:
+      213: 1750765031239115596
+    second: poleaxe_attack_80x54_124
+  - first:
+      213: 3211293536675740821
+    second: poleaxe_attack_80x54_125
+  - first:
+      213: 3182120583364053488
+    second: poleaxe_attack_80x54_126
+  - first:
+      213: -3298270340967493205
+    second: poleaxe_attack_80x54_127
+  - first:
+      213: 6142093999282050200
+    second: poleaxe_attack_80x54_128
+  - first:
+      213: 3071061929495945800
+    second: poleaxe_attack_80x54_129
+  - first:
+      213: -8785304743021030456
+    second: poleaxe_attack_80x54_130
+  - first:
+      213: -3834198097048668648
+    second: poleaxe_attack_80x54_131
+  - first:
+      213: -4643395431311997166
+    second: poleaxe_attack_80x54_132
+  - first:
+      213: 3661177015719860824
+    second: poleaxe_attack_80x54_133
+  - first:
+      213: 7157303325231138894
+    second: poleaxe_attack_80x54_134
+  - first:
+      213: 2930988875214345764
+    second: poleaxe_attack_80x54_135
+  - first:
+      213: 1517733753390467248
+    second: poleaxe_attack_80x54_136
+  - first:
+      213: 3820354791817066563
+    second: poleaxe_attack_80x54_137
+  - first:
+      213: -878828694257852398
+    second: poleaxe_attack_80x54_138
+  - first:
+      213: -6903168827669442666
+    second: poleaxe_attack_80x54_139
+  - first:
+      213: 7962786409117545525
+    second: poleaxe_attack_80x54_140
+  - first:
+      213: 8218953492291704701
+    second: poleaxe_attack_80x54_141
+  - first:
+      213: 5262042977077909860
+    second: poleaxe_attack_80x54_142
+  - first:
+      213: 2784197062213551153
+    second: poleaxe_attack_80x54_143
+  - first:
+      213: -2146227539346756464
+    second: poleaxe_attack_80x54_144
+  - first:
+      213: 3463854525966001092
+    second: poleaxe_attack_80x54_145
+  - first:
+      213: -3477125390097698642
+    second: poleaxe_attack_80x54_146
+  - first:
+      213: 6652881044790644205
+    second: poleaxe_attack_80x54_147
+  - first:
+      213: -296609589228861065
+    second: poleaxe_attack_80x54_148
+  - first:
+      213: 5364913434022791362
+    second: poleaxe_attack_80x54_149
+  - first:
+      213: -5700316738465122077
+    second: poleaxe_attack_80x54_150
+  - first:
+      213: 4498240778456321600
+    second: poleaxe_attack_80x54_151
+  - first:
+      213: 252076278429603821
+    second: poleaxe_attack_80x54_152
+  - first:
+      213: -3170580595865366899
+    second: poleaxe_attack_80x54_153
+  - first:
+      213: -275934937568104751
+    second: poleaxe_attack_80x54_154
+  - first:
+      213: 193463295875850045
+    second: poleaxe_attack_80x54_155
+  - first:
+      213: -5589752088414340655
+    second: poleaxe_attack_80x54_156
+  - first:
+      213: -234728251930725703
+    second: poleaxe_attack_80x54_157
+  - first:
+      213: -147400975837493744
+    second: poleaxe_attack_80x54_158
+  - first:
+      213: 619032408236196701
+    second: poleaxe_attack_80x54_159
+  - first:
+      213: 7506648528422716273
+    second: poleaxe_attack_80x54_160
+  - first:
+      213: -2686092281154476126
+    second: poleaxe_attack_80x54_161
+  - first:
+      213: 5919002738120448163
+    second: poleaxe_attack_80x54_162
+  - first:
+      213: -3806798507658859347
+    second: poleaxe_attack_80x54_163
+  - first:
+      213: 8429086513935008360
+    second: poleaxe_attack_80x54_164
+  - first:
+      213: -3682827789764922968
+    second: poleaxe_attack_80x54_165
+  - first:
+      213: -5440357468179306930
+    second: poleaxe_attack_80x54_166
+  - first:
+      213: -725566241132910396
+    second: poleaxe_attack_80x54_167
+  - first:
+      213: 2465605394569627254
+    second: poleaxe_attack_80x54_168
+  - first:
+      213: 4337039520652585969
+    second: poleaxe_attack_80x54_169
+  - first:
+      213: 5043864842073623727
+    second: poleaxe_attack_80x54_170
+  - first:
+      213: -7850189470417462967
+    second: poleaxe_attack_80x54_171
+  - first:
+      213: 7185690279384047427
+    second: poleaxe_attack_80x54_172
+  - first:
+      213: -8089576795069471093
+    second: poleaxe_attack_80x54_173
+  - first:
+      213: -4742975000929259533
+    second: poleaxe_attack_80x54_174
+  - first:
+      213: -1153107912899890735
+    second: poleaxe_attack_80x54_175
+  - first:
+      213: -4113480019976561554
+    second: poleaxe_attack_80x54_176
+  - first:
+      213: -6309345059511837220
+    second: poleaxe_attack_80x54_177
+  - first:
+      213: -1999923336214999150
+    second: poleaxe_attack_80x54_178
+  - first:
+      213: -6146895086917949518
+    second: poleaxe_attack_80x54_179
+  - first:
+      213: -7911720036113409032
+    second: poleaxe_attack_80x54_180
+  - first:
+      213: -8852195755143391575
+    second: poleaxe_attack_80x54_181
+  - first:
+      213: 7822962005434293363
+    second: poleaxe_attack_80x54_182
+  - first:
+      213: 8273910177263757456
+    second: poleaxe_attack_80x54_183
+  - first:
+      213: 8956845716383833818
+    second: poleaxe_attack_80x54_184
+  - first:
+      213: -5785065732207576630
+    second: poleaxe_attack_80x54_185
+  - first:
+      213: 4021190867721484724
+    second: poleaxe_attack_80x54_186
+  - first:
+      213: 1349995509266727599
+    second: poleaxe_attack_80x54_187
+  - first:
+      213: 7429254932331186865
+    second: poleaxe_attack_80x54_188
+  - first:
+      213: -4964981026481312461
+    second: poleaxe_attack_80x54_189
+  - first:
+      213: 4627652319953942609
+    second: poleaxe_attack_80x54_190
+  - first:
+      213: -6979951308695904506
+    second: poleaxe_attack_80x54_191
+  - first:
+      213: 3762169378208110552
+    second: poleaxe_attack_80x54_192
+  - first:
+      213: -4859874084551786816
+    second: poleaxe_attack_80x54_193
+  - first:
+      213: -6553161970020233415
+    second: poleaxe_attack_80x54_194
+  - first:
+      213: 1685324619782716554
+    second: poleaxe_attack_80x54_195
+  - first:
+      213: 805604482324251852
+    second: poleaxe_attack_80x54_196
+  - first:
+      213: 1606311125914321222
+    second: poleaxe_attack_80x54_197
+  - first:
+      213: 4957391827637677693
+    second: poleaxe_attack_80x54_198
+  - first:
+      213: -5799197198108286394
+    second: poleaxe_attack_80x54_199
+  - first:
+      213: -2373488170373459190
+    second: poleaxe_attack_80x54_200
+  - first:
+      213: -5609709185790222292
+    second: poleaxe_attack_80x54_201
+  - first:
+      213: 7317178677931089379
+    second: poleaxe_attack_80x54_202
+  - first:
+      213: 645662795411910272
+    second: poleaxe_attack_80x54_203
+  - first:
+      213: 7577080831606397387
+    second: poleaxe_attack_80x54_204
+  - first:
+      213: 6041872820571331783
+    second: poleaxe_attack_80x54_205
+  - first:
+      213: -1580719847596354523
+    second: poleaxe_attack_80x54_206
+  - first:
+      213: 2875654859743504526
+    second: poleaxe_attack_80x54_207
+  - first:
+      213: 5506418637124871005
+    second: poleaxe_attack_80x54_208
+  - first:
+      213: -4283849927654195243
+    second: poleaxe_attack_80x54_209
+  - first:
+      213: 6249291127380676943
+    second: poleaxe_attack_80x54_210
+  - first:
+      213: -43122159442305162
+    second: poleaxe_attack_80x54_211
+  - first:
+      213: -5499704201228380408
+    second: poleaxe_attack_80x54_212
+  - first:
+      213: 960603988152848155
+    second: poleaxe_attack_80x54_213
+  - first:
+      213: 5350750773909824215
+    second: poleaxe_attack_80x54_214
+  - first:
+      213: -7936452682171251713
+    second: poleaxe_attack_80x54_215
+  - first:
+      213: -1454759067541606858
+    second: poleaxe_attack_80x54_216
+  - first:
+      213: -6246409936253664241
+    second: poleaxe_attack_80x54_217
+  - first:
+      213: -4088072165654315418
+    second: poleaxe_attack_80x54_218
+  - first:
+      213: 7860304015904433386
+    second: poleaxe_attack_80x54_219
+  - first:
+      213: 1112855318689047329
+    second: poleaxe_attack_80x54_220
+  - first:
+      213: 8242966400936874181
+    second: poleaxe_attack_80x54_221
+  - first:
+      213: 5215545536478099492
+    second: poleaxe_attack_80x54_222
+  - first:
+      213: 2554922821619690666
+    second: poleaxe_attack_80x54_223
+  - first:
+      213: 6482632117499916392
+    second: poleaxe_attack_80x54_224
+  - first:
+      213: -5387206584409454684
+    second: poleaxe_attack_80x54_225
+  - first:
+      213: 8035854480618649437
+    second: poleaxe_attack_80x54_226
+  - first:
+      213: 217520122212662361
+    second: poleaxe_attack_80x54_227
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5877b89ba3a990c20800000000000000
+      internalID: 3173236989470930821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 918
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5943cb898a959cbc0800000000000000
+      internalID: -3762377433039489899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 918
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77398ac3492afdf00800000000000000
+      internalID: 1143811587931935607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 918
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da14705221a6ebb0800000000000000
+      internalID: -4907057575222830381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 918
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c93992e188e20890800000000000000
+      internalID: -7493171185440966208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 918
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec615d7a2e776490800000000000000
+      internalID: -7753089512538805015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 918
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a43d92295012d600800000000000000
+      internalID: 491473284355667104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 918
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360689861e795f80800000000000000
+      internalID: -8117318218096966096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 918
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ac219d603cfa50800000000000000
+      internalID: 6556168404689790548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 918
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc72155500638f0800000000000000
+      internalID: -561260737127265179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e5232324a61c0d0800000000000000
+      internalID: -3404323010772836765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbb03e6a197590f0800000000000000
+      internalID: -1110848578652161096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddffdcfea0c18590800000000000000
+      internalID: -7673640432263234092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f751375ee751e70800000000000000
+      internalID: 9085307347233243021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1ec675481aed70800000000000000
+      internalID: 9073091085916315432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ee21b97bd28b610800000000000000
+      internalID: 1637108731153149484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4610b6f770f9b820800000000000000
+      internalID: 2934641030239098442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d04c4c87e880b5e0800000000000000
+      internalID: -1895864915050348328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dad82edb227aa30800000000000000
+      internalID: 4226384974255598938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f59d1f4e97b3e30800000000000000
+      internalID: 4484311878194519903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3661e5d1a6915ec0800000000000000
+      internalID: -3579914606960613829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 864
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820fbde28f96589e0800000000000000
+      internalID: -1619771976310853592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08829eb32d7f41a60800000000000000
+      internalID: 7644006949874903168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c623a2d204d1d460800000000000000
+      internalID: 7264820782514251459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b74ed4af68dd1e90800000000000000
+      internalID: -7053243467373328457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee67e64b86a81a0800000000000000
+      internalID: -6806512762660393263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22272aaab8524030800000000000000
+      internalID: 3477439421025296938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba04b7a2d513d6c0800000000000000
+      internalID: -4119925239612962115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f91be42f158193e0800000000000000
+      internalID: -2048709986666997259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d80d18076dd71860800000000000000
+      internalID: 7500707138996340948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_30
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d73e45c0a015d90800000000000000
+      internalID: -7110891288561222273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80ec5310e3128090800000000000000
+      internalID: -8033836932157087604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_32
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d6a319b8f7c2630800000000000000
+      internalID: 3903635214437084564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f769b606664b9aa0800000000000000
+      internalID: -6153247061858228232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2806ac2f97024bdc0800000000000000
+      internalID: -3624236091989925758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_35
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13829ead9be175e50800000000000000
+      internalID: 6797935946129549361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_36
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d880803a662c1a930800000000000000
+      internalID: 4152814077489973389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 810
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e21a222f0a7acef0800000000000000
+      internalID: -87123037364022555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a00da9cf0d2114b0800000000000000
+      internalID: -5471542526447124313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 756
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3d98ea625da5390800000000000000
+      internalID: -7828710640116444220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 756
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c1774e54489c420800000000000000
+      internalID: 2650795291404868660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 756
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9231f1ff637b63e0800000000000000
+      internalID: -2059425479954189669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 756
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c0be6705183c940800000000000000
+      internalID: 5315234167819799617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 756
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c043ced496cfb60d0800000000000000
+      internalID: -3428369162103409652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 756
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c06fa8e7ee6d7bc0800000000000000
+      internalID: -3783746169601040188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 756
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e1de7e19c154170800000000000000
+      internalID: 8161961312665804424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 756
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efe3beb30d6cc2d0800000000000000
+      internalID: -3257108567643918359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_47
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 756
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3876b6552b14cab0800000000000000
+      internalID: -4988832640037128132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31957b0a7d3eed2c0800000000000000
+      internalID: -4404832870267922157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef45ef4750bb9b10800000000000000
+      internalID: 1989377549463277536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e40325fcd716dc0800000000000000
+      internalID: -3647495893802791289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ff9ecbccf6ffbf0800000000000000
+      internalID: -288388925994958955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43e78ae70ff2a120800000000000000
+      internalID: 2423779958943376207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc32c185903576f0800000000000000
+      internalID: -687589949418881868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be75e5cd8736d140800000000000000
+      internalID: 4744040339531464369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5862165b2127cc60800000000000000
+      internalID: 7838270146472994909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48ed2ef41983bca0800000000000000
+      internalID: -6002303155097966516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60de4b66a10086980800000000000000
+      internalID: -8545580179543233274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bbea9623ef1b9c0800000000000000
+      internalID: -3913067108733371501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_59
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 702
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e02d4c15dab33770800000000000000
+      internalID: 8589414338791284966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0b870d864d0b5f0800000000000000
+      internalID: -742860391876874042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dae1c7337828b310800000000000000
+      internalID: 1420930157757197017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3a10666c89d4d60800000000000000
+      internalID: 7876119301223195554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed34aaf0078afc2d0800000000000000
+      internalID: -3256198806312959010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b603f77bdc918b0800000000000000
+      internalID: -5180883708316456108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_65
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42db9bdb0b8362a0800000000000000
+      internalID: -6745394933825547697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134fb79b8f3ce3a50800000000000000
+      internalID: 6502850385000789041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea077827383a67eb0800000000000000
+      internalID: -4722407374293864274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f56ede64e28ed30800000000000000
+      internalID: 4460866313084362513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138f51aa354fbddd0800000000000000
+      internalID: -2460104131254814671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_70
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9640f577fcfde10800000000000000
+      internalID: 2224724852546496998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_71
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55784339c791c6890800000000000000
+      internalID: -7463562459623422123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_72
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99750b3069a3f790800000000000000
+      internalID: -7497462723869574755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_73
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfac70fd76ecb10800000000000000
+      internalID: 2003653091832560436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_74
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a0237b89ed78eb0800000000000000
+      internalID: -4717557337157399919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_75
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 648
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b84d881ef8036070800000000000000
+      internalID: 8098326442368911537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f8407c4e73a730800000000000000
+      internalID: 4009186960056316609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 594
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61006c4881b01e20800000000000000
+      internalID: 3319348124327084394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 594
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c14dc5be8eabf50800000000000000
+      internalID: 6898081876843699353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 594
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093bea59a8fc01450800000000000000
+      internalID: 6057569692937008016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 594
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0955df9e5bc4a0e50800000000000000
+      internalID: 6776312933530817936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 594
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae82a7e858f835770800000000000000
+      internalID: 8598373917364201706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 594
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831127941a7fe9e0800000000000000
+      internalID: -1589917914585033853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_83
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 594
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0f373a920b99760800000000000000
+      internalID: 7465191550225740030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 594
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcaf1163fb3e61c0800000000000000
+      internalID: -4508600260458730251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_85
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 594
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742dd2a9279bca260800000000000000
+      internalID: 7110261813575275079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1126cd27f9ca065a0800000000000000
+      internalID: -6530029658860396015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75091fca8d087bee0800000000000000
+      internalID: -1245385103841849257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f35d08f750b154a0800000000000000
+      internalID: -6606305286505540616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4104a32d75ac1b0800000000000000
+      internalID: -5635595423268727567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9726e58c29f02a0800000000000000
+      internalID: -6769030325639939593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_91
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7482c4050974f740800000000000000
+      internalID: 5184902133471937662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928535ca5b8aa9a60800000000000000
+      internalID: 7681637612667492393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_93
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c0628249afcbeb0800000000000000
+      internalID: -4702608396645954515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f23f5f7d74b920800000000000000
+      internalID: 3005164837374458279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad99f60a7d7e91c0800000000000000
+      internalID: -4495017415012672086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_96
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e81befa9b6a3710800000000000000
+      internalID: 1673768524963745313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_97
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 540
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17215854f2df15880800000000000000
+      internalID: -8623833431966150031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8b8e59ca7d356e0800000000000000
+      internalID: -1849897885669738258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd05383b628be190800000000000000
+      internalID: -7932102921666884100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68872b70aca1a5ad0800000000000000
+      internalID: -2712826370522449786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4643da1dc56f1c9b0800000000000000
+      internalID: -5061493627672513436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_102
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f79ac274bd38b6f0800000000000000
+      internalID: -668716699435231240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864656ce0407d54e0800000000000000
+      internalID: -1991312036081605528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_104
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77da54f9f73a9180800000000000000
+      internalID: -9107905749717428356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_105
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614483284a3861290800000000000000
+      internalID: -7919998152101837802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7373f7f481d3fbec0800000000000000
+      internalID: -3549050806722414793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_107
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d820c9848d2f13b0800000000000000
+      internalID: -5539658969372415783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0e8ac03263b3bd0800000000000000
+      internalID: -2649464431613255466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_109
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adde38d560595480800000000000000
+      internalID: -8910001989425898074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_110
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b452dbad08ed4dba0800000000000000
+      internalID: -6064978153154206389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_111
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ef54051b296440800000000000000
+      internalID: 4929518636401418742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_112
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7689169d3b0f0a0800000000000000
+      internalID: -6849777287003871244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_113
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 486
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5045196dd9daa070800000000000000
+      internalID: 8118540823262740571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1014106d6f2cf62c0800000000000000
+      internalID: -4436112742528499455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_115
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143390d1e2cb1e470800000000000000
+      internalID: 8422219684401197889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_116
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2658a2e9f33a58210800000000000000
+      internalID: 1334652358217074018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dbf29fa44e048e0800000000000000
+      internalID: -1711116847741420285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 432
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3356a3d026675a40800000000000000
+      internalID: 5356862572956373821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_119
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 432
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ff1b4b56b0c1b10800000000000000
+      internalID: 1953448869823119221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_120
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f828075140ec5b0800000000000000
+      internalID: -5346331217513771146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_121
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 432
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7eaf2405bd89670800000000000000
+      internalID: 8545821430703122365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 432
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b6e0ae54815dc30800000000000000
+      internalID: 4383436500873669458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_123
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb04c4fc772be97a0800000000000000
+      internalID: -6368456595406569284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43ee2c1587fb4810800000000000000
+      internalID: 1750765031239115596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cb01b157ec09c20800000000000000
+      internalID: 3211293536675740821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f98fdb9fc9292c20800000000000000
+      internalID: 3182120583364053488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba11d6199903a32d0800000000000000
+      internalID: -3298270340967493205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894d34c33f91d3550800000000000000
+      internalID: 6142093999282050200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_129
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842e4debd8a9e9a20800000000000000
+      internalID: 3071061929495945800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_130
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c35dacf1e3541680800000000000000
+      internalID: -8785304743021030456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_131
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8167fea25213acac0800000000000000
+      internalID: -3834198097048668648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_132
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2170afcf4785f8fb0800000000000000
+      internalID: -4643395431311997166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_133
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a9ec9191d1fc230800000000000000
+      internalID: 3661177015719860824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_134
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48cf1a0479d35360800000000000000
+      internalID: 7157303325231138894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_135
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 378
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426d5cb5ad6fca820800000000000000
+      internalID: 2930988875214345764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b88572bec2101510800000000000000
+      internalID: 1517733753390467248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348b73a2170a40530800000000000000
+      internalID: 3820354791817066563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210275475f5cdc3f0800000000000000
+      internalID: -878828694257852398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_139
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f863a96840330a0800000000000000
+      internalID: -6903168827669442666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_140
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53472c9ec00818e60800000000000000
+      internalID: 7962786409117545525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77d085c7a69f0270800000000000000
+      internalID: 8218953492291704701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_142
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46951994538860940800000000000000
+      internalID: 5262042977077909860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_143
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134cced0a7473a620800000000000000
+      internalID: 2784197062213551153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_144
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c63169c611732e0800000000000000
+      internalID: -2146227539346756464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_145
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c325ddc655121030800000000000000
+      internalID: 3463854525966001092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_146
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea03cbb51e4cebfc0800000000000000
+      internalID: -3477125390097698642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_147
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0dafcf08c35c50800000000000000
+      internalID: 6652881044790644205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_148
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790a0d662b32ebf0800000000000000
+      internalID: -296609589228861065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_149
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c846adf750047a40800000000000000
+      internalID: 5364913434022791362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_150
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8b290c02864e0b0800000000000000
+      internalID: -5700316738465122077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_151
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 324
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ec012c726fc6e30800000000000000
+      internalID: 4498240778456321600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de759182a0e8f7300800000000000000
+      internalID: 252076278429603821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_153
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 270
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec2bb1fb5dff3d0800000000000000
+      internalID: -3170580595865366899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 270
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de2221e2aeab2cf0800000000000000
+      internalID: -275934937568104751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 270
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f91c3b7d15fa200800000000000000
+      internalID: 193463295875850045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_156
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 270
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9b09367163d62b0800000000000000
+      internalID: -5589752088414340655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_157
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 270
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2bbe406e31ebcf0800000000000000
+      internalID: -234728251930725703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_158
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 270
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01609abe79354fdf0800000000000000
+      internalID: -147400975837493744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_159
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 270
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d538f5d02be379800800000000000000
+      internalID: 619032408236196701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_160
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 270
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173485e8019fc2860800000000000000
+      internalID: 7506648528422716273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_161
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 270
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a76ed34d4519bad0800000000000000
+      internalID: -2686092281154476126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8db3e41a5842250800000000000000
+      internalID: 5919002738120448163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca1833de88b2bc0800000000000000
+      internalID: -3806798507658859347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_164
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c12476812af470800000000000000
+      internalID: 8429086513935008360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ff1e33a7f3ecc0800000000000000
+      internalID: -3682827789764922968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46670af4b7ff74b0800000000000000
+      internalID: -5440357468179306930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_167
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8e14019554ee5f0800000000000000
+      internalID: -725566241132910396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_168
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760c930b07973220800000000000000
+      internalID: 2465605394569627254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_169
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbe3552772403c30800000000000000
+      internalID: 4337039520652585969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac41eea9586ff540800000000000000
+      internalID: 5043864842073623727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_171
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949514cc4468e0390800000000000000
+      internalID: -7850189470417462967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_172
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fd9a8dc33b8b360800000000000000
+      internalID: 7185690279384047427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_173
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 216
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8624aae3cc0cbf80800000000000000
+      internalID: -8089576795069471093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffad03bd519d2eb0800000000000000
+      internalID: -4742975000929259533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_175
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1f8ef66765fffe0800000000000000
+      internalID: -1153107912899890735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_176
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c51aa47bbf9e6c0800000000000000
+      internalID: -4113480019976561554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_177
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd5e62c814b078a0800000000000000
+      internalID: -6309345059511837220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f04ee5258de34e0800000000000000
+      internalID: -1999923336214999150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_179
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b769a07c77d1baa0800000000000000
+      internalID: -6146895086917949518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_180
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb9e159b8ce33290800000000000000
+      internalID: -7911720036113409032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_181
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a615749cdea62580800000000000000
+      internalID: -8852195755143391575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_182
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cd9410f7eb09c60800000000000000
+      internalID: 7822962005434293363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_183
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098ab4b1875d2d270800000000000000
+      internalID: 8273910177263757456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_184
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade990149bb1d4c70800000000000000
+      internalID: 8956845716383833818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_185
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac97b7dfd5157bfa0800000000000000
+      internalID: -5785065732207576630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_186
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9759cf9c32ec730800000000000000
+      internalID: 4021190867721484724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_187
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2473a53c52cb210800000000000000
+      internalID: 1349995509266727599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_188
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba4b63cff30a1760800000000000000
+      internalID: 7429254932331186865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_189
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 162
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33de600ef08d81bb0800000000000000
+      internalID: -4964981026481312461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158fdd24449b83040800000000000000
+      internalID: 4627652319953942609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_191
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 108
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f58af144b322f90800000000000000
+      internalID: -6979951308695904506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_192
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 108
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d752fcdd19e53430800000000000000
+      internalID: 3762169378208110552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_193
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 108
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef921d4424e8cb0800000000000000
+      internalID: -4859874084551786816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_194
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 108
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f485d88ed7e05a0800000000000000
+      internalID: -6553161970020233415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_195
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 108
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c7e5dffc9736710800000000000000
+      internalID: 1685324619782716554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_196
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 108
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4466622051e2b00800000000000000
+      internalID: 805604482324251852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_197
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 108
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64181ea5573ca4610800000000000000
+      internalID: 1606311125914321222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_198
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 108
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ea4c21a913cc440800000000000000
+      internalID: 4957391827637677693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_199
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 108
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a050bfdc158fa0800000000000000
+      internalID: -5799197198108286394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a035c46951daf0fd0800000000000000
+      internalID: -2373488170373459190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_201
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c206abf873f4622b0800000000000000
+      internalID: -5609709185790222292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_202
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed15205d37db8560800000000000000
+      internalID: 7317178677931089379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_203
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e663d34ead5f800800000000000000
+      internalID: 645662795411910272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_204
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9125a0fd2372960800000000000000
+      internalID: 7577080831606397387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_205
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccdd30b15b09d350800000000000000
+      internalID: 6041872820571331783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_206
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241c927ca7201ae0800000000000000
+      internalID: -1580719847596354523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_207
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8823abebd068e720800000000000000
+      internalID: 2875654859743504526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_208
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d532b62839aba6c40800000000000000
+      internalID: 5506418637124871005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_209
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb6170035bc84c0800000000000000
+      internalID: -4283849927654195243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_210
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4196819b21f9b650800000000000000
+      internalID: 6249291127380676943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_211
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 54
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f5e7cdf9cc66ff0800000000000000
+      internalID: -43122159442305162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8071f0cea202da3b0800000000000000
+      internalID: -5499704201228380408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_213
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f8cabdc30c45d00800000000000000
+      internalID: 960603988152848155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_214
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2aa88ba7fa14a40800000000000000
+      internalID: 5350750773909824215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_215
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38c7ea55e0cd190800000000000000
+      internalID: -7936452682171251713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e6761f558afcbe0800000000000000
+      internalID: -1454759067541606858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_217
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f044124024b4059a0800000000000000
+      internalID: -6246409936253664241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_218
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e330e56004447c0800000000000000
+      internalID: -4088072165654315418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_219
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae46f865bd8651d60800000000000000
+      internalID: 7860304015904433386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_220
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1236dd42408a17f00800000000000000
+      internalID: 1112855318689047329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_221
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0925fb446e46270800000000000000
+      internalID: 8242966400936874181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_222
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428b6a34807516840800000000000000
+      internalID: 5215545536478099492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_223
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac2e2b05c8e47320800000000000000
+      internalID: 2554922821619690666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_224
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860fe1d709fe6f950800000000000000
+      internalID: 6482632117499916392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_225
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a701a4772ccc35b0800000000000000
+      internalID: -5387206584409454684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_226
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5771080317158f60800000000000000
+      internalID: 8035854480618649437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poleaxe_attack_80x54_227
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c3cff0669c40300800000000000000
+      internalID: 217520122212662361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      poleaxe_attack_80x54_0: 3173236989470930821
+      poleaxe_attack_80x54_1: -3762377433039489899
+      poleaxe_attack_80x54_10: -3404323010772836765
+      poleaxe_attack_80x54_100: -2712826370522449786
+      poleaxe_attack_80x54_101: -5061493627672513436
+      poleaxe_attack_80x54_102: -668716699435231240
+      poleaxe_attack_80x54_103: -1991312036081605528
+      poleaxe_attack_80x54_104: -9107905749717428356
+      poleaxe_attack_80x54_105: -7919998152101837802
+      poleaxe_attack_80x54_106: -3549050806722414793
+      poleaxe_attack_80x54_107: -5539658969372415783
+      poleaxe_attack_80x54_108: -2649464431613255466
+      poleaxe_attack_80x54_109: -8910001989425898074
+      poleaxe_attack_80x54_11: -1110848578652161096
+      poleaxe_attack_80x54_110: -6064978153154206389
+      poleaxe_attack_80x54_111: 4929518636401418742
+      poleaxe_attack_80x54_112: -6849777287003871244
+      poleaxe_attack_80x54_113: 8118540823262740571
+      poleaxe_attack_80x54_114: -4436112742528499455
+      poleaxe_attack_80x54_115: 8422219684401197889
+      poleaxe_attack_80x54_116: 1334652358217074018
+      poleaxe_attack_80x54_117: -1711116847741420285
+      poleaxe_attack_80x54_118: 5356862572956373821
+      poleaxe_attack_80x54_119: 1953448869823119221
+      poleaxe_attack_80x54_12: -7673640432263234092
+      poleaxe_attack_80x54_120: -5346331217513771146
+      poleaxe_attack_80x54_121: 8545821430703122365
+      poleaxe_attack_80x54_122: 4383436500873669458
+      poleaxe_attack_80x54_123: -6368456595406569284
+      poleaxe_attack_80x54_124: 1750765031239115596
+      poleaxe_attack_80x54_125: 3211293536675740821
+      poleaxe_attack_80x54_126: 3182120583364053488
+      poleaxe_attack_80x54_127: -3298270340967493205
+      poleaxe_attack_80x54_128: 6142093999282050200
+      poleaxe_attack_80x54_129: 3071061929495945800
+      poleaxe_attack_80x54_13: 9085307347233243021
+      poleaxe_attack_80x54_130: -8785304743021030456
+      poleaxe_attack_80x54_131: -3834198097048668648
+      poleaxe_attack_80x54_132: -4643395431311997166
+      poleaxe_attack_80x54_133: 3661177015719860824
+      poleaxe_attack_80x54_134: 7157303325231138894
+      poleaxe_attack_80x54_135: 2930988875214345764
+      poleaxe_attack_80x54_136: 1517733753390467248
+      poleaxe_attack_80x54_137: 3820354791817066563
+      poleaxe_attack_80x54_138: -878828694257852398
+      poleaxe_attack_80x54_139: -6903168827669442666
+      poleaxe_attack_80x54_14: 9073091085916315432
+      poleaxe_attack_80x54_140: 7962786409117545525
+      poleaxe_attack_80x54_141: 8218953492291704701
+      poleaxe_attack_80x54_142: 5262042977077909860
+      poleaxe_attack_80x54_143: 2784197062213551153
+      poleaxe_attack_80x54_144: -2146227539346756464
+      poleaxe_attack_80x54_145: 3463854525966001092
+      poleaxe_attack_80x54_146: -3477125390097698642
+      poleaxe_attack_80x54_147: 6652881044790644205
+      poleaxe_attack_80x54_148: -296609589228861065
+      poleaxe_attack_80x54_149: 5364913434022791362
+      poleaxe_attack_80x54_15: 1637108731153149484
+      poleaxe_attack_80x54_150: -5700316738465122077
+      poleaxe_attack_80x54_151: 4498240778456321600
+      poleaxe_attack_80x54_152: 252076278429603821
+      poleaxe_attack_80x54_153: -3170580595865366899
+      poleaxe_attack_80x54_154: -275934937568104751
+      poleaxe_attack_80x54_155: 193463295875850045
+      poleaxe_attack_80x54_156: -5589752088414340655
+      poleaxe_attack_80x54_157: -234728251930725703
+      poleaxe_attack_80x54_158: -147400975837493744
+      poleaxe_attack_80x54_159: 619032408236196701
+      poleaxe_attack_80x54_16: 2934641030239098442
+      poleaxe_attack_80x54_160: 7506648528422716273
+      poleaxe_attack_80x54_161: -2686092281154476126
+      poleaxe_attack_80x54_162: 5919002738120448163
+      poleaxe_attack_80x54_163: -3806798507658859347
+      poleaxe_attack_80x54_164: 8429086513935008360
+      poleaxe_attack_80x54_165: -3682827789764922968
+      poleaxe_attack_80x54_166: -5440357468179306930
+      poleaxe_attack_80x54_167: -725566241132910396
+      poleaxe_attack_80x54_168: 2465605394569627254
+      poleaxe_attack_80x54_169: 4337039520652585969
+      poleaxe_attack_80x54_17: -1895864915050348328
+      poleaxe_attack_80x54_170: 5043864842073623727
+      poleaxe_attack_80x54_171: -7850189470417462967
+      poleaxe_attack_80x54_172: 7185690279384047427
+      poleaxe_attack_80x54_173: -8089576795069471093
+      poleaxe_attack_80x54_174: -4742975000929259533
+      poleaxe_attack_80x54_175: -1153107912899890735
+      poleaxe_attack_80x54_176: -4113480019976561554
+      poleaxe_attack_80x54_177: -6309345059511837220
+      poleaxe_attack_80x54_178: -1999923336214999150
+      poleaxe_attack_80x54_179: -6146895086917949518
+      poleaxe_attack_80x54_18: 4226384974255598938
+      poleaxe_attack_80x54_180: -7911720036113409032
+      poleaxe_attack_80x54_181: -8852195755143391575
+      poleaxe_attack_80x54_182: 7822962005434293363
+      poleaxe_attack_80x54_183: 8273910177263757456
+      poleaxe_attack_80x54_184: 8956845716383833818
+      poleaxe_attack_80x54_185: -5785065732207576630
+      poleaxe_attack_80x54_186: 4021190867721484724
+      poleaxe_attack_80x54_187: 1349995509266727599
+      poleaxe_attack_80x54_188: 7429254932331186865
+      poleaxe_attack_80x54_189: -4964981026481312461
+      poleaxe_attack_80x54_19: 4484311878194519903
+      poleaxe_attack_80x54_190: 4627652319953942609
+      poleaxe_attack_80x54_191: -6979951308695904506
+      poleaxe_attack_80x54_192: 3762169378208110552
+      poleaxe_attack_80x54_193: -4859874084551786816
+      poleaxe_attack_80x54_194: -6553161970020233415
+      poleaxe_attack_80x54_195: 1685324619782716554
+      poleaxe_attack_80x54_196: 805604482324251852
+      poleaxe_attack_80x54_197: 1606311125914321222
+      poleaxe_attack_80x54_198: 4957391827637677693
+      poleaxe_attack_80x54_199: -5799197198108286394
+      poleaxe_attack_80x54_2: 1143811587931935607
+      poleaxe_attack_80x54_20: -3579914606960613829
+      poleaxe_attack_80x54_200: -2373488170373459190
+      poleaxe_attack_80x54_201: -5609709185790222292
+      poleaxe_attack_80x54_202: 7317178677931089379
+      poleaxe_attack_80x54_203: 645662795411910272
+      poleaxe_attack_80x54_204: 7577080831606397387
+      poleaxe_attack_80x54_205: 6041872820571331783
+      poleaxe_attack_80x54_206: -1580719847596354523
+      poleaxe_attack_80x54_207: 2875654859743504526
+      poleaxe_attack_80x54_208: 5506418637124871005
+      poleaxe_attack_80x54_209: -4283849927654195243
+      poleaxe_attack_80x54_21: -1619771976310853592
+      poleaxe_attack_80x54_210: 6249291127380676943
+      poleaxe_attack_80x54_211: -43122159442305162
+      poleaxe_attack_80x54_212: -5499704201228380408
+      poleaxe_attack_80x54_213: 960603988152848155
+      poleaxe_attack_80x54_214: 5350750773909824215
+      poleaxe_attack_80x54_215: -7936452682171251713
+      poleaxe_attack_80x54_216: -1454759067541606858
+      poleaxe_attack_80x54_217: -6246409936253664241
+      poleaxe_attack_80x54_218: -4088072165654315418
+      poleaxe_attack_80x54_219: 7860304015904433386
+      poleaxe_attack_80x54_22: 7644006949874903168
+      poleaxe_attack_80x54_220: 1112855318689047329
+      poleaxe_attack_80x54_221: 8242966400936874181
+      poleaxe_attack_80x54_222: 5215545536478099492
+      poleaxe_attack_80x54_223: 2554922821619690666
+      poleaxe_attack_80x54_224: 6482632117499916392
+      poleaxe_attack_80x54_225: -5387206584409454684
+      poleaxe_attack_80x54_226: 8035854480618649437
+      poleaxe_attack_80x54_227: 217520122212662361
+      poleaxe_attack_80x54_23: 7264820782514251459
+      poleaxe_attack_80x54_24: -7053243467373328457
+      poleaxe_attack_80x54_25: -6806512762660393263
+      poleaxe_attack_80x54_26: 3477439421025296938
+      poleaxe_attack_80x54_27: -4119925239612962115
+      poleaxe_attack_80x54_28: -2048709986666997259
+      poleaxe_attack_80x54_29: 7500707138996340948
+      poleaxe_attack_80x54_3: -4907057575222830381
+      poleaxe_attack_80x54_30: -7110891288561222273
+      poleaxe_attack_80x54_31: -8033836932157087604
+      poleaxe_attack_80x54_32: 3903635214437084564
+      poleaxe_attack_80x54_33: -6153247061858228232
+      poleaxe_attack_80x54_34: -3624236091989925758
+      poleaxe_attack_80x54_35: 6797935946129549361
+      poleaxe_attack_80x54_36: 4152814077489973389
+      poleaxe_attack_80x54_37: -87123037364022555
+      poleaxe_attack_80x54_38: -5471542526447124313
+      poleaxe_attack_80x54_39: -7828710640116444220
+      poleaxe_attack_80x54_4: -7493171185440966208
+      poleaxe_attack_80x54_40: 2650795291404868660
+      poleaxe_attack_80x54_41: -2059425479954189669
+      poleaxe_attack_80x54_42: 5315234167819799617
+      poleaxe_attack_80x54_43: -3428369162103409652
+      poleaxe_attack_80x54_44: -3783746169601040188
+      poleaxe_attack_80x54_45: 8161961312665804424
+      poleaxe_attack_80x54_46: -3257108567643918359
+      poleaxe_attack_80x54_47: -4988832640037128132
+      poleaxe_attack_80x54_48: -4404832870267922157
+      poleaxe_attack_80x54_49: 1989377549463277536
+      poleaxe_attack_80x54_5: -7753089512538805015
+      poleaxe_attack_80x54_50: -3647495893802791289
+      poleaxe_attack_80x54_51: -288388925994958955
+      poleaxe_attack_80x54_52: 2423779958943376207
+      poleaxe_attack_80x54_53: -687589949418881868
+      poleaxe_attack_80x54_54: 4744040339531464369
+      poleaxe_attack_80x54_55: 7838270146472994909
+      poleaxe_attack_80x54_56: -6002303155097966516
+      poleaxe_attack_80x54_57: -8545580179543233274
+      poleaxe_attack_80x54_58: -3913067108733371501
+      poleaxe_attack_80x54_59: 8589414338791284966
+      poleaxe_attack_80x54_6: 491473284355667104
+      poleaxe_attack_80x54_60: -742860391876874042
+      poleaxe_attack_80x54_61: 1420930157757197017
+      poleaxe_attack_80x54_62: 7876119301223195554
+      poleaxe_attack_80x54_63: -3256198806312959010
+      poleaxe_attack_80x54_64: -5180883708316456108
+      poleaxe_attack_80x54_65: -6745394933825547697
+      poleaxe_attack_80x54_66: 6502850385000789041
+      poleaxe_attack_80x54_67: -4722407374293864274
+      poleaxe_attack_80x54_68: 4460866313084362513
+      poleaxe_attack_80x54_69: -2460104131254814671
+      poleaxe_attack_80x54_7: -8117318218096966096
+      poleaxe_attack_80x54_70: 2224724852546496998
+      poleaxe_attack_80x54_71: -7463562459623422123
+      poleaxe_attack_80x54_72: -7497462723869574755
+      poleaxe_attack_80x54_73: 2003653091832560436
+      poleaxe_attack_80x54_74: -4717557337157399919
+      poleaxe_attack_80x54_75: 8098326442368911537
+      poleaxe_attack_80x54_76: 4009186960056316609
+      poleaxe_attack_80x54_77: 3319348124327084394
+      poleaxe_attack_80x54_78: 6898081876843699353
+      poleaxe_attack_80x54_79: 6057569692937008016
+      poleaxe_attack_80x54_8: 6556168404689790548
+      poleaxe_attack_80x54_80: 6776312933530817936
+      poleaxe_attack_80x54_81: 8598373917364201706
+      poleaxe_attack_80x54_82: -1589917914585033853
+      poleaxe_attack_80x54_83: 7465191550225740030
+      poleaxe_attack_80x54_84: -4508600260458730251
+      poleaxe_attack_80x54_85: 7110261813575275079
+      poleaxe_attack_80x54_86: -6530029658860396015
+      poleaxe_attack_80x54_87: -1245385103841849257
+      poleaxe_attack_80x54_88: -6606305286505540616
+      poleaxe_attack_80x54_89: -5635595423268727567
+      poleaxe_attack_80x54_9: -561260737127265179
+      poleaxe_attack_80x54_90: -6769030325639939593
+      poleaxe_attack_80x54_91: 5184902133471937662
+      poleaxe_attack_80x54_92: 7681637612667492393
+      poleaxe_attack_80x54_93: -4702608396645954515
+      poleaxe_attack_80x54_94: 3005164837374458279
+      poleaxe_attack_80x54_95: -4495017415012672086
+      poleaxe_attack_80x54_96: 1673768524963745313
+      poleaxe_attack_80x54_97: -8623833431966150031
+      poleaxe_attack_80x54_98: -1849897885669738258
+      poleaxe_attack_80x54_99: -7932102921666884100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

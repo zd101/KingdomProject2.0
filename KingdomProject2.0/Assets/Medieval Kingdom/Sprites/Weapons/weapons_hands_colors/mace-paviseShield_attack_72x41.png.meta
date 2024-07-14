@@ -1,0 +1,5364 @@
+fileFormatVersion: 2
+guid: 8f9b85d94192f7546aa2b88449bbe768
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1756858120263607633
+    second: mace-paviseShield_attack_72x41_0
+  - first:
+      213: -6557604587290542524
+    second: mace-paviseShield_attack_72x41_1
+  - first:
+      213: 4966291236390965849
+    second: mace-paviseShield_attack_72x41_2
+  - first:
+      213: -2212149379549738092
+    second: mace-paviseShield_attack_72x41_3
+  - first:
+      213: 8086896040740588077
+    second: mace-paviseShield_attack_72x41_4
+  - first:
+      213: 1195720775122778121
+    second: mace-paviseShield_attack_72x41_5
+  - first:
+      213: -6444158520820631351
+    second: mace-paviseShield_attack_72x41_6
+  - first:
+      213: -8359763974876638902
+    second: mace-paviseShield_attack_72x41_7
+  - first:
+      213: -5877958318411105668
+    second: mace-paviseShield_attack_72x41_8
+  - first:
+      213: -7935463090188349251
+    second: mace-paviseShield_attack_72x41_9
+  - first:
+      213: -3967559732419255025
+    second: mace-paviseShield_attack_72x41_10
+  - first:
+      213: -6129927583696057645
+    second: mace-paviseShield_attack_72x41_11
+  - first:
+      213: 829871203486238550
+    second: mace-paviseShield_attack_72x41_12
+  - first:
+      213: -8331354121813461004
+    second: mace-paviseShield_attack_72x41_13
+  - first:
+      213: -5569877628094133614
+    second: mace-paviseShield_attack_72x41_14
+  - first:
+      213: 3684045156854095605
+    second: mace-paviseShield_attack_72x41_15
+  - first:
+      213: -9192046776222818485
+    second: mace-paviseShield_attack_72x41_16
+  - first:
+      213: 7892204069505204099
+    second: mace-paviseShield_attack_72x41_17
+  - first:
+      213: 3983038422847556343
+    second: mace-paviseShield_attack_72x41_18
+  - first:
+      213: -7328220459906584557
+    second: mace-paviseShield_attack_72x41_19
+  - first:
+      213: 1011196860506964124
+    second: mace-paviseShield_attack_72x41_20
+  - first:
+      213: 5515600226566592238
+    second: mace-paviseShield_attack_72x41_21
+  - first:
+      213: -2902344665454112615
+    second: mace-paviseShield_attack_72x41_22
+  - first:
+      213: -6988923989405722120
+    second: mace-paviseShield_attack_72x41_23
+  - first:
+      213: 44764769532752824
+    second: mace-paviseShield_attack_72x41_24
+  - first:
+      213: -1325529909906883498
+    second: mace-paviseShield_attack_72x41_25
+  - first:
+      213: -5151734889624592921
+    second: mace-paviseShield_attack_72x41_26
+  - first:
+      213: 277117998532504297
+    second: mace-paviseShield_attack_72x41_27
+  - first:
+      213: 4439549895098122116
+    second: mace-paviseShield_attack_72x41_28
+  - first:
+      213: 8439484188807097334
+    second: mace-paviseShield_attack_72x41_29
+  - first:
+      213: -3803350838090616811
+    second: mace-paviseShield_attack_72x41_30
+  - first:
+      213: 340124252316076684
+    second: mace-paviseShield_attack_72x41_31
+  - first:
+      213: 4594824897972035936
+    second: mace-paviseShield_attack_72x41_32
+  - first:
+      213: 499300367363209461
+    second: mace-paviseShield_attack_72x41_33
+  - first:
+      213: 4330031047227044797
+    second: mace-paviseShield_attack_72x41_34
+  - first:
+      213: -918030521730372033
+    second: mace-paviseShield_attack_72x41_35
+  - first:
+      213: -7608804736422433525
+    second: mace-paviseShield_attack_72x41_36
+  - first:
+      213: 8020895665528403346
+    second: mace-paviseShield_attack_72x41_37
+  - first:
+      213: 8913377490538835317
+    second: mace-paviseShield_attack_72x41_38
+  - first:
+      213: 5034017627053010864
+    second: mace-paviseShield_attack_72x41_39
+  - first:
+      213: 1543071347709049317
+    second: mace-paviseShield_attack_72x41_40
+  - first:
+      213: 5754037086231185904
+    second: mace-paviseShield_attack_72x41_41
+  - first:
+      213: 4972526594123058293
+    second: mace-paviseShield_attack_72x41_42
+  - first:
+      213: 870533897008037720
+    second: mace-paviseShield_attack_72x41_43
+  - first:
+      213: 8659972438188665801
+    second: mace-paviseShield_attack_72x41_44
+  - first:
+      213: 6937256874736852012
+    second: mace-paviseShield_attack_72x41_45
+  - first:
+      213: 1880286367685069117
+    second: mace-paviseShield_attack_72x41_46
+  - first:
+      213: -521447893222609550
+    second: mace-paviseShield_attack_72x41_47
+  - first:
+      213: -8735107404634640861
+    second: mace-paviseShield_attack_72x41_48
+  - first:
+      213: -6090201732064043742
+    second: mace-paviseShield_attack_72x41_49
+  - first:
+      213: 9160451224155071583
+    second: mace-paviseShield_attack_72x41_50
+  - first:
+      213: -1432759892111517057
+    second: mace-paviseShield_attack_72x41_51
+  - first:
+      213: -7302945348728006750
+    second: mace-paviseShield_attack_72x41_52
+  - first:
+      213: -6015107104814117839
+    second: mace-paviseShield_attack_72x41_53
+  - first:
+      213: -2414281945135484064
+    second: mace-paviseShield_attack_72x41_54
+  - first:
+      213: -1848270172134433828
+    second: mace-paviseShield_attack_72x41_55
+  - first:
+      213: 728739026286654436
+    second: mace-paviseShield_attack_72x41_56
+  - first:
+      213: 1161764714023963910
+    second: mace-paviseShield_attack_72x41_57
+  - first:
+      213: 3058662819818844093
+    second: mace-paviseShield_attack_72x41_58
+  - first:
+      213: 2503703603641200628
+    second: mace-paviseShield_attack_72x41_59
+  - first:
+      213: 5438419261301024698
+    second: mace-paviseShield_attack_72x41_60
+  - first:
+      213: 8806840173539572136
+    second: mace-paviseShield_attack_72x41_61
+  - first:
+      213: -5906834992561725272
+    second: mace-paviseShield_attack_72x41_62
+  - first:
+      213: 2472263483990158542
+    second: mace-paviseShield_attack_72x41_63
+  - first:
+      213: -5327954017218622536
+    second: mace-paviseShield_attack_72x41_64
+  - first:
+      213: 7293841624394091535
+    second: mace-paviseShield_attack_72x41_65
+  - first:
+      213: 4696377533328100923
+    second: mace-paviseShield_attack_72x41_66
+  - first:
+      213: 6417024991643330382
+    second: mace-paviseShield_attack_72x41_67
+  - first:
+      213: -3257281389490299886
+    second: mace-paviseShield_attack_72x41_68
+  - first:
+      213: -1019708250511030605
+    second: mace-paviseShield_attack_72x41_69
+  - first:
+      213: -5509018592353916846
+    second: mace-paviseShield_attack_72x41_70
+  - first:
+      213: -4205122331565940033
+    second: mace-paviseShield_attack_72x41_71
+  - first:
+      213: -4492714478390684571
+    second: mace-paviseShield_attack_72x41_72
+  - first:
+      213: 6247052756897928667
+    second: mace-paviseShield_attack_72x41_73
+  - first:
+      213: 7097886924108757024
+    second: mace-paviseShield_attack_72x41_74
+  - first:
+      213: -7293440214294102046
+    second: mace-paviseShield_attack_72x41_75
+  - first:
+      213: 7236973879132088788
+    second: mace-paviseShield_attack_72x41_76
+  - first:
+      213: -3264132259762787136
+    second: mace-paviseShield_attack_72x41_77
+  - first:
+      213: -453230498694765029
+    second: mace-paviseShield_attack_72x41_78
+  - first:
+      213: 6556792023068907072
+    second: mace-paviseShield_attack_72x41_79
+  - first:
+      213: 1216995967860876428
+    second: mace-paviseShield_attack_72x41_80
+  - first:
+      213: -9172039264289254653
+    second: mace-paviseShield_attack_72x41_81
+  - first:
+      213: 7763491986165442665
+    second: mace-paviseShield_attack_72x41_82
+  - first:
+      213: 238819709541188705
+    second: mace-paviseShield_attack_72x41_83
+  - first:
+      213: -2090830831052628699
+    second: mace-paviseShield_attack_72x41_84
+  - first:
+      213: -238627617174081597
+    second: mace-paviseShield_attack_72x41_85
+  - first:
+      213: 1106337959152808833
+    second: mace-paviseShield_attack_72x41_86
+  - first:
+      213: 8390266381937841774
+    second: mace-paviseShield_attack_72x41_87
+  - first:
+      213: 1994868835109888519
+    second: mace-paviseShield_attack_72x41_88
+  - first:
+      213: 9023337279139570473
+    second: mace-paviseShield_attack_72x41_89
+  - first:
+      213: 6197956911325450050
+    second: mace-paviseShield_attack_72x41_90
+  - first:
+      213: -8241595552671276208
+    second: mace-paviseShield_attack_72x41_91
+  - first:
+      213: -7691636255088713208
+    second: mace-paviseShield_attack_72x41_92
+  - first:
+      213: -7516577882695919532
+    second: mace-paviseShield_attack_72x41_93
+  - first:
+      213: -3876138240054771034
+    second: mace-paviseShield_attack_72x41_94
+  - first:
+      213: 3737425543199376425
+    second: mace-paviseShield_attack_72x41_95
+  - first:
+      213: -3738465699579484883
+    second: mace-paviseShield_attack_72x41_96
+  - first:
+      213: 5342973466281161686
+    second: mace-paviseShield_attack_72x41_97
+  - first:
+      213: 3278422530363659163
+    second: mace-paviseShield_attack_72x41_98
+  - first:
+      213: -5943155438592386208
+    second: mace-paviseShield_attack_72x41_99
+  - first:
+      213: 9146873143263996787
+    second: mace-paviseShield_attack_72x41_100
+  - first:
+      213: 8829604704795271282
+    second: mace-paviseShield_attack_72x41_101
+  - first:
+      213: 6322987264750930616
+    second: mace-paviseShield_attack_72x41_102
+  - first:
+      213: 4450471233561248185
+    second: mace-paviseShield_attack_72x41_103
+  - first:
+      213: -927550890583368010
+    second: mace-paviseShield_attack_72x41_104
+  - first:
+      213: 7696760409353816362
+    second: mace-paviseShield_attack_72x41_105
+  - first:
+      213: 2068054432839630670
+    second: mace-paviseShield_attack_72x41_106
+  - first:
+      213: 121373989055952256
+    second: mace-paviseShield_attack_72x41_107
+  - first:
+      213: -7011775577269301416
+    second: mace-paviseShield_attack_72x41_108
+  - first:
+      213: -5002580329106210400
+    second: mace-paviseShield_attack_72x41_109
+  - first:
+      213: 7726120912652156592
+    second: mace-paviseShield_attack_72x41_110
+  - first:
+      213: 5762525310335173036
+    second: mace-paviseShield_attack_72x41_111
+  - first:
+      213: 4236895306883311683
+    second: mace-paviseShield_attack_72x41_112
+  - first:
+      213: -6676366394911168202
+    second: mace-paviseShield_attack_72x41_113
+  - first:
+      213: -1333615360229025221
+    second: mace-paviseShield_attack_72x41_114
+  - first:
+      213: 4553396159811833275
+    second: mace-paviseShield_attack_72x41_115
+  - first:
+      213: -3526710595633837899
+    second: mace-paviseShield_attack_72x41_116
+  - first:
+      213: -9146863732242118983
+    second: mace-paviseShield_attack_72x41_117
+  - first:
+      213: 6731121487820816167
+    second: mace-paviseShield_attack_72x41_118
+  - first:
+      213: 6959002421850999590
+    second: mace-paviseShield_attack_72x41_119
+  - first:
+      213: 537314890397510046
+    second: mace-paviseShield_attack_72x41_120
+  - first:
+      213: -7718441829453442759
+    second: mace-paviseShield_attack_72x41_121
+  - first:
+      213: 7185959815447360697
+    second: mace-paviseShield_attack_72x41_122
+  - first:
+      213: -2918985246774076216
+    second: mace-paviseShield_attack_72x41_123
+  - first:
+      213: -7522717972983433176
+    second: mace-paviseShield_attack_72x41_124
+  - first:
+      213: -6671371584072422593
+    second: mace-paviseShield_attack_72x41_125
+  - first:
+      213: -4330763399385778794
+    second: mace-paviseShield_attack_72x41_126
+  - first:
+      213: -5231971896485984193
+    second: mace-paviseShield_attack_72x41_127
+  - first:
+      213: 4072667097090371604
+    second: mace-paviseShield_attack_72x41_128
+  - first:
+      213: 4974388418027776985
+    second: mace-paviseShield_attack_72x41_129
+  - first:
+      213: 48436075638524327
+    second: mace-paviseShield_attack_72x41_130
+  - first:
+      213: -830990269379072062
+    second: mace-paviseShield_attack_72x41_131
+  - first:
+      213: 3230307647000559680
+    second: mace-paviseShield_attack_72x41_132
+  - first:
+      213: -59402674884526652
+    second: mace-paviseShield_attack_72x41_133
+  - first:
+      213: 8791567899299767691
+    second: mace-paviseShield_attack_72x41_134
+  - first:
+      213: 5417790054997189724
+    second: mace-paviseShield_attack_72x41_135
+  - first:
+      213: 7394402056165326742
+    second: mace-paviseShield_attack_72x41_136
+  - first:
+      213: -5538165393242090862
+    second: mace-paviseShield_attack_72x41_137
+  - first:
+      213: -1999316190196297151
+    second: mace-paviseShield_attack_72x41_138
+  - first:
+      213: -319187389139449899
+    second: mace-paviseShield_attack_72x41_139
+  - first:
+      213: -4488222935270981112
+    second: mace-paviseShield_attack_72x41_140
+  - first:
+      213: -194275473130109233
+    second: mace-paviseShield_attack_72x41_141
+  - first:
+      213: 5560627594279523298
+    second: mace-paviseShield_attack_72x41_142
+  - first:
+      213: 4197679735936936672
+    second: mace-paviseShield_attack_72x41_143
+  - first:
+      213: -4858519757597691539
+    second: mace-paviseShield_attack_72x41_144
+  - first:
+      213: 2622628791700721155
+    second: mace-paviseShield_attack_72x41_145
+  - first:
+      213: -9223008439773191055
+    second: mace-paviseShield_attack_72x41_146
+  - first:
+      213: -4989627165789035624
+    second: mace-paviseShield_attack_72x41_147
+  - first:
+      213: 1060731430804261623
+    second: mace-paviseShield_attack_72x41_148
+  - first:
+      213: -4567899737423399684
+    second: mace-paviseShield_attack_72x41_149
+  - first:
+      213: 1576638879506325167
+    second: mace-paviseShield_attack_72x41_150
+  - first:
+      213: 347600042182847247
+    second: mace-paviseShield_attack_72x41_151
+  - first:
+      213: -2076464557917558906
+    second: mace-paviseShield_attack_72x41_152
+  - first:
+      213: 8131164320487265905
+    second: mace-paviseShield_attack_72x41_153
+  - first:
+      213: -6270516454059340306
+    second: mace-paviseShield_attack_72x41_154
+  - first:
+      213: -2645846074628876368
+    second: mace-paviseShield_attack_72x41_155
+  - first:
+      213: 4046522242490111600
+    second: mace-paviseShield_attack_72x41_156
+  - first:
+      213: -6242638884816467406
+    second: mace-paviseShield_attack_72x41_157
+  - first:
+      213: -870727978156148123
+    second: mace-paviseShield_attack_72x41_158
+  - first:
+      213: -3118175995279096061
+    second: mace-paviseShield_attack_72x41_159
+  - first:
+      213: 1583105308299718810
+    second: mace-paviseShield_attack_72x41_160
+  - first:
+      213: -8847780302200829693
+    second: mace-paviseShield_attack_72x41_161
+  - first:
+      213: 434196139617871076
+    second: mace-paviseShield_attack_72x41_162
+  - first:
+      213: -6659378976316101673
+    second: mace-paviseShield_attack_72x41_163
+  - first:
+      213: -1732502490175447727
+    second: mace-paviseShield_attack_72x41_164
+  - first:
+      213: 4175682544320708455
+    second: mace-paviseShield_attack_72x41_165
+  - first:
+      213: -7389329767527241019
+    second: mace-paviseShield_attack_72x41_166
+  - first:
+      213: 7623820321774308132
+    second: mace-paviseShield_attack_72x41_167
+  - first:
+      213: 4967061802418066915
+    second: mace-paviseShield_attack_72x41_168
+  - first:
+      213: -4440665678679432258
+    second: mace-paviseShield_attack_72x41_169
+  - first:
+      213: 8254094636950522612
+    second: mace-paviseShield_attack_72x41_170
+  - first:
+      213: 9152164841688564942
+    second: mace-paviseShield_attack_72x41_171
+  - first:
+      213: 2003701751204552811
+    second: mace-paviseShield_attack_72x41_172
+  - first:
+      213: -5463455298924764153
+    second: mace-paviseShield_attack_72x41_173
+  - first:
+      213: 6999942360639107319
+    second: mace-paviseShield_attack_72x41_174
+  - first:
+      213: -3572264811601252928
+    second: mace-paviseShield_attack_72x41_175
+  - first:
+      213: 1629303868348060971
+    second: mace-paviseShield_attack_72x41_176
+  - first:
+      213: -3488263381656415521
+    second: mace-paviseShield_attack_72x41_177
+  - first:
+      213: 8806550847604889385
+    second: mace-paviseShield_attack_72x41_178
+  - first:
+      213: 4970141897475698435
+    second: mace-paviseShield_attack_72x41_179
+  - first:
+      213: -4176807829885356801
+    second: mace-paviseShield_attack_72x41_180
+  - first:
+      213: -5147268172289151651
+    second: mace-paviseShield_attack_72x41_181
+  - first:
+      213: -2326999085785586786
+    second: mace-paviseShield_attack_72x41_182
+  - first:
+      213: 4376202103924625075
+    second: mace-paviseShield_attack_72x41_183
+  - first:
+      213: -8108661955301465372
+    second: mace-paviseShield_attack_72x41_184
+  - first:
+      213: -7857144084975831248
+    second: mace-paviseShield_attack_72x41_185
+  - first:
+      213: -1623078057228936838
+    second: mace-paviseShield_attack_72x41_186
+  - first:
+      213: -4459679581511258862
+    second: mace-paviseShield_attack_72x41_187
+  - first:
+      213: 3378896629898670006
+    second: mace-paviseShield_attack_72x41_188
+  - first:
+      213: 5429993088541896925
+    second: mace-paviseShield_attack_72x41_189
+  - first:
+      213: 6557987275319391881
+    second: mace-paviseShield_attack_72x41_190
+  - first:
+      213: 1461862021943132831
+    second: mace-paviseShield_attack_72x41_191
+  - first:
+      213: -7937730410362818692
+    second: mace-paviseShield_attack_72x41_192
+  - first:
+      213: 6340463783016666191
+    second: mace-paviseShield_attack_72x41_193
+  - first:
+      213: -1994054179199321478
+    second: mace-paviseShield_attack_72x41_194
+  - first:
+      213: 2641741051354162726
+    second: mace-paviseShield_attack_72x41_195
+  - first:
+      213: 4064730285105523414
+    second: mace-paviseShield_attack_72x41_196
+  - first:
+      213: 2045955925301840334
+    second: mace-paviseShield_attack_72x41_197
+  - first:
+      213: -9223032972273862269
+    second: mace-paviseShield_attack_72x41_198
+  - first:
+      213: 7139996608681438102
+    second: mace-paviseShield_attack_72x41_199
+  - first:
+      213: -3882283074666105435
+    second: mace-paviseShield_attack_72x41_200
+  - first:
+      213: 2606413165057588000
+    second: mace-paviseShield_attack_72x41_201
+  - first:
+      213: 51024198831666842
+    second: mace-paviseShield_attack_72x41_202
+  - first:
+      213: 4377402643914245283
+    second: mace-paviseShield_attack_72x41_203
+  - first:
+      213: 1981418666366667992
+    second: mace-paviseShield_attack_72x41_204
+  - first:
+      213: -4256556190601451610
+    second: mace-paviseShield_attack_72x41_205
+  - first:
+      213: 8857721301378541086
+    second: mace-paviseShield_attack_72x41_206
+  - first:
+      213: 3426869152391767757
+    second: mace-paviseShield_attack_72x41_207
+  - first:
+      213: 3863088006433221430
+    second: mace-paviseShield_attack_72x41_208
+  - first:
+      213: 5273160030571117732
+    second: mace-paviseShield_attack_72x41_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa5dec09d26e97e0800000000000000
+      internalID: -1756858120263607633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e331d1f55bef4a0800000000000000
+      internalID: -6557604587290542524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9521834219fcbe440800000000000000
+      internalID: 4966291236390965849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b46d91cdddc41e0800000000000000
+      internalID: -2212149379549738092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a0bd35a1d6a3070800000000000000
+      internalID: 8086896040740588077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9087fb3b5bd089010800000000000000
+      internalID: 1195720775122778121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8fd2ac7ffb196a0800000000000000
+      internalID: -6444158520820631351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41de5fe4f62cfb80800000000000000
+      internalID: -8359763974876638902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7abd8a5d0c4d6ea0800000000000000
+      internalID: -5877958318411105668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db099150d529fd190800000000000000
+      internalID: -7935463090188349251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05a104c17560f8c0800000000000000
+      internalID: -3967559732419255025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da8de2275f1eeaa0800000000000000
+      internalID: -6129927583696057645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6578f15767b448b00800000000000000
+      internalID: 829871203486238550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7725f4195116c80800000000000000
+      internalID: -8331354121813461004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29acd07cec1d3b2b0800000000000000
+      internalID: -5569877628094133614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe59ce1d8b502330800000000000000
+      internalID: 3684045156854095605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fd678982a4f6080800000000000000
+      internalID: -9192046776222818485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fffb959cdb68d60800000000000000
+      internalID: 7892204069505204099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa8f80b758964730800000000000000
+      internalID: 3983038422847556343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310b48b715eec4a90800000000000000
+      internalID: -7328220459906584557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c900284ef2e780e00800000000000000
+      internalID: 1011196860506964124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6d093ee295b8c40800000000000000
+      internalID: 5515600226566592238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909bdf67ecc8b7d0800000000000000
+      internalID: -2902344665454112615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9144919aa520f90800000000000000
+      internalID: -6988923989405722120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b37a12590f9000800000000000000
+      internalID: 44764769532752824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c38d4e195ca9de0800000000000000
+      internalID: -1325529909906883498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed90f6b96c5188b0800000000000000
+      internalID: -5151734889624592921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaa567f95588d300800000000000000
+      internalID: 277117998532504297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f32fb9b137c9d30800000000000000
+      internalID: 4439549895098122116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb6f59c7221f1570800000000000000
+      internalID: 8439484188807097334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510bc635098c73bc0800000000000000
+      internalID: -3803350838090616811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8bc6943d58b400800000000000000
+      internalID: 340124252316076684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0616eb876e814cf30800000000000000
+      internalID: 4594824897972035936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8f7e8e90fdde600800000000000000
+      internalID: 499300367363209461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db37164cb4c571c30800000000000000
+      internalID: 4330031047227044797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e6b4bba108243f0800000000000000
+      internalID: -918030521730372033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d2b38c768186690800000000000000
+      internalID: -7608804736422433525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2957a4c7c12ff4f60800000000000000
+      internalID: 8020895665528403346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da7804a9da2bb70800000000000000
+      internalID: 8913377490538835317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfac854c5c6cd540800000000000000
+      internalID: 5034017627053010864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9f74717371a6510800000000000000
+      internalID: 1543071347709049317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9cb356e327adf40800000000000000
+      internalID: 5754037086231185904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_42
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c43ee7796f10540800000000000000
+      internalID: 4972526594123058293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fb91097f1c41c00800000000000000
+      internalID: 870533897008037720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cba8eecc076e2870800000000000000
+      internalID: 8659972438188665801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c93565f56164060800000000000000
+      internalID: 6937256874736852012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_46
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39c0ed3d7e181a10800000000000000
+      internalID: 1880286367685069117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d279367e173c8f0800000000000000
+      internalID: -521447893222609550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e2ed7981aa6c680800000000000000
+      internalID: -8735107404634640861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d9addbac14b7ba0800000000000000
+      internalID: -6090201732064043742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f542e0eaad5702f70800000000000000
+      internalID: 9160451224155071583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a144e1870dd1ce0800000000000000
+      internalID: -1432759892111517057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d9f2e5e9b6aa90800000000000000
+      internalID: -7302945348728006750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c40a325fb068ca0800000000000000
+      internalID: -6015107104814117839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637f80cc5fbe7ed0800000000000000
+      internalID: -2414281945135484064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb1afc2210a956e0800000000000000
+      internalID: -1848270172134433828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3b7cb88400d1a00800000000000000
+      internalID: 728739026286654436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d4bf32ada6f1010800000000000000
+      internalID: 1161764714023963910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_58
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf2ffe01ad827a20800000000000000
+      internalID: 3058662819818844093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff26ed8921feb220800000000000000
+      internalID: 2503703603641200628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab76d711185297b40800000000000000
+      internalID: 5438419261301024698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a937792a7e283a70800000000000000
+      internalID: 8806840173539572136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e289bed4b60ea0800000000000000
+      internalID: -5906834992561725272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc27624a8e3f4220800000000000000
+      internalID: 2472263483990158542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb8110dc0e4f06b0800000000000000
+      internalID: -5327954017218622536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cc7fd105ee83560800000000000000
+      internalID: 7293841624394091535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e852deb72ec2140800000000000000
+      internalID: 4696377533328100923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4764b52b3add0950800000000000000
+      internalID: 6417024991643330382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c90f585dfcbc2d0800000000000000
+      internalID: -3257281389490299886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b641c1bfb449d1f0800000000000000
+      internalID: -1019708250511030605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258e8bd37c80c83b0800000000000000
+      internalID: -5509018592353916846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb223f5e48764a5c0800000000000000
+      internalID: -4205122331565940033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564d44e3cfba6a1c0800000000000000
+      internalID: -4492714478390684571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd59604526df1b650800000000000000
+      internalID: 6247052756897928667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028746f1d82c08260800000000000000
+      internalID: 7097886924108757024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef737474ce78ca90800000000000000
+      internalID: -7293440214294102046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e2726665ee6460800000000000000
+      internalID: 7236973879132088788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc22fcf00973b2d0800000000000000
+      internalID: -3264132259762787136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16ece3434dc5b9f0800000000000000
+      internalID: -453230498694765029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_79
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04613290b976efa50800000000000000
+      internalID: 6556792023068907072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c842e658263a3e010800000000000000
+      internalID: 1216995967860876428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_81
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3039a1a72ee56b080800000000000000
+      internalID: -9172039264289254653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968abf324d67dbb60800000000000000
+      internalID: 7763491986165442665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1648090b245705300800000000000000
+      internalID: 238819709541188705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d5ca5df60ebf2e0800000000000000
+      internalID: -2090830831052628699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfadbc427930bcf0800000000000000
+      internalID: -238627617174081597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18375d023808a5f00800000000000000
+      internalID: 1106337959152808833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e669e4222d6307470800000000000000
+      internalID: 8390266381937841774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702e832e2a23fab10800000000000000
+      internalID: 1994868835109888519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_89
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92367ab9275593d70800000000000000
+      internalID: 9023337279139570473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f0bb009f0930650800000000000000
+      internalID: 6197956911325450050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_91
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e69cb288ff9d80800000000000000
+      internalID: -8241595552671276208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_92
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802ebe9f391d14590800000000000000
+      internalID: -7691636255088713208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_93
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4581a5f7d30cfa790800000000000000
+      internalID: -7516577882695919532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_94
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24a3daec0353ac0800000000000000
+      internalID: -3876138240054771034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924ced4dab00ed330800000000000000
+      internalID: 3737425543199376425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_96
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d252593e04d4e1cc0800000000000000
+      internalID: -3738465699579484883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3b60e2f0e062a40800000000000000
+      internalID: 5342973466281161686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9396f9ebeb4f7d20800000000000000
+      internalID: 3278422530363659163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b15c5ed9ba58da0800000000000000
+      internalID: -5943155438592386208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_100
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bafcd59a830fe70800000000000000
+      internalID: 9146873143263996787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270a070a2be098a70800000000000000
+      internalID: 8829604704795271282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_102
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba4ccaaa63cfb750800000000000000
+      internalID: 6322987264750930616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1438fd10043cd30800000000000000
+      internalID: 4450471233561248185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_104
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be5eaf116da023f0800000000000000
+      internalID: -927550890583368010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2903d820d260da60800000000000000
+      internalID: 7696760409353816362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ff395bc8433bc10800000000000000
+      internalID: 2068054432839630670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085f6aefff43fa100800000000000000
+      internalID: 121373989055952256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_108
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f8a10334b21be90800000000000000
+      internalID: -7011775577269301416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1844b02b3439ab0800000000000000
+      internalID: -5002580329106210400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be395a0902b83b60800000000000000
+      internalID: 7726120912652156592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1c9b31d3a98ff40800000000000000
+      internalID: 5762525310335173036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_112
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348ac4565d97cca30800000000000000
+      internalID: 4236895306883311683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639e6f00328c853a0800000000000000
+      internalID: -6676366394911168202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_114
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a5b8a45eb0e7de0800000000000000
+      internalID: -1333615360229025221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_115
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd4633bea9e03f30800000000000000
+      internalID: 4553396159811833275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_116
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b883a9066b9e0fc0800000000000000
+      internalID: -3526710595633837899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b60ecec5efcf0180800000000000000
+      internalID: -9146863732242118983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ffe85845fb96d50800000000000000
+      internalID: 6731121487820816167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b038115d7539060800000000000000
+      internalID: 6959002421850999590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99eba6cb0de47700800000000000000
+      internalID: 537314890397510046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93159e7dc0692e490800000000000000
+      internalID: -7718441829453442759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_122
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4b8f91168a9b360800000000000000
+      internalID: 7185959815447360697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_123
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccdc6d226ead77d0800000000000000
+      internalID: -2918985246774076216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_124
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82830e25cdfe99790800000000000000
+      internalID: -7522717972983433176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b6ab604e68a63a0800000000000000
+      internalID: -6671371584072422593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_126
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695f85532a906e3c0800000000000000
+      internalID: -4330763399385778794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384023c74d4467b0800000000000000
+      internalID: -5231971896485984193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_128
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4103e7a9525058830800000000000000
+      internalID: 4072667097090371604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_129
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbec5729e3980540800000000000000
+      internalID: 4974388418027776985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a98fbaaa541ca000800000000000000
+      internalID: 48436075638524327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_131
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfaad5b0cab774f0800000000000000
+      internalID: -830990269379072062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04042b6a0bb54dc20800000000000000
+      internalID: 3230307647000559680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_133
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdbcc8f495fc2ff0800000000000000
+      internalID: -59402674884526652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b856d78bc6ce10a70800000000000000
+      internalID: 8791567899299767691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_135
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5460cfa95bdf2b40800000000000000
+      internalID: 5417790054997189724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff62c2e713e9660800000000000000
+      internalID: 7394402056165326742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_137
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2929174daeb7423b0800000000000000
+      internalID: -5538165393242090862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14299a194800144e0800000000000000
+      internalID: -1999316190196297151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_139
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d70f8db2c4029bf0800000000000000
+      internalID: -319187389139449899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802896e1501a6b1c0800000000000000
+      internalID: -4488222935270981112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6428b8c7bcd4df0800000000000000
+      internalID: -194275473130109233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e31445e5515b2d40800000000000000
+      internalID: 5560627594279523298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_143
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea6065ca77214a30800000000000000
+      internalID: 4197679735936936672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d613c22a502139cb0800000000000000
+      internalID: -4858519757597691539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_145
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e8803adf2756420800000000000000
+      internalID: 2622628791700721155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_146
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174a3ea80ba410080800000000000000
+      internalID: -9223008439773191055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_147
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8936185678841cab0800000000000000
+      internalID: -4989627165789035624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_148
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0e27cd9978be00800000000000000
+      internalID: 1060731430804261623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_149
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4374df36f8b90c0800000000000000
+      internalID: -4567899737423399684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_150
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5b0025b851e510800000000000000
+      internalID: 1576638879506325167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_151
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b283e856ce2d400800000000000000
+      internalID: 347600042182847247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a2a47c7aee23e0800000000000000
+      internalID: -2076464557917558906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_153
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17659f46ed2b7d070800000000000000
+      internalID: 8131164320487265905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed0d85f186aaf8a0800000000000000
+      internalID: -6270516454059340306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_155
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7526f6301184bd0800000000000000
+      internalID: -2645846074628876368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07617574a82282830800000000000000
+      internalID: 4046522242490111600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_157
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a49795201bd59a0800000000000000
+      internalID: -6242638884816467406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a3206648d8ae3f0800000000000000
+      internalID: -870727978156148123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_159
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3074d3ef3730ab4d0800000000000000
+      internalID: -3118175995279096061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a907d37e3e158f510800000000000000
+      internalID: 1583105308299718810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_161
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3090f9451be563580800000000000000
+      internalID: -8847780302200829693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_162
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4e4c8a613960600800000000000000
+      internalID: 434196139617871076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_163
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db69fb9a122593a0800000000000000
+      internalID: -6659378976316101673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_164
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ddc941a2ae4f7e0800000000000000
+      internalID: -1732502490175447727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ff80d762103f930800000000000000
+      internalID: 4175682544320708455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_166
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa15e0ab3d37990800000000000000
+      internalID: -7389329767527241019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b03ce90304dc960800000000000000
+      internalID: 7623820321774308132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_168
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e55a86846c8ee440800000000000000
+      internalID: 4967061802418066915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb32b08c7169f52c0800000000000000
+      internalID: -4440665678679432258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_170
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa84e9175f6c8270800000000000000
+      internalID: 8254094636950522612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_171
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec48aaaee65030f70800000000000000
+      internalID: 9152164841688564942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_172
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60206c60249ecb10800000000000000
+      internalID: 2003701751204552811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_173
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7042d5d2a58ed24b0800000000000000
+      internalID: -5463455298924764153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_174
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07a1e5d7ac42160800000000000000
+      internalID: 6999942360639107319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd21ec9414cc6ec0800000000000000
+      internalID: -3572264811601252928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_176
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b255e006c337c9610800000000000000
+      internalID: 1629303868348060971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2dd5d9fe2379fc0800000000000000
+      internalID: -3488263381656415521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_178
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92797e73657273a70800000000000000
+      internalID: 8806550847604889385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f235a09bd79f440800000000000000
+      internalID: 4970141897475698435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_180
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4fc9c886ff806c0800000000000000
+      internalID: -4176807829885356801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_181
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5de7036eda3198b0800000000000000
+      internalID: -5147268172289151651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_182
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93671319a6d4bfd0800000000000000
+      internalID: -2326999085785586786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_183
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be8ebd90a46bbc30800000000000000
+      internalID: 4376202103924625075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_184
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e22886c9ee387f80800000000000000
+      internalID: -8108661955301465372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_185
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03734f96511d5f290800000000000000
+      internalID: -7857144084975831248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_186
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79532c3b1ba979e0800000000000000
+      internalID: -1623078057228936838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d65fb8c090c12c0800000000000000
+      internalID: -4459679581511258862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_188
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfefdd259044ee20800000000000000
+      internalID: 3378896629898670006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0bd57d1f53b5b40800000000000000
+      internalID: 5429993088541896925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_190
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b1f26ea6a20b50800000000000000
+      internalID: 6557987275319391881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f920e8083c3994410800000000000000
+      internalID: 1461862021943132831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_192
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f22876f3487d190800000000000000
+      internalID: -7937730410362818692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_193
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4410f9a73addf750800000000000000
+      internalID: 6340463783016666191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_194
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af0f9f942b354e0800000000000000
+      internalID: -1994054179199321478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_195
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626288a5d7959a420800000000000000
+      internalID: 2641741051354162726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_196
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daac7f88a2d86830800000000000000
+      internalID: 4064730285105523414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_197
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9c8b9f212b46c10800000000000000
+      internalID: 2045955925301840334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_198
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389b6ef9064310080800000000000000
+      internalID: -9223032972273862269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_199
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b63f5161d561360800000000000000
+      internalID: 7139996608681438102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f301ec1c5f1ac0800000000000000
+      internalID: -3882283074666105435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb829d6f6db2420800000000000000
+      internalID: 2606413165057588000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a967f4e0d3645b000800000000000000
+      internalID: 51024198831666842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_203
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a44d5d1388afbc30800000000000000
+      internalID: 4377402643914245283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc0d1077c96f7b10800000000000000
+      internalID: 1981418666366667992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_205
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7e5b462bcade4c0800000000000000
+      internalID: -4256556190601451610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_206
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e162418e792fcea70800000000000000
+      internalID: 8857721301378541086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_207
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62e08765fae8f20800000000000000
+      internalID: 3426869152391767757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_208
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b268703127c9530800000000000000
+      internalID: 3863088006433221430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-paviseShield_attack_72x41_209
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acbaf10c170e2940800000000000000
+      internalID: 5273160030571117732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mace-paviseShield_attack_72x41_0: -1756858120263607633
+      mace-paviseShield_attack_72x41_1: -6557604587290542524
+      mace-paviseShield_attack_72x41_10: -3967559732419255025
+      mace-paviseShield_attack_72x41_100: 9146873143263996787
+      mace-paviseShield_attack_72x41_101: 8829604704795271282
+      mace-paviseShield_attack_72x41_102: 6322987264750930616
+      mace-paviseShield_attack_72x41_103: 4450471233561248185
+      mace-paviseShield_attack_72x41_104: -927550890583368010
+      mace-paviseShield_attack_72x41_105: 7696760409353816362
+      mace-paviseShield_attack_72x41_106: 2068054432839630670
+      mace-paviseShield_attack_72x41_107: 121373989055952256
+      mace-paviseShield_attack_72x41_108: -7011775577269301416
+      mace-paviseShield_attack_72x41_109: -5002580329106210400
+      mace-paviseShield_attack_72x41_11: -6129927583696057645
+      mace-paviseShield_attack_72x41_110: 7726120912652156592
+      mace-paviseShield_attack_72x41_111: 5762525310335173036
+      mace-paviseShield_attack_72x41_112: 4236895306883311683
+      mace-paviseShield_attack_72x41_113: -6676366394911168202
+      mace-paviseShield_attack_72x41_114: -1333615360229025221
+      mace-paviseShield_attack_72x41_115: 4553396159811833275
+      mace-paviseShield_attack_72x41_116: -3526710595633837899
+      mace-paviseShield_attack_72x41_117: -9146863732242118983
+      mace-paviseShield_attack_72x41_118: 6731121487820816167
+      mace-paviseShield_attack_72x41_119: 6959002421850999590
+      mace-paviseShield_attack_72x41_12: 829871203486238550
+      mace-paviseShield_attack_72x41_120: 537314890397510046
+      mace-paviseShield_attack_72x41_121: -7718441829453442759
+      mace-paviseShield_attack_72x41_122: 7185959815447360697
+      mace-paviseShield_attack_72x41_123: -2918985246774076216
+      mace-paviseShield_attack_72x41_124: -7522717972983433176
+      mace-paviseShield_attack_72x41_125: -6671371584072422593
+      mace-paviseShield_attack_72x41_126: -4330763399385778794
+      mace-paviseShield_attack_72x41_127: -5231971896485984193
+      mace-paviseShield_attack_72x41_128: 4072667097090371604
+      mace-paviseShield_attack_72x41_129: 4974388418027776985
+      mace-paviseShield_attack_72x41_13: -8331354121813461004
+      mace-paviseShield_attack_72x41_130: 48436075638524327
+      mace-paviseShield_attack_72x41_131: -830990269379072062
+      mace-paviseShield_attack_72x41_132: 3230307647000559680
+      mace-paviseShield_attack_72x41_133: -59402674884526652
+      mace-paviseShield_attack_72x41_134: 8791567899299767691
+      mace-paviseShield_attack_72x41_135: 5417790054997189724
+      mace-paviseShield_attack_72x41_136: 7394402056165326742
+      mace-paviseShield_attack_72x41_137: -5538165393242090862
+      mace-paviseShield_attack_72x41_138: -1999316190196297151
+      mace-paviseShield_attack_72x41_139: -319187389139449899
+      mace-paviseShield_attack_72x41_14: -5569877628094133614
+      mace-paviseShield_attack_72x41_140: -4488222935270981112
+      mace-paviseShield_attack_72x41_141: -194275473130109233
+      mace-paviseShield_attack_72x41_142: 5560627594279523298
+      mace-paviseShield_attack_72x41_143: 4197679735936936672
+      mace-paviseShield_attack_72x41_144: -4858519757597691539
+      mace-paviseShield_attack_72x41_145: 2622628791700721155
+      mace-paviseShield_attack_72x41_146: -9223008439773191055
+      mace-paviseShield_attack_72x41_147: -4989627165789035624
+      mace-paviseShield_attack_72x41_148: 1060731430804261623
+      mace-paviseShield_attack_72x41_149: -4567899737423399684
+      mace-paviseShield_attack_72x41_15: 3684045156854095605
+      mace-paviseShield_attack_72x41_150: 1576638879506325167
+      mace-paviseShield_attack_72x41_151: 347600042182847247
+      mace-paviseShield_attack_72x41_152: -2076464557917558906
+      mace-paviseShield_attack_72x41_153: 8131164320487265905
+      mace-paviseShield_attack_72x41_154: -6270516454059340306
+      mace-paviseShield_attack_72x41_155: -2645846074628876368
+      mace-paviseShield_attack_72x41_156: 4046522242490111600
+      mace-paviseShield_attack_72x41_157: -6242638884816467406
+      mace-paviseShield_attack_72x41_158: -870727978156148123
+      mace-paviseShield_attack_72x41_159: -3118175995279096061
+      mace-paviseShield_attack_72x41_16: -9192046776222818485
+      mace-paviseShield_attack_72x41_160: 1583105308299718810
+      mace-paviseShield_attack_72x41_161: -8847780302200829693
+      mace-paviseShield_attack_72x41_162: 434196139617871076
+      mace-paviseShield_attack_72x41_163: -6659378976316101673
+      mace-paviseShield_attack_72x41_164: -1732502490175447727
+      mace-paviseShield_attack_72x41_165: 4175682544320708455
+      mace-paviseShield_attack_72x41_166: -7389329767527241019
+      mace-paviseShield_attack_72x41_167: 7623820321774308132
+      mace-paviseShield_attack_72x41_168: 4967061802418066915
+      mace-paviseShield_attack_72x41_169: -4440665678679432258
+      mace-paviseShield_attack_72x41_17: 7892204069505204099
+      mace-paviseShield_attack_72x41_170: 8254094636950522612
+      mace-paviseShield_attack_72x41_171: 9152164841688564942
+      mace-paviseShield_attack_72x41_172: 2003701751204552811
+      mace-paviseShield_attack_72x41_173: -5463455298924764153
+      mace-paviseShield_attack_72x41_174: 6999942360639107319
+      mace-paviseShield_attack_72x41_175: -3572264811601252928
+      mace-paviseShield_attack_72x41_176: 1629303868348060971
+      mace-paviseShield_attack_72x41_177: -3488263381656415521
+      mace-paviseShield_attack_72x41_178: 8806550847604889385
+      mace-paviseShield_attack_72x41_179: 4970141897475698435
+      mace-paviseShield_attack_72x41_18: 3983038422847556343
+      mace-paviseShield_attack_72x41_180: -4176807829885356801
+      mace-paviseShield_attack_72x41_181: -5147268172289151651
+      mace-paviseShield_attack_72x41_182: -2326999085785586786
+      mace-paviseShield_attack_72x41_183: 4376202103924625075
+      mace-paviseShield_attack_72x41_184: -8108661955301465372
+      mace-paviseShield_attack_72x41_185: -7857144084975831248
+      mace-paviseShield_attack_72x41_186: -1623078057228936838
+      mace-paviseShield_attack_72x41_187: -4459679581511258862
+      mace-paviseShield_attack_72x41_188: 3378896629898670006
+      mace-paviseShield_attack_72x41_189: 5429993088541896925
+      mace-paviseShield_attack_72x41_19: -7328220459906584557
+      mace-paviseShield_attack_72x41_190: 6557987275319391881
+      mace-paviseShield_attack_72x41_191: 1461862021943132831
+      mace-paviseShield_attack_72x41_192: -7937730410362818692
+      mace-paviseShield_attack_72x41_193: 6340463783016666191
+      mace-paviseShield_attack_72x41_194: -1994054179199321478
+      mace-paviseShield_attack_72x41_195: 2641741051354162726
+      mace-paviseShield_attack_72x41_196: 4064730285105523414
+      mace-paviseShield_attack_72x41_197: 2045955925301840334
+      mace-paviseShield_attack_72x41_198: -9223032972273862269
+      mace-paviseShield_attack_72x41_199: 7139996608681438102
+      mace-paviseShield_attack_72x41_2: 4966291236390965849
+      mace-paviseShield_attack_72x41_20: 1011196860506964124
+      mace-paviseShield_attack_72x41_200: -3882283074666105435
+      mace-paviseShield_attack_72x41_201: 2606413165057588000
+      mace-paviseShield_attack_72x41_202: 51024198831666842
+      mace-paviseShield_attack_72x41_203: 4377402643914245283
+      mace-paviseShield_attack_72x41_204: 1981418666366667992
+      mace-paviseShield_attack_72x41_205: -4256556190601451610
+      mace-paviseShield_attack_72x41_206: 8857721301378541086
+      mace-paviseShield_attack_72x41_207: 3426869152391767757
+      mace-paviseShield_attack_72x41_208: 3863088006433221430
+      mace-paviseShield_attack_72x41_209: 5273160030571117732
+      mace-paviseShield_attack_72x41_21: 5515600226566592238
+      mace-paviseShield_attack_72x41_22: -2902344665454112615
+      mace-paviseShield_attack_72x41_23: -6988923989405722120
+      mace-paviseShield_attack_72x41_24: 44764769532752824
+      mace-paviseShield_attack_72x41_25: -1325529909906883498
+      mace-paviseShield_attack_72x41_26: -5151734889624592921
+      mace-paviseShield_attack_72x41_27: 277117998532504297
+      mace-paviseShield_attack_72x41_28: 4439549895098122116
+      mace-paviseShield_attack_72x41_29: 8439484188807097334
+      mace-paviseShield_attack_72x41_3: -2212149379549738092
+      mace-paviseShield_attack_72x41_30: -3803350838090616811
+      mace-paviseShield_attack_72x41_31: 340124252316076684
+      mace-paviseShield_attack_72x41_32: 4594824897972035936
+      mace-paviseShield_attack_72x41_33: 499300367363209461
+      mace-paviseShield_attack_72x41_34: 4330031047227044797
+      mace-paviseShield_attack_72x41_35: -918030521730372033
+      mace-paviseShield_attack_72x41_36: -7608804736422433525
+      mace-paviseShield_attack_72x41_37: 8020895665528403346
+      mace-paviseShield_attack_72x41_38: 8913377490538835317
+      mace-paviseShield_attack_72x41_39: 5034017627053010864
+      mace-paviseShield_attack_72x41_4: 8086896040740588077
+      mace-paviseShield_attack_72x41_40: 1543071347709049317
+      mace-paviseShield_attack_72x41_41: 5754037086231185904
+      mace-paviseShield_attack_72x41_42: 4972526594123058293
+      mace-paviseShield_attack_72x41_43: 870533897008037720
+      mace-paviseShield_attack_72x41_44: 8659972438188665801
+      mace-paviseShield_attack_72x41_45: 6937256874736852012
+      mace-paviseShield_attack_72x41_46: 1880286367685069117
+      mace-paviseShield_attack_72x41_47: -521447893222609550
+      mace-paviseShield_attack_72x41_48: -8735107404634640861
+      mace-paviseShield_attack_72x41_49: -6090201732064043742
+      mace-paviseShield_attack_72x41_5: 1195720775122778121
+      mace-paviseShield_attack_72x41_50: 9160451224155071583
+      mace-paviseShield_attack_72x41_51: -1432759892111517057
+      mace-paviseShield_attack_72x41_52: -7302945348728006750
+      mace-paviseShield_attack_72x41_53: -6015107104814117839
+      mace-paviseShield_attack_72x41_54: -2414281945135484064
+      mace-paviseShield_attack_72x41_55: -1848270172134433828
+      mace-paviseShield_attack_72x41_56: 728739026286654436
+      mace-paviseShield_attack_72x41_57: 1161764714023963910
+      mace-paviseShield_attack_72x41_58: 3058662819818844093
+      mace-paviseShield_attack_72x41_59: 2503703603641200628
+      mace-paviseShield_attack_72x41_6: -6444158520820631351
+      mace-paviseShield_attack_72x41_60: 5438419261301024698
+      mace-paviseShield_attack_72x41_61: 8806840173539572136
+      mace-paviseShield_attack_72x41_62: -5906834992561725272
+      mace-paviseShield_attack_72x41_63: 2472263483990158542
+      mace-paviseShield_attack_72x41_64: -5327954017218622536
+      mace-paviseShield_attack_72x41_65: 7293841624394091535
+      mace-paviseShield_attack_72x41_66: 4696377533328100923
+      mace-paviseShield_attack_72x41_67: 6417024991643330382
+      mace-paviseShield_attack_72x41_68: -3257281389490299886
+      mace-paviseShield_attack_72x41_69: -1019708250511030605
+      mace-paviseShield_attack_72x41_7: -8359763974876638902
+      mace-paviseShield_attack_72x41_70: -5509018592353916846
+      mace-paviseShield_attack_72x41_71: -4205122331565940033
+      mace-paviseShield_attack_72x41_72: -4492714478390684571
+      mace-paviseShield_attack_72x41_73: 6247052756897928667
+      mace-paviseShield_attack_72x41_74: 7097886924108757024
+      mace-paviseShield_attack_72x41_75: -7293440214294102046
+      mace-paviseShield_attack_72x41_76: 7236973879132088788
+      mace-paviseShield_attack_72x41_77: -3264132259762787136
+      mace-paviseShield_attack_72x41_78: -453230498694765029
+      mace-paviseShield_attack_72x41_79: 6556792023068907072
+      mace-paviseShield_attack_72x41_8: -5877958318411105668
+      mace-paviseShield_attack_72x41_80: 1216995967860876428
+      mace-paviseShield_attack_72x41_81: -9172039264289254653
+      mace-paviseShield_attack_72x41_82: 7763491986165442665
+      mace-paviseShield_attack_72x41_83: 238819709541188705
+      mace-paviseShield_attack_72x41_84: -2090830831052628699
+      mace-paviseShield_attack_72x41_85: -238627617174081597
+      mace-paviseShield_attack_72x41_86: 1106337959152808833
+      mace-paviseShield_attack_72x41_87: 8390266381937841774
+      mace-paviseShield_attack_72x41_88: 1994868835109888519
+      mace-paviseShield_attack_72x41_89: 9023337279139570473
+      mace-paviseShield_attack_72x41_9: -7935463090188349251
+      mace-paviseShield_attack_72x41_90: 6197956911325450050
+      mace-paviseShield_attack_72x41_91: -8241595552671276208
+      mace-paviseShield_attack_72x41_92: -7691636255088713208
+      mace-paviseShield_attack_72x41_93: -7516577882695919532
+      mace-paviseShield_attack_72x41_94: -3876138240054771034
+      mace-paviseShield_attack_72x41_95: 3737425543199376425
+      mace-paviseShield_attack_72x41_96: -3738465699579484883
+      mace-paviseShield_attack_72x41_97: 5342973466281161686
+      mace-paviseShield_attack_72x41_98: 3278422530363659163
+      mace-paviseShield_attack_72x41_99: -5943155438592386208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5364 @@
+fileFormatVersion: 2
+guid: fed2a69e333b5004888e935e4a0c9aff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8710340761612993643
+    second: mace-buckler_attack_72x41_0
+  - first:
+      213: 4660793188627794974
+    second: mace-buckler_attack_72x41_1
+  - first:
+      213: -7374371614756014070
+    second: mace-buckler_attack_72x41_2
+  - first:
+      213: -4794148843155295087
+    second: mace-buckler_attack_72x41_3
+  - first:
+      213: -7732278541118546175
+    second: mace-buckler_attack_72x41_4
+  - first:
+      213: 1929138469157136929
+    second: mace-buckler_attack_72x41_5
+  - first:
+      213: -8485605571107460340
+    second: mace-buckler_attack_72x41_6
+  - first:
+      213: 7513302690590467232
+    second: mace-buckler_attack_72x41_7
+  - first:
+      213: 3150748110149657657
+    second: mace-buckler_attack_72x41_8
+  - first:
+      213: 6968670347358347436
+    second: mace-buckler_attack_72x41_9
+  - first:
+      213: -5050848460527475277
+    second: mace-buckler_attack_72x41_10
+  - first:
+      213: -2978803203397338809
+    second: mace-buckler_attack_72x41_11
+  - first:
+      213: 7250854761158051815
+    second: mace-buckler_attack_72x41_12
+  - first:
+      213: -6616728872726444389
+    second: mace-buckler_attack_72x41_13
+  - first:
+      213: 5381216765292207098
+    second: mace-buckler_attack_72x41_14
+  - first:
+      213: 5694278014610186874
+    second: mace-buckler_attack_72x41_15
+  - first:
+      213: 1176066986064575213
+    second: mace-buckler_attack_72x41_16
+  - first:
+      213: -1763910310222977341
+    second: mace-buckler_attack_72x41_17
+  - first:
+      213: -4852857706486233780
+    second: mace-buckler_attack_72x41_18
+  - first:
+      213: -6318734703415550684
+    second: mace-buckler_attack_72x41_19
+  - first:
+      213: -6975522057878326013
+    second: mace-buckler_attack_72x41_20
+  - first:
+      213: 6451087496161078105
+    second: mace-buckler_attack_72x41_21
+  - first:
+      213: -1135886612342657466
+    second: mace-buckler_attack_72x41_22
+  - first:
+      213: 4843768296205724548
+    second: mace-buckler_attack_72x41_23
+  - first:
+      213: -259687020795459335
+    second: mace-buckler_attack_72x41_24
+  - first:
+      213: 5369721345713987444
+    second: mace-buckler_attack_72x41_25
+  - first:
+      213: -8251095223606020272
+    second: mace-buckler_attack_72x41_26
+  - first:
+      213: 4820345197805890248
+    second: mace-buckler_attack_72x41_27
+  - first:
+      213: 4604021962342474978
+    second: mace-buckler_attack_72x41_28
+  - first:
+      213: 1926069070000035246
+    second: mace-buckler_attack_72x41_29
+  - first:
+      213: 4640589806808056938
+    second: mace-buckler_attack_72x41_30
+  - first:
+      213: -5592971280499984335
+    second: mace-buckler_attack_72x41_31
+  - first:
+      213: -8621328002697015316
+    second: mace-buckler_attack_72x41_32
+  - first:
+      213: -8145270773954847515
+    second: mace-buckler_attack_72x41_33
+  - first:
+      213: -2784552133205934181
+    second: mace-buckler_attack_72x41_34
+  - first:
+      213: 92615750846232612
+    second: mace-buckler_attack_72x41_35
+  - first:
+      213: 4847022279465197826
+    second: mace-buckler_attack_72x41_36
+  - first:
+      213: -3115838773586473243
+    second: mace-buckler_attack_72x41_37
+  - first:
+      213: 1071120632469443541
+    second: mace-buckler_attack_72x41_38
+  - first:
+      213: -7716521509035134797
+    second: mace-buckler_attack_72x41_39
+  - first:
+      213: -2570085836567006469
+    second: mace-buckler_attack_72x41_40
+  - first:
+      213: 2311381174932932331
+    second: mace-buckler_attack_72x41_41
+  - first:
+      213: 6874306866424076891
+    second: mace-buckler_attack_72x41_42
+  - first:
+      213: 7908757899201268087
+    second: mace-buckler_attack_72x41_43
+  - first:
+      213: 7310809645412832636
+    second: mace-buckler_attack_72x41_44
+  - first:
+      213: 9130783504387327230
+    second: mace-buckler_attack_72x41_45
+  - first:
+      213: 6823415081829432378
+    second: mace-buckler_attack_72x41_46
+  - first:
+      213: -3851084040081022963
+    second: mace-buckler_attack_72x41_47
+  - first:
+      213: -4025460997424161599
+    second: mace-buckler_attack_72x41_48
+  - first:
+      213: 7012314556260330280
+    second: mace-buckler_attack_72x41_49
+  - first:
+      213: -4903200943189365238
+    second: mace-buckler_attack_72x41_50
+  - first:
+      213: 9017387761485207959
+    second: mace-buckler_attack_72x41_51
+  - first:
+      213: 5211598958678275969
+    second: mace-buckler_attack_72x41_52
+  - first:
+      213: -5264907193985044699
+    second: mace-buckler_attack_72x41_53
+  - first:
+      213: -5741560526127274531
+    second: mace-buckler_attack_72x41_54
+  - first:
+      213: -662907331155544767
+    second: mace-buckler_attack_72x41_55
+  - first:
+      213: 7846591233630775110
+    second: mace-buckler_attack_72x41_56
+  - first:
+      213: 2152526174926591812
+    second: mace-buckler_attack_72x41_57
+  - first:
+      213: 5543747999039999079
+    second: mace-buckler_attack_72x41_58
+  - first:
+      213: 1978299901064938684
+    second: mace-buckler_attack_72x41_59
+  - first:
+      213: -8810842198675822436
+    second: mace-buckler_attack_72x41_60
+  - first:
+      213: -8130945078574218886
+    second: mace-buckler_attack_72x41_61
+  - first:
+      213: -5741725375950825678
+    second: mace-buckler_attack_72x41_62
+  - first:
+      213: -428759681534426971
+    second: mace-buckler_attack_72x41_63
+  - first:
+      213: -3455993465185402548
+    second: mace-buckler_attack_72x41_64
+  - first:
+      213: -5463993545122209481
+    second: mace-buckler_attack_72x41_65
+  - first:
+      213: 5109466270622049096
+    second: mace-buckler_attack_72x41_66
+  - first:
+      213: -5732614552039965807
+    second: mace-buckler_attack_72x41_67
+  - first:
+      213: 7309153176972914812
+    second: mace-buckler_attack_72x41_68
+  - first:
+      213: -6644511580627690419
+    second: mace-buckler_attack_72x41_69
+  - first:
+      213: -1973286153843236037
+    second: mace-buckler_attack_72x41_70
+  - first:
+      213: -2629273651865140401
+    second: mace-buckler_attack_72x41_71
+  - first:
+      213: 4480551112968539281
+    second: mace-buckler_attack_72x41_72
+  - first:
+      213: -6637033029039278266
+    second: mace-buckler_attack_72x41_73
+  - first:
+      213: -7485456016721093030
+    second: mace-buckler_attack_72x41_74
+  - first:
+      213: -8625609671175481568
+    second: mace-buckler_attack_72x41_75
+  - first:
+      213: 2023515295552096174
+    second: mace-buckler_attack_72x41_76
+  - first:
+      213: 2729806288794713067
+    second: mace-buckler_attack_72x41_77
+  - first:
+      213: 2884771732920618677
+    second: mace-buckler_attack_72x41_78
+  - first:
+      213: -1554495501288062264
+    second: mace-buckler_attack_72x41_79
+  - first:
+      213: -4769472387788042762
+    second: mace-buckler_attack_72x41_80
+  - first:
+      213: -8092150759094563205
+    second: mace-buckler_attack_72x41_81
+  - first:
+      213: -4750002805141978676
+    second: mace-buckler_attack_72x41_82
+  - first:
+      213: 7964417093818420316
+    second: mace-buckler_attack_72x41_83
+  - first:
+      213: 3854149228730050997
+    second: mace-buckler_attack_72x41_84
+  - first:
+      213: -8969431847725463618
+    second: mace-buckler_attack_72x41_85
+  - first:
+      213: -8019233970448612593
+    second: mace-buckler_attack_72x41_86
+  - first:
+      213: -2871429412925468915
+    second: mace-buckler_attack_72x41_87
+  - first:
+      213: 1203980163014346344
+    second: mace-buckler_attack_72x41_88
+  - first:
+      213: 6876827155552464531
+    second: mace-buckler_attack_72x41_89
+  - first:
+      213: -4765192846253425381
+    second: mace-buckler_attack_72x41_90
+  - first:
+      213: -562201227203182380
+    second: mace-buckler_attack_72x41_91
+  - first:
+      213: -3552173211509579730
+    second: mace-buckler_attack_72x41_92
+  - first:
+      213: 8554786994861192399
+    second: mace-buckler_attack_72x41_93
+  - first:
+      213: 4353846191686792501
+    second: mace-buckler_attack_72x41_94
+  - first:
+      213: -4537287136511082929
+    second: mace-buckler_attack_72x41_95
+  - first:
+      213: -2763197576236676034
+    second: mace-buckler_attack_72x41_96
+  - first:
+      213: -9217874170467096649
+    second: mace-buckler_attack_72x41_97
+  - first:
+      213: 1655970560832220636
+    second: mace-buckler_attack_72x41_98
+  - first:
+      213: 6775330659218778748
+    second: mace-buckler_attack_72x41_99
+  - first:
+      213: -2046234078894607257
+    second: mace-buckler_attack_72x41_100
+  - first:
+      213: 5393260386055726531
+    second: mace-buckler_attack_72x41_101
+  - first:
+      213: -3642013081526047065
+    second: mace-buckler_attack_72x41_102
+  - first:
+      213: -334450138645193364
+    second: mace-buckler_attack_72x41_103
+  - first:
+      213: 2983675608731843194
+    second: mace-buckler_attack_72x41_104
+  - first:
+      213: -551038128734972754
+    second: mace-buckler_attack_72x41_105
+  - first:
+      213: -8970582369510491900
+    second: mace-buckler_attack_72x41_106
+  - first:
+      213: 9013441354585668206
+    second: mace-buckler_attack_72x41_107
+  - first:
+      213: 6448432149711457950
+    second: mace-buckler_attack_72x41_108
+  - first:
+      213: -8645810301411636399
+    second: mace-buckler_attack_72x41_109
+  - first:
+      213: -6310506328312798227
+    second: mace-buckler_attack_72x41_110
+  - first:
+      213: -3819122125603134715
+    second: mace-buckler_attack_72x41_111
+  - first:
+      213: 7712968715326330385
+    second: mace-buckler_attack_72x41_112
+  - first:
+      213: -316251777689249601
+    second: mace-buckler_attack_72x41_113
+  - first:
+      213: -8422744418755918637
+    second: mace-buckler_attack_72x41_114
+  - first:
+      213: -5142694121226153026
+    second: mace-buckler_attack_72x41_115
+  - first:
+      213: 6681165568139758828
+    second: mace-buckler_attack_72x41_116
+  - first:
+      213: 6446496796958090283
+    second: mace-buckler_attack_72x41_117
+  - first:
+      213: -5644976076040368340
+    second: mace-buckler_attack_72x41_118
+  - first:
+      213: 9139218890340081468
+    second: mace-buckler_attack_72x41_119
+  - first:
+      213: -1872964371820573696
+    second: mace-buckler_attack_72x41_120
+  - first:
+      213: -8727545025407915098
+    second: mace-buckler_attack_72x41_121
+  - first:
+      213: 4852892499139113326
+    second: mace-buckler_attack_72x41_122
+  - first:
+      213: -6378922695103436484
+    second: mace-buckler_attack_72x41_123
+  - first:
+      213: -17735177440665084
+    second: mace-buckler_attack_72x41_124
+  - first:
+      213: -437458344019193290
+    second: mace-buckler_attack_72x41_125
+  - first:
+      213: 5018088764633533802
+    second: mace-buckler_attack_72x41_126
+  - first:
+      213: 5220706145838796309
+    second: mace-buckler_attack_72x41_127
+  - first:
+      213: 1746809634457117171
+    second: mace-buckler_attack_72x41_128
+  - first:
+      213: -1610549207024105709
+    second: mace-buckler_attack_72x41_129
+  - first:
+      213: -8445255338064130229
+    second: mace-buckler_attack_72x41_130
+  - first:
+      213: 4953079302432978196
+    second: mace-buckler_attack_72x41_131
+  - first:
+      213: 5199575136116027357
+    second: mace-buckler_attack_72x41_132
+  - first:
+      213: -1222148295028192757
+    second: mace-buckler_attack_72x41_133
+  - first:
+      213: -3536536752442460345
+    second: mace-buckler_attack_72x41_134
+  - first:
+      213: -9060660527553194996
+    second: mace-buckler_attack_72x41_135
+  - first:
+      213: -5689341907124029135
+    second: mace-buckler_attack_72x41_136
+  - first:
+      213: -227406490263161989
+    second: mace-buckler_attack_72x41_137
+  - first:
+      213: 1411928372174358249
+    second: mace-buckler_attack_72x41_138
+  - first:
+      213: -7675636365028719696
+    second: mace-buckler_attack_72x41_139
+  - first:
+      213: 6316866254795319218
+    second: mace-buckler_attack_72x41_140
+  - first:
+      213: -8114841606268680157
+    second: mace-buckler_attack_72x41_141
+  - first:
+      213: 4715651965952996463
+    second: mace-buckler_attack_72x41_142
+  - first:
+      213: -8627628701707400413
+    second: mace-buckler_attack_72x41_143
+  - first:
+      213: 8682131349866519114
+    second: mace-buckler_attack_72x41_144
+  - first:
+      213: 3271725463087460555
+    second: mace-buckler_attack_72x41_145
+  - first:
+      213: -4517541106411504438
+    second: mace-buckler_attack_72x41_146
+  - first:
+      213: 502368771315903573
+    second: mace-buckler_attack_72x41_147
+  - first:
+      213: 8941766225568945043
+    second: mace-buckler_attack_72x41_148
+  - first:
+      213: -4529357075559568772
+    second: mace-buckler_attack_72x41_149
+  - first:
+      213: -8978491855438008158
+    second: mace-buckler_attack_72x41_150
+  - first:
+      213: 7573340955120801047
+    second: mace-buckler_attack_72x41_151
+  - first:
+      213: 4036907383287118521
+    second: mace-buckler_attack_72x41_152
+  - first:
+      213: -6472414347529770662
+    second: mace-buckler_attack_72x41_153
+  - first:
+      213: 4499071704931313271
+    second: mace-buckler_attack_72x41_154
+  - first:
+      213: -1418414367986822348
+    second: mace-buckler_attack_72x41_155
+  - first:
+      213: -7008464056560557870
+    second: mace-buckler_attack_72x41_156
+  - first:
+      213: 7350074799737468282
+    second: mace-buckler_attack_72x41_157
+  - first:
+      213: 1716595924249462373
+    second: mace-buckler_attack_72x41_158
+  - first:
+      213: 5579433761349120066
+    second: mace-buckler_attack_72x41_159
+  - first:
+      213: -6620741909429506761
+    second: mace-buckler_attack_72x41_160
+  - first:
+      213: 6995981435402325917
+    second: mace-buckler_attack_72x41_161
+  - first:
+      213: -8345112299453542885
+    second: mace-buckler_attack_72x41_162
+  - first:
+      213: -8800885813716286168
+    second: mace-buckler_attack_72x41_163
+  - first:
+      213: 7719895872467310501
+    second: mace-buckler_attack_72x41_164
+  - first:
+      213: 7042679251521339807
+    second: mace-buckler_attack_72x41_165
+  - first:
+      213: -1277321608768735502
+    second: mace-buckler_attack_72x41_166
+  - first:
+      213: -8085825087472679902
+    second: mace-buckler_attack_72x41_167
+  - first:
+      213: -648659267379189508
+    second: mace-buckler_attack_72x41_168
+  - first:
+      213: -7743552367764377085
+    second: mace-buckler_attack_72x41_169
+  - first:
+      213: -7326566740480526933
+    second: mace-buckler_attack_72x41_170
+  - first:
+      213: -1901813778275079704
+    second: mace-buckler_attack_72x41_171
+  - first:
+      213: 6144896364393720572
+    second: mace-buckler_attack_72x41_172
+  - first:
+      213: -1686355079100574474
+    second: mace-buckler_attack_72x41_173
+  - first:
+      213: 4983709287906095385
+    second: mace-buckler_attack_72x41_174
+  - first:
+      213: -4797183075601344010
+    second: mace-buckler_attack_72x41_175
+  - first:
+      213: -8096377421081022074
+    second: mace-buckler_attack_72x41_176
+  - first:
+      213: -5658051582998286563
+    second: mace-buckler_attack_72x41_177
+  - first:
+      213: -2305580616349298031
+    second: mace-buckler_attack_72x41_178
+  - first:
+      213: 3965465152765036226
+    second: mace-buckler_attack_72x41_179
+  - first:
+      213: 2308497293902031362
+    second: mace-buckler_attack_72x41_180
+  - first:
+      213: -3101621173918945086
+    second: mace-buckler_attack_72x41_181
+  - first:
+      213: 2898576959684585366
+    second: mace-buckler_attack_72x41_182
+  - first:
+      213: 6252777476179110521
+    second: mace-buckler_attack_72x41_183
+  - first:
+      213: -626803164965778791
+    second: mace-buckler_attack_72x41_184
+  - first:
+      213: 2358522574133638837
+    second: mace-buckler_attack_72x41_185
+  - first:
+      213: -2889383988521810310
+    second: mace-buckler_attack_72x41_186
+  - first:
+      213: 7435712679583498208
+    second: mace-buckler_attack_72x41_187
+  - first:
+      213: -7715147170307062902
+    second: mace-buckler_attack_72x41_188
+  - first:
+      213: 3348391423780237483
+    second: mace-buckler_attack_72x41_189
+  - first:
+      213: 2272210613734844908
+    second: mace-buckler_attack_72x41_190
+  - first:
+      213: 5135303232511242458
+    second: mace-buckler_attack_72x41_191
+  - first:
+      213: 8054419199372587594
+    second: mace-buckler_attack_72x41_192
+  - first:
+      213: -1605793836767488268
+    second: mace-buckler_attack_72x41_193
+  - first:
+      213: -2697403279386958745
+    second: mace-buckler_attack_72x41_194
+  - first:
+      213: -1757055532129071638
+    second: mace-buckler_attack_72x41_195
+  - first:
+      213: -6345063183085470798
+    second: mace-buckler_attack_72x41_196
+  - first:
+      213: 3370738858216929786
+    second: mace-buckler_attack_72x41_197
+  - first:
+      213: -29949313496617866
+    second: mace-buckler_attack_72x41_198
+  - first:
+      213: 8192677307388383476
+    second: mace-buckler_attack_72x41_199
+  - first:
+      213: -7543580568422989393
+    second: mace-buckler_attack_72x41_200
+  - first:
+      213: -5433881618311153103
+    second: mace-buckler_attack_72x41_201
+  - first:
+      213: 7181255903782212442
+    second: mace-buckler_attack_72x41_202
+  - first:
+      213: 89755968756303337
+    second: mace-buckler_attack_72x41_203
+  - first:
+      213: 2453774544017734240
+    second: mace-buckler_attack_72x41_204
+  - first:
+      213: -2072251826341051072
+    second: mace-buckler_attack_72x41_205
+  - first:
+      213: -6524819301656743635
+    second: mace-buckler_attack_72x41_206
+  - first:
+      213: -1144162393094903384
+    second: mace-buckler_attack_72x41_207
+  - first:
+      213: 2906474742462566981
+    second: mace-buckler_attack_72x41_208
+  - first:
+      213: 6385447511259126316
+    second: mace-buckler_attack_72x41_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bb3770a37ae1780800000000000000
+      internalID: -8710340761612993643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c48bb06b67ea040800000000000000
+      internalID: 4660793188627794974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a087eb46618f8a990800000000000000
+      internalID: -7374371614756014070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194f0631703c77db0800000000000000
+      internalID: -4794148843155295087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fd04c52ad61b490800000000000000
+      internalID: -7732278541118546175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ae6a8773da5ca10800000000000000
+      internalID: 1929138469157136929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b601611b21d3a80800000000000000
+      internalID: -8485605571107460340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a1aa6dfc944860800000000000000
+      internalID: 7513302690590467232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934243a76b4b9bb20800000000000000
+      internalID: 3150748110149657657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a71362c0b5b060800000000000000
+      internalID: 6968670347358347436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b56eefe518c7e9b0800000000000000
+      internalID: -5050848460527475277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b4b5d44a29a6d0800000000000000
+      internalID: -2978803203397338809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e786c41df530a460800000000000000
+      internalID: 7250854761158051815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96c11ea528ac24a0800000000000000
+      internalID: -6616728872726444389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb5e9a132cedaa40800000000000000
+      internalID: 5381216765292207098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7228294fa3260f40800000000000000
+      internalID: 5694278014610186874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea717851ba325010800000000000000
+      internalID: 1176066986064575213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6a28f1be45587e0800000000000000
+      internalID: -1763910310222977341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c450f53a0af27acb0800000000000000
+      internalID: -4852857706486233780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d9bfce3485f48a0800000000000000
+      internalID: -6318734703415550684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b24175a7f13f90800000000000000
+      internalID: -6975522057878326013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b25aff5edd68950800000000000000
+      internalID: 6451087496161078105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ea13ee4258c30f0800000000000000
+      internalID: -1135886612342657466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b24ad1a95883340800000000000000
+      internalID: 4843768296205724548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f805bcc708656cf0800000000000000
+      internalID: -259687020795459335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f5d1a2d15158a40800000000000000
+      internalID: 5369721345713987444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0577a0d3c983e7d80800000000000000
+      internalID: -8251095223606020272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caeaf90b6e45e240800000000000000
+      internalID: 4820345197805890248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e42583e495c4ef30800000000000000
+      internalID: 4604021962342474978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5183a4d95caba10800000000000000
+      internalID: 1926069070000035246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64c717a7dfa66040800000000000000
+      internalID: 4640589806808056938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13836d2d046c162b0800000000000000
+      internalID: -5592971280499984335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefcd1bfbd3ea5880800000000000000
+      internalID: -8621328002697015316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecdc07f26f26fe80800000000000000
+      internalID: -8145270773954847515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f34b986984b59d0800000000000000
+      internalID: -2784552133205934181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428bbc1e889094100800000000000000
+      internalID: 92615750846232612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016de12515144340800000000000000
+      internalID: 4847022279465197826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee4df2d42152c4d0800000000000000
+      internalID: -3115838773586473243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3dee94a826dde00800000000000000
+      internalID: 1071120632469443541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0bc48429869e490800000000000000
+      internalID: -7716521509035134797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2392d6c88355cd0800000000000000
+      internalID: -2570085836567006469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be60760beeca31020800000000000000
+      internalID: 2311381174932932331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_42
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a5c326ca1766f50800000000000000
+      internalID: 6874306866424076891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779c47c286d81cd60800000000000000
+      internalID: 7908757899201268087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75d45f53a6357560800000000000000
+      internalID: 7310809645412832636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4c004683f07be70800000000000000
+      internalID: 9130783504387327230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_46
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c7c7b6dd3a1be50800000000000000
+      internalID: 6823415081829432378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d006bce28733e8ac0800000000000000
+      internalID: -3851084040081022963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccd757fc80b228c0800000000000000
+      internalID: -4025460997424161599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ba233afeeb05160800000000000000
+      internalID: 7012314556260330280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e66de68b454fbb0800000000000000
+      internalID: -4903200943189365238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799d7459462342d70800000000000000
+      internalID: 9017387761485207959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18770d304a1535840800000000000000
+      internalID: 5211598958678275969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f6f1f3dca4fe6b0800000000000000
+      internalID: -5264907193985044699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd567cf1f11e150b0800000000000000
+      internalID: -5741560526127274531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145b8776b41ecc6f0800000000000000
+      internalID: -662907331155544767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a14a6721b4ec60800000000000000
+      internalID: 7846591233630775110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447da3ac62f4fdd10800000000000000
+      internalID: 2152526174926591812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_58
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ccf0fde695fec40800000000000000
+      internalID: 5543747999039999079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48a2e4745547b10800000000000000
+      internalID: 1978299901064938684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98e7efb3b999b580800000000000000
+      internalID: -8810842198675822436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718f57d784192f80800000000000000
+      internalID: -8130945078574218886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237da98013b4150b0800000000000000
+      internalID: -5741725375950825678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a08120675dbc0af0800000000000000
+      internalID: -428759681534426971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c418d890148d900d0800000000000000
+      internalID: -3455993465185402548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731a6f7f1defb24b0800000000000000
+      internalID: -5463993545122209481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8436444808878e640800000000000000
+      internalID: 5109466270622049096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b3c670079a170b0800000000000000
+      internalID: -5732614552039965807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c707362c6145f6560800000000000000
+      internalID: 7309153176972914812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c97baebe3f9c3a0800000000000000
+      internalID: -6644511580627690419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b332affa2ba7d94e0800000000000000
+      internalID: -1973286153843236037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43c84b4b81f28bd0800000000000000
+      internalID: -2629273651865140401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c887e8f7d1e2e30800000000000000
+      internalID: 4480551112968539281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6473495ef9584e3a0800000000000000
+      internalID: -6637033029039278266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e578599615e1890800000000000000
+      internalID: -7485456016721093030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027596a54bdab4880800000000000000
+      internalID: -8625609671175481568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c3f4b078f41c10800000000000000
+      internalID: 2023515295552096174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb7c354b5832e520800000000000000
+      internalID: 2729806288794713067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be42de5b94c80820800000000000000
+      internalID: 2884771732920618677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_79
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c248c0e3925d6ae0800000000000000
+      internalID: -1554495501288062264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd0cdf022e6fcdb0800000000000000
+      internalID: -4769472387788042762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_81
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec24732c7e2bf80800000000000000
+      internalID: -8092150759094563205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc147658d99941eb0800000000000000
+      internalID: -4750002805141978676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c8818462b478e60800000000000000
+      internalID: 7964417093818420316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9ecc9ad40bc7530800000000000000
+      internalID: 3854149228730050997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb78f3fa14d268380800000000000000
+      internalID: -8969431847725463618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f034aac0135f5b090800000000000000
+      internalID: -8019233970448612593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f08f49922a628d0800000000000000
+      internalID: -2871429412925468915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866461d449565b010800000000000000
+      internalID: 1203980163014346344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_89
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee67cecd56f6f50800000000000000
+      internalID: 6876827155552464531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1df4d87a52aeddb0800000000000000
+      internalID: -4765192846253425381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_91
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0044866f8a238f0800000000000000
+      internalID: -562201227203182380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_92
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20205bc84524bec0800000000000000
+      internalID: -3552173211509579730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_93
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc435d55275b8b670800000000000000
+      internalID: 8554786994861192399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_94
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535bd2e2b08fb6c30800000000000000
+      internalID: 4353846191686792501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ebe4093615801c0800000000000000
+      internalID: -4537287136511082929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_96
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c4138c17627a9d0800000000000000
+      internalID: -2763197576236676034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b76f05c748831080800000000000000
+      internalID: -9217874170467096649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdda8ec83703bf610800000000000000
+      internalID: 1655970560832220636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a6c8a565fc60e50800000000000000
+      internalID: 6775330659218778748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_100
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764303852f05a93e0800000000000000
+      internalID: -2046234078894607257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5a9041fb5b8da40800000000000000
+      internalID: 5393260386055726531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_102
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae60580668f47dc0800000000000000
+      internalID: -3642013081526047065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d19f2fe5bcb5bf0800000000000000
+      internalID: -334450138645193364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_104
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a757f6825286920800000000000000
+      internalID: 2983675608731843194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea45e0fcdb15a58f0800000000000000
+      internalID: -551038128734972754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409f1f4fcd6128380800000000000000
+      internalID: -8970582369510491900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6af4ef182d261d70800000000000000
+      internalID: 9013441354585668206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_108
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e82c9ffde6d7950800000000000000
+      internalID: 6448432149711457950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b42fc9659e30880800000000000000
+      internalID: -8645810301411636399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3af0ccde39c68a0800000000000000
+      internalID: -6310506328312798227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503279d49a0cffac0800000000000000
+      internalID: -3819122125603134715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_112
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1161ab87e28f90b60800000000000000
+      internalID: 7712968715326330385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb81f3b0fa27c9bf0800000000000000
+      internalID: -316251777689249601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_114
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d44626a3966c1b80800000000000000
+      internalID: -8422744418755918637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_115
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb353d3a1fa71a8b0800000000000000
+      internalID: -5142694121226153026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_116
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec8a869fa448bc50800000000000000
+      internalID: 6681165568139758828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24616c8eae867950800000000000000
+      internalID: 6446496796958090283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f090eca2409a1b0800000000000000
+      internalID: -5644976076040368340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f924bb82705de70800000000000000
+      internalID: 9139218890340081468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c0ca4c3d4e106e0800000000000000
+      internalID: -1872964371820573696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab65573a0881e680800000000000000
+      internalID: -8727545025407915098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_122
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6138582400f85340800000000000000
+      internalID: 4852892499139113326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_123
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39aea41b938977a0800000000000000
+      internalID: -6378922695103436484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_124
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ee9833fdf0cff0800000000000000
+      internalID: -17735177440665084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63294b034f5dde9f0800000000000000
+      internalID: -437458344019193290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_126
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d4c5bf425d3a540800000000000000
+      internalID: 5018088764633533802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e8b63449ca37840800000000000000
+      internalID: 5220706145838796309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_128
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1eb088b1aed3810800000000000000
+      internalID: 1746809634457117171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_129
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3178a0e770e26a9e0800000000000000
+      internalID: -1610549207024105709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f4731d30d6cca80800000000000000
+      internalID: -8445255338064130229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_131
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4157bdd026fdcb440800000000000000
+      internalID: 4953079302432978196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf262ba90a982840800000000000000
+      internalID: 5199575136116027357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_133
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0acef3d99e0a0fe0800000000000000
+      internalID: -1222148295028192757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747bd8f9f82bbeec0800000000000000
+      internalID: -3536536752442460345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_135
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d9c07141124280800000000000000
+      internalID: -9060660527553194996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139f02ccda56b01b0800000000000000
+      internalID: -5689341907124029135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_137
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73fe30800718dcf0800000000000000
+      internalID: -227406490263161989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e68fbfaf5d289310800000000000000
+      internalID: 1411928372174358249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_139
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3846da469aa7590800000000000000
+      internalID: -7675636365028719696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b72abaf3640aa750800000000000000
+      internalID: 6316866254795319218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3288bc9ad8a426f80800000000000000
+      internalID: -8114841606268680157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64300b7a7c517140800000000000000
+      internalID: 4715651965952996463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_143
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b04cc2861844880800000000000000
+      internalID: -8627628701707400413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a931a76702d7870800000000000000
+      internalID: 8682131349866519114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_145
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0bded69f0876d20800000000000000
+      internalID: 3271725463087460555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_146
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accfd167c487e41c0800000000000000
+      internalID: -4517541106411504438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_147
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca8806cb5c8f600800000000000000
+      internalID: 502368771315903573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_148
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3935f93b109871c70800000000000000
+      internalID: 8941766225568945043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_149
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aae52ccbd7421c0800000000000000
+      internalID: -4529357075559568772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_150
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a031e14a3df56380800000000000000
+      internalID: -8978491855438008158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_151
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71594e03979e91960800000000000000
+      internalID: 7573340955120801047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bafafb60e9f50830800000000000000
+      internalID: 4036907383287118521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_153
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59a858717d5d26a0800000000000000
+      internalID: -6472414347529770662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7762177e0e9ef6e30800000000000000
+      internalID: 4499071704931313271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_155
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d5dbb5a7c05ce0800000000000000
+      internalID: -1418414367986822348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d06d9fa21fecbe90800000000000000
+      internalID: -7008464056560557870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_157
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75f6e68616b00660800000000000000
+      internalID: 7350074799737468282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566c5cfe5e292d710800000000000000
+      internalID: 1716595924249462373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_159
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403901e1712e6d40800000000000000
+      internalID: 5579433761349120066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73da9e2cf466e14a0800000000000000
+      internalID: -6620741909429506761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_161
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f02689c08b61160800000000000000
+      internalID: 6995981435402325917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_162
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e0454f394303c80800000000000000
+      internalID: -8345112299453542885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_163
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8258aa44bf8fcd580800000000000000
+      internalID: -8800885813716286168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_164
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a71b6de464922b60800000000000000
+      internalID: 7719895872467310501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9181fd277f9cb160800000000000000
+      internalID: 7042679251521339807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_166
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6b86da3ca064ee0800000000000000
+      internalID: -1277321608768735502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224cf396ce069cf80800000000000000
+      internalID: -8085825087472679902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_168
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8299345df7ff6f0800000000000000
+      internalID: -648659267379189508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302f4cb0620698490800000000000000
+      internalID: -7743552367764377085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_170
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5777a0e5ec25a90800000000000000
+      internalID: -7326566740480526933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_171
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e968f4e1766b95e0800000000000000
+      internalID: -1901813778275079704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_172
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfae645bfae074550800000000000000
+      internalID: 6144896364393720572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_173
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d8018dfcd898e0800000000000000
+      internalID: -1686355079100574474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_174
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91135794131b92540800000000000000
+      internalID: 4983709287906095385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91448c86bfc6db0800000000000000
+      internalID: -4797183075601344010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_176
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681f8f8c1a3e3af80800000000000000
+      internalID: -8096377421081022074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fec8a10109a71b0800000000000000
+      internalID: -5658051582998286563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_178
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192597915aee000e0800000000000000
+      internalID: -2305580616349298031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c600c7eb89280730800000000000000
+      internalID: 3965465152765036226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_180
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a2bffce0e690020800000000000000
+      internalID: 2308497293902031362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_181
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c03bb4b9f3d4f4d0800000000000000
+      internalID: -3101621173918945086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_182
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a1243360d93820800000000000000
+      internalID: 2898576959684585366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_183
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a28376cf356c650800000000000000
+      internalID: 6252777476179110521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_184
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99acf18a7d52d47f0800000000000000
+      internalID: -626803164965778791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_185
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6b9f109c72bb020800000000000000
+      internalID: 2358522574133638837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_186
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76c4703298d6e7d0800000000000000
+      internalID: -2889383988521810310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef31763945f03760800000000000000
+      internalID: 7435712679583498208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_188
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83ccf3768a4ee490800000000000000
+      internalID: -7715147170307062902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0b2676240e77e20800000000000000
+      internalID: 3348391423780237483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_190
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a986b383888f10800000000000000
+      internalID: 2272210613734844908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad07fbbf413444740800000000000000
+      internalID: 5135303232511242458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_192
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4270b2769b07cf60800000000000000
+      internalID: 8054419199372587594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_193
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f656f8630317b9e0800000000000000
+      internalID: -1605793836767488268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_194
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764aa244206e09ad0800000000000000
+      internalID: -2697403279386958745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_195
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedcfc48d4fad97e0800000000000000
+      internalID: -1757055532129071638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_196
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbf7ce07aec1f7a0800000000000000
+      internalID: -6345063183085470798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_197
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af930a2f12547ce20800000000000000
+      internalID: 3370738858216929786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_198
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c64cf0249959ff0800000000000000
+      internalID: -29949313496617866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_199
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0d94aba9c32b170800000000000000
+      internalID: 8192677307388383476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1cb9cc071df4790800000000000000
+      internalID: -7543580568422989393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13af9054579f694b0800000000000000
+      internalID: -5433881618311153103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a539d125232f8a360800000000000000
+      internalID: 7181255903782212442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_203
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5c03af390ee3100800000000000000
+      internalID: 89755968756303337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab21772fe8d0220800000000000000
+      internalID: 2453774544017734240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_205
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04589c571f1ed33e0800000000000000
+      internalID: -2072251826341051072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_206
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2133254a6f2375a0800000000000000
+      internalID: -6524819301656743635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_207
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a7329d5e1f10f0800000000000000
+      internalID: -1144162393094903384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_208
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542502d016fd55820800000000000000
+      internalID: 2906474742462566981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-buckler_attack_72x41_209
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a90801eaaad9850800000000000000
+      internalID: 6385447511259126316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mace-buckler_attack_72x41_0: -8710340761612993643
+      mace-buckler_attack_72x41_1: 4660793188627794974
+      mace-buckler_attack_72x41_10: -5050848460527475277
+      mace-buckler_attack_72x41_100: -2046234078894607257
+      mace-buckler_attack_72x41_101: 5393260386055726531
+      mace-buckler_attack_72x41_102: -3642013081526047065
+      mace-buckler_attack_72x41_103: -334450138645193364
+      mace-buckler_attack_72x41_104: 2983675608731843194
+      mace-buckler_attack_72x41_105: -551038128734972754
+      mace-buckler_attack_72x41_106: -8970582369510491900
+      mace-buckler_attack_72x41_107: 9013441354585668206
+      mace-buckler_attack_72x41_108: 6448432149711457950
+      mace-buckler_attack_72x41_109: -8645810301411636399
+      mace-buckler_attack_72x41_11: -2978803203397338809
+      mace-buckler_attack_72x41_110: -6310506328312798227
+      mace-buckler_attack_72x41_111: -3819122125603134715
+      mace-buckler_attack_72x41_112: 7712968715326330385
+      mace-buckler_attack_72x41_113: -316251777689249601
+      mace-buckler_attack_72x41_114: -8422744418755918637
+      mace-buckler_attack_72x41_115: -5142694121226153026
+      mace-buckler_attack_72x41_116: 6681165568139758828
+      mace-buckler_attack_72x41_117: 6446496796958090283
+      mace-buckler_attack_72x41_118: -5644976076040368340
+      mace-buckler_attack_72x41_119: 9139218890340081468
+      mace-buckler_attack_72x41_12: 7250854761158051815
+      mace-buckler_attack_72x41_120: -1872964371820573696
+      mace-buckler_attack_72x41_121: -8727545025407915098
+      mace-buckler_attack_72x41_122: 4852892499139113326
+      mace-buckler_attack_72x41_123: -6378922695103436484
+      mace-buckler_attack_72x41_124: -17735177440665084
+      mace-buckler_attack_72x41_125: -437458344019193290
+      mace-buckler_attack_72x41_126: 5018088764633533802
+      mace-buckler_attack_72x41_127: 5220706145838796309
+      mace-buckler_attack_72x41_128: 1746809634457117171
+      mace-buckler_attack_72x41_129: -1610549207024105709
+      mace-buckler_attack_72x41_13: -6616728872726444389
+      mace-buckler_attack_72x41_130: -8445255338064130229
+      mace-buckler_attack_72x41_131: 4953079302432978196
+      mace-buckler_attack_72x41_132: 5199575136116027357
+      mace-buckler_attack_72x41_133: -1222148295028192757
+      mace-buckler_attack_72x41_134: -3536536752442460345
+      mace-buckler_attack_72x41_135: -9060660527553194996
+      mace-buckler_attack_72x41_136: -5689341907124029135
+      mace-buckler_attack_72x41_137: -227406490263161989
+      mace-buckler_attack_72x41_138: 1411928372174358249
+      mace-buckler_attack_72x41_139: -7675636365028719696
+      mace-buckler_attack_72x41_14: 5381216765292207098
+      mace-buckler_attack_72x41_140: 6316866254795319218
+      mace-buckler_attack_72x41_141: -8114841606268680157
+      mace-buckler_attack_72x41_142: 4715651965952996463
+      mace-buckler_attack_72x41_143: -8627628701707400413
+      mace-buckler_attack_72x41_144: 8682131349866519114
+      mace-buckler_attack_72x41_145: 3271725463087460555
+      mace-buckler_attack_72x41_146: -4517541106411504438
+      mace-buckler_attack_72x41_147: 502368771315903573
+      mace-buckler_attack_72x41_148: 8941766225568945043
+      mace-buckler_attack_72x41_149: -4529357075559568772
+      mace-buckler_attack_72x41_15: 5694278014610186874
+      mace-buckler_attack_72x41_150: -8978491855438008158
+      mace-buckler_attack_72x41_151: 7573340955120801047
+      mace-buckler_attack_72x41_152: 4036907383287118521
+      mace-buckler_attack_72x41_153: -6472414347529770662
+      mace-buckler_attack_72x41_154: 4499071704931313271
+      mace-buckler_attack_72x41_155: -1418414367986822348
+      mace-buckler_attack_72x41_156: -7008464056560557870
+      mace-buckler_attack_72x41_157: 7350074799737468282
+      mace-buckler_attack_72x41_158: 1716595924249462373
+      mace-buckler_attack_72x41_159: 5579433761349120066
+      mace-buckler_attack_72x41_16: 1176066986064575213
+      mace-buckler_attack_72x41_160: -6620741909429506761
+      mace-buckler_attack_72x41_161: 6995981435402325917
+      mace-buckler_attack_72x41_162: -8345112299453542885
+      mace-buckler_attack_72x41_163: -8800885813716286168
+      mace-buckler_attack_72x41_164: 7719895872467310501
+      mace-buckler_attack_72x41_165: 7042679251521339807
+      mace-buckler_attack_72x41_166: -1277321608768735502
+      mace-buckler_attack_72x41_167: -8085825087472679902
+      mace-buckler_attack_72x41_168: -648659267379189508
+      mace-buckler_attack_72x41_169: -7743552367764377085
+      mace-buckler_attack_72x41_17: -1763910310222977341
+      mace-buckler_attack_72x41_170: -7326566740480526933
+      mace-buckler_attack_72x41_171: -1901813778275079704
+      mace-buckler_attack_72x41_172: 6144896364393720572
+      mace-buckler_attack_72x41_173: -1686355079100574474
+      mace-buckler_attack_72x41_174: 4983709287906095385
+      mace-buckler_attack_72x41_175: -4797183075601344010
+      mace-buckler_attack_72x41_176: -8096377421081022074
+      mace-buckler_attack_72x41_177: -5658051582998286563
+      mace-buckler_attack_72x41_178: -2305580616349298031
+      mace-buckler_attack_72x41_179: 3965465152765036226
+      mace-buckler_attack_72x41_18: -4852857706486233780
+      mace-buckler_attack_72x41_180: 2308497293902031362
+      mace-buckler_attack_72x41_181: -3101621173918945086
+      mace-buckler_attack_72x41_182: 2898576959684585366
+      mace-buckler_attack_72x41_183: 6252777476179110521
+      mace-buckler_attack_72x41_184: -626803164965778791
+      mace-buckler_attack_72x41_185: 2358522574133638837
+      mace-buckler_attack_72x41_186: -2889383988521810310
+      mace-buckler_attack_72x41_187: 7435712679583498208
+      mace-buckler_attack_72x41_188: -7715147170307062902
+      mace-buckler_attack_72x41_189: 3348391423780237483
+      mace-buckler_attack_72x41_19: -6318734703415550684
+      mace-buckler_attack_72x41_190: 2272210613734844908
+      mace-buckler_attack_72x41_191: 5135303232511242458
+      mace-buckler_attack_72x41_192: 8054419199372587594
+      mace-buckler_attack_72x41_193: -1605793836767488268
+      mace-buckler_attack_72x41_194: -2697403279386958745
+      mace-buckler_attack_72x41_195: -1757055532129071638
+      mace-buckler_attack_72x41_196: -6345063183085470798
+      mace-buckler_attack_72x41_197: 3370738858216929786
+      mace-buckler_attack_72x41_198: -29949313496617866
+      mace-buckler_attack_72x41_199: 8192677307388383476
+      mace-buckler_attack_72x41_2: -7374371614756014070
+      mace-buckler_attack_72x41_20: -6975522057878326013
+      mace-buckler_attack_72x41_200: -7543580568422989393
+      mace-buckler_attack_72x41_201: -5433881618311153103
+      mace-buckler_attack_72x41_202: 7181255903782212442
+      mace-buckler_attack_72x41_203: 89755968756303337
+      mace-buckler_attack_72x41_204: 2453774544017734240
+      mace-buckler_attack_72x41_205: -2072251826341051072
+      mace-buckler_attack_72x41_206: -6524819301656743635
+      mace-buckler_attack_72x41_207: -1144162393094903384
+      mace-buckler_attack_72x41_208: 2906474742462566981
+      mace-buckler_attack_72x41_209: 6385447511259126316
+      mace-buckler_attack_72x41_21: 6451087496161078105
+      mace-buckler_attack_72x41_22: -1135886612342657466
+      mace-buckler_attack_72x41_23: 4843768296205724548
+      mace-buckler_attack_72x41_24: -259687020795459335
+      mace-buckler_attack_72x41_25: 5369721345713987444
+      mace-buckler_attack_72x41_26: -8251095223606020272
+      mace-buckler_attack_72x41_27: 4820345197805890248
+      mace-buckler_attack_72x41_28: 4604021962342474978
+      mace-buckler_attack_72x41_29: 1926069070000035246
+      mace-buckler_attack_72x41_3: -4794148843155295087
+      mace-buckler_attack_72x41_30: 4640589806808056938
+      mace-buckler_attack_72x41_31: -5592971280499984335
+      mace-buckler_attack_72x41_32: -8621328002697015316
+      mace-buckler_attack_72x41_33: -8145270773954847515
+      mace-buckler_attack_72x41_34: -2784552133205934181
+      mace-buckler_attack_72x41_35: 92615750846232612
+      mace-buckler_attack_72x41_36: 4847022279465197826
+      mace-buckler_attack_72x41_37: -3115838773586473243
+      mace-buckler_attack_72x41_38: 1071120632469443541
+      mace-buckler_attack_72x41_39: -7716521509035134797
+      mace-buckler_attack_72x41_4: -7732278541118546175
+      mace-buckler_attack_72x41_40: -2570085836567006469
+      mace-buckler_attack_72x41_41: 2311381174932932331
+      mace-buckler_attack_72x41_42: 6874306866424076891
+      mace-buckler_attack_72x41_43: 7908757899201268087
+      mace-buckler_attack_72x41_44: 7310809645412832636
+      mace-buckler_attack_72x41_45: 9130783504387327230
+      mace-buckler_attack_72x41_46: 6823415081829432378
+      mace-buckler_attack_72x41_47: -3851084040081022963
+      mace-buckler_attack_72x41_48: -4025460997424161599
+      mace-buckler_attack_72x41_49: 7012314556260330280
+      mace-buckler_attack_72x41_5: 1929138469157136929
+      mace-buckler_attack_72x41_50: -4903200943189365238
+      mace-buckler_attack_72x41_51: 9017387761485207959
+      mace-buckler_attack_72x41_52: 5211598958678275969
+      mace-buckler_attack_72x41_53: -5264907193985044699
+      mace-buckler_attack_72x41_54: -5741560526127274531
+      mace-buckler_attack_72x41_55: -662907331155544767
+      mace-buckler_attack_72x41_56: 7846591233630775110
+      mace-buckler_attack_72x41_57: 2152526174926591812
+      mace-buckler_attack_72x41_58: 5543747999039999079
+      mace-buckler_attack_72x41_59: 1978299901064938684
+      mace-buckler_attack_72x41_6: -8485605571107460340
+      mace-buckler_attack_72x41_60: -8810842198675822436
+      mace-buckler_attack_72x41_61: -8130945078574218886
+      mace-buckler_attack_72x41_62: -5741725375950825678
+      mace-buckler_attack_72x41_63: -428759681534426971
+      mace-buckler_attack_72x41_64: -3455993465185402548
+      mace-buckler_attack_72x41_65: -5463993545122209481
+      mace-buckler_attack_72x41_66: 5109466270622049096
+      mace-buckler_attack_72x41_67: -5732614552039965807
+      mace-buckler_attack_72x41_68: 7309153176972914812
+      mace-buckler_attack_72x41_69: -6644511580627690419
+      mace-buckler_attack_72x41_7: 7513302690590467232
+      mace-buckler_attack_72x41_70: -1973286153843236037
+      mace-buckler_attack_72x41_71: -2629273651865140401
+      mace-buckler_attack_72x41_72: 4480551112968539281
+      mace-buckler_attack_72x41_73: -6637033029039278266
+      mace-buckler_attack_72x41_74: -7485456016721093030
+      mace-buckler_attack_72x41_75: -8625609671175481568
+      mace-buckler_attack_72x41_76: 2023515295552096174
+      mace-buckler_attack_72x41_77: 2729806288794713067
+      mace-buckler_attack_72x41_78: 2884771732920618677
+      mace-buckler_attack_72x41_79: -1554495501288062264
+      mace-buckler_attack_72x41_8: 3150748110149657657
+      mace-buckler_attack_72x41_80: -4769472387788042762
+      mace-buckler_attack_72x41_81: -8092150759094563205
+      mace-buckler_attack_72x41_82: -4750002805141978676
+      mace-buckler_attack_72x41_83: 7964417093818420316
+      mace-buckler_attack_72x41_84: 3854149228730050997
+      mace-buckler_attack_72x41_85: -8969431847725463618
+      mace-buckler_attack_72x41_86: -8019233970448612593
+      mace-buckler_attack_72x41_87: -2871429412925468915
+      mace-buckler_attack_72x41_88: 1203980163014346344
+      mace-buckler_attack_72x41_89: 6876827155552464531
+      mace-buckler_attack_72x41_9: 6968670347358347436
+      mace-buckler_attack_72x41_90: -4765192846253425381
+      mace-buckler_attack_72x41_91: -562201227203182380
+      mace-buckler_attack_72x41_92: -3552173211509579730
+      mace-buckler_attack_72x41_93: 8554786994861192399
+      mace-buckler_attack_72x41_94: 4353846191686792501
+      mace-buckler_attack_72x41_95: -4537287136511082929
+      mace-buckler_attack_72x41_96: -2763197576236676034
+      mace-buckler_attack_72x41_97: -9217874170467096649
+      mace-buckler_attack_72x41_98: 1655970560832220636
+      mace-buckler_attack_72x41_99: 6775330659218778748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

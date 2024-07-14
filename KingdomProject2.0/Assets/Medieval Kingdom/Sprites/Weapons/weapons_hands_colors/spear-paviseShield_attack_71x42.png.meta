@@ -1,0 +1,5539 @@
+fileFormatVersion: 2
+guid: 0d482647d0038b143a200f1da6a960c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8495035128641790416
+    second: spear-paviseShield_attack_71x42_0
+  - first:
+      213: -3755547023319610701
+    second: spear-paviseShield_attack_71x42_1
+  - first:
+      213: -6196528255180526062
+    second: spear-paviseShield_attack_71x42_2
+  - first:
+      213: -8748470711734945439
+    second: spear-paviseShield_attack_71x42_3
+  - first:
+      213: -2585937432819923952
+    second: spear-paviseShield_attack_71x42_4
+  - first:
+      213: -428303280835194897
+    second: spear-paviseShield_attack_71x42_5
+  - first:
+      213: 9156157325573538972
+    second: spear-paviseShield_attack_71x42_6
+  - first:
+      213: -4023969100733634340
+    second: spear-paviseShield_attack_71x42_7
+  - first:
+      213: 2656322916759988284
+    second: spear-paviseShield_attack_71x42_8
+  - first:
+      213: -1140491302423591691
+    second: spear-paviseShield_attack_71x42_9
+  - first:
+      213: 5292731991234719902
+    second: spear-paviseShield_attack_71x42_10
+  - first:
+      213: 3269798390246895301
+    second: spear-paviseShield_attack_71x42_11
+  - first:
+      213: 4150784367066883240
+    second: spear-paviseShield_attack_71x42_12
+  - first:
+      213: 8946234132165607076
+    second: spear-paviseShield_attack_71x42_13
+  - first:
+      213: 5778961154204360834
+    second: spear-paviseShield_attack_71x42_14
+  - first:
+      213: -3064268333605089410
+    second: spear-paviseShield_attack_71x42_15
+  - first:
+      213: -7629021798229284015
+    second: spear-paviseShield_attack_71x42_16
+  - first:
+      213: -783098927353787909
+    second: spear-paviseShield_attack_71x42_17
+  - first:
+      213: 1605346118367371220
+    second: spear-paviseShield_attack_71x42_18
+  - first:
+      213: 5827997374460862859
+    second: spear-paviseShield_attack_71x42_19
+  - first:
+      213: -774469194432840546
+    second: spear-paviseShield_attack_71x42_20
+  - first:
+      213: 2392441326194339550
+    second: spear-paviseShield_attack_71x42_21
+  - first:
+      213: -2613721744475923049
+    second: spear-paviseShield_attack_71x42_22
+  - first:
+      213: -2227812167869400346
+    second: spear-paviseShield_attack_71x42_23
+  - first:
+      213: 3779323552620245855
+    second: spear-paviseShield_attack_71x42_24
+  - first:
+      213: 4820771431112889796
+    second: spear-paviseShield_attack_71x42_25
+  - first:
+      213: 7120576420988307593
+    second: spear-paviseShield_attack_71x42_26
+  - first:
+      213: 7229940052081744483
+    second: spear-paviseShield_attack_71x42_27
+  - first:
+      213: 315942064678437533
+    second: spear-paviseShield_attack_71x42_28
+  - first:
+      213: 2411371609468037742
+    second: spear-paviseShield_attack_71x42_29
+  - first:
+      213: 1264686525096181733
+    second: spear-paviseShield_attack_71x42_30
+  - first:
+      213: -6992184361401374630
+    second: spear-paviseShield_attack_71x42_31
+  - first:
+      213: -857108888516468623
+    second: spear-paviseShield_attack_71x42_32
+  - first:
+      213: 5428067473423576274
+    second: spear-paviseShield_attack_71x42_33
+  - first:
+      213: -7247855162983658065
+    second: spear-paviseShield_attack_71x42_34
+  - first:
+      213: -4381726342549339565
+    second: spear-paviseShield_attack_71x42_35
+  - first:
+      213: -7842663925937207260
+    second: spear-paviseShield_attack_71x42_36
+  - first:
+      213: 8735934826595998190
+    second: spear-paviseShield_attack_71x42_37
+  - first:
+      213: -1133029809237630275
+    second: spear-paviseShield_attack_71x42_38
+  - first:
+      213: 6521789419371637960
+    second: spear-paviseShield_attack_71x42_39
+  - first:
+      213: -6669543225386084870
+    second: spear-paviseShield_attack_71x42_40
+  - first:
+      213: 2589900845325926305
+    second: spear-paviseShield_attack_71x42_41
+  - first:
+      213: -6217996745121939040
+    second: spear-paviseShield_attack_71x42_42
+  - first:
+      213: 9178809301594497849
+    second: spear-paviseShield_attack_71x42_43
+  - first:
+      213: -7156580724459167904
+    second: spear-paviseShield_attack_71x42_44
+  - first:
+      213: -6550110479247632665
+    second: spear-paviseShield_attack_71x42_45
+  - first:
+      213: 6995748455240062457
+    second: spear-paviseShield_attack_71x42_46
+  - first:
+      213: 707641773246976966
+    second: spear-paviseShield_attack_71x42_47
+  - first:
+      213: -6022567518672983555
+    second: spear-paviseShield_attack_71x42_48
+  - first:
+      213: 698223912019564528
+    second: spear-paviseShield_attack_71x42_49
+  - first:
+      213: -6486289029044475618
+    second: spear-paviseShield_attack_71x42_50
+  - first:
+      213: 3811191042442225368
+    second: spear-paviseShield_attack_71x42_51
+  - first:
+      213: 8410120500151113672
+    second: spear-paviseShield_attack_71x42_52
+  - first:
+      213: 8506821417941839036
+    second: spear-paviseShield_attack_71x42_53
+  - first:
+      213: 3502311684323357514
+    second: spear-paviseShield_attack_71x42_54
+  - first:
+      213: 873045753884771255
+    second: spear-paviseShield_attack_71x42_55
+  - first:
+      213: 8339491529938895146
+    second: spear-paviseShield_attack_71x42_56
+  - first:
+      213: -593694683608078458
+    second: spear-paviseShield_attack_71x42_57
+  - first:
+      213: 3274673556049375508
+    second: spear-paviseShield_attack_71x42_58
+  - first:
+      213: 7269889623277949277
+    second: spear-paviseShield_attack_71x42_59
+  - first:
+      213: 200902970049544972
+    second: spear-paviseShield_attack_71x42_60
+  - first:
+      213: 7815407434392227241
+    second: spear-paviseShield_attack_71x42_61
+  - first:
+      213: 8918273866030325125
+    second: spear-paviseShield_attack_71x42_62
+  - first:
+      213: -9005183023017094984
+    second: spear-paviseShield_attack_71x42_63
+  - first:
+      213: -4142424319767071194
+    second: spear-paviseShield_attack_71x42_64
+  - first:
+      213: 5582919851566806432
+    second: spear-paviseShield_attack_71x42_65
+  - first:
+      213: -6442776567754397347
+    second: spear-paviseShield_attack_71x42_66
+  - first:
+      213: 5644855199274574324
+    second: spear-paviseShield_attack_71x42_67
+  - first:
+      213: 3570541037984920419
+    second: spear-paviseShield_attack_71x42_68
+  - first:
+      213: 1580559847765901620
+    second: spear-paviseShield_attack_71x42_69
+  - first:
+      213: -4934300128545204664
+    second: spear-paviseShield_attack_71x42_70
+  - first:
+      213: -5716399687604676737
+    second: spear-paviseShield_attack_71x42_71
+  - first:
+      213: 7239386852524472931
+    second: spear-paviseShield_attack_71x42_72
+  - first:
+      213: 9059221903055176219
+    second: spear-paviseShield_attack_71x42_73
+  - first:
+      213: -5801020711687725244
+    second: spear-paviseShield_attack_71x42_74
+  - first:
+      213: 4235723157565201352
+    second: spear-paviseShield_attack_71x42_75
+  - first:
+      213: -7269923095574869095
+    second: spear-paviseShield_attack_71x42_76
+  - first:
+      213: -4321226998466690671
+    second: spear-paviseShield_attack_71x42_77
+  - first:
+      213: -6530558315517260124
+    second: spear-paviseShield_attack_71x42_78
+  - first:
+      213: 7340026504517552396
+    second: spear-paviseShield_attack_71x42_79
+  - first:
+      213: 4448781025606838087
+    second: spear-paviseShield_attack_71x42_80
+  - first:
+      213: -9188466255257076460
+    second: spear-paviseShield_attack_71x42_81
+  - first:
+      213: 6248708819531279672
+    second: spear-paviseShield_attack_71x42_82
+  - first:
+      213: 2627590132004282756
+    second: spear-paviseShield_attack_71x42_83
+  - first:
+      213: 216707503506089867
+    second: spear-paviseShield_attack_71x42_84
+  - first:
+      213: -2667462715469320376
+    second: spear-paviseShield_attack_71x42_85
+  - first:
+      213: 6267828013924179666
+    second: spear-paviseShield_attack_71x42_86
+  - first:
+      213: -632461564255021589
+    second: spear-paviseShield_attack_71x42_87
+  - first:
+      213: -8231315223880505955
+    second: spear-paviseShield_attack_71x42_88
+  - first:
+      213: 6290877539164810340
+    second: spear-paviseShield_attack_71x42_89
+  - first:
+      213: -2321169089140689761
+    second: spear-paviseShield_attack_71x42_90
+  - first:
+      213: -5717528665254326108
+    second: spear-paviseShield_attack_71x42_91
+  - first:
+      213: 1550634788039354117
+    second: spear-paviseShield_attack_71x42_92
+  - first:
+      213: 4116490220716504611
+    second: spear-paviseShield_attack_71x42_93
+  - first:
+      213: -816236799298351390
+    second: spear-paviseShield_attack_71x42_94
+  - first:
+      213: 7344135386160661749
+    second: spear-paviseShield_attack_71x42_95
+  - first:
+      213: 5751693721885357122
+    second: spear-paviseShield_attack_71x42_96
+  - first:
+      213: 5252319386411756362
+    second: spear-paviseShield_attack_71x42_97
+  - first:
+      213: -305178268268515286
+    second: spear-paviseShield_attack_71x42_98
+  - first:
+      213: 1155211820557739243
+    second: spear-paviseShield_attack_71x42_99
+  - first:
+      213: 8990486209258427085
+    second: spear-paviseShield_attack_71x42_100
+  - first:
+      213: 6189200120849271730
+    second: spear-paviseShield_attack_71x42_101
+  - first:
+      213: 4628107437939715497
+    second: spear-paviseShield_attack_71x42_102
+  - first:
+      213: -8883501709329050427
+    second: spear-paviseShield_attack_71x42_103
+  - first:
+      213: 3793035298953665226
+    second: spear-paviseShield_attack_71x42_104
+  - first:
+      213: -6946243160677968401
+    second: spear-paviseShield_attack_71x42_105
+  - first:
+      213: 8125445890665666190
+    second: spear-paviseShield_attack_71x42_106
+  - first:
+      213: -5548651616844879058
+    second: spear-paviseShield_attack_71x42_107
+  - first:
+      213: -8880871513667377378
+    second: spear-paviseShield_attack_71x42_108
+  - first:
+      213: -6789479356306880675
+    second: spear-paviseShield_attack_71x42_109
+  - first:
+      213: -494533186208139503
+    second: spear-paviseShield_attack_71x42_110
+  - first:
+      213: -1837228721065820952
+    second: spear-paviseShield_attack_71x42_111
+  - first:
+      213: -612270157387539257
+    second: spear-paviseShield_attack_71x42_112
+  - first:
+      213: 8356015991426955506
+    second: spear-paviseShield_attack_71x42_113
+  - first:
+      213: 5238041437476526771
+    second: spear-paviseShield_attack_71x42_114
+  - first:
+      213: -8043452443832600656
+    second: spear-paviseShield_attack_71x42_115
+  - first:
+      213: 3249305315429911591
+    second: spear-paviseShield_attack_71x42_116
+  - first:
+      213: 8864599367624973493
+    second: spear-paviseShield_attack_71x42_117
+  - first:
+      213: 8634522375563585707
+    second: spear-paviseShield_attack_71x42_118
+  - first:
+      213: 1818161428446545375
+    second: spear-paviseShield_attack_71x42_119
+  - first:
+      213: 6855814868315998122
+    second: spear-paviseShield_attack_71x42_120
+  - first:
+      213: -6310757655980943088
+    second: spear-paviseShield_attack_71x42_121
+  - first:
+      213: -5990652217113890593
+    second: spear-paviseShield_attack_71x42_122
+  - first:
+      213: -54432809891132316
+    second: spear-paviseShield_attack_71x42_123
+  - first:
+      213: -4260254455572730831
+    second: spear-paviseShield_attack_71x42_124
+  - first:
+      213: 6826914254133328848
+    second: spear-paviseShield_attack_71x42_125
+  - first:
+      213: 7036570188358222632
+    second: spear-paviseShield_attack_71x42_126
+  - first:
+      213: -5344999374835683146
+    second: spear-paviseShield_attack_71x42_127
+  - first:
+      213: -3509617210947122118
+    second: spear-paviseShield_attack_71x42_128
+  - first:
+      213: 8434516232535614911
+    second: spear-paviseShield_attack_71x42_129
+  - first:
+      213: -6769569620572080658
+    second: spear-paviseShield_attack_71x42_130
+  - first:
+      213: 8426864056476052315
+    second: spear-paviseShield_attack_71x42_131
+  - first:
+      213: 1325311786205662228
+    second: spear-paviseShield_attack_71x42_132
+  - first:
+      213: -1719144724207929170
+    second: spear-paviseShield_attack_71x42_133
+  - first:
+      213: 2881823377032353551
+    second: spear-paviseShield_attack_71x42_134
+  - first:
+      213: 3003866701042252729
+    second: spear-paviseShield_attack_71x42_135
+  - first:
+      213: -1717492486522159864
+    second: spear-paviseShield_attack_71x42_136
+  - first:
+      213: 8283054850721804151
+    second: spear-paviseShield_attack_71x42_137
+  - first:
+      213: -3252143954034118011
+    second: spear-paviseShield_attack_71x42_138
+  - first:
+      213: 7540449064813812335
+    second: spear-paviseShield_attack_71x42_139
+  - first:
+      213: 1625326831512274976
+    second: spear-paviseShield_attack_71x42_140
+  - first:
+      213: -1980147092470327163
+    second: spear-paviseShield_attack_71x42_141
+  - first:
+      213: 5215823309325488810
+    second: spear-paviseShield_attack_71x42_142
+  - first:
+      213: 7279687705211904761
+    second: spear-paviseShield_attack_71x42_143
+  - first:
+      213: 6961270333773202210
+    second: spear-paviseShield_attack_71x42_144
+  - first:
+      213: -4193445980738246696
+    second: spear-paviseShield_attack_71x42_145
+  - first:
+      213: 7681864556772545764
+    second: spear-paviseShield_attack_71x42_146
+  - first:
+      213: -4192346514251224132
+    second: spear-paviseShield_attack_71x42_147
+  - first:
+      213: -6141802110285748214
+    second: spear-paviseShield_attack_71x42_148
+  - first:
+      213: 1838270205632460699
+    second: spear-paviseShield_attack_71x42_149
+  - first:
+      213: 521563916385847479
+    second: spear-paviseShield_attack_71x42_150
+  - first:
+      213: -7253028512171943719
+    second: spear-paviseShield_attack_71x42_151
+  - first:
+      213: -844588638123757814
+    second: spear-paviseShield_attack_71x42_152
+  - first:
+      213: -1297011206751163201
+    second: spear-paviseShield_attack_71x42_153
+  - first:
+      213: -7527775619308249847
+    second: spear-paviseShield_attack_71x42_154
+  - first:
+      213: 6753302442622930503
+    second: spear-paviseShield_attack_71x42_155
+  - first:
+      213: -8410916379359417639
+    second: spear-paviseShield_attack_71x42_156
+  - first:
+      213: -8218637208137513886
+    second: spear-paviseShield_attack_71x42_157
+  - first:
+      213: 2569189698782389075
+    second: spear-paviseShield_attack_71x42_158
+  - first:
+      213: 8911762892025757593
+    second: spear-paviseShield_attack_71x42_159
+  - first:
+      213: -8763404930456989420
+    second: spear-paviseShield_attack_71x42_160
+  - first:
+      213: -4964157860545047312
+    second: spear-paviseShield_attack_71x42_161
+  - first:
+      213: 1636544268096780615
+    second: spear-paviseShield_attack_71x42_162
+  - first:
+      213: 882235987502170019
+    second: spear-paviseShield_attack_71x42_163
+  - first:
+      213: 7915482068987722808
+    second: spear-paviseShield_attack_71x42_164
+  - first:
+      213: -1600782533767006600
+    second: spear-paviseShield_attack_71x42_165
+  - first:
+      213: -388942111697877847
+    second: spear-paviseShield_attack_71x42_166
+  - first:
+      213: -2476960814624424208
+    second: spear-paviseShield_attack_71x42_167
+  - first:
+      213: 9139382033992169841
+    second: spear-paviseShield_attack_71x42_168
+  - first:
+      213: -7306795764512234641
+    second: spear-paviseShield_attack_71x42_169
+  - first:
+      213: -7899463089479423715
+    second: spear-paviseShield_attack_71x42_170
+  - first:
+      213: 5051918856144149595
+    second: spear-paviseShield_attack_71x42_171
+  - first:
+      213: -3280142477069879547
+    second: spear-paviseShield_attack_71x42_172
+  - first:
+      213: -7168718864826945555
+    second: spear-paviseShield_attack_71x42_173
+  - first:
+      213: -6499712099279493868
+    second: spear-paviseShield_attack_71x42_174
+  - first:
+      213: 3691966674658209858
+    second: spear-paviseShield_attack_71x42_175
+  - first:
+      213: 106076038567004128
+    second: spear-paviseShield_attack_71x42_176
+  - first:
+      213: -8634312750471837125
+    second: spear-paviseShield_attack_71x42_177
+  - first:
+      213: 5568245283869225145
+    second: spear-paviseShield_attack_71x42_178
+  - first:
+      213: -8083956195191617962
+    second: spear-paviseShield_attack_71x42_179
+  - first:
+      213: 2968245111215391524
+    second: spear-paviseShield_attack_71x42_180
+  - first:
+      213: -23170570888337987
+    second: spear-paviseShield_attack_71x42_181
+  - first:
+      213: -1510270488352207611
+    second: spear-paviseShield_attack_71x42_182
+  - first:
+      213: -986152603400289245
+    second: spear-paviseShield_attack_71x42_183
+  - first:
+      213: 6477584777272567731
+    second: spear-paviseShield_attack_71x42_184
+  - first:
+      213: 8691665857555900638
+    second: spear-paviseShield_attack_71x42_185
+  - first:
+      213: -9164522177455712684
+    second: spear-paviseShield_attack_71x42_186
+  - first:
+      213: -5962227408930273386
+    second: spear-paviseShield_attack_71x42_187
+  - first:
+      213: 2451258772134136359
+    second: spear-paviseShield_attack_71x42_188
+  - first:
+      213: -3933999631732735650
+    second: spear-paviseShield_attack_71x42_189
+  - first:
+      213: -3490602978940527447
+    second: spear-paviseShield_attack_71x42_190
+  - first:
+      213: -6459631128585550400
+    second: spear-paviseShield_attack_71x42_191
+  - first:
+      213: -5299530445264002702
+    second: spear-paviseShield_attack_71x42_192
+  - first:
+      213: 3782241131342370406
+    second: spear-paviseShield_attack_71x42_193
+  - first:
+      213: 7110821599109513828
+    second: spear-paviseShield_attack_71x42_194
+  - first:
+      213: -8446095781103019841
+    second: spear-paviseShield_attack_71x42_195
+  - first:
+      213: 8629928463894060782
+    second: spear-paviseShield_attack_71x42_196
+  - first:
+      213: -6471605252417830137
+    second: spear-paviseShield_attack_71x42_197
+  - first:
+      213: 6891888390824943316
+    second: spear-paviseShield_attack_71x42_198
+  - first:
+      213: -7828624682893917947
+    second: spear-paviseShield_attack_71x42_199
+  - first:
+      213: -2010382370326264384
+    second: spear-paviseShield_attack_71x42_200
+  - first:
+      213: -7433985587558967606
+    second: spear-paviseShield_attack_71x42_201
+  - first:
+      213: -305879764728771540
+    second: spear-paviseShield_attack_71x42_202
+  - first:
+      213: 7822810660147187350
+    second: spear-paviseShield_attack_71x42_203
+  - first:
+      213: -3138233025343915772
+    second: spear-paviseShield_attack_71x42_204
+  - first:
+      213: 7650416303320147497
+    second: spear-paviseShield_attack_71x42_205
+  - first:
+      213: -6465124080855702832
+    second: spear-paviseShield_attack_71x42_206
+  - first:
+      213: -1497808372270319931
+    second: spear-paviseShield_attack_71x42_207
+  - first:
+      213: -8997880485573290379
+    second: spear-paviseShield_attack_71x42_208
+  - first:
+      213: -6620317179084849954
+    second: spear-paviseShield_attack_71x42_209
+  - first:
+      213: -5324167828212328042
+    second: spear-paviseShield_attack_71x42_210
+  - first:
+      213: 5566520751139284917
+    second: spear-paviseShield_attack_71x42_211
+  - first:
+      213: 770186183919986621
+    second: spear-paviseShield_attack_71x42_212
+  - first:
+      213: 8684849766828527755
+    second: spear-paviseShield_attack_71x42_213
+  - first:
+      213: 4587832268609947875
+    second: spear-paviseShield_attack_71x42_214
+  - first:
+      213: -8303929854110467348
+    second: spear-paviseShield_attack_71x42_215
+  - first:
+      213: -3171167943570770782
+    second: spear-paviseShield_attack_71x42_216
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e57d22f829b1a80800000000000000
+      internalID: -8495035128641790416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba42c941ed91ebc0800000000000000
+      internalID: -3755547023319610701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e2b4de162810aa0800000000000000
+      internalID: -6196528255180526062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16931233d30379680800000000000000
+      internalID: -8748470711734945439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01402611b97ec1cd0800000000000000
+      internalID: -2585937432819923952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0fa17f6c5e0af0800000000000000
+      internalID: -428303280835194897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94c6628394311f70800000000000000
+      internalID: 9156157325573538972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8af9b3c6df728c0800000000000000
+      internalID: -4023969100733634340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3865367e972dd420800000000000000
+      internalID: 2656322916759988284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f48e99f3392c20f0800000000000000
+      internalID: -1140491302423591691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9034e434bf837940800000000000000
+      internalID: 5292731991234719902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce6fc1df48a06d20800000000000000
+      internalID: 3269798390246895301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_12
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4244ad36c8a9930800000000000000
+      internalID: 4150784367066883240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_13
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb4354b88672c70800000000000000
+      internalID: 8946234132165607076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_14
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280e12f2d8ef23050800000000000000
+      internalID: 5778961154204360834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_15
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 714
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f8dfe8f288975d0800000000000000
+      internalID: -3064268333605089410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be4d44815402690800000000000000
+      internalID: -7629021798229284015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf98613bcafd125f0800000000000000
+      internalID: -783098927353787909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd6d60ac5574610800000000000000
+      internalID: 1605346118367371220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8126a8ebb431e050800000000000000
+      internalID: 5827997374460862859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_20
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cf858fe588045f0800000000000000
+      internalID: -774469194432840546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede27c1e5b8a33120800000000000000
+      internalID: 2392441326194339550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d5cc6ebe13abbd0800000000000000
+      internalID: -2613721744475923049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_23
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaf9d303a83511e0800000000000000
+      internalID: -2227812167869400346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_24
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5372355fbad27430800000000000000
+      internalID: 3779323552620245855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 672
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5d5d63312d6e240800000000000000
+      internalID: 4820771431112889796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988c709478e51d260800000000000000
+      internalID: 7120576420988307593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a93b7eb28e55460800000000000000
+      internalID: 7229940052081744483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_28
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9203c642a3726400800000000000000
+      internalID: 315942064678437533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aedcbe3b9e67120800000000000000
+      internalID: 2411371609468037742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb498a1b11d8110800000000000000
+      internalID: 1264686525096181733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5821a69e55c6fe90800000000000000
+      internalID: -6992184361401374630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170652ec100fa14f0800000000000000
+      internalID: -857108888516468623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_33
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dca342ab9e545b40800000000000000
+      internalID: 5428067473423576274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc0ea41227a6b90800000000000000
+      internalID: -7247855162983658065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_35
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 630
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35200695b1bf033c0800000000000000
+      internalID: -4381726342549339565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4280eb926b2492390800000000000000
+      internalID: -7842663925937207260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9d73890764c3970800000000000000
+      internalID: 8735934826595998190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2667c346ba640f0800000000000000
+      internalID: -1133029809237630275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc2c894cec028a50800000000000000
+      internalID: 6521789419371637960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5dfb4f5c50173a0800000000000000
+      internalID: -6669543225386084870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb221d81d21f320800000000000000
+      internalID: 2589900845325926305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_42
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1c87897ec35b9a0800000000000000
+      internalID: -6217996745121939040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933679aad6ea16f70800000000000000
+      internalID: 9178809301594497849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f14309fb7beac90800000000000000
+      internalID: -7156580724459167904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_45
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e691ec19355915a0800000000000000
+      internalID: -6550110479247632665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_46
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5529ca724e51160800000000000000
+      internalID: 6995748455240062457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_47
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c31d9a817c02d900800000000000000
+      internalID: 707641773246976966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_48
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e0bd20ca8b6ca0800000000000000
+      internalID: -6022567518672983555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_49
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71c99d2f690b900800000000000000
+      internalID: 698223912019564528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_50
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e196a417e721cf5a0800000000000000
+      internalID: -6486289029044475618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_51
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 588
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66bef7f0214e430800000000000000
+      internalID: 3811191042442225368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7dcb14900c6b470800000000000000
+      internalID: 8410120500151113672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcab10320d4e0670800000000000000
+      internalID: 8506821417941839036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a433bccbbe5ba9030800000000000000
+      internalID: 3502311684323357514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_55
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b307f0dc7ead1c00800000000000000
+      internalID: 873045753884771255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_56
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a210369ac53dbb370800000000000000
+      internalID: 8339491529938895146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_57
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a08ea4d5c2c7f0800000000000000
+      internalID: -593694683608078458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41130bfcf3af17d20800000000000000
+      internalID: 3274673556049375508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_59
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51d7c74816d3e460800000000000000
+      internalID: 7269889623277949277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_60
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03cf14df20c9c200800000000000000
+      internalID: 200902970049544972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_61
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 546
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad45ed57a7e57c60800000000000000
+      internalID: 7815407434392227241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d136284d214cb70800000000000000
+      internalID: 8918273866030325125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b010b780c9270380800000000000000
+      internalID: -9005183023017094984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626385757072386c0800000000000000
+      internalID: -4142424319767071194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_65
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5bd1286048a7d40800000000000000
+      internalID: 5582919851566806432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_66
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59e9cfc8d8a696a0800000000000000
+      internalID: -6442776567754397347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_67
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1274165ed865e40800000000000000
+      internalID: 5644855199274574324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_68
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363bb01182c1d8130800000000000000
+      internalID: 3570541037984920419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_69
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4310550bec64fe510800000000000000
+      internalID: 1580559847765901620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_70
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84616e61d28d58bb0800000000000000
+      internalID: -4934300128545204664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_71
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 504
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f775b2a55c44ba0b0800000000000000
+      internalID: -5716399687604676737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aba588cf7777460800000000000000
+      internalID: 7239386852524472931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12ca01b252d8bd70800000000000000
+      internalID: 9059221903055176219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f5b29d562ae7fa0800000000000000
+      internalID: -5801020711687725244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_75
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbd19d15cf48ca30800000000000000
+      internalID: 4235723157565201352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_76
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b0ad7567b0c1b90800000000000000
+      internalID: -7269923095574869095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_77
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191c09290fae704c0800000000000000
+      internalID: -4321226998466690671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_78
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aece9affcbce55a0800000000000000
+      internalID: -6530558315517260124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_79
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0988bb77330dd560800000000000000
+      internalID: 7340026504517552396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_80
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7472bcaa5ce3dbd30800000000000000
+      internalID: 4448781025606838087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_81
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dfcb89f920c7080800000000000000
+      internalID: -9188466255257076460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_82
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d2305709fd7b650800000000000000
+      internalID: 6248708819531279672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_83
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481ef61bd43177420800000000000000
+      internalID: 2627590132004282756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_84
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8764a68356e10300800000000000000
+      internalID: 216707503506089867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_85
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f2ad80bc44bfad0800000000000000
+      internalID: -2667462715469320376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_86
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de513bce5ccbf650800000000000000
+      internalID: 6267828013924179666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_87
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 462
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5dd78ee8b0937f0800000000000000
+      internalID: -632461564255021589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95665e4a6e74cd80800000000000000
+      internalID: -8231315223880505955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_89
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ce6679acfad4750800000000000000
+      internalID: 6290877539164810340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_90
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94f622f20d89cfd0800000000000000
+      internalID: -2321169089140689761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_91
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a01762c8f147a0b0800000000000000
+      internalID: -5717528665254326108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_92
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e275cf16f48510800000000000000
+      internalID: 1550634788039354117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_93
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3263d2fab06b02930800000000000000
+      internalID: 4116490220716504611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_94
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee4835a4f42ca4f0800000000000000
+      internalID: -816236799298351390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_95
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f48b7a093c9be560800000000000000
+      internalID: 7344135386160661749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_96
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24432dd57fe12df40800000000000000
+      internalID: 5751693721885357122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_97
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 420
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b68f967acf3e840800000000000000
+      internalID: 5252319386411756362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20bfae5bf9c3cbf0800000000000000
+      internalID: -305178268268515286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be42dacb703280010800000000000000
+      internalID: 1155211820557739243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_100
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc295ecd29f94cc70800000000000000
+      internalID: 8990486209258427085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8607d7b474e550800000000000000
+      internalID: 6189200120849271730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_102
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad6dbca1375a3040800000000000000
+      internalID: 4628107437939715497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_103
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4dddd134677b480800000000000000
+      internalID: -8883501709329050427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_104
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca96ae028193a430800000000000000
+      internalID: 3793035298953665226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_105
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe59d4ce5acf99f90800000000000000
+      internalID: -6946243160677968401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_106
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86d8c2bcf163c070800000000000000
+      internalID: 8125445890665666190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_107
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6093a0ca3ff2b0800000000000000
+      internalID: -5548651616844879058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_108
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 378
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1768f3496ec0c480800000000000000
+      internalID: -8880871513667377378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d570b756f7ce6c1a0800000000000000
+      internalID: -6789479356306880675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117fb62ffa01329f0800000000000000
+      internalID: -494533186208139503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_111
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecf9b5563ad086e0800000000000000
+      internalID: -1837228721065820952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_112
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccd75a2987c087f0800000000000000
+      internalID: -612270157387539257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_113
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8bc7aa54886f370800000000000000
+      internalID: 8356015991426955506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_114
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba909f5fe241b840800000000000000
+      internalID: 5238041437476526771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_115
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73c9d4e9aef5090800000000000000
+      internalID: -8043452443832600656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_116
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c0df408f9d71d20800000000000000
+      internalID: 3249305315429911591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_117
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc507f7822650b70800000000000000
+      internalID: 8864599367624973493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_118
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba821a85a5cf3d770800000000000000
+      internalID: 8634522375563585707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_119
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd58fd6af286b3910800000000000000
+      internalID: 1818161428446545375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_120
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa701df8c4fb42f50800000000000000
+      internalID: 6855814868315998122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_121
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019dda3095fab68a0800000000000000
+      internalID: -6310757655980943088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_122
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd035026c8decdca0800000000000000
+      internalID: -5990652217113890593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_123
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0056d5ad9e3ff0800000000000000
+      internalID: -54432809891132316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_124
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 336
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cefcaf42980e4c0800000000000000
+      internalID: -4260254455572730831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbfaa5f7521ebe50800000000000000
+      internalID: 6826914254133328848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_126
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82302321e4be6a160800000000000000
+      internalID: 7036570188358222632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_127
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0fb3a336fb2d5b0800000000000000
+      internalID: -5344999374835683146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_128
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c46ebcdb55b4fc0800000000000000
+      internalID: -3509617210947122118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52d8453db6d0570800000000000000
+      internalID: 8434516232535614911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_130
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5768bfb48ad02a0800000000000000
+      internalID: -6769569620572080658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_131
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b23c0463c32f470800000000000000
+      internalID: 8426864056476052315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_132
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c4d693c04746210800000000000000
+      internalID: 1325311786205662228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_133
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea879145bfe5428e0800000000000000
+      internalID: -1719144724207929170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_134
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 294
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f071e65c71b4ef720800000000000000
+      internalID: 2881823377032353551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb7f3479d0efa920800000000000000
+      internalID: 3003866701042252729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_136
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80db174eead3a28e0800000000000000
+      internalID: -1717492486522159864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_137
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f6950508253f270800000000000000
+      internalID: 8283054850721804151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_138
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582bc5ded401ed2d0800000000000000
+      internalID: -3252143954034118011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_139
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a5723397e05a860800000000000000
+      internalID: 7540449064813812335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_140
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028433454225e8610800000000000000
+      internalID: 1625326831512274976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_141
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588984ee5ba1584e0800000000000000
+      internalID: -1980147092470327163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_142
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa25c8b4aa3526840800000000000000
+      internalID: 5215823309325488810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_143
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f22fe00665a60560800000000000000
+      internalID: 7279687705211904761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_144
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 252
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22344067c766b9060800000000000000
+      internalID: 6961270333773202210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7ae4d2913edc5c0800000000000000
+      internalID: -4193445980738246696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_146
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e457173d177b9a60800000000000000
+      internalID: 7681864556772545764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_147
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb65baae0bc1d5c0800000000000000
+      internalID: -4192346514251224132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_148
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a086ca7758fe3caa0800000000000000
+      internalID: -6141802110285748214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_149
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9738ef2309d28910800000000000000
+      internalID: 1838270205632460699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_150
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b807db5e97fc3700800000000000000
+      internalID: 521563916385847479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_151
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d816321ff0185b90800000000000000
+      internalID: -7253028512171943719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_152
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f6d43cb1b6744f0800000000000000
+      internalID: -844588638123757814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_153
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc65e7ed27100ee0800000000000000
+      internalID: -1297011206751163201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_154
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d194645f7f78790800000000000000
+      internalID: -7527775619308249847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_155
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e41518acc88bd50800000000000000
+      internalID: 6753302442622930503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_156
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da64ccad1c664b80800000000000000
+      internalID: -8410916379359417639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_157
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264c72fd00981fd80800000000000000
+      internalID: -8218637208137513886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_158
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353648c3b6897a320800000000000000
+      internalID: 2569189698782389075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_159
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ff3bd3221fcab70800000000000000
+      internalID: 8911762892025757593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_160
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 210
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411543175a1226680800000000000000
+      internalID: -8763404930456989420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4df312ab4cb1bb0800000000000000
+      internalID: -4964157860545047312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_162
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7493c1f475c26b610800000000000000
+      internalID: 1636544268096780615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_163
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aff123d4f45e3c00800000000000000
+      internalID: 882235987502170019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_164
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cbcf3f00179dd60800000000000000
+      internalID: 7915482068987722808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_165
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876fa2054c0e8c9e0800000000000000
+      internalID: -1600782533767006600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_166
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4ce0ac5333a9af0800000000000000
+      internalID: -388942111697877847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_167
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0febfb9334110add0800000000000000
+      internalID: -2476960814624424208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_168
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179b0b2998b95de70800000000000000
+      internalID: 9139382033992169841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_169
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f636be917fb099a90800000000000000
+      internalID: -7306795764512234641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_170
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 168
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19e44b5c287f5290800000000000000
+      internalID: -7899463089479423715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd196fe650c1640800000000000000
+      internalID: 5051918856144149595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_172
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5077499cbc79a72d0800000000000000
+      internalID: -3280142477069879547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_173
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def29578c28938c90800000000000000
+      internalID: -7168718864826945555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_174
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415232c58426cc5a0800000000000000
+      internalID: -6499712099279493868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_175
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240359531208c3330800000000000000
+      internalID: 3691966674658209858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_176
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e787f5589bd87100800000000000000
+      internalID: 106076038567004128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_177
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a008ccc42cc2880800000000000000
+      internalID: -8634312750471837125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_178
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0f4477591664d40800000000000000
+      internalID: 5568245283869225145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_179
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65609cdcba400df80800000000000000
+      internalID: -8083956195191617962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_180
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 126
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4238844c333513920800000000000000
+      internalID: 2968245111215391524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db525f01d7eadaff0800000000000000
+      internalID: -23170570888337987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_182
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dc20b1ef07a0be0800000000000000
+      internalID: -1510270488352207611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_183
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324cffb9e6b7052f0800000000000000
+      internalID: -986152603400289245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_184
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b72fc3090105e950800000000000000
+      internalID: 6477584777272567731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_185
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8a20a0c000f9870800000000000000
+      internalID: 8691665857555900638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_186
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4561094a2a311d080800000000000000
+      internalID: -9164522177455712684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_187
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6970d94c2c9e14da0800000000000000
+      internalID: -5962227408930273386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_188
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8d9dadde940220800000000000000
+      internalID: 2451258772134136359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_189
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e518d0c9d20a769c0800000000000000
+      internalID: -3933999631732735650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_190
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac545ca513ee8fc0800000000000000
+      internalID: -3490602978940527447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_191
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c54a9096b7ca56a0800000000000000
+      internalID: -6459631128585550400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_192
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271ebad53294476b0800000000000000
+      internalID: -5299530445264002702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_193
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666988015483d7430800000000000000
+      internalID: 3782241131342370406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_194
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4620914d196bea260800000000000000
+      internalID: 7110821599109513828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_195
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8dd6ce2a079ca80800000000000000
+      internalID: -8446095781103019841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_196
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 84
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee107fe63aa3c770800000000000000
+      internalID: 8629928463894060782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703451b9f4d3036a0800000000000000
+      internalID: -6471605252417830137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_198
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de52c60af7e4af50800000000000000
+      internalID: 6891888390824943316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_199
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501c04824532b5390800000000000000
+      internalID: -7828624682893917947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_200
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5cef9b2efa914e0800000000000000
+      internalID: -2010382370326264384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_201
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac69c2cbe7d25d890800000000000000
+      internalID: -7433985587558967606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_202
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c8c5f79fb41cbf0800000000000000
+      internalID: -305879764728771540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_203
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e463f29d4309c60800000000000000
+      internalID: 7822810660147187350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_204
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409f9f5c0b1c274d0800000000000000
+      internalID: -3138233025343915772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_205
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926214f181dbb2a60800000000000000
+      internalID: 7650416303320147497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_206
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 42
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a5c3f6e34746a0800000000000000
+      internalID: -6465124080855702832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6b83d9837b63be0800000000000000
+      internalID: -1497808372270319931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_208
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5761cf50f5b112380800000000000000
+      internalID: -8997880485573290379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_209
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc3b300a98ef14a0800000000000000
+      internalID: -6620317179084849954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_210
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69957d2a191cc16b0800000000000000
+      internalID: -5324167828212328042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_211
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76f766121404d40800000000000000
+      internalID: 5566520751139284917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_212
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7e67fe04040ba00800000000000000
+      internalID: 770186183919986621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_213
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d27f39d8c68870800000000000000
+      internalID: 8684849766828527755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_214
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8029314214baf30800000000000000
+      internalID: 4587832268609947875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_215
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceafbf53bc382cc80800000000000000
+      internalID: -8303929854110467348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-paviseShield_attack_71x42_216
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4bb509e8fbdf3d0800000000000000
+      internalID: -3171167943570770782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spear-paviseShield_attack_71x42_0: -8495035128641790416
+      spear-paviseShield_attack_71x42_1: -3755547023319610701
+      spear-paviseShield_attack_71x42_10: 5292731991234719902
+      spear-paviseShield_attack_71x42_100: 8990486209258427085
+      spear-paviseShield_attack_71x42_101: 6189200120849271730
+      spear-paviseShield_attack_71x42_102: 4628107437939715497
+      spear-paviseShield_attack_71x42_103: -8883501709329050427
+      spear-paviseShield_attack_71x42_104: 3793035298953665226
+      spear-paviseShield_attack_71x42_105: -6946243160677968401
+      spear-paviseShield_attack_71x42_106: 8125445890665666190
+      spear-paviseShield_attack_71x42_107: -5548651616844879058
+      spear-paviseShield_attack_71x42_108: -8880871513667377378
+      spear-paviseShield_attack_71x42_109: -6789479356306880675
+      spear-paviseShield_attack_71x42_11: 3269798390246895301
+      spear-paviseShield_attack_71x42_110: -494533186208139503
+      spear-paviseShield_attack_71x42_111: -1837228721065820952
+      spear-paviseShield_attack_71x42_112: -612270157387539257
+      spear-paviseShield_attack_71x42_113: 8356015991426955506
+      spear-paviseShield_attack_71x42_114: 5238041437476526771
+      spear-paviseShield_attack_71x42_115: -8043452443832600656
+      spear-paviseShield_attack_71x42_116: 3249305315429911591
+      spear-paviseShield_attack_71x42_117: 8864599367624973493
+      spear-paviseShield_attack_71x42_118: 8634522375563585707
+      spear-paviseShield_attack_71x42_119: 1818161428446545375
+      spear-paviseShield_attack_71x42_12: 4150784367066883240
+      spear-paviseShield_attack_71x42_120: 6855814868315998122
+      spear-paviseShield_attack_71x42_121: -6310757655980943088
+      spear-paviseShield_attack_71x42_122: -5990652217113890593
+      spear-paviseShield_attack_71x42_123: -54432809891132316
+      spear-paviseShield_attack_71x42_124: -4260254455572730831
+      spear-paviseShield_attack_71x42_125: 6826914254133328848
+      spear-paviseShield_attack_71x42_126: 7036570188358222632
+      spear-paviseShield_attack_71x42_127: -5344999374835683146
+      spear-paviseShield_attack_71x42_128: -3509617210947122118
+      spear-paviseShield_attack_71x42_129: 8434516232535614911
+      spear-paviseShield_attack_71x42_13: 8946234132165607076
+      spear-paviseShield_attack_71x42_130: -6769569620572080658
+      spear-paviseShield_attack_71x42_131: 8426864056476052315
+      spear-paviseShield_attack_71x42_132: 1325311786205662228
+      spear-paviseShield_attack_71x42_133: -1719144724207929170
+      spear-paviseShield_attack_71x42_134: 2881823377032353551
+      spear-paviseShield_attack_71x42_135: 3003866701042252729
+      spear-paviseShield_attack_71x42_136: -1717492486522159864
+      spear-paviseShield_attack_71x42_137: 8283054850721804151
+      spear-paviseShield_attack_71x42_138: -3252143954034118011
+      spear-paviseShield_attack_71x42_139: 7540449064813812335
+      spear-paviseShield_attack_71x42_14: 5778961154204360834
+      spear-paviseShield_attack_71x42_140: 1625326831512274976
+      spear-paviseShield_attack_71x42_141: -1980147092470327163
+      spear-paviseShield_attack_71x42_142: 5215823309325488810
+      spear-paviseShield_attack_71x42_143: 7279687705211904761
+      spear-paviseShield_attack_71x42_144: 6961270333773202210
+      spear-paviseShield_attack_71x42_145: -4193445980738246696
+      spear-paviseShield_attack_71x42_146: 7681864556772545764
+      spear-paviseShield_attack_71x42_147: -4192346514251224132
+      spear-paviseShield_attack_71x42_148: -6141802110285748214
+      spear-paviseShield_attack_71x42_149: 1838270205632460699
+      spear-paviseShield_attack_71x42_15: -3064268333605089410
+      spear-paviseShield_attack_71x42_150: 521563916385847479
+      spear-paviseShield_attack_71x42_151: -7253028512171943719
+      spear-paviseShield_attack_71x42_152: -844588638123757814
+      spear-paviseShield_attack_71x42_153: -1297011206751163201
+      spear-paviseShield_attack_71x42_154: -7527775619308249847
+      spear-paviseShield_attack_71x42_155: 6753302442622930503
+      spear-paviseShield_attack_71x42_156: -8410916379359417639
+      spear-paviseShield_attack_71x42_157: -8218637208137513886
+      spear-paviseShield_attack_71x42_158: 2569189698782389075
+      spear-paviseShield_attack_71x42_159: 8911762892025757593
+      spear-paviseShield_attack_71x42_16: -7629021798229284015
+      spear-paviseShield_attack_71x42_160: -8763404930456989420
+      spear-paviseShield_attack_71x42_161: -4964157860545047312
+      spear-paviseShield_attack_71x42_162: 1636544268096780615
+      spear-paviseShield_attack_71x42_163: 882235987502170019
+      spear-paviseShield_attack_71x42_164: 7915482068987722808
+      spear-paviseShield_attack_71x42_165: -1600782533767006600
+      spear-paviseShield_attack_71x42_166: -388942111697877847
+      spear-paviseShield_attack_71x42_167: -2476960814624424208
+      spear-paviseShield_attack_71x42_168: 9139382033992169841
+      spear-paviseShield_attack_71x42_169: -7306795764512234641
+      spear-paviseShield_attack_71x42_17: -783098927353787909
+      spear-paviseShield_attack_71x42_170: -7899463089479423715
+      spear-paviseShield_attack_71x42_171: 5051918856144149595
+      spear-paviseShield_attack_71x42_172: -3280142477069879547
+      spear-paviseShield_attack_71x42_173: -7168718864826945555
+      spear-paviseShield_attack_71x42_174: -6499712099279493868
+      spear-paviseShield_attack_71x42_175: 3691966674658209858
+      spear-paviseShield_attack_71x42_176: 106076038567004128
+      spear-paviseShield_attack_71x42_177: -8634312750471837125
+      spear-paviseShield_attack_71x42_178: 5568245283869225145
+      spear-paviseShield_attack_71x42_179: -8083956195191617962
+      spear-paviseShield_attack_71x42_18: 1605346118367371220
+      spear-paviseShield_attack_71x42_180: 2968245111215391524
+      spear-paviseShield_attack_71x42_181: -23170570888337987
+      spear-paviseShield_attack_71x42_182: -1510270488352207611
+      spear-paviseShield_attack_71x42_183: -986152603400289245
+      spear-paviseShield_attack_71x42_184: 6477584777272567731
+      spear-paviseShield_attack_71x42_185: 8691665857555900638
+      spear-paviseShield_attack_71x42_186: -9164522177455712684
+      spear-paviseShield_attack_71x42_187: -5962227408930273386
+      spear-paviseShield_attack_71x42_188: 2451258772134136359
+      spear-paviseShield_attack_71x42_189: -3933999631732735650
+      spear-paviseShield_attack_71x42_19: 5827997374460862859
+      spear-paviseShield_attack_71x42_190: -3490602978940527447
+      spear-paviseShield_attack_71x42_191: -6459631128585550400
+      spear-paviseShield_attack_71x42_192: -5299530445264002702
+      spear-paviseShield_attack_71x42_193: 3782241131342370406
+      spear-paviseShield_attack_71x42_194: 7110821599109513828
+      spear-paviseShield_attack_71x42_195: -8446095781103019841
+      spear-paviseShield_attack_71x42_196: 8629928463894060782
+      spear-paviseShield_attack_71x42_197: -6471605252417830137
+      spear-paviseShield_attack_71x42_198: 6891888390824943316
+      spear-paviseShield_attack_71x42_199: -7828624682893917947
+      spear-paviseShield_attack_71x42_2: -6196528255180526062
+      spear-paviseShield_attack_71x42_20: -774469194432840546
+      spear-paviseShield_attack_71x42_200: -2010382370326264384
+      spear-paviseShield_attack_71x42_201: -7433985587558967606
+      spear-paviseShield_attack_71x42_202: -305879764728771540
+      spear-paviseShield_attack_71x42_203: 7822810660147187350
+      spear-paviseShield_attack_71x42_204: -3138233025343915772
+      spear-paviseShield_attack_71x42_205: 7650416303320147497
+      spear-paviseShield_attack_71x42_206: -6465124080855702832
+      spear-paviseShield_attack_71x42_207: -1497808372270319931
+      spear-paviseShield_attack_71x42_208: -8997880485573290379
+      spear-paviseShield_attack_71x42_209: -6620317179084849954
+      spear-paviseShield_attack_71x42_21: 2392441326194339550
+      spear-paviseShield_attack_71x42_210: -5324167828212328042
+      spear-paviseShield_attack_71x42_211: 5566520751139284917
+      spear-paviseShield_attack_71x42_212: 770186183919986621
+      spear-paviseShield_attack_71x42_213: 8684849766828527755
+      spear-paviseShield_attack_71x42_214: 4587832268609947875
+      spear-paviseShield_attack_71x42_215: -8303929854110467348
+      spear-paviseShield_attack_71x42_216: -3171167943570770782
+      spear-paviseShield_attack_71x42_22: -2613721744475923049
+      spear-paviseShield_attack_71x42_23: -2227812167869400346
+      spear-paviseShield_attack_71x42_24: 3779323552620245855
+      spear-paviseShield_attack_71x42_25: 4820771431112889796
+      spear-paviseShield_attack_71x42_26: 7120576420988307593
+      spear-paviseShield_attack_71x42_27: 7229940052081744483
+      spear-paviseShield_attack_71x42_28: 315942064678437533
+      spear-paviseShield_attack_71x42_29: 2411371609468037742
+      spear-paviseShield_attack_71x42_3: -8748470711734945439
+      spear-paviseShield_attack_71x42_30: 1264686525096181733
+      spear-paviseShield_attack_71x42_31: -6992184361401374630
+      spear-paviseShield_attack_71x42_32: -857108888516468623
+      spear-paviseShield_attack_71x42_33: 5428067473423576274
+      spear-paviseShield_attack_71x42_34: -7247855162983658065
+      spear-paviseShield_attack_71x42_35: -4381726342549339565
+      spear-paviseShield_attack_71x42_36: -7842663925937207260
+      spear-paviseShield_attack_71x42_37: 8735934826595998190
+      spear-paviseShield_attack_71x42_38: -1133029809237630275
+      spear-paviseShield_attack_71x42_39: 6521789419371637960
+      spear-paviseShield_attack_71x42_4: -2585937432819923952
+      spear-paviseShield_attack_71x42_40: -6669543225386084870
+      spear-paviseShield_attack_71x42_41: 2589900845325926305
+      spear-paviseShield_attack_71x42_42: -6217996745121939040
+      spear-paviseShield_attack_71x42_43: 9178809301594497849
+      spear-paviseShield_attack_71x42_44: -7156580724459167904
+      spear-paviseShield_attack_71x42_45: -6550110479247632665
+      spear-paviseShield_attack_71x42_46: 6995748455240062457
+      spear-paviseShield_attack_71x42_47: 707641773246976966
+      spear-paviseShield_attack_71x42_48: -6022567518672983555
+      spear-paviseShield_attack_71x42_49: 698223912019564528
+      spear-paviseShield_attack_71x42_5: -428303280835194897
+      spear-paviseShield_attack_71x42_50: -6486289029044475618
+      spear-paviseShield_attack_71x42_51: 3811191042442225368
+      spear-paviseShield_attack_71x42_52: 8410120500151113672
+      spear-paviseShield_attack_71x42_53: 8506821417941839036
+      spear-paviseShield_attack_71x42_54: 3502311684323357514
+      spear-paviseShield_attack_71x42_55: 873045753884771255
+      spear-paviseShield_attack_71x42_56: 8339491529938895146
+      spear-paviseShield_attack_71x42_57: -593694683608078458
+      spear-paviseShield_attack_71x42_58: 3274673556049375508
+      spear-paviseShield_attack_71x42_59: 7269889623277949277
+      spear-paviseShield_attack_71x42_6: 9156157325573538972
+      spear-paviseShield_attack_71x42_60: 200902970049544972
+      spear-paviseShield_attack_71x42_61: 7815407434392227241
+      spear-paviseShield_attack_71x42_62: 8918273866030325125
+      spear-paviseShield_attack_71x42_63: -9005183023017094984
+      spear-paviseShield_attack_71x42_64: -4142424319767071194
+      spear-paviseShield_attack_71x42_65: 5582919851566806432
+      spear-paviseShield_attack_71x42_66: -6442776567754397347
+      spear-paviseShield_attack_71x42_67: 5644855199274574324
+      spear-paviseShield_attack_71x42_68: 3570541037984920419
+      spear-paviseShield_attack_71x42_69: 1580559847765901620
+      spear-paviseShield_attack_71x42_7: -4023969100733634340
+      spear-paviseShield_attack_71x42_70: -4934300128545204664
+      spear-paviseShield_attack_71x42_71: -5716399687604676737
+      spear-paviseShield_attack_71x42_72: 7239386852524472931
+      spear-paviseShield_attack_71x42_73: 9059221903055176219
+      spear-paviseShield_attack_71x42_74: -5801020711687725244
+      spear-paviseShield_attack_71x42_75: 4235723157565201352
+      spear-paviseShield_attack_71x42_76: -7269923095574869095
+      spear-paviseShield_attack_71x42_77: -4321226998466690671
+      spear-paviseShield_attack_71x42_78: -6530558315517260124
+      spear-paviseShield_attack_71x42_79: 7340026504517552396
+      spear-paviseShield_attack_71x42_8: 2656322916759988284
+      spear-paviseShield_attack_71x42_80: 4448781025606838087
+      spear-paviseShield_attack_71x42_81: -9188466255257076460
+      spear-paviseShield_attack_71x42_82: 6248708819531279672
+      spear-paviseShield_attack_71x42_83: 2627590132004282756
+      spear-paviseShield_attack_71x42_84: 216707503506089867
+      spear-paviseShield_attack_71x42_85: -2667462715469320376
+      spear-paviseShield_attack_71x42_86: 6267828013924179666
+      spear-paviseShield_attack_71x42_87: -632461564255021589
+      spear-paviseShield_attack_71x42_88: -8231315223880505955
+      spear-paviseShield_attack_71x42_89: 6290877539164810340
+      spear-paviseShield_attack_71x42_9: -1140491302423591691
+      spear-paviseShield_attack_71x42_90: -2321169089140689761
+      spear-paviseShield_attack_71x42_91: -5717528665254326108
+      spear-paviseShield_attack_71x42_92: 1550634788039354117
+      spear-paviseShield_attack_71x42_93: 4116490220716504611
+      spear-paviseShield_attack_71x42_94: -816236799298351390
+      spear-paviseShield_attack_71x42_95: 7344135386160661749
+      spear-paviseShield_attack_71x42_96: 5751693721885357122
+      spear-paviseShield_attack_71x42_97: 5252319386411756362
+      spear-paviseShield_attack_71x42_98: -305178268268515286
+      spear-paviseShield_attack_71x42_99: 1155211820557739243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

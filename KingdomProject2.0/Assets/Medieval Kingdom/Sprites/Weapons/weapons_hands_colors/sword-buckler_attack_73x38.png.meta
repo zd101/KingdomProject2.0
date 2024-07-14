@@ -1,0 +1,5214 @@
+fileFormatVersion: 2
+guid: 47a4d3a900ce24d4cad68bca12e06a6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3152787460431124113
+    second: sword-buckler_attack_73x38_0
+  - first:
+      213: -2810017234438753095
+    second: sword-buckler_attack_73x38_1
+  - first:
+      213: -2537296235779902442
+    second: sword-buckler_attack_73x38_2
+  - first:
+      213: -6751985698812481594
+    second: sword-buckler_attack_73x38_3
+  - first:
+      213: -8530675606169135444
+    second: sword-buckler_attack_73x38_4
+  - first:
+      213: 2309022672671764997
+    second: sword-buckler_attack_73x38_5
+  - first:
+      213: -6846983406742609547
+    second: sword-buckler_attack_73x38_6
+  - first:
+      213: -6609330409025290229
+    second: sword-buckler_attack_73x38_7
+  - first:
+      213: 8766454921485860367
+    second: sword-buckler_attack_73x38_8
+  - first:
+      213: 6899626419406819822
+    second: sword-buckler_attack_73x38_9
+  - first:
+      213: -1537433968780767625
+    second: sword-buckler_attack_73x38_10
+  - first:
+      213: 2371727872645241449
+    second: sword-buckler_attack_73x38_11
+  - first:
+      213: 6209520747903020943
+    second: sword-buckler_attack_73x38_12
+  - first:
+      213: -2553745086020140894
+    second: sword-buckler_attack_73x38_13
+  - first:
+      213: -1608849390594700878
+    second: sword-buckler_attack_73x38_14
+  - first:
+      213: 404659331986466554
+    second: sword-buckler_attack_73x38_15
+  - first:
+      213: -5189479977279793356
+    second: sword-buckler_attack_73x38_16
+  - first:
+      213: -7622169050588345730
+    second: sword-buckler_attack_73x38_17
+  - first:
+      213: -5269824037389876151
+    second: sword-buckler_attack_73x38_18
+  - first:
+      213: 7536251554635040296
+    second: sword-buckler_attack_73x38_19
+  - first:
+      213: 3296323856399520499
+    second: sword-buckler_attack_73x38_20
+  - first:
+      213: -8280476959726112938
+    second: sword-buckler_attack_73x38_21
+  - first:
+      213: -4571458426203001106
+    second: sword-buckler_attack_73x38_22
+  - first:
+      213: -545528977582240325
+    second: sword-buckler_attack_73x38_23
+  - first:
+      213: 2237085306411566840
+    second: sword-buckler_attack_73x38_24
+  - first:
+      213: -7107064785589123679
+    second: sword-buckler_attack_73x38_25
+  - first:
+      213: 1470759002981301110
+    second: sword-buckler_attack_73x38_26
+  - first:
+      213: 711727479272611822
+    second: sword-buckler_attack_73x38_27
+  - first:
+      213: 4643489775888843389
+    second: sword-buckler_attack_73x38_28
+  - first:
+      213: -2819577346204648232
+    second: sword-buckler_attack_73x38_29
+  - first:
+      213: 3419221647117508463
+    second: sword-buckler_attack_73x38_30
+  - first:
+      213: 3929838878377363495
+    second: sword-buckler_attack_73x38_31
+  - first:
+      213: 7757179962406948897
+    second: sword-buckler_attack_73x38_32
+  - first:
+      213: -8302221670757511617
+    second: sword-buckler_attack_73x38_33
+  - first:
+      213: -3682889743471236372
+    second: sword-buckler_attack_73x38_34
+  - first:
+      213: 2282634291016366333
+    second: sword-buckler_attack_73x38_35
+  - first:
+      213: 4216522586116566250
+    second: sword-buckler_attack_73x38_36
+  - first:
+      213: -3376734848909170243
+    second: sword-buckler_attack_73x38_37
+  - first:
+      213: 9041742576237701278
+    second: sword-buckler_attack_73x38_38
+  - first:
+      213: 3025552599065644830
+    second: sword-buckler_attack_73x38_39
+  - first:
+      213: 2744687702214782597
+    second: sword-buckler_attack_73x38_40
+  - first:
+      213: -5047369287418697767
+    second: sword-buckler_attack_73x38_41
+  - first:
+      213: 8794954360363639481
+    second: sword-buckler_attack_73x38_42
+  - first:
+      213: -6249663835659641437
+    second: sword-buckler_attack_73x38_43
+  - first:
+      213: -6861260894942727798
+    second: sword-buckler_attack_73x38_44
+  - first:
+      213: -4765214287606753716
+    second: sword-buckler_attack_73x38_45
+  - first:
+      213: 6531991221555022450
+    second: sword-buckler_attack_73x38_46
+  - first:
+      213: -7846017133750847960
+    second: sword-buckler_attack_73x38_47
+  - first:
+      213: 1606816174040784522
+    second: sword-buckler_attack_73x38_48
+  - first:
+      213: -3769590004809380669
+    second: sword-buckler_attack_73x38_49
+  - first:
+      213: -6382303202768798555
+    second: sword-buckler_attack_73x38_50
+  - first:
+      213: 8244587592600599184
+    second: sword-buckler_attack_73x38_51
+  - first:
+      213: 1130854829176588767
+    second: sword-buckler_attack_73x38_52
+  - first:
+      213: -1847623973995210508
+    second: sword-buckler_attack_73x38_53
+  - first:
+      213: 4720736026975098121
+    second: sword-buckler_attack_73x38_54
+  - first:
+      213: -2831687503652671343
+    second: sword-buckler_attack_73x38_55
+  - first:
+      213: 5142322264214553230
+    second: sword-buckler_attack_73x38_56
+  - first:
+      213: -4199061618367522423
+    second: sword-buckler_attack_73x38_57
+  - first:
+      213: 1312906314535778966
+    second: sword-buckler_attack_73x38_58
+  - first:
+      213: -3912154179751633001
+    second: sword-buckler_attack_73x38_59
+  - first:
+      213: -4892780062700539555
+    second: sword-buckler_attack_73x38_60
+  - first:
+      213: -1223494487683527863
+    second: sword-buckler_attack_73x38_61
+  - first:
+      213: -7518707132484904914
+    second: sword-buckler_attack_73x38_62
+  - first:
+      213: 7780298426126562073
+    second: sword-buckler_attack_73x38_63
+  - first:
+      213: -6215011251275671680
+    second: sword-buckler_attack_73x38_64
+  - first:
+      213: -397850720164725666
+    second: sword-buckler_attack_73x38_65
+  - first:
+      213: -7457674772107337742
+    second: sword-buckler_attack_73x38_66
+  - first:
+      213: -6304118579701977005
+    second: sword-buckler_attack_73x38_67
+  - first:
+      213: -4488810817758745930
+    second: sword-buckler_attack_73x38_68
+  - first:
+      213: 3430021197429059564
+    second: sword-buckler_attack_73x38_69
+  - first:
+      213: 6993829788631032226
+    second: sword-buckler_attack_73x38_70
+  - first:
+      213: -8157731895873216910
+    second: sword-buckler_attack_73x38_71
+  - first:
+      213: -2808404403840809902
+    second: sword-buckler_attack_73x38_72
+  - first:
+      213: 1675068067492566957
+    second: sword-buckler_attack_73x38_73
+  - first:
+      213: -463309673362126725
+    second: sword-buckler_attack_73x38_74
+  - first:
+      213: -6455261245553430533
+    second: sword-buckler_attack_73x38_75
+  - first:
+      213: -8109971285401921930
+    second: sword-buckler_attack_73x38_76
+  - first:
+      213: 1776020258350087261
+    second: sword-buckler_attack_73x38_77
+  - first:
+      213: 3668163004532920146
+    second: sword-buckler_attack_73x38_78
+  - first:
+      213: 4125961305047102991
+    second: sword-buckler_attack_73x38_79
+  - first:
+      213: -1190442356331391025
+    second: sword-buckler_attack_73x38_80
+  - first:
+      213: -7645131204773683157
+    second: sword-buckler_attack_73x38_81
+  - first:
+      213: 7080375259744361121
+    second: sword-buckler_attack_73x38_82
+  - first:
+      213: -544371010103471379
+    second: sword-buckler_attack_73x38_83
+  - first:
+      213: 1878293002384909939
+    second: sword-buckler_attack_73x38_84
+  - first:
+      213: 85312269884742208
+    second: sword-buckler_attack_73x38_85
+  - first:
+      213: -8770074199480173588
+    second: sword-buckler_attack_73x38_86
+  - first:
+      213: -6262780367076816354
+    second: sword-buckler_attack_73x38_87
+  - first:
+      213: -4179845969773180905
+    second: sword-buckler_attack_73x38_88
+  - first:
+      213: -1855608990969478045
+    second: sword-buckler_attack_73x38_89
+  - first:
+      213: -7283946238193749828
+    second: sword-buckler_attack_73x38_90
+  - first:
+      213: -8613797854720844114
+    second: sword-buckler_attack_73x38_91
+  - first:
+      213: 5702609784171773093
+    second: sword-buckler_attack_73x38_92
+  - first:
+      213: -5518664864566352157
+    second: sword-buckler_attack_73x38_93
+  - first:
+      213: 837265852399586011
+    second: sword-buckler_attack_73x38_94
+  - first:
+      213: 4372804173901546161
+    second: sword-buckler_attack_73x38_95
+  - first:
+      213: 3797179481608205261
+    second: sword-buckler_attack_73x38_96
+  - first:
+      213: -3890251953510922119
+    second: sword-buckler_attack_73x38_97
+  - first:
+      213: -4800734886241529284
+    second: sword-buckler_attack_73x38_98
+  - first:
+      213: -1433562322196882315
+    second: sword-buckler_attack_73x38_99
+  - first:
+      213: -7027497698697749912
+    second: sword-buckler_attack_73x38_100
+  - first:
+      213: 3194745337532239971
+    second: sword-buckler_attack_73x38_101
+  - first:
+      213: -5125690127516598277
+    second: sword-buckler_attack_73x38_102
+  - first:
+      213: 2225569172954222483
+    second: sword-buckler_attack_73x38_103
+  - first:
+      213: -267779036689917750
+    second: sword-buckler_attack_73x38_104
+  - first:
+      213: 399431757178199394
+    second: sword-buckler_attack_73x38_105
+  - first:
+      213: 7568811576041743181
+    second: sword-buckler_attack_73x38_106
+  - first:
+      213: 7510081134921461225
+    second: sword-buckler_attack_73x38_107
+  - first:
+      213: -1565934236281551754
+    second: sword-buckler_attack_73x38_108
+  - first:
+      213: -510385492515500375
+    second: sword-buckler_attack_73x38_109
+  - first:
+      213: -2526318587778343437
+    second: sword-buckler_attack_73x38_110
+  - first:
+      213: -8037777501014629118
+    second: sword-buckler_attack_73x38_111
+  - first:
+      213: -7538246072186419487
+    second: sword-buckler_attack_73x38_112
+  - first:
+      213: -1728114055010354481
+    second: sword-buckler_attack_73x38_113
+  - first:
+      213: 4196304840585606027
+    second: sword-buckler_attack_73x38_114
+  - first:
+      213: 5801487834597370175
+    second: sword-buckler_attack_73x38_115
+  - first:
+      213: -8522571285924778940
+    second: sword-buckler_attack_73x38_116
+  - first:
+      213: -579926665977983209
+    second: sword-buckler_attack_73x38_117
+  - first:
+      213: -8631912102097019407
+    second: sword-buckler_attack_73x38_118
+  - first:
+      213: 8651992934067848673
+    second: sword-buckler_attack_73x38_119
+  - first:
+      213: 445469560844910001
+    second: sword-buckler_attack_73x38_120
+  - first:
+      213: 8920080019896482565
+    second: sword-buckler_attack_73x38_121
+  - first:
+      213: 8171624620571554376
+    second: sword-buckler_attack_73x38_122
+  - first:
+      213: 4845028558805991703
+    second: sword-buckler_attack_73x38_123
+  - first:
+      213: 2281251598251858850
+    second: sword-buckler_attack_73x38_124
+  - first:
+      213: -6132945469749361861
+    second: sword-buckler_attack_73x38_125
+  - first:
+      213: 3234148303610119306
+    second: sword-buckler_attack_73x38_126
+  - first:
+      213: 3016357228457615494
+    second: sword-buckler_attack_73x38_127
+  - first:
+      213: -1076901091762511010
+    second: sword-buckler_attack_73x38_128
+  - first:
+      213: -7550804863810811794
+    second: sword-buckler_attack_73x38_129
+  - first:
+      213: 7229185935454736940
+    second: sword-buckler_attack_73x38_130
+  - first:
+      213: -7418186872381562805
+    second: sword-buckler_attack_73x38_131
+  - first:
+      213: 6492350225876120503
+    second: sword-buckler_attack_73x38_132
+  - first:
+      213: 6901653740901367288
+    second: sword-buckler_attack_73x38_133
+  - first:
+      213: 4787334802676449250
+    second: sword-buckler_attack_73x38_134
+  - first:
+      213: -2535972289257007889
+    second: sword-buckler_attack_73x38_135
+  - first:
+      213: -7530283948768761621
+    second: sword-buckler_attack_73x38_136
+  - first:
+      213: 57831753161819020
+    second: sword-buckler_attack_73x38_137
+  - first:
+      213: 1929987054484147160
+    second: sword-buckler_attack_73x38_138
+  - first:
+      213: 5245790010527117360
+    second: sword-buckler_attack_73x38_139
+  - first:
+      213: -5137475226283945815
+    second: sword-buckler_attack_73x38_140
+  - first:
+      213: -4636380167716780298
+    second: sword-buckler_attack_73x38_141
+  - first:
+      213: 8797908247468365210
+    second: sword-buckler_attack_73x38_142
+  - first:
+      213: -74436515133170028
+    second: sword-buckler_attack_73x38_143
+  - first:
+      213: 6519393844791208673
+    second: sword-buckler_attack_73x38_144
+  - first:
+      213: 5169596851870040885
+    second: sword-buckler_attack_73x38_145
+  - first:
+      213: 7323810356459373841
+    second: sword-buckler_attack_73x38_146
+  - first:
+      213: -4620509597155072279
+    second: sword-buckler_attack_73x38_147
+  - first:
+      213: -2675651420892525231
+    second: sword-buckler_attack_73x38_148
+  - first:
+      213: 6442658516021291239
+    second: sword-buckler_attack_73x38_149
+  - first:
+      213: -7605973937110991535
+    second: sword-buckler_attack_73x38_150
+  - first:
+      213: -5531269072777086373
+    second: sword-buckler_attack_73x38_151
+  - first:
+      213: 4042008957827477552
+    second: sword-buckler_attack_73x38_152
+  - first:
+      213: 7995475113639373858
+    second: sword-buckler_attack_73x38_153
+  - first:
+      213: -2984629393062644111
+    second: sword-buckler_attack_73x38_154
+  - first:
+      213: -1653366894321939349
+    second: sword-buckler_attack_73x38_155
+  - first:
+      213: -3521132830799671871
+    second: sword-buckler_attack_73x38_156
+  - first:
+      213: -5521798419315607073
+    second: sword-buckler_attack_73x38_157
+  - first:
+      213: -4411490570603699225
+    second: sword-buckler_attack_73x38_158
+  - first:
+      213: 1185279985929019287
+    second: sword-buckler_attack_73x38_159
+  - first:
+      213: 8931395089611190861
+    second: sword-buckler_attack_73x38_160
+  - first:
+      213: 5615818154598806726
+    second: sword-buckler_attack_73x38_161
+  - first:
+      213: -6401529643843600334
+    second: sword-buckler_attack_73x38_162
+  - first:
+      213: -8736114211893256338
+    second: sword-buckler_attack_73x38_163
+  - first:
+      213: 7617003314720642788
+    second: sword-buckler_attack_73x38_164
+  - first:
+      213: 8676635177787758180
+    second: sword-buckler_attack_73x38_165
+  - first:
+      213: 2269650150944059849
+    second: sword-buckler_attack_73x38_166
+  - first:
+      213: -8300087152268672845
+    second: sword-buckler_attack_73x38_167
+  - first:
+      213: -8549589249572136993
+    second: sword-buckler_attack_73x38_168
+  - first:
+      213: 4475746845986437365
+    second: sword-buckler_attack_73x38_169
+  - first:
+      213: -6378067715806466338
+    second: sword-buckler_attack_73x38_170
+  - first:
+      213: -9220081234631066182
+    second: sword-buckler_attack_73x38_171
+  - first:
+      213: -3609533412928462968
+    second: sword-buckler_attack_73x38_172
+  - first:
+      213: 3334613986639851030
+    second: sword-buckler_attack_73x38_173
+  - first:
+      213: -9102683040361787195
+    second: sword-buckler_attack_73x38_174
+  - first:
+      213: -7118174057754144636
+    second: sword-buckler_attack_73x38_175
+  - first:
+      213: -6357328330477865295
+    second: sword-buckler_attack_73x38_176
+  - first:
+      213: -9129458733419315626
+    second: sword-buckler_attack_73x38_177
+  - first:
+      213: 8407253281263065344
+    second: sword-buckler_attack_73x38_178
+  - first:
+      213: 3400228885213750697
+    second: sword-buckler_attack_73x38_179
+  - first:
+      213: 6918694395459141495
+    second: sword-buckler_attack_73x38_180
+  - first:
+      213: -5194950041708381304
+    second: sword-buckler_attack_73x38_181
+  - first:
+      213: -6810195182097058220
+    second: sword-buckler_attack_73x38_182
+  - first:
+      213: -113841461527909507
+    second: sword-buckler_attack_73x38_183
+  - first:
+      213: 1794760444036032355
+    second: sword-buckler_attack_73x38_184
+  - first:
+      213: 2836446769202208031
+    second: sword-buckler_attack_73x38_185
+  - first:
+      213: -8790322766806476830
+    second: sword-buckler_attack_73x38_186
+  - first:
+      213: -4846099674717644536
+    second: sword-buckler_attack_73x38_187
+  - first:
+      213: 3455729365446636260
+    second: sword-buckler_attack_73x38_188
+  - first:
+      213: -575374708427202478
+    second: sword-buckler_attack_73x38_189
+  - first:
+      213: 1530870869036049802
+    second: sword-buckler_attack_73x38_190
+  - first:
+      213: 360538868188794249
+    second: sword-buckler_attack_73x38_191
+  - first:
+      213: -3288947870273997467
+    second: sword-buckler_attack_73x38_192
+  - first:
+      213: 4938966110978664871
+    second: sword-buckler_attack_73x38_193
+  - first:
+      213: 9191542920550914136
+    second: sword-buckler_attack_73x38_194
+  - first:
+      213: 1550061195985252293
+    second: sword-buckler_attack_73x38_195
+  - first:
+      213: 1682449658085093612
+    second: sword-buckler_attack_73x38_196
+  - first:
+      213: 7263236323509563959
+    second: sword-buckler_attack_73x38_197
+  - first:
+      213: 7296706204014070181
+    second: sword-buckler_attack_73x38_198
+  - first:
+      213: -8493829954952361453
+    second: sword-buckler_attack_73x38_199
+  - first:
+      213: 6015994612865325522
+    second: sword-buckler_attack_73x38_200
+  - first:
+      213: 6157509558283963044
+    second: sword-buckler_attack_73x38_201
+  - first:
+      213: 2750917913602990769
+    second: sword-buckler_attack_73x38_202
+  - first:
+      213: 2926538966369816197
+    second: sword-buckler_attack_73x38_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6962b8428c0f34d0800000000000000
+      internalID: -3152787460431124113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b47d80a630d009d0800000000000000
+      internalID: -2810017234438753095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61437684486b9ccd0800000000000000
+      internalID: -2537296235779902442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa3cdc7c02c42a0800000000000000
+      internalID: -6751985698812481594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6d230dbb3fc9980800000000000000
+      internalID: -8530675606169135444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5027ce613eb4b0020800000000000000
+      internalID: 2309022672671764997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571ec125ed0aaf0a0800000000000000
+      internalID: -6846983406742609547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b004cdeb201f644a0800000000000000
+      internalID: -6609330409025290229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0eb3aeed44b8a970800000000000000
+      internalID: 8766454921485860367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1d4a33ca560cf50800000000000000
+      internalID: 6899626419406819822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e043973ffe9aae0800000000000000
+      internalID: -1537433968780767625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a99e82fe11ae020800000000000000
+      internalID: 2371727872645241449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f6d248836ac2650800000000000000
+      internalID: 6209520747903020943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0ced4ef564f8cd0800000000000000
+      internalID: -2553745086020140894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9cf78d0083ca9e0800000000000000
+      internalID: -1608849390594700878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6a91ab483ad9500800000000000000
+      internalID: 404659331986466554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375c39a4734bf7b0800000000000000
+      internalID: -5189479977279793356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a84b9e1ad983690800000000000000
+      internalID: -7622169050588345730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944cf8e65f2ddd6b0800000000000000
+      internalID: -5269824037389876151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826c1043cd4269860800000000000000
+      internalID: 7536251554635040296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d65d2515eebd20800000000000000
+      internalID: 3296323856399520499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_21
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe7b4b316d51d80800000000000000
+      internalID: -8280476959726112938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee24b038caee80c0800000000000000
+      internalID: -4571458426203001106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd47840944ed68f0800000000000000
+      internalID: -545528977582240325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f648eccb39bb0f10800000000000000
+      internalID: 2237085306411566840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c54b7b32ae5d90800000000000000
+      internalID: -7107064785589123679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b78e2558f296410800000000000000
+      internalID: 1470759002981301110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef9dea1f5090e900800000000000000
+      internalID: 711727479272611822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d724302595df07040800000000000000
+      internalID: 4643489775888843389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcbbb6a759ded8d0800000000000000
+      internalID: -2819577346204648232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fd3c4e8f3837f20800000000000000
+      internalID: 3419221647117508463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728c33283a7998630800000000000000
+      internalID: 3929838878377363495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1205b06931a07ab60800000000000000
+      internalID: 7757179962406948897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_33
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ec2f3a06598cc80800000000000000
+      internalID: -8302221670757511617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa7758a4fb3ecc0800000000000000
+      internalID: -3682889743471236372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f7243bcb8daf10800000000000000
+      internalID: 2282634291016366333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeca3e4b3f8148a30800000000000000
+      internalID: 4216522586116566250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9261eab8d6321d0800000000000000
+      internalID: -3376734848909170243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e986c27c7f8ba7d70800000000000000
+      internalID: 9041742576237701278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f419c0f0cecf920800000000000000
+      internalID: 3025552599065644830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e25e55ce6171620800000000000000
+      internalID: 2744687702214782597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_41
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7213d006424f9b0800000000000000
+      internalID: -5047369287418697767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b26f31a464fd0a70800000000000000
+      internalID: 8794954360363639481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_43
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3add6e58adbb449a0800000000000000
+      internalID: -6249663835659641437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81f8ad8197e7c0a0800000000000000
+      internalID: -6861260894942727798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4655944ade8eddb0800000000000000
+      internalID: -4765214287606753716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ac1c4786b46aa50800000000000000
+      internalID: 6531991221555022450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f621acf85d1390800000000000000
+      internalID: -7846017133750847960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e9d090cce8c4610800000000000000
+      internalID: 1606816174040784522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_49
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc497edcd9bfabc0800000000000000
+      internalID: -3769590004809380669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_50
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb02e4d018d67a0800000000000000
+      internalID: -6382303202768798555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_51
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3d88dbb8aa6270800000000000000
+      internalID: 8244587592600599184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd90b91c97a91bf00800000000000000
+      internalID: 1130854829176588767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_53
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f81587e8cbeb56e0800000000000000
+      internalID: -1847623973995210508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_54
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9055d3ea76c638140800000000000000
+      internalID: 4720736026975098121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_55
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190bed5e733d3b8d0800000000000000
+      internalID: -2831687503652671343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_56
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e824717aad23d5740800000000000000
+      internalID: 5142322264214553230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_57
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9891a37a4bfe9b5c0800000000000000
+      internalID: -4199061618367522423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ab5454651683210800000000000000
+      internalID: 1312906314535778966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f1851408c35b9c0800000000000000
+      internalID: -3912154179751633001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51fe9eb47a591cb0800000000000000
+      internalID: -4892780062700539555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b89fcee36450fe0800000000000000
+      internalID: -1223494487683527863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e289a06e2bf28a790800000000000000
+      internalID: -7518707132484904914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_63
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913fdcf523c29fb60800000000000000
+      internalID: 7780298426126562073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_64
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08758ac0238dfb9a0800000000000000
+      internalID: -6215011251275671680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb2feb0ec8a7af0800000000000000
+      internalID: -397850720164725666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_66
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff5626ae44018890800000000000000
+      internalID: -7457674772107337742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_67
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507cea6d854388a0800000000000000
+      internalID: -6304118579701977005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba2f8f085a84b1c0800000000000000
+      internalID: -4488810817758745930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefa1d42b12e99f20800000000000000
+      internalID: 3430021197429059564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e5ea43231f0160800000000000000
+      internalID: 6993829788631032226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_71
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5a9def0ae9ce80800000000000000
+      internalID: -8157731895873216910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_72
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2540d63031b8609d0800000000000000
+      internalID: -2808404403840809902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_73
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da79e7158890f3710800000000000000
+      internalID: 1675068067492566957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_74
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b788f3a8e4ef199f0800000000000000
+      internalID: -463309673362126725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_75
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff217e391e4a66a0800000000000000
+      internalID: -6455261245553430533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_76
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676100b9518937f80800000000000000
+      internalID: -8109971285401921930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_77
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cbad4e301b5a810800000000000000
+      internalID: 1776020258350087261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0a6f51dee7e230800000000000000
+      internalID: 3668163004532920146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_79
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f65852fb524930800000000000000
+      internalID: 4125961305047102991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7d941fbf2ba7fe0800000000000000
+      internalID: -1190442356331391025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_81
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20e536cca907e590800000000000000
+      internalID: -7645131204773683157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_82
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aad68909cb824260800000000000000
+      internalID: 7080375259744361121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_83
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de213c453710278f0800000000000000
+      internalID: -544371010103471379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_84
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762147b889011a10800000000000000
+      internalID: 1878293002384909939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_85
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a5675be071f2100800000000000000
+      internalID: 85312269884742208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_86
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb7a2e3bff6a4680800000000000000
+      internalID: -8770074199480173588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_87
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a881210722619a0800000000000000
+      internalID: -6262780367076816354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_88
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71842db7c343ef5c0800000000000000
+      internalID: -4179845969773180905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_89
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3644e33447d8f36e0800000000000000
+      internalID: -1855608990969478045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_90
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb03b650d793aea90800000000000000
+      internalID: -7283946238193749828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_91
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae975e2d74a57880800000000000000
+      internalID: -8613797854720844114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb93e826db32f40800000000000000
+      internalID: 5702609784171773093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_93
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e7197b83c963b0800000000000000
+      internalID: -5518664864566352157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda87d25bd09e9b00800000000000000
+      internalID: 837265852399586011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b24fb16a325fac30800000000000000
+      internalID: 4372804173901546161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_96
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3b8a5ce9a42b430800000000000000
+      internalID: 3797179481608205261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_97
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9784630b57c030ac0800000000000000
+      internalID: -3890251953510922119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c329fbc6e0d506db0800000000000000
+      internalID: -4800734886241529284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_99
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c121ec9a6fa1ce0800000000000000
+      internalID: -1433562322196882315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_100
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ade398310597e90800000000000000
+      internalID: -7027497698697749912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_101
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d17f35f3065c20800000000000000
+      internalID: 3194745337532239971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff75a07cf3edd8b0800000000000000
+      internalID: -5125690127516598277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_103
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f0ff80f5fc2ee10800000000000000
+      internalID: 2225569172954222483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac81dc78268a84cf0800000000000000
+      internalID: -267779036689917750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_105
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ddd9e11111b8500800000000000000
+      internalID: 399431757178199394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4325d1f602d90960800000000000000
+      internalID: 7568811576041743181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_107
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2b59800b293860800000000000000
+      internalID: 7510081134921461225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_108
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674c0d8db1fa44ae0800000000000000
+      internalID: -1565934236281551754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_109
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aec914491fbae8f0800000000000000
+      internalID: -510385492515500375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_110
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd510221a6b0fcd0800000000000000
+      internalID: -2526318587778343437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_111
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2056564e2f3147090800000000000000
+      internalID: -8037777501014629118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e648ddf225c26790800000000000000
+      internalID: -7538246072186419487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_113
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca7fb34c618408e0800000000000000
+      internalID: -1728114055010354481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b837b5005054c3a30800000000000000
+      internalID: 4196304840585606027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_115
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f392deda276038050800000000000000
+      internalID: 5801487834597370175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_116
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c6289e19eb9b980800000000000000
+      internalID: -8522571285924778940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_117
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0b9615cfa3f7f0800000000000000
+      internalID: -579926665977983209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_118
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd9c1e4da9453880800000000000000
+      internalID: -8631912102097019407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_119
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5cd4abbbd021870800000000000000
+      internalID: 8651992934067848673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_120
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdf8649430ae2600800000000000000
+      internalID: 445469560844910001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_121
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b3df9748d7acb70800000000000000
+      internalID: 8920080019896482565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_122
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842f00b1c41776170800000000000000
+      internalID: 8171624620571554376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_123
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711014eddcffc3340800000000000000
+      internalID: 4845028558805991703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_124
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab1815fd32a8af10800000000000000
+      internalID: 2281251598251858850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_125
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b338fb8c69663eaa0800000000000000
+      internalID: -6132945469749361861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a840d933fb002ec20800000000000000
+      internalID: 3234148303610119306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_127
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680e5edfae04cd920800000000000000
+      internalID: 3016357228457615494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_128
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53e347a9241e01f0800000000000000
+      internalID: -1076901091762511010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_129
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68c3447bf6263790800000000000000
+      internalID: -7550804863810811794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_130
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2297027e4a335460800000000000000
+      internalID: 7229185935454736940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_131
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b402b32c75e4d0990800000000000000
+      internalID: -7418186872381562805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_132
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f5cae126791a50800000000000000
+      internalID: 6492350225876120503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_133
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdfb25c28997cf50800000000000000
+      internalID: 6901653740901367288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eff46e73a7007240800000000000000
+      internalID: 4787334802676449250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_135
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe41a9a93aa6eccd0800000000000000
+      internalID: -2535972289257007889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8efcf45ae0f7790800000000000000
+      internalID: -7530283948768761621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83c2ff4ca57dc000800000000000000
+      internalID: 57831753161819020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_138
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db41a32001b8ca10800000000000000
+      internalID: 1929987054484147160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_139
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030f2cf983accc840800000000000000
+      internalID: 5245790010527117360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_140
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0d9fe408504b8b0800000000000000
+      internalID: -5137475226283945815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f643935dc448afb0800000000000000
+      internalID: -4636380167716780298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_142
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95d4d010f2781a70800000000000000
+      internalID: 8797908247468365210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_143
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5b25426c87fef0800000000000000
+      internalID: -74436515133170028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_144
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eae5ad192a897a50800000000000000
+      internalID: 6519393844791208673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_145
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53301b372f81eb740800000000000000
+      internalID: 5169596851870040885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115861b47b663a560800000000000000
+      internalID: 7323810356459373841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6e94c7007a0efb0800000000000000
+      internalID: -4620509597155072279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8eea753d2edad0800000000000000
+      internalID: -2675651420892525231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_149
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8289029cbe86950800000000000000
+      internalID: 6442658516021291239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_150
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dbe9b9007227690800000000000000
+      internalID: -7605973937110991535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_151
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a7400951cfc33b0800000000000000
+      internalID: -5531269072777086373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_152
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030f04e4bb9181830800000000000000
+      internalID: 4042008957827477552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_153
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c63f60142a5fe60800000000000000
+      internalID: 7995475113639373858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_154
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176bf4851677496d0800000000000000
+      internalID: -2984629393062644111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_155
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ccc8cc19f0e09e0800000000000000
+      internalID: -1653366894321939349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_156
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd483d985c622fc0800000000000000
+      internalID: -3521132830799671871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_157
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd93167e791ae53b0800000000000000
+      internalID: -5521798419315607073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_158
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36e29f2bc37c2c0800000000000000
+      internalID: -4411490570603699225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_159
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fdda80ed5f27010800000000000000
+      internalID: 1185279985929019287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4271f07380b2fb70800000000000000
+      internalID: 8931395089611190861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c43d049bd46fed40800000000000000
+      internalID: 5615818154598806726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_162
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230c197a4b23927a0800000000000000
+      internalID: -6401529643843600334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_163
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f5cd2096613c680800000000000000
+      internalID: -8736114211893256338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_164
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e695ea782805b960800000000000000
+      internalID: 7617003314720642788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_165
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46692b139b9996870800000000000000
+      internalID: 8676635177787758180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_166
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1be6389ca6f7f10800000000000000
+      internalID: 2269650150944059849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_167
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b00e34f5ba20dc80800000000000000
+      internalID: -8300087152268672845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_168
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd711cb00e1c95980800000000000000
+      internalID: -8549589249572136993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b89bfa0c0d1e30800000000000000
+      internalID: 4475746845986437365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edee7f5743d8c77a0800000000000000
+      internalID: -6378067715806466338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_171
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdf19997f0bb0080800000000000000
+      internalID: -9220081234631066182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_172
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fde7d2c7c58edc0800000000000000
+      internalID: -3609533412928462968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_173
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea7b8d0cde64e20800000000000000
+      internalID: 3334613986639851030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_174
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0534cb006cca180800000000000000
+      internalID: -9102683040361787195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_175
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480d92e786a273d90800000000000000
+      internalID: -7118174057754144636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_176
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6f655e09b36c7a0800000000000000
+      internalID: -6357328330477865295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_177
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e34f2e6a5ad4180800000000000000
+      internalID: -9129458733419315626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_178
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0091c66d0509ca470800000000000000
+      internalID: 8407253281263065344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_179
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5203ae72a003f20800000000000000
+      internalID: 3400228885213750697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ff3d655e3240060800000000000000
+      internalID: 6918694395459141495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_181
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b321a0674d7e7b0800000000000000
+      internalID: -5194950041708381304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_182
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456370850935d71a0800000000000000
+      internalID: -6810195182097058220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_183
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7beaec3bcd8b6ef0800000000000000
+      internalID: -113841461527909507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_184
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367a0b36d1548e810800000000000000
+      internalID: 1794760444036032355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d1a96fe451d5720800000000000000
+      internalID: 2836446769202208031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_186
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e798774400820680800000000000000
+      internalID: -8790322766806476830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_187
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809915685023fbcb0800000000000000
+      internalID: -4846099674717644536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_188
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e235537c8735ff20800000000000000
+      internalID: 3455729365446636260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_189
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250e37b40cbd308f0800000000000000
+      internalID: -575374708427202478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_190
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8523e9c1febe3510800000000000000
+      internalID: 1530870869036049802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_191
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4d1eb034e00500800000000000000
+      internalID: 360538868188794249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_192
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5657a8b665f4b52d0800000000000000
+      internalID: -3288947870273997467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_193
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9639a928bba8440800000000000000
+      internalID: 4938966110978664871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858913d569bee8f70800000000000000
+      internalID: 9191542920550914136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_195
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf61d6f17ce28510800000000000000
+      internalID: 1550061195985252293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_196
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0b3aecc03495710800000000000000
+      internalID: 1682449658085093612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_197
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732708634f23cc460800000000000000
+      internalID: 7263236323509563959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_198
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c5a802ab134560800000000000000
+      internalID: 7296706204014070181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_199
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a0e7088aadf1a80800000000000000
+      internalID: -8493829954952361453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_200
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9508ee93b1d7350800000000000000
+      internalID: 6015994612865325522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_201
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa8692c15ed37550800000000000000
+      internalID: 6157509558283963044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_202
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2a09674493d2620800000000000000
+      internalID: 2750917913602990769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-buckler_attack_73x38_203
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ecfc73fa72d9820800000000000000
+      internalID: 2926538966369816197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sword-buckler_attack_73x38_0: -3152787460431124113
+      sword-buckler_attack_73x38_1: -2810017234438753095
+      sword-buckler_attack_73x38_10: -1537433968780767625
+      sword-buckler_attack_73x38_100: -7027497698697749912
+      sword-buckler_attack_73x38_101: 3194745337532239971
+      sword-buckler_attack_73x38_102: -5125690127516598277
+      sword-buckler_attack_73x38_103: 2225569172954222483
+      sword-buckler_attack_73x38_104: -267779036689917750
+      sword-buckler_attack_73x38_105: 399431757178199394
+      sword-buckler_attack_73x38_106: 7568811576041743181
+      sword-buckler_attack_73x38_107: 7510081134921461225
+      sword-buckler_attack_73x38_108: -1565934236281551754
+      sword-buckler_attack_73x38_109: -510385492515500375
+      sword-buckler_attack_73x38_11: 2371727872645241449
+      sword-buckler_attack_73x38_110: -2526318587778343437
+      sword-buckler_attack_73x38_111: -8037777501014629118
+      sword-buckler_attack_73x38_112: -7538246072186419487
+      sword-buckler_attack_73x38_113: -1728114055010354481
+      sword-buckler_attack_73x38_114: 4196304840585606027
+      sword-buckler_attack_73x38_115: 5801487834597370175
+      sword-buckler_attack_73x38_116: -8522571285924778940
+      sword-buckler_attack_73x38_117: -579926665977983209
+      sword-buckler_attack_73x38_118: -8631912102097019407
+      sword-buckler_attack_73x38_119: 8651992934067848673
+      sword-buckler_attack_73x38_12: 6209520747903020943
+      sword-buckler_attack_73x38_120: 445469560844910001
+      sword-buckler_attack_73x38_121: 8920080019896482565
+      sword-buckler_attack_73x38_122: 8171624620571554376
+      sword-buckler_attack_73x38_123: 4845028558805991703
+      sword-buckler_attack_73x38_124: 2281251598251858850
+      sword-buckler_attack_73x38_125: -6132945469749361861
+      sword-buckler_attack_73x38_126: 3234148303610119306
+      sword-buckler_attack_73x38_127: 3016357228457615494
+      sword-buckler_attack_73x38_128: -1076901091762511010
+      sword-buckler_attack_73x38_129: -7550804863810811794
+      sword-buckler_attack_73x38_13: -2553745086020140894
+      sword-buckler_attack_73x38_130: 7229185935454736940
+      sword-buckler_attack_73x38_131: -7418186872381562805
+      sword-buckler_attack_73x38_132: 6492350225876120503
+      sword-buckler_attack_73x38_133: 6901653740901367288
+      sword-buckler_attack_73x38_134: 4787334802676449250
+      sword-buckler_attack_73x38_135: -2535972289257007889
+      sword-buckler_attack_73x38_136: -7530283948768761621
+      sword-buckler_attack_73x38_137: 57831753161819020
+      sword-buckler_attack_73x38_138: 1929987054484147160
+      sword-buckler_attack_73x38_139: 5245790010527117360
+      sword-buckler_attack_73x38_14: -1608849390594700878
+      sword-buckler_attack_73x38_140: -5137475226283945815
+      sword-buckler_attack_73x38_141: -4636380167716780298
+      sword-buckler_attack_73x38_142: 8797908247468365210
+      sword-buckler_attack_73x38_143: -74436515133170028
+      sword-buckler_attack_73x38_144: 6519393844791208673
+      sword-buckler_attack_73x38_145: 5169596851870040885
+      sword-buckler_attack_73x38_146: 7323810356459373841
+      sword-buckler_attack_73x38_147: -4620509597155072279
+      sword-buckler_attack_73x38_148: -2675651420892525231
+      sword-buckler_attack_73x38_149: 6442658516021291239
+      sword-buckler_attack_73x38_15: 404659331986466554
+      sword-buckler_attack_73x38_150: -7605973937110991535
+      sword-buckler_attack_73x38_151: -5531269072777086373
+      sword-buckler_attack_73x38_152: 4042008957827477552
+      sword-buckler_attack_73x38_153: 7995475113639373858
+      sword-buckler_attack_73x38_154: -2984629393062644111
+      sword-buckler_attack_73x38_155: -1653366894321939349
+      sword-buckler_attack_73x38_156: -3521132830799671871
+      sword-buckler_attack_73x38_157: -5521798419315607073
+      sword-buckler_attack_73x38_158: -4411490570603699225
+      sword-buckler_attack_73x38_159: 1185279985929019287
+      sword-buckler_attack_73x38_16: -5189479977279793356
+      sword-buckler_attack_73x38_160: 8931395089611190861
+      sword-buckler_attack_73x38_161: 5615818154598806726
+      sword-buckler_attack_73x38_162: -6401529643843600334
+      sword-buckler_attack_73x38_163: -8736114211893256338
+      sword-buckler_attack_73x38_164: 7617003314720642788
+      sword-buckler_attack_73x38_165: 8676635177787758180
+      sword-buckler_attack_73x38_166: 2269650150944059849
+      sword-buckler_attack_73x38_167: -8300087152268672845
+      sword-buckler_attack_73x38_168: -8549589249572136993
+      sword-buckler_attack_73x38_169: 4475746845986437365
+      sword-buckler_attack_73x38_17: -7622169050588345730
+      sword-buckler_attack_73x38_170: -6378067715806466338
+      sword-buckler_attack_73x38_171: -9220081234631066182
+      sword-buckler_attack_73x38_172: -3609533412928462968
+      sword-buckler_attack_73x38_173: 3334613986639851030
+      sword-buckler_attack_73x38_174: -9102683040361787195
+      sword-buckler_attack_73x38_175: -7118174057754144636
+      sword-buckler_attack_73x38_176: -6357328330477865295
+      sword-buckler_attack_73x38_177: -9129458733419315626
+      sword-buckler_attack_73x38_178: 8407253281263065344
+      sword-buckler_attack_73x38_179: 3400228885213750697
+      sword-buckler_attack_73x38_18: -5269824037389876151
+      sword-buckler_attack_73x38_180: 6918694395459141495
+      sword-buckler_attack_73x38_181: -5194950041708381304
+      sword-buckler_attack_73x38_182: -6810195182097058220
+      sword-buckler_attack_73x38_183: -113841461527909507
+      sword-buckler_attack_73x38_184: 1794760444036032355
+      sword-buckler_attack_73x38_185: 2836446769202208031
+      sword-buckler_attack_73x38_186: -8790322766806476830
+      sword-buckler_attack_73x38_187: -4846099674717644536
+      sword-buckler_attack_73x38_188: 3455729365446636260
+      sword-buckler_attack_73x38_189: -575374708427202478
+      sword-buckler_attack_73x38_19: 7536251554635040296
+      sword-buckler_attack_73x38_190: 1530870869036049802
+      sword-buckler_attack_73x38_191: 360538868188794249
+      sword-buckler_attack_73x38_192: -3288947870273997467
+      sword-buckler_attack_73x38_193: 4938966110978664871
+      sword-buckler_attack_73x38_194: 9191542920550914136
+      sword-buckler_attack_73x38_195: 1550061195985252293
+      sword-buckler_attack_73x38_196: 1682449658085093612
+      sword-buckler_attack_73x38_197: 7263236323509563959
+      sword-buckler_attack_73x38_198: 7296706204014070181
+      sword-buckler_attack_73x38_199: -8493829954952361453
+      sword-buckler_attack_73x38_2: -2537296235779902442
+      sword-buckler_attack_73x38_20: 3296323856399520499
+      sword-buckler_attack_73x38_200: 6015994612865325522
+      sword-buckler_attack_73x38_201: 6157509558283963044
+      sword-buckler_attack_73x38_202: 2750917913602990769
+      sword-buckler_attack_73x38_203: 2926538966369816197
+      sword-buckler_attack_73x38_21: -8280476959726112938
+      sword-buckler_attack_73x38_22: -4571458426203001106
+      sword-buckler_attack_73x38_23: -545528977582240325
+      sword-buckler_attack_73x38_24: 2237085306411566840
+      sword-buckler_attack_73x38_25: -7107064785589123679
+      sword-buckler_attack_73x38_26: 1470759002981301110
+      sword-buckler_attack_73x38_27: 711727479272611822
+      sword-buckler_attack_73x38_28: 4643489775888843389
+      sword-buckler_attack_73x38_29: -2819577346204648232
+      sword-buckler_attack_73x38_3: -6751985698812481594
+      sword-buckler_attack_73x38_30: 3419221647117508463
+      sword-buckler_attack_73x38_31: 3929838878377363495
+      sword-buckler_attack_73x38_32: 7757179962406948897
+      sword-buckler_attack_73x38_33: -8302221670757511617
+      sword-buckler_attack_73x38_34: -3682889743471236372
+      sword-buckler_attack_73x38_35: 2282634291016366333
+      sword-buckler_attack_73x38_36: 4216522586116566250
+      sword-buckler_attack_73x38_37: -3376734848909170243
+      sword-buckler_attack_73x38_38: 9041742576237701278
+      sword-buckler_attack_73x38_39: 3025552599065644830
+      sword-buckler_attack_73x38_4: -8530675606169135444
+      sword-buckler_attack_73x38_40: 2744687702214782597
+      sword-buckler_attack_73x38_41: -5047369287418697767
+      sword-buckler_attack_73x38_42: 8794954360363639481
+      sword-buckler_attack_73x38_43: -6249663835659641437
+      sword-buckler_attack_73x38_44: -6861260894942727798
+      sword-buckler_attack_73x38_45: -4765214287606753716
+      sword-buckler_attack_73x38_46: 6531991221555022450
+      sword-buckler_attack_73x38_47: -7846017133750847960
+      sword-buckler_attack_73x38_48: 1606816174040784522
+      sword-buckler_attack_73x38_49: -3769590004809380669
+      sword-buckler_attack_73x38_5: 2309022672671764997
+      sword-buckler_attack_73x38_50: -6382303202768798555
+      sword-buckler_attack_73x38_51: 8244587592600599184
+      sword-buckler_attack_73x38_52: 1130854829176588767
+      sword-buckler_attack_73x38_53: -1847623973995210508
+      sword-buckler_attack_73x38_54: 4720736026975098121
+      sword-buckler_attack_73x38_55: -2831687503652671343
+      sword-buckler_attack_73x38_56: 5142322264214553230
+      sword-buckler_attack_73x38_57: -4199061618367522423
+      sword-buckler_attack_73x38_58: 1312906314535778966
+      sword-buckler_attack_73x38_59: -3912154179751633001
+      sword-buckler_attack_73x38_6: -6846983406742609547
+      sword-buckler_attack_73x38_60: -4892780062700539555
+      sword-buckler_attack_73x38_61: -1223494487683527863
+      sword-buckler_attack_73x38_62: -7518707132484904914
+      sword-buckler_attack_73x38_63: 7780298426126562073
+      sword-buckler_attack_73x38_64: -6215011251275671680
+      sword-buckler_attack_73x38_65: -397850720164725666
+      sword-buckler_attack_73x38_66: -7457674772107337742
+      sword-buckler_attack_73x38_67: -6304118579701977005
+      sword-buckler_attack_73x38_68: -4488810817758745930
+      sword-buckler_attack_73x38_69: 3430021197429059564
+      sword-buckler_attack_73x38_7: -6609330409025290229
+      sword-buckler_attack_73x38_70: 6993829788631032226
+      sword-buckler_attack_73x38_71: -8157731895873216910
+      sword-buckler_attack_73x38_72: -2808404403840809902
+      sword-buckler_attack_73x38_73: 1675068067492566957
+      sword-buckler_attack_73x38_74: -463309673362126725
+      sword-buckler_attack_73x38_75: -6455261245553430533
+      sword-buckler_attack_73x38_76: -8109971285401921930
+      sword-buckler_attack_73x38_77: 1776020258350087261
+      sword-buckler_attack_73x38_78: 3668163004532920146
+      sword-buckler_attack_73x38_79: 4125961305047102991
+      sword-buckler_attack_73x38_8: 8766454921485860367
+      sword-buckler_attack_73x38_80: -1190442356331391025
+      sword-buckler_attack_73x38_81: -7645131204773683157
+      sword-buckler_attack_73x38_82: 7080375259744361121
+      sword-buckler_attack_73x38_83: -544371010103471379
+      sword-buckler_attack_73x38_84: 1878293002384909939
+      sword-buckler_attack_73x38_85: 85312269884742208
+      sword-buckler_attack_73x38_86: -8770074199480173588
+      sword-buckler_attack_73x38_87: -6262780367076816354
+      sword-buckler_attack_73x38_88: -4179845969773180905
+      sword-buckler_attack_73x38_89: -1855608990969478045
+      sword-buckler_attack_73x38_9: 6899626419406819822
+      sword-buckler_attack_73x38_90: -7283946238193749828
+      sword-buckler_attack_73x38_91: -8613797854720844114
+      sword-buckler_attack_73x38_92: 5702609784171773093
+      sword-buckler_attack_73x38_93: -5518664864566352157
+      sword-buckler_attack_73x38_94: 837265852399586011
+      sword-buckler_attack_73x38_95: 4372804173901546161
+      sword-buckler_attack_73x38_96: 3797179481608205261
+      sword-buckler_attack_73x38_97: -3890251953510922119
+      sword-buckler_attack_73x38_98: -4800734886241529284
+      sword-buckler_attack_73x38_99: -1433562322196882315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

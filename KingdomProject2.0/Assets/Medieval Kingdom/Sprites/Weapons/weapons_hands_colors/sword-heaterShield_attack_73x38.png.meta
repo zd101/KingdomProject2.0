@@ -1,0 +1,5214 @@
+fileFormatVersion: 2
+guid: c0b1671b627b54742a4d27e9a25d1bcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7767012545535917309
+    second: sword-heaterShield_attack_73x38_0
+  - first:
+      213: -3080033858418032735
+    second: sword-heaterShield_attack_73x38_1
+  - first:
+      213: -7185848249993170075
+    second: sword-heaterShield_attack_73x38_2
+  - first:
+      213: 5650880259331116074
+    second: sword-heaterShield_attack_73x38_3
+  - first:
+      213: -1411549165882310064
+    second: sword-heaterShield_attack_73x38_4
+  - first:
+      213: 2536484091787201958
+    second: sword-heaterShield_attack_73x38_5
+  - first:
+      213: -5055148000567914593
+    second: sword-heaterShield_attack_73x38_6
+  - first:
+      213: 8705718766345657266
+    second: sword-heaterShield_attack_73x38_7
+  - first:
+      213: -8962251409432640804
+    second: sword-heaterShield_attack_73x38_8
+  - first:
+      213: -4367402435867569811
+    second: sword-heaterShield_attack_73x38_9
+  - first:
+      213: 7397232646034178976
+    second: sword-heaterShield_attack_73x38_10
+  - first:
+      213: -264595442105429900
+    second: sword-heaterShield_attack_73x38_11
+  - first:
+      213: -7621991925468417153
+    second: sword-heaterShield_attack_73x38_12
+  - first:
+      213: -6003812238963084859
+    second: sword-heaterShield_attack_73x38_13
+  - first:
+      213: -8072003529372431011
+    second: sword-heaterShield_attack_73x38_14
+  - first:
+      213: -3782424169298671068
+    second: sword-heaterShield_attack_73x38_15
+  - first:
+      213: 2088518693268638160
+    second: sword-heaterShield_attack_73x38_16
+  - first:
+      213: 1677115889489164021
+    second: sword-heaterShield_attack_73x38_17
+  - first:
+      213: 650804224807300926
+    second: sword-heaterShield_attack_73x38_18
+  - first:
+      213: -1912402832602127601
+    second: sword-heaterShield_attack_73x38_19
+  - first:
+      213: 6373242423981113937
+    second: sword-heaterShield_attack_73x38_20
+  - first:
+      213: -3939783160289192972
+    second: sword-heaterShield_attack_73x38_21
+  - first:
+      213: 4054226042725021451
+    second: sword-heaterShield_attack_73x38_22
+  - first:
+      213: -7946508284237147760
+    second: sword-heaterShield_attack_73x38_23
+  - first:
+      213: -1373775173823979739
+    second: sword-heaterShield_attack_73x38_24
+  - first:
+      213: 3000431606378663094
+    second: sword-heaterShield_attack_73x38_25
+  - first:
+      213: 2814672785163884449
+    second: sword-heaterShield_attack_73x38_26
+  - first:
+      213: -5459482713485966437
+    second: sword-heaterShield_attack_73x38_27
+  - first:
+      213: 8240234424670533821
+    second: sword-heaterShield_attack_73x38_28
+  - first:
+      213: -5911952216123292509
+    second: sword-heaterShield_attack_73x38_29
+  - first:
+      213: -6566437447170353280
+    second: sword-heaterShield_attack_73x38_30
+  - first:
+      213: -7588198148758853855
+    second: sword-heaterShield_attack_73x38_31
+  - first:
+      213: 3761002562426506618
+    second: sword-heaterShield_attack_73x38_32
+  - first:
+      213: -3707036421098859207
+    second: sword-heaterShield_attack_73x38_33
+  - first:
+      213: 172356211956688483
+    second: sword-heaterShield_attack_73x38_34
+  - first:
+      213: 3589074710119232888
+    second: sword-heaterShield_attack_73x38_35
+  - first:
+      213: 5087334840808144560
+    second: sword-heaterShield_attack_73x38_36
+  - first:
+      213: 916280187326892965
+    second: sword-heaterShield_attack_73x38_37
+  - first:
+      213: 3084367256515555542
+    second: sword-heaterShield_attack_73x38_38
+  - first:
+      213: 2131144954613548422
+    second: sword-heaterShield_attack_73x38_39
+  - first:
+      213: 1568186721072091808
+    second: sword-heaterShield_attack_73x38_40
+  - first:
+      213: -477268077157938699
+    second: sword-heaterShield_attack_73x38_41
+  - first:
+      213: -2258803223285423867
+    second: sword-heaterShield_attack_73x38_42
+  - first:
+      213: 2624042844645633103
+    second: sword-heaterShield_attack_73x38_43
+  - first:
+      213: -9077752641168247978
+    second: sword-heaterShield_attack_73x38_44
+  - first:
+      213: 1225984390465839866
+    second: sword-heaterShield_attack_73x38_45
+  - first:
+      213: -6795227284746694372
+    second: sword-heaterShield_attack_73x38_46
+  - first:
+      213: -5809091506671760534
+    second: sword-heaterShield_attack_73x38_47
+  - first:
+      213: -3982674145832855725
+    second: sword-heaterShield_attack_73x38_48
+  - first:
+      213: 3896638839258696747
+    second: sword-heaterShield_attack_73x38_49
+  - first:
+      213: 964293917530456749
+    second: sword-heaterShield_attack_73x38_50
+  - first:
+      213: 8102969854671669193
+    second: sword-heaterShield_attack_73x38_51
+  - first:
+      213: -3695333025774917394
+    second: sword-heaterShield_attack_73x38_52
+  - first:
+      213: -4391024836090399444
+    second: sword-heaterShield_attack_73x38_53
+  - first:
+      213: -899578066528524179
+    second: sword-heaterShield_attack_73x38_54
+  - first:
+      213: -3877180061624894679
+    second: sword-heaterShield_attack_73x38_55
+  - first:
+      213: -3490792023032420659
+    second: sword-heaterShield_attack_73x38_56
+  - first:
+      213: -6636507629719416323
+    second: sword-heaterShield_attack_73x38_57
+  - first:
+      213: 8687233273812097643
+    second: sword-heaterShield_attack_73x38_58
+  - first:
+      213: -2365886862379197195
+    second: sword-heaterShield_attack_73x38_59
+  - first:
+      213: 7422477891957804368
+    second: sword-heaterShield_attack_73x38_60
+  - first:
+      213: -4540983171775314954
+    second: sword-heaterShield_attack_73x38_61
+  - first:
+      213: -3507119772372425987
+    second: sword-heaterShield_attack_73x38_62
+  - first:
+      213: -1740928793989903081
+    second: sword-heaterShield_attack_73x38_63
+  - first:
+      213: -7362779869202976418
+    second: sword-heaterShield_attack_73x38_64
+  - first:
+      213: 3310761954628856443
+    second: sword-heaterShield_attack_73x38_65
+  - first:
+      213: -2014956111433299905
+    second: sword-heaterShield_attack_73x38_66
+  - first:
+      213: -4700216239479993016
+    second: sword-heaterShield_attack_73x38_67
+  - first:
+      213: 16327648861268486
+    second: sword-heaterShield_attack_73x38_68
+  - first:
+      213: -210841553217354540
+    second: sword-heaterShield_attack_73x38_69
+  - first:
+      213: 6853267412607630941
+    second: sword-heaterShield_attack_73x38_70
+  - first:
+      213: 8838919739894949117
+    second: sword-heaterShield_attack_73x38_71
+  - first:
+      213: 6803938168611859831
+    second: sword-heaterShield_attack_73x38_72
+  - first:
+      213: 5223280063695930337
+    second: sword-heaterShield_attack_73x38_73
+  - first:
+      213: -589357582638242487
+    second: sword-heaterShield_attack_73x38_74
+  - first:
+      213: -6139748180246840370
+    second: sword-heaterShield_attack_73x38_75
+  - first:
+      213: -580029800466711838
+    second: sword-heaterShield_attack_73x38_76
+  - first:
+      213: 55303147302300979
+    second: sword-heaterShield_attack_73x38_77
+  - first:
+      213: 5062338428159746725
+    second: sword-heaterShield_attack_73x38_78
+  - first:
+      213: -7206346299588913606
+    second: sword-heaterShield_attack_73x38_79
+  - first:
+      213: 4451969873599142441
+    second: sword-heaterShield_attack_73x38_80
+  - first:
+      213: 3399758793273740983
+    second: sword-heaterShield_attack_73x38_81
+  - first:
+      213: 5752340803804736264
+    second: sword-heaterShield_attack_73x38_82
+  - first:
+      213: -175830513328074841
+    second: sword-heaterShield_attack_73x38_83
+  - first:
+      213: 67262636271178169
+    second: sword-heaterShield_attack_73x38_84
+  - first:
+      213: 1703792238842251332
+    second: sword-heaterShield_attack_73x38_85
+  - first:
+      213: -5578877111324852453
+    second: sword-heaterShield_attack_73x38_86
+  - first:
+      213: 7009338833886436699
+    second: sword-heaterShield_attack_73x38_87
+  - first:
+      213: -6450573964163462533
+    second: sword-heaterShield_attack_73x38_88
+  - first:
+      213: 7730461107029908474
+    second: sword-heaterShield_attack_73x38_89
+  - first:
+      213: 7622629953908767107
+    second: sword-heaterShield_attack_73x38_90
+  - first:
+      213: -7641311787655912873
+    second: sword-heaterShield_attack_73x38_91
+  - first:
+      213: 6842298358778276274
+    second: sword-heaterShield_attack_73x38_92
+  - first:
+      213: 1301580268059300420
+    second: sword-heaterShield_attack_73x38_93
+  - first:
+      213: 2932159474450337924
+    second: sword-heaterShield_attack_73x38_94
+  - first:
+      213: 2048706913630266444
+    second: sword-heaterShield_attack_73x38_95
+  - first:
+      213: -6680187168800371800
+    second: sword-heaterShield_attack_73x38_96
+  - first:
+      213: -2055468330037431755
+    second: sword-heaterShield_attack_73x38_97
+  - first:
+      213: 4748412378076807367
+    second: sword-heaterShield_attack_73x38_98
+  - first:
+      213: -8510089989664880928
+    second: sword-heaterShield_attack_73x38_99
+  - first:
+      213: 3865926962831103213
+    second: sword-heaterShield_attack_73x38_100
+  - first:
+      213: 1219403207424947275
+    second: sword-heaterShield_attack_73x38_101
+  - first:
+      213: 1198434795554603851
+    second: sword-heaterShield_attack_73x38_102
+  - first:
+      213: -2612165941005249569
+    second: sword-heaterShield_attack_73x38_103
+  - first:
+      213: -3926269786123702248
+    second: sword-heaterShield_attack_73x38_104
+  - first:
+      213: -7888951820561757731
+    second: sword-heaterShield_attack_73x38_105
+  - first:
+      213: -188980080872481261
+    second: sword-heaterShield_attack_73x38_106
+  - first:
+      213: 3603036408451656382
+    second: sword-heaterShield_attack_73x38_107
+  - first:
+      213: -4701375389086590813
+    second: sword-heaterShield_attack_73x38_108
+  - first:
+      213: -4610616137712373210
+    second: sword-heaterShield_attack_73x38_109
+  - first:
+      213: 5409677101431373553
+    second: sword-heaterShield_attack_73x38_110
+  - first:
+      213: -2999800985471919805
+    second: sword-heaterShield_attack_73x38_111
+  - first:
+      213: -3630906674311548922
+    second: sword-heaterShield_attack_73x38_112
+  - first:
+      213: -5908971108727883532
+    second: sword-heaterShield_attack_73x38_113
+  - first:
+      213: -3370036025553276217
+    second: sword-heaterShield_attack_73x38_114
+  - first:
+      213: -1744568603968735684
+    second: sword-heaterShield_attack_73x38_115
+  - first:
+      213: -2282566009169396975
+    second: sword-heaterShield_attack_73x38_116
+  - first:
+      213: -4308194560859420729
+    second: sword-heaterShield_attack_73x38_117
+  - first:
+      213: 9058688058627127851
+    second: sword-heaterShield_attack_73x38_118
+  - first:
+      213: 3345442750252038500
+    second: sword-heaterShield_attack_73x38_119
+  - first:
+      213: 7477048450163899718
+    second: sword-heaterShield_attack_73x38_120
+  - first:
+      213: 7177905394156762434
+    second: sword-heaterShield_attack_73x38_121
+  - first:
+      213: 219082178344922162
+    second: sword-heaterShield_attack_73x38_122
+  - first:
+      213: 7166287598302642806
+    second: sword-heaterShield_attack_73x38_123
+  - first:
+      213: 4476806582328692631
+    second: sword-heaterShield_attack_73x38_124
+  - first:
+      213: -6529195983030674759
+    second: sword-heaterShield_attack_73x38_125
+  - first:
+      213: 7286074962236597861
+    second: sword-heaterShield_attack_73x38_126
+  - first:
+      213: 2933275056169892340
+    second: sword-heaterShield_attack_73x38_127
+  - first:
+      213: -6907682831009508760
+    second: sword-heaterShield_attack_73x38_128
+  - first:
+      213: 7536348049845357122
+    second: sword-heaterShield_attack_73x38_129
+  - first:
+      213: -2220690520789777710
+    second: sword-heaterShield_attack_73x38_130
+  - first:
+      213: -4788446447285277476
+    second: sword-heaterShield_attack_73x38_131
+  - first:
+      213: -7025830737557907591
+    second: sword-heaterShield_attack_73x38_132
+  - first:
+      213: 3694244106502380561
+    second: sword-heaterShield_attack_73x38_133
+  - first:
+      213: 5662550738719849270
+    second: sword-heaterShield_attack_73x38_134
+  - first:
+      213: -7469045661303515554
+    second: sword-heaterShield_attack_73x38_135
+  - first:
+      213: 8833235841475181263
+    second: sword-heaterShield_attack_73x38_136
+  - first:
+      213: 140025945910916521
+    second: sword-heaterShield_attack_73x38_137
+  - first:
+      213: -5404206046235474014
+    second: sword-heaterShield_attack_73x38_138
+  - first:
+      213: -5607839749282531778
+    second: sword-heaterShield_attack_73x38_139
+  - first:
+      213: -7839105042952042298
+    second: sword-heaterShield_attack_73x38_140
+  - first:
+      213: -8473421417964507491
+    second: sword-heaterShield_attack_73x38_141
+  - first:
+      213: 6781984542939711020
+    second: sword-heaterShield_attack_73x38_142
+  - first:
+      213: -3233178421222330331
+    second: sword-heaterShield_attack_73x38_143
+  - first:
+      213: -5879544856353544133
+    second: sword-heaterShield_attack_73x38_144
+  - first:
+      213: -8516939871362342470
+    second: sword-heaterShield_attack_73x38_145
+  - first:
+      213: -271639118606446267
+    second: sword-heaterShield_attack_73x38_146
+  - first:
+      213: 5491950104312547859
+    second: sword-heaterShield_attack_73x38_147
+  - first:
+      213: 2877798318674732603
+    second: sword-heaterShield_attack_73x38_148
+  - first:
+      213: -2619710147778815694
+    second: sword-heaterShield_attack_73x38_149
+  - first:
+      213: -8591814389867439163
+    second: sword-heaterShield_attack_73x38_150
+  - first:
+      213: -47013740537421307
+    second: sword-heaterShield_attack_73x38_151
+  - first:
+      213: 2042542749063162898
+    second: sword-heaterShield_attack_73x38_152
+  - first:
+      213: 6959926441143600994
+    second: sword-heaterShield_attack_73x38_153
+  - first:
+      213: -2418800500706498090
+    second: sword-heaterShield_attack_73x38_154
+  - first:
+      213: -7504648341061751656
+    second: sword-heaterShield_attack_73x38_155
+  - first:
+      213: 4868929704868994965
+    second: sword-heaterShield_attack_73x38_156
+  - first:
+      213: -1845783490609195557
+    second: sword-heaterShield_attack_73x38_157
+  - first:
+      213: -1820879435358339506
+    second: sword-heaterShield_attack_73x38_158
+  - first:
+      213: -481868742063839465
+    second: sword-heaterShield_attack_73x38_159
+  - first:
+      213: 16043985377194604
+    second: sword-heaterShield_attack_73x38_160
+  - first:
+      213: -842448772893087059
+    second: sword-heaterShield_attack_73x38_161
+  - first:
+      213: 422648724770819650
+    second: sword-heaterShield_attack_73x38_162
+  - first:
+      213: 815665298323659555
+    second: sword-heaterShield_attack_73x38_163
+  - first:
+      213: 7788411344422614564
+    second: sword-heaterShield_attack_73x38_164
+  - first:
+      213: -1751709547118247906
+    second: sword-heaterShield_attack_73x38_165
+  - first:
+      213: -58722013133048488
+    second: sword-heaterShield_attack_73x38_166
+  - first:
+      213: 7720805913997343746
+    second: sword-heaterShield_attack_73x38_167
+  - first:
+      213: -3062394643644778219
+    second: sword-heaterShield_attack_73x38_168
+  - first:
+      213: 1406615692489599486
+    second: sword-heaterShield_attack_73x38_169
+  - first:
+      213: 7934182073732680055
+    second: sword-heaterShield_attack_73x38_170
+  - first:
+      213: -8878092061188029767
+    second: sword-heaterShield_attack_73x38_171
+  - first:
+      213: -5392588318241639051
+    second: sword-heaterShield_attack_73x38_172
+  - first:
+      213: 5183466493855996662
+    second: sword-heaterShield_attack_73x38_173
+  - first:
+      213: -463276927123587782
+    second: sword-heaterShield_attack_73x38_174
+  - first:
+      213: 6689713835720000683
+    second: sword-heaterShield_attack_73x38_175
+  - first:
+      213: 4190529556696539320
+    second: sword-heaterShield_attack_73x38_176
+  - first:
+      213: -7080279820056111564
+    second: sword-heaterShield_attack_73x38_177
+  - first:
+      213: 2062749416813526850
+    second: sword-heaterShield_attack_73x38_178
+  - first:
+      213: 787491855943512520
+    second: sword-heaterShield_attack_73x38_179
+  - first:
+      213: 2683677264562473926
+    second: sword-heaterShield_attack_73x38_180
+  - first:
+      213: -2131878410804231419
+    second: sword-heaterShield_attack_73x38_181
+  - first:
+      213: -228922605403286884
+    second: sword-heaterShield_attack_73x38_182
+  - first:
+      213: 6047059374090448592
+    second: sword-heaterShield_attack_73x38_183
+  - first:
+      213: 8811851359636054018
+    second: sword-heaterShield_attack_73x38_184
+  - first:
+      213: 8860837162212851606
+    second: sword-heaterShield_attack_73x38_185
+  - first:
+      213: 8311763829977448343
+    second: sword-heaterShield_attack_73x38_186
+  - first:
+      213: 5554620991315150412
+    second: sword-heaterShield_attack_73x38_187
+  - first:
+      213: -5146948572573879732
+    second: sword-heaterShield_attack_73x38_188
+  - first:
+      213: -8499240087104908107
+    second: sword-heaterShield_attack_73x38_189
+  - first:
+      213: 2954683586237188981
+    second: sword-heaterShield_attack_73x38_190
+  - first:
+      213: 3389982668165421489
+    second: sword-heaterShield_attack_73x38_191
+  - first:
+      213: -7038156508349340337
+    second: sword-heaterShield_attack_73x38_192
+  - first:
+      213: 6090748106582135626
+    second: sword-heaterShield_attack_73x38_193
+  - first:
+      213: 2718971143149975064
+    second: sword-heaterShield_attack_73x38_194
+  - first:
+      213: -7061900249981299690
+    second: sword-heaterShield_attack_73x38_195
+  - first:
+      213: -1128156249162340082
+    second: sword-heaterShield_attack_73x38_196
+  - first:
+      213: -1927587368980364519
+    second: sword-heaterShield_attack_73x38_197
+  - first:
+      213: -2920656983608690313
+    second: sword-heaterShield_attack_73x38_198
+  - first:
+      213: 8570349348108866553
+    second: sword-heaterShield_attack_73x38_199
+  - first:
+      213: -30771840741365532
+    second: sword-heaterShield_attack_73x38_200
+  - first:
+      213: -6357481385158201160
+    second: sword-heaterShield_attack_73x38_201
+  - first:
+      213: 6952166792300648433
+    second: sword-heaterShield_attack_73x38_202
+  - first:
+      213: 8498032997469920826
+    second: sword-heaterShield_attack_73x38_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3034451cd37063490800000000000000
+      internalID: -7767012545535917309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af31d446858145d0800000000000000
+      internalID: -3080033858418032735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5637b41c61db64c90800000000000000
+      internalID: -7185848249993170075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cc2bdf7a5fb6e40800000000000000
+      internalID: 5650880259331116074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0520698238b296ce0800000000000000
+      internalID: -1411549165882310064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc765b7d6633320800000000000000
+      internalID: 2536484091787201958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f8f134da188d9b0800000000000000
+      internalID: -5055148000567914593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb1c76d71de0d870800000000000000
+      internalID: 8705718766345657266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd20601c3dfaf9380800000000000000
+      internalID: -8962251409432640804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6110f2cf9ed363c0800000000000000
+      internalID: -4367402435867569811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a34acb36ef38a660800000000000000
+      internalID: 7397232646034178976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4705e18e8d7f35cf0800000000000000
+      internalID: -264595442105429900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f733f811abe393690800000000000000
+      internalID: -7621991925468417153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c17676049c2eaca0800000000000000
+      internalID: -6003812238963084859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d8e0eae8b7aff80800000000000000
+      internalID: -8072003529372431011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ac9171241228bc0800000000000000
+      internalID: -3782424169298671068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d94a03afa8ebfc10800000000000000
+      internalID: 2088518693268638160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f63a280400564710800000000000000
+      internalID: 1677115889489164021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f66fd8efe180900800000000000000
+      internalID: 650804224807300926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ac4f81c7c575e0800000000000000
+      internalID: -1912402832602127601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15208dcb73e427850800000000000000
+      internalID: 6373242423981113937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_21
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f395eee6141359c0800000000000000
+      internalID: -3939783160289192972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0733cb0b11834830800000000000000
+      internalID: 4054226042725021451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091985161d458b190800000000000000
+      internalID: -7946508284237147760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f98fa02ce5fece0800000000000000
+      internalID: -1373775173823979739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc0e0726aca3a920800000000000000
+      internalID: 3000431606378663094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a717ae3cf9bf0720800000000000000
+      internalID: 2814672785163884449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93884dc5650c34b0800000000000000
+      internalID: -5459482713485966437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8be64fc813b5270800000000000000
+      internalID: 8240234424670533821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a443e448c684fda0800000000000000
+      internalID: -5911952216123292509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0879699aee35fd4a0800000000000000
+      internalID: -6566437447170353280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127a3f9dcfd41b690800000000000000
+      internalID: -7588198148758853855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d04c467e3c13430800000000000000
+      internalID: 3761002562426506618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_33
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93597f60406fd8cc0800000000000000
+      internalID: -3707036421098859207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a284cf05546200800000000000000
+      internalID: 172356211956688483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875bef0ee64fec130800000000000000
+      internalID: 3589074710119232888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be76d77518d99640800000000000000
+      internalID: 5087334840808144560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab0958c9f747bc00800000000000000
+      internalID: 916280187326892965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0b4799dafddca20800000000000000
+      internalID: 3084367256515555542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6854b908b09539d10800000000000000
+      internalID: 2131144954613548422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a29cf2a38153c510800000000000000
+      internalID: 1568186721072091808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_41
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f90e5666376069f0800000000000000
+      internalID: -477268077157938699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a092af6e17a0e0800000000000000
+      internalID: -2258803223285423867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_43
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c228e70197a6420800000000000000
+      internalID: 2624042844645633103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6537d40a118550280800000000000000
+      internalID: -9077752641168247978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2e3edbe42930110800000000000000
+      internalID: 1225984390465839866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1191a489c082b1a0800000000000000
+      internalID: -6795227284746694372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b47157d06f16fa0800000000000000
+      internalID: -5809091506671760534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357108927f2bab8c0800000000000000
+      internalID: -3982674145832855725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_49
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c41080164a31630800000000000000
+      internalID: 3896638839258696747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_50
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2097d753cd16d00800000000000000
+      internalID: 964293917530456749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_51
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c74765c628837070800000000000000
+      internalID: 8102969854671669193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8aae7113a87bcc0800000000000000
+      internalID: -3695333025774917394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_53
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25f9ec1d22ff03c0800000000000000
+      internalID: -4391024836090399444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_54
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68a5d0c38e0483f0800000000000000
+      internalID: -899578066528524179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_55
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bfe90b64d713ac0800000000000000
+      internalID: -3877180061624894679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_56
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a26a66273e8fc0800000000000000
+      internalID: -3490792023032420659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_57
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df19765f87366e3a0800000000000000
+      internalID: -6636507629719416323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a1686b2a04f8870800000000000000
+      internalID: 8687233273812097643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcdf150f6eaa2fd0800000000000000
+      internalID: -2365886862379197195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dc5571150f10760800000000000000
+      internalID: 7422477891957804368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f34e4b4ddf2bf0c0800000000000000
+      internalID: -4540983171775314954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df22ef60625345fc0800000000000000
+      internalID: -3507119772372425987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_63
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d8bf65c7af6d7e0800000000000000
+      internalID: -1740928793989903081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_64
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5172c8f7b622d990800000000000000
+      internalID: -7362779869202976418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ae781e47032fd20800000000000000
+      internalID: 3310761954628856443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_66
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f380404a7107904e0800000000000000
+      internalID: -2014956111433299905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_67
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dc546ab3a75ceb0800000000000000
+      internalID: -4700216239479993016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa46ef8e10a3000800000000000000
+      internalID: 16327648861268486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4869479b0f21df0800000000000000
+      internalID: -210841553217354540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5efc3fc662bb1f50800000000000000
+      internalID: 6853267412607630941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_71
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df460ae3ca62aaa70800000000000000
+      internalID: 8838919739894949117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_72
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de4dd27b17c6e50800000000000000
+      internalID: 6803938168611859831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_73
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3c9f63b81dc7840800000000000000
+      internalID: 5223280063695930337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_74
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9452a21b66e22d7f0800000000000000
+      internalID: -589357582638242487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_75
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb39025f8b3bcaa0800000000000000
+      internalID: -6139748180246840370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_76
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea7a0838f153f7f0800000000000000
+      internalID: -580029800466711838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_77
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d2ae16be974c000800000000000000
+      internalID: 55303147302300979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2654f9af9014640800000000000000
+      internalID: 5062338428159746725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_79
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a365d8ca83aedfb90800000000000000
+      internalID: -7206346299588913606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a1e92330398cd30800000000000000
+      internalID: 4451969873599142441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_81
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be871b1c9e5e2f20800000000000000
+      internalID: 3399758793273740983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_82
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b24cddb7b64df40800000000000000
+      internalID: 5752340803804736264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_83
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afc76864135f8df0800000000000000
+      internalID: -175830513328074841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_84
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b19995e207fee000800000000000000
+      internalID: 67262636271178169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_85
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448824f930615a710800000000000000
+      internalID: 1703792238842251332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_86
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fbced43d8d392b0800000000000000
+      internalID: -5578877111324852453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_87
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dd628488c264160800000000000000
+      internalID: 7009338833886436699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_88
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a47acf725fa76a0800000000000000
+      internalID: -6450573964163462533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_89
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb9d7a4b6d184b60800000000000000
+      internalID: 7730461107029908474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_90
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389fbf08e8509c960800000000000000
+      internalID: 7622629953908767107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_91
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752a3ce1a6b94f590800000000000000
+      internalID: -7641311787655912873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9a732fa1ab4fe50800000000000000
+      internalID: 6842298358778276274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_93
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44215549b54201210800000000000000
+      internalID: 1301580268059300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480986bb18f11b820800000000000000
+      internalID: 2932159474450337924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44a1db55187e6c10800000000000000
+      internalID: 2048706913630266444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_96
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab0882c9253b43a0800000000000000
+      internalID: -6680187168800371800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_97
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532bd05b1728973e0800000000000000
+      internalID: -2055468330037431755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0065256efb5e140800000000000000
+      internalID: 4748412378076807367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_99
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ca672e3616e980800000000000000
+      internalID: -8510089989664880928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_100
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de41723171886a530800000000000000
+      internalID: 3865926962831103213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_101
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b443988a1c03ce010800000000000000
+      internalID: 1219403207424947275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b430083d812b1a010800000000000000
+      internalID: 1198434795554603851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_103
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd31200aae8bfbbd0800000000000000
+      internalID: -2612165941005249569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8107fb98e661389c0800000000000000
+      internalID: -3926269786123702248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_105
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9ce3ddd10d48290800000000000000
+      internalID: -7888951820561757731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e98f12e9b906df0800000000000000
+      internalID: -188980080872481261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_107
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba6f86168e800230800000000000000
+      internalID: 3603036408451656382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_108
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8dab91efb51ceb0800000000000000
+      internalID: -4701375389086590813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_109
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62278f30d0dc300c0800000000000000
+      internalID: -4610616137712373210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_110
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feb16c79a8031b40800000000000000
+      internalID: 5409677101431373553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_111
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3495418b5e09e56d0800000000000000
+      internalID: -2999800985471919805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600b019fd9d6c9dc0800000000000000
+      internalID: -3630906674311548922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_113
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f87a3c651e1ffda0800000000000000
+      internalID: -5908971108727883532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b0a8071a3b31d0800000000000000
+      internalID: -3370036025553276217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_115
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36f42a091c0ac7e0800000000000000
+      internalID: -1744568603968735684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_116
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bb317ee42b250e0800000000000000
+      internalID: -2282566009169396975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_117
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c744b86fd73634c0800000000000000
+      internalID: -4308194560859420729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_118
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2afa895bcce6bd70800000000000000
+      internalID: 9058688058627127851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_119
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469bd29d4766d6e20800000000000000
+      internalID: 3345442750252038500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_120
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d776843ffc3c760800000000000000
+      internalID: 7477048450163899718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_121
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245f2120dea0d9360800000000000000
+      internalID: 7177905394156762434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_122
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c2ed894165a0300800000000000000
+      internalID: 219082178344922162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_123
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672cd1f1a94c37360800000000000000
+      internalID: 7166287598302642806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_124
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f05d31edfc02e30800000000000000
+      internalID: 4476806582328692631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_125
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba9c8ab8d2a365a0800000000000000
+      internalID: -6529195983030674759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566eafa23965d1560800000000000000
+      internalID: 7286074962236597861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_127
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f935875f1615b820800000000000000
+      internalID: 2933275056169892340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_128
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8621d9c401bf220a0800000000000000
+      internalID: -6907682831009508760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_129
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a8dbe3f9c769860800000000000000
+      internalID: 7536348049845357122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_130
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d28f30bcb58e21e0800000000000000
+      internalID: -2220690520789777710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_131
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc649393550c8db0800000000000000
+      internalID: -4788446447285277476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_132
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97717db2b2c3f7e90800000000000000
+      internalID: -7025830737557907591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_133
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c97a12177944330800000000000000
+      internalID: 3694244106502380561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb50835eb659e40800000000000000
+      internalID: 5662550738719849270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_135
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56d4d23b8e985890800000000000000
+      internalID: -7469045661303515554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca70648235f59a70800000000000000
+      internalID: 8833235841475181263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5bb5d1bd871f100800000000000000
+      internalID: 140025945910916521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_138
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7cd11db376005b0800000000000000
+      internalID: -5404206046235474014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_139
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36f2baa573fc22b0800000000000000
+      internalID: -5607839749282531778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_140
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8cedd2f77e53390800000000000000
+      internalID: -7839105042952042298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee90e4d1c586a80800000000000000
+      internalID: -8473421417964507491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_142
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c268c1262037e1e50800000000000000
+      internalID: 6781984542939711020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_143
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520b5932b517123d0800000000000000
+      internalID: -3233178421222330331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_144
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b386214ba19a76ea0800000000000000
+      internalID: -5879544856353544133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_145
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1261acf40cdc980800000000000000
+      internalID: -8516939871362342470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541dc5c29a1fa3cf0800000000000000
+      internalID: -271639118606446267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a08b3b583573c40800000000000000
+      internalID: 5491950104312547859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36e2d7d25effe720800000000000000
+      internalID: 2877798318674732603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_149
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239582b108be4abd0800000000000000
+      internalID: -2619710147778815694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_150
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb9cd3755eb3c880800000000000000
+      internalID: -8591814389867439163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_151
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50264b78049f85ff0800000000000000
+      internalID: -47013740537421307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_152
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ca574fec1985c10800000000000000
+      internalID: 2042542749063162898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_153
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26786331930a69060800000000000000
+      internalID: 6959926441143600994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_154
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92adc82c1be6ed0800000000000000
+      internalID: -2418800500706498090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_155
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c2aca58122ad790800000000000000
+      internalID: -7504648341061751656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_156
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f501715c9e19340800000000000000
+      internalID: 4868929704868994965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_157
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd555f5d1b57266e0800000000000000
+      internalID: -1845783490609195557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_158
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ef6ac0dcfeab6e0800000000000000
+      internalID: -1820879435358339506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_159
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717abe0aeee0059f0800000000000000
+      internalID: -481868742063839465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6270317beff83000800000000000000
+      internalID: 16043985377194604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa6e36fd450f44f0800000000000000
+      internalID: -842448772893087059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_162
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e8cb0a6cc8dd500800000000000000
+      internalID: 422648724770819650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_163
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bd13a6443d15b00800000000000000
+      internalID: 815665298323659555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_164
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426beec5adef51c60800000000000000
+      internalID: 7788411344422614564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_165
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e104b56a27da0b7e0800000000000000
+      internalID: -1751709547118247906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_166
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85575b2e3a06f2ff0800000000000000
+      internalID: -58722013133048488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_167
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfb8b7210d52b60800000000000000
+      internalID: 7720805913997343746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_168
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5197e7ffb403085d0800000000000000
+      internalID: -3062394643644778219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9255e058d458310800000000000000
+      internalID: 1406615692489599486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779cb181f80eb1e60800000000000000
+      internalID: 7934182073732680055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_171
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20ca9fe4eaac480800000000000000
+      internalID: -8878092061188029767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_172
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753947ee7da925b0800000000000000
+      internalID: -5392588318241639051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_173
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1d6f105f5fe740800000000000000
+      internalID: 5183466493855996662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_174
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3df92ed61c1299f0800000000000000
+      internalID: -463276927123587782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_175
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba44b1b3a43a6dc50800000000000000
+      internalID: 6689713835720000683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_176
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b02cafed60c72a30800000000000000
+      internalID: 4190529556696539320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_177
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436503f340bcdbd90800000000000000
+      internalID: -7080279820056111564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_178
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f70d96aab50ac10800000000000000
+      internalID: 2062749416813526850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_179
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b601bbabbdea00800000000000000
+      internalID: 787491855943512520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc90ed0465e3520800000000000000
+      internalID: 2683677264562473926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_181
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50380bb61eb0a62e0800000000000000
+      internalID: -2131878410804231419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_182
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9251ef6a14b2dcf0800000000000000
+      internalID: -228922605403286884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_183
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6b5846787be350800000000000000
+      internalID: 6047059374090448592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_184
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20066a8df1cf94a70800000000000000
+      internalID: 8811851359636054018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff64ac37408fa70800000000000000
+      internalID: 8860837162212851606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_186
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ffebe6a21595370800000000000000
+      internalID: 8311763829977448343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_187
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c468449ac5af51d40800000000000000
+      internalID: 5554620991315150412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_188
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42b78efa8d5298b0800000000000000
+      internalID: -5146948572573879732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_189
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41a53fb22ac0a80800000000000000
+      internalID: -8499240087104908107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_190
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b485d2115210920800000000000000
+      internalID: 2954683586237188981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_191
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b91bba9643ab0f20800000000000000
+      internalID: 3389982668165421489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_192
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45eb3602f1735e90800000000000000
+      internalID: -7038156508349340337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_193
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43163df12fa68450800000000000000
+      internalID: 6090748106582135626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816fdf559d9bbb520800000000000000
+      internalID: 2718971143149975064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_195
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6145f9063271ffd90800000000000000
+      internalID: -7061900249981299690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_196
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09aa8d5edbf750f0800000000000000
+      internalID: -1128156249162340082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_197
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913456e2085df35e0800000000000000
+      internalID: -1927587368980364519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_198
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7797d3d92fdb777d0800000000000000
+      internalID: -2920656983608690313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_199
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3970f035fffe670800000000000000
+      internalID: 8570349348108866553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_200
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8a6838c2da29ff0800000000000000
+      internalID: -30771840741365532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_201
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0bc731d50b5c7a0800000000000000
+      internalID: -6357481385158201160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_202
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7d85a0dde0b7060800000000000000
+      internalID: 6952166792300648433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-heaterShield_attack_73x38_203
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e1eb79cf31fe570800000000000000
+      internalID: 8498032997469920826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sword-heaterShield_attack_73x38_0: -7767012545535917309
+      sword-heaterShield_attack_73x38_1: -3080033858418032735
+      sword-heaterShield_attack_73x38_10: 7397232646034178976
+      sword-heaterShield_attack_73x38_100: 3865926962831103213
+      sword-heaterShield_attack_73x38_101: 1219403207424947275
+      sword-heaterShield_attack_73x38_102: 1198434795554603851
+      sword-heaterShield_attack_73x38_103: -2612165941005249569
+      sword-heaterShield_attack_73x38_104: -3926269786123702248
+      sword-heaterShield_attack_73x38_105: -7888951820561757731
+      sword-heaterShield_attack_73x38_106: -188980080872481261
+      sword-heaterShield_attack_73x38_107: 3603036408451656382
+      sword-heaterShield_attack_73x38_108: -4701375389086590813
+      sword-heaterShield_attack_73x38_109: -4610616137712373210
+      sword-heaterShield_attack_73x38_11: -264595442105429900
+      sword-heaterShield_attack_73x38_110: 5409677101431373553
+      sword-heaterShield_attack_73x38_111: -2999800985471919805
+      sword-heaterShield_attack_73x38_112: -3630906674311548922
+      sword-heaterShield_attack_73x38_113: -5908971108727883532
+      sword-heaterShield_attack_73x38_114: -3370036025553276217
+      sword-heaterShield_attack_73x38_115: -1744568603968735684
+      sword-heaterShield_attack_73x38_116: -2282566009169396975
+      sword-heaterShield_attack_73x38_117: -4308194560859420729
+      sword-heaterShield_attack_73x38_118: 9058688058627127851
+      sword-heaterShield_attack_73x38_119: 3345442750252038500
+      sword-heaterShield_attack_73x38_12: -7621991925468417153
+      sword-heaterShield_attack_73x38_120: 7477048450163899718
+      sword-heaterShield_attack_73x38_121: 7177905394156762434
+      sword-heaterShield_attack_73x38_122: 219082178344922162
+      sword-heaterShield_attack_73x38_123: 7166287598302642806
+      sword-heaterShield_attack_73x38_124: 4476806582328692631
+      sword-heaterShield_attack_73x38_125: -6529195983030674759
+      sword-heaterShield_attack_73x38_126: 7286074962236597861
+      sword-heaterShield_attack_73x38_127: 2933275056169892340
+      sword-heaterShield_attack_73x38_128: -6907682831009508760
+      sword-heaterShield_attack_73x38_129: 7536348049845357122
+      sword-heaterShield_attack_73x38_13: -6003812238963084859
+      sword-heaterShield_attack_73x38_130: -2220690520789777710
+      sword-heaterShield_attack_73x38_131: -4788446447285277476
+      sword-heaterShield_attack_73x38_132: -7025830737557907591
+      sword-heaterShield_attack_73x38_133: 3694244106502380561
+      sword-heaterShield_attack_73x38_134: 5662550738719849270
+      sword-heaterShield_attack_73x38_135: -7469045661303515554
+      sword-heaterShield_attack_73x38_136: 8833235841475181263
+      sword-heaterShield_attack_73x38_137: 140025945910916521
+      sword-heaterShield_attack_73x38_138: -5404206046235474014
+      sword-heaterShield_attack_73x38_139: -5607839749282531778
+      sword-heaterShield_attack_73x38_14: -8072003529372431011
+      sword-heaterShield_attack_73x38_140: -7839105042952042298
+      sword-heaterShield_attack_73x38_141: -8473421417964507491
+      sword-heaterShield_attack_73x38_142: 6781984542939711020
+      sword-heaterShield_attack_73x38_143: -3233178421222330331
+      sword-heaterShield_attack_73x38_144: -5879544856353544133
+      sword-heaterShield_attack_73x38_145: -8516939871362342470
+      sword-heaterShield_attack_73x38_146: -271639118606446267
+      sword-heaterShield_attack_73x38_147: 5491950104312547859
+      sword-heaterShield_attack_73x38_148: 2877798318674732603
+      sword-heaterShield_attack_73x38_149: -2619710147778815694
+      sword-heaterShield_attack_73x38_15: -3782424169298671068
+      sword-heaterShield_attack_73x38_150: -8591814389867439163
+      sword-heaterShield_attack_73x38_151: -47013740537421307
+      sword-heaterShield_attack_73x38_152: 2042542749063162898
+      sword-heaterShield_attack_73x38_153: 6959926441143600994
+      sword-heaterShield_attack_73x38_154: -2418800500706498090
+      sword-heaterShield_attack_73x38_155: -7504648341061751656
+      sword-heaterShield_attack_73x38_156: 4868929704868994965
+      sword-heaterShield_attack_73x38_157: -1845783490609195557
+      sword-heaterShield_attack_73x38_158: -1820879435358339506
+      sword-heaterShield_attack_73x38_159: -481868742063839465
+      sword-heaterShield_attack_73x38_16: 2088518693268638160
+      sword-heaterShield_attack_73x38_160: 16043985377194604
+      sword-heaterShield_attack_73x38_161: -842448772893087059
+      sword-heaterShield_attack_73x38_162: 422648724770819650
+      sword-heaterShield_attack_73x38_163: 815665298323659555
+      sword-heaterShield_attack_73x38_164: 7788411344422614564
+      sword-heaterShield_attack_73x38_165: -1751709547118247906
+      sword-heaterShield_attack_73x38_166: -58722013133048488
+      sword-heaterShield_attack_73x38_167: 7720805913997343746
+      sword-heaterShield_attack_73x38_168: -3062394643644778219
+      sword-heaterShield_attack_73x38_169: 1406615692489599486
+      sword-heaterShield_attack_73x38_17: 1677115889489164021
+      sword-heaterShield_attack_73x38_170: 7934182073732680055
+      sword-heaterShield_attack_73x38_171: -8878092061188029767
+      sword-heaterShield_attack_73x38_172: -5392588318241639051
+      sword-heaterShield_attack_73x38_173: 5183466493855996662
+      sword-heaterShield_attack_73x38_174: -463276927123587782
+      sword-heaterShield_attack_73x38_175: 6689713835720000683
+      sword-heaterShield_attack_73x38_176: 4190529556696539320
+      sword-heaterShield_attack_73x38_177: -7080279820056111564
+      sword-heaterShield_attack_73x38_178: 2062749416813526850
+      sword-heaterShield_attack_73x38_179: 787491855943512520
+      sword-heaterShield_attack_73x38_18: 650804224807300926
+      sword-heaterShield_attack_73x38_180: 2683677264562473926
+      sword-heaterShield_attack_73x38_181: -2131878410804231419
+      sword-heaterShield_attack_73x38_182: -228922605403286884
+      sword-heaterShield_attack_73x38_183: 6047059374090448592
+      sword-heaterShield_attack_73x38_184: 8811851359636054018
+      sword-heaterShield_attack_73x38_185: 8860837162212851606
+      sword-heaterShield_attack_73x38_186: 8311763829977448343
+      sword-heaterShield_attack_73x38_187: 5554620991315150412
+      sword-heaterShield_attack_73x38_188: -5146948572573879732
+      sword-heaterShield_attack_73x38_189: -8499240087104908107
+      sword-heaterShield_attack_73x38_19: -1912402832602127601
+      sword-heaterShield_attack_73x38_190: 2954683586237188981
+      sword-heaterShield_attack_73x38_191: 3389982668165421489
+      sword-heaterShield_attack_73x38_192: -7038156508349340337
+      sword-heaterShield_attack_73x38_193: 6090748106582135626
+      sword-heaterShield_attack_73x38_194: 2718971143149975064
+      sword-heaterShield_attack_73x38_195: -7061900249981299690
+      sword-heaterShield_attack_73x38_196: -1128156249162340082
+      sword-heaterShield_attack_73x38_197: -1927587368980364519
+      sword-heaterShield_attack_73x38_198: -2920656983608690313
+      sword-heaterShield_attack_73x38_199: 8570349348108866553
+      sword-heaterShield_attack_73x38_2: -7185848249993170075
+      sword-heaterShield_attack_73x38_20: 6373242423981113937
+      sword-heaterShield_attack_73x38_200: -30771840741365532
+      sword-heaterShield_attack_73x38_201: -6357481385158201160
+      sword-heaterShield_attack_73x38_202: 6952166792300648433
+      sword-heaterShield_attack_73x38_203: 8498032997469920826
+      sword-heaterShield_attack_73x38_21: -3939783160289192972
+      sword-heaterShield_attack_73x38_22: 4054226042725021451
+      sword-heaterShield_attack_73x38_23: -7946508284237147760
+      sword-heaterShield_attack_73x38_24: -1373775173823979739
+      sword-heaterShield_attack_73x38_25: 3000431606378663094
+      sword-heaterShield_attack_73x38_26: 2814672785163884449
+      sword-heaterShield_attack_73x38_27: -5459482713485966437
+      sword-heaterShield_attack_73x38_28: 8240234424670533821
+      sword-heaterShield_attack_73x38_29: -5911952216123292509
+      sword-heaterShield_attack_73x38_3: 5650880259331116074
+      sword-heaterShield_attack_73x38_30: -6566437447170353280
+      sword-heaterShield_attack_73x38_31: -7588198148758853855
+      sword-heaterShield_attack_73x38_32: 3761002562426506618
+      sword-heaterShield_attack_73x38_33: -3707036421098859207
+      sword-heaterShield_attack_73x38_34: 172356211956688483
+      sword-heaterShield_attack_73x38_35: 3589074710119232888
+      sword-heaterShield_attack_73x38_36: 5087334840808144560
+      sword-heaterShield_attack_73x38_37: 916280187326892965
+      sword-heaterShield_attack_73x38_38: 3084367256515555542
+      sword-heaterShield_attack_73x38_39: 2131144954613548422
+      sword-heaterShield_attack_73x38_4: -1411549165882310064
+      sword-heaterShield_attack_73x38_40: 1568186721072091808
+      sword-heaterShield_attack_73x38_41: -477268077157938699
+      sword-heaterShield_attack_73x38_42: -2258803223285423867
+      sword-heaterShield_attack_73x38_43: 2624042844645633103
+      sword-heaterShield_attack_73x38_44: -9077752641168247978
+      sword-heaterShield_attack_73x38_45: 1225984390465839866
+      sword-heaterShield_attack_73x38_46: -6795227284746694372
+      sword-heaterShield_attack_73x38_47: -5809091506671760534
+      sword-heaterShield_attack_73x38_48: -3982674145832855725
+      sword-heaterShield_attack_73x38_49: 3896638839258696747
+      sword-heaterShield_attack_73x38_5: 2536484091787201958
+      sword-heaterShield_attack_73x38_50: 964293917530456749
+      sword-heaterShield_attack_73x38_51: 8102969854671669193
+      sword-heaterShield_attack_73x38_52: -3695333025774917394
+      sword-heaterShield_attack_73x38_53: -4391024836090399444
+      sword-heaterShield_attack_73x38_54: -899578066528524179
+      sword-heaterShield_attack_73x38_55: -3877180061624894679
+      sword-heaterShield_attack_73x38_56: -3490792023032420659
+      sword-heaterShield_attack_73x38_57: -6636507629719416323
+      sword-heaterShield_attack_73x38_58: 8687233273812097643
+      sword-heaterShield_attack_73x38_59: -2365886862379197195
+      sword-heaterShield_attack_73x38_6: -5055148000567914593
+      sword-heaterShield_attack_73x38_60: 7422477891957804368
+      sword-heaterShield_attack_73x38_61: -4540983171775314954
+      sword-heaterShield_attack_73x38_62: -3507119772372425987
+      sword-heaterShield_attack_73x38_63: -1740928793989903081
+      sword-heaterShield_attack_73x38_64: -7362779869202976418
+      sword-heaterShield_attack_73x38_65: 3310761954628856443
+      sword-heaterShield_attack_73x38_66: -2014956111433299905
+      sword-heaterShield_attack_73x38_67: -4700216239479993016
+      sword-heaterShield_attack_73x38_68: 16327648861268486
+      sword-heaterShield_attack_73x38_69: -210841553217354540
+      sword-heaterShield_attack_73x38_7: 8705718766345657266
+      sword-heaterShield_attack_73x38_70: 6853267412607630941
+      sword-heaterShield_attack_73x38_71: 8838919739894949117
+      sword-heaterShield_attack_73x38_72: 6803938168611859831
+      sword-heaterShield_attack_73x38_73: 5223280063695930337
+      sword-heaterShield_attack_73x38_74: -589357582638242487
+      sword-heaterShield_attack_73x38_75: -6139748180246840370
+      sword-heaterShield_attack_73x38_76: -580029800466711838
+      sword-heaterShield_attack_73x38_77: 55303147302300979
+      sword-heaterShield_attack_73x38_78: 5062338428159746725
+      sword-heaterShield_attack_73x38_79: -7206346299588913606
+      sword-heaterShield_attack_73x38_8: -8962251409432640804
+      sword-heaterShield_attack_73x38_80: 4451969873599142441
+      sword-heaterShield_attack_73x38_81: 3399758793273740983
+      sword-heaterShield_attack_73x38_82: 5752340803804736264
+      sword-heaterShield_attack_73x38_83: -175830513328074841
+      sword-heaterShield_attack_73x38_84: 67262636271178169
+      sword-heaterShield_attack_73x38_85: 1703792238842251332
+      sword-heaterShield_attack_73x38_86: -5578877111324852453
+      sword-heaterShield_attack_73x38_87: 7009338833886436699
+      sword-heaterShield_attack_73x38_88: -6450573964163462533
+      sword-heaterShield_attack_73x38_89: 7730461107029908474
+      sword-heaterShield_attack_73x38_9: -4367402435867569811
+      sword-heaterShield_attack_73x38_90: 7622629953908767107
+      sword-heaterShield_attack_73x38_91: -7641311787655912873
+      sword-heaterShield_attack_73x38_92: 6842298358778276274
+      sword-heaterShield_attack_73x38_93: 1301580268059300420
+      sword-heaterShield_attack_73x38_94: 2932159474450337924
+      sword-heaterShield_attack_73x38_95: 2048706913630266444
+      sword-heaterShield_attack_73x38_96: -6680187168800371800
+      sword-heaterShield_attack_73x38_97: -2055468330037431755
+      sword-heaterShield_attack_73x38_98: 4748412378076807367
+      sword-heaterShield_attack_73x38_99: -8510089989664880928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

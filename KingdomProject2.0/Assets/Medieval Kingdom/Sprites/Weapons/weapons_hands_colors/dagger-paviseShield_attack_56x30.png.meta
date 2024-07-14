@@ -1,0 +1,2214 @@
+fileFormatVersion: 2
+guid: 0e97e026f6860d04785506fe4d1492c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8514189008617374711
+    second: dagger-paviseShield_attack_56x30_0
+  - first:
+      213: -2173995933363008713
+    second: dagger-paviseShield_attack_56x30_1
+  - first:
+      213: 599787608714830887
+    second: dagger-paviseShield_attack_56x30_2
+  - first:
+      213: -8420641590935200448
+    second: dagger-paviseShield_attack_56x30_3
+  - first:
+      213: -6136365918779159351
+    second: dagger-paviseShield_attack_56x30_4
+  - first:
+      213: 9015941573416179941
+    second: dagger-paviseShield_attack_56x30_5
+  - first:
+      213: 1258551198467314728
+    second: dagger-paviseShield_attack_56x30_6
+  - first:
+      213: -1012267477506926590
+    second: dagger-paviseShield_attack_56x30_7
+  - first:
+      213: 7181183242768302568
+    second: dagger-paviseShield_attack_56x30_8
+  - first:
+      213: -4515739396064892954
+    second: dagger-paviseShield_attack_56x30_9
+  - first:
+      213: 6846672000737521310
+    second: dagger-paviseShield_attack_56x30_10
+  - first:
+      213: 7613692347866939119
+    second: dagger-paviseShield_attack_56x30_11
+  - first:
+      213: -210547131978707633
+    second: dagger-paviseShield_attack_56x30_12
+  - first:
+      213: 7238880714123105700
+    second: dagger-paviseShield_attack_56x30_13
+  - first:
+      213: 9036702499353259626
+    second: dagger-paviseShield_attack_56x30_14
+  - first:
+      213: 1345193117051877129
+    second: dagger-paviseShield_attack_56x30_15
+  - first:
+      213: 8349169945834921797
+    second: dagger-paviseShield_attack_56x30_16
+  - first:
+      213: -7205594303849546595
+    second: dagger-paviseShield_attack_56x30_17
+  - first:
+      213: 7303294750471691470
+    second: dagger-paviseShield_attack_56x30_18
+  - first:
+      213: -5175546471790524757
+    second: dagger-paviseShield_attack_56x30_19
+  - first:
+      213: -3661974294143882459
+    second: dagger-paviseShield_attack_56x30_20
+  - first:
+      213: 649682587231492176
+    second: dagger-paviseShield_attack_56x30_21
+  - first:
+      213: 3925178948765768980
+    second: dagger-paviseShield_attack_56x30_22
+  - first:
+      213: 9115537706093693441
+    second: dagger-paviseShield_attack_56x30_23
+  - first:
+      213: 7518300524811912788
+    second: dagger-paviseShield_attack_56x30_24
+  - first:
+      213: 3249578902851735100
+    second: dagger-paviseShield_attack_56x30_25
+  - first:
+      213: -2338266963610121671
+    second: dagger-paviseShield_attack_56x30_26
+  - first:
+      213: 262363428369836316
+    second: dagger-paviseShield_attack_56x30_27
+  - first:
+      213: -3353146871269418907
+    second: dagger-paviseShield_attack_56x30_28
+  - first:
+      213: -7814069307263818098
+    second: dagger-paviseShield_attack_56x30_29
+  - first:
+      213: -1962190616660226571
+    second: dagger-paviseShield_attack_56x30_30
+  - first:
+      213: 2429393439687563373
+    second: dagger-paviseShield_attack_56x30_31
+  - first:
+      213: 5937991720721544477
+    second: dagger-paviseShield_attack_56x30_32
+  - first:
+      213: 8511676549637530390
+    second: dagger-paviseShield_attack_56x30_33
+  - first:
+      213: -3693276129273743788
+    second: dagger-paviseShield_attack_56x30_34
+  - first:
+      213: -2263450426990768269
+    second: dagger-paviseShield_attack_56x30_35
+  - first:
+      213: -1877447230099606306
+    second: dagger-paviseShield_attack_56x30_36
+  - first:
+      213: 4902116348129330830
+    second: dagger-paviseShield_attack_56x30_37
+  - first:
+      213: 6348944936909265130
+    second: dagger-paviseShield_attack_56x30_38
+  - first:
+      213: -2740897323804128565
+    second: dagger-paviseShield_attack_56x30_39
+  - first:
+      213: 5110801688660869269
+    second: dagger-paviseShield_attack_56x30_40
+  - first:
+      213: 8860171309912899819
+    second: dagger-paviseShield_attack_56x30_41
+  - first:
+      213: -8593776951363296280
+    second: dagger-paviseShield_attack_56x30_42
+  - first:
+      213: -3453856506944194806
+    second: dagger-paviseShield_attack_56x30_43
+  - first:
+      213: 5877035151026942503
+    second: dagger-paviseShield_attack_56x30_44
+  - first:
+      213: -7987026584373865637
+    second: dagger-paviseShield_attack_56x30_45
+  - first:
+      213: -2280897515593848898
+    second: dagger-paviseShield_attack_56x30_46
+  - first:
+      213: -3758672270734027092
+    second: dagger-paviseShield_attack_56x30_47
+  - first:
+      213: 5773583172651653524
+    second: dagger-paviseShield_attack_56x30_48
+  - first:
+      213: 5064667843815302926
+    second: dagger-paviseShield_attack_56x30_49
+  - first:
+      213: -2950278858616670713
+    second: dagger-paviseShield_attack_56x30_50
+  - first:
+      213: -50951004394439764
+    second: dagger-paviseShield_attack_56x30_51
+  - first:
+      213: -7829536288402642107
+    second: dagger-paviseShield_attack_56x30_52
+  - first:
+      213: 7279445940682320149
+    second: dagger-paviseShield_attack_56x30_53
+  - first:
+      213: 6321163110441120660
+    second: dagger-paviseShield_attack_56x30_54
+  - first:
+      213: -5535010730053559028
+    second: dagger-paviseShield_attack_56x30_55
+  - first:
+      213: -1375011754619247752
+    second: dagger-paviseShield_attack_56x30_56
+  - first:
+      213: -3170785761706332763
+    second: dagger-paviseShield_attack_56x30_57
+  - first:
+      213: -1573751330049664471
+    second: dagger-paviseShield_attack_56x30_58
+  - first:
+      213: 9135956195997246609
+    second: dagger-paviseShield_attack_56x30_59
+  - first:
+      213: 3537506003883545152
+    second: dagger-paviseShield_attack_56x30_60
+  - first:
+      213: 4656109781759930910
+    second: dagger-paviseShield_attack_56x30_61
+  - first:
+      213: -6802139059441698272
+    second: dagger-paviseShield_attack_56x30_62
+  - first:
+      213: -8809381956649749512
+    second: dagger-paviseShield_attack_56x30_63
+  - first:
+      213: 6042429271754374786
+    second: dagger-paviseShield_attack_56x30_64
+  - first:
+      213: -6674113531648876202
+    second: dagger-paviseShield_attack_56x30_65
+  - first:
+      213: 4991168717904961526
+    second: dagger-paviseShield_attack_56x30_66
+  - first:
+      213: -1899613427692696812
+    second: dagger-paviseShield_attack_56x30_67
+  - first:
+      213: -5930643590677095240
+    second: dagger-paviseShield_attack_56x30_68
+  - first:
+      213: -3195027708910236732
+    second: dagger-paviseShield_attack_56x30_69
+  - first:
+      213: 6418846519299433670
+    second: dagger-paviseShield_attack_56x30_70
+  - first:
+      213: 4638744913309992834
+    second: dagger-paviseShield_attack_56x30_71
+  - first:
+      213: 1326041684656155442
+    second: dagger-paviseShield_attack_56x30_72
+  - first:
+      213: -2911532569464392457
+    second: dagger-paviseShield_attack_56x30_73
+  - first:
+      213: 1034207710730918686
+    second: dagger-paviseShield_attack_56x30_74
+  - first:
+      213: 8430798372601891803
+    second: dagger-paviseShield_attack_56x30_75
+  - first:
+      213: -9161349435066961976
+    second: dagger-paviseShield_attack_56x30_76
+  - first:
+      213: 3962385471563545406
+    second: dagger-paviseShield_attack_56x30_77
+  - first:
+      213: 3872775628336635799
+    second: dagger-paviseShield_attack_56x30_78
+  - first:
+      213: -21315764166883748
+    second: dagger-paviseShield_attack_56x30_79
+  - first:
+      213: -2458166314289305200
+    second: dagger-paviseShield_attack_56x30_80
+  - first:
+      213: -4775807085659671025
+    second: dagger-paviseShield_attack_56x30_81
+  - first:
+      213: -2746374478827511547
+    second: dagger-paviseShield_attack_56x30_82
+  - first:
+      213: 9086161472379778450
+    second: dagger-paviseShield_attack_56x30_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f38c211bc9782670800000000000000
+      internalID: 8514189008617374711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b01c8873a64d1e0800000000000000
+      internalID: -2173995933363008713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e02ef6afd25800800000000000000
+      internalID: 599787608714830887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d5d67661fd32b80800000000000000
+      internalID: -8420641590935200448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccca5f65bf37daa0800000000000000
+      internalID: -6136365918779159351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8d52fa71f0f1d70800000000000000
+      internalID: 9015941573416179941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824594c95a5477110800000000000000
+      internalID: 1258551198467314728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208d489a714b3f1f0800000000000000
+      internalID: -1012267477506926590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1413c9c10b8a360800000000000000
+      internalID: 7181183242768302568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7a057d1fed451c0800000000000000
+      internalID: -4515739396064892954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_10
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea291d8e3440f50800000000000000
+      internalID: 6846672000737521310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_11
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feef7bfe9d449a960800000000000000
+      internalID: 7613692347866939119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d8eedbf7cf31df0800000000000000
+      internalID: -210547131978707633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_13
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 150
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5dbb008aba57460800000000000000
+      internalID: 7238880714123105700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ee5de6b01d86d70800000000000000
+      internalID: 9036702499353259626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9077d2843061ba210800000000000000
+      internalID: 1345193117051877129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f9bd674d53ed370800000000000000
+      internalID: 8349169945834921797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c38735826900c90800000000000000
+      internalID: -7205594303849546595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc17db81e38a5560800000000000000
+      internalID: 7303294750471691470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba64666b7e3cc28b0800000000000000
+      internalID: -5175546471790524757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b21fc08cd0e2dc0800000000000000
+      internalID: -3661974294143882459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_21
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05890b4fed2240900800000000000000
+      internalID: 649682587231492176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d56091579097630800000000000000
+      internalID: 3925178948765768980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac46c5f35e08e70800000000000000
+      internalID: 9115537706093693441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4560c006e7e565860800000000000000
+      internalID: 7518300524811912788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_25
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec41e8bc2d81d20800000000000000
+      internalID: 3249578902851735100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93accf3d59ecc8fd0800000000000000
+      internalID: -2338266963610121671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_27
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 120
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19a906e52a14a300800000000000000
+      internalID: 262363428369836316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5681642bfaa3771d0800000000000000
+      internalID: -3353146871269418907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e142ad59de8390800000000000000
+      internalID: -7814069307263818098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdcc50c706e4c4e0800000000000000
+      internalID: -1962190616660226571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68dd304670f6b120800000000000000
+      internalID: 2429393439687563373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1571d8520cf76250800000000000000
+      internalID: 5937991720721544477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_33
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613ea20a9bc8f1670800000000000000
+      internalID: 8511676549637530390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4567531ade8debcc0800000000000000
+      internalID: -3693276129273743788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f428434db9690e0800000000000000
+      internalID: -2263450426990768269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed43f5df0b7f1f5e0800000000000000
+      internalID: -1877447230099606306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8642e998d0d70440800000000000000
+      internalID: 4902116348129330830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_38
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8ddfe28cbfb1850800000000000000
+      internalID: 6348944936909265130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_39
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca06d8e76066f9d0800000000000000
+      internalID: -2740897323804128565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5900912ce073de640800000000000000
+      internalID: 5110801688660869269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_41
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 90
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04778fcd6a5fa70800000000000000
+      internalID: 8860171309912899819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e32d0ff465ccb880800000000000000
+      internalID: -8593776951363296280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a077b666ecf6110d0800000000000000
+      internalID: -3453856506944194806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722f17df45c6f8150800000000000000
+      internalID: 5877035151026942503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b535bca73a1682190800000000000000
+      internalID: -7987026584373865637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb725f55bcf9850e0800000000000000
+      internalID: -2280897515593848898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca699cbeb7386dbc0800000000000000
+      internalID: -3758672270734027092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49913174e43ef1050800000000000000
+      internalID: 5773583172651653524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0764f7f190594640800000000000000
+      internalID: 5064667843815302926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706fec362018e07d0800000000000000
+      internalID: -2950278858616670713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_51
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabbe1ad45cfa4ff0800000000000000
+      internalID: -50951004394439764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54beab57a36e75390800000000000000
+      internalID: -7829536288402642107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_53
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5196700d389c50560800000000000000
+      internalID: 7279445940682320149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_54
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4937525ab5849b750800000000000000
+      internalID: 6321163110441120660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_55
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 60
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d9e271111bf23b0800000000000000
+      internalID: -5535010730053559028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873eee3281afaece0800000000000000
+      internalID: -1375011754619247752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ada0a6362b1ff3d0800000000000000
+      internalID: -3170785761706332763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a579fd089e82ae0800000000000000
+      internalID: -1573751330049664471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e1f181cf69ce70800000000000000
+      internalID: 9135956195997246609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0425a40d7feb71130800000000000000
+      internalID: 3537506003883545152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_61
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12b5096d23dd9040800000000000000
+      internalID: 4656109781759930910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02afa219092f991a0800000000000000
+      internalID: -6802139059441698272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_63
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3f727d8c9ceb580800000000000000
+      internalID: -8809381956649749512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e775398650bd350800000000000000
+      internalID: 6042429271754374786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_65
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651e07b9a19c063a0800000000000000
+      internalID: -6674113531648876202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_66
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff54cc2181344540800000000000000
+      internalID: 4991168717904961526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_67
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b80dfe6a733a5e0800000000000000
+      internalID: -1899613427692696812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc9e30831f12bda0800000000000000
+      internalID: -5930643590677095240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_69
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 30
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb00ea0a3bf8a3d0800000000000000
+      internalID: -3195027708910236732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4689a96e2541950800000000000000
+      internalID: 6418846519299433670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2870e79ebe1206040800000000000000
+      internalID: 4638744913309992834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6a43f2eb076210800000000000000
+      internalID: 1326041684656155442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f43815dd882897d0800000000000000
+      internalID: -2911532569464392457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b1616fe6e3a5e00800000000000000
+      internalID: 1034207710730918686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb80eb9376300570800000000000000
+      internalID: 8430798372601891803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfab9b4a395cd080800000000000000
+      internalID: -9161349435066961976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_77
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bb6bfb7983df630800000000000000
+      internalID: 3962385471563545406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f9bc54aecdeb530800000000000000
+      internalID: 3872775628336635799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_79
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5687b8ec6544bff0800000000000000
+      internalID: -21315764166883748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_80
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09964f5d2c6d2edd0800000000000000
+      internalID: -2458166314289305200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_81
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06367742cce8bdb0800000000000000
+      internalID: -4775807085659671025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_82
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a94166fae2e9d0800000000000000
+      internalID: -2746374478827511547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dagger-paviseShield_attack_56x30_83
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2957905f7b7881e70800000000000000
+      internalID: 9086161472379778450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dagger-paviseShield_attack_56x30_0: 8514189008617374711
+      dagger-paviseShield_attack_56x30_1: -2173995933363008713
+      dagger-paviseShield_attack_56x30_10: 6846672000737521310
+      dagger-paviseShield_attack_56x30_11: 7613692347866939119
+      dagger-paviseShield_attack_56x30_12: -210547131978707633
+      dagger-paviseShield_attack_56x30_13: 7238880714123105700
+      dagger-paviseShield_attack_56x30_14: 9036702499353259626
+      dagger-paviseShield_attack_56x30_15: 1345193117051877129
+      dagger-paviseShield_attack_56x30_16: 8349169945834921797
+      dagger-paviseShield_attack_56x30_17: -7205594303849546595
+      dagger-paviseShield_attack_56x30_18: 7303294750471691470
+      dagger-paviseShield_attack_56x30_19: -5175546471790524757
+      dagger-paviseShield_attack_56x30_2: 599787608714830887
+      dagger-paviseShield_attack_56x30_20: -3661974294143882459
+      dagger-paviseShield_attack_56x30_21: 649682587231492176
+      dagger-paviseShield_attack_56x30_22: 3925178948765768980
+      dagger-paviseShield_attack_56x30_23: 9115537706093693441
+      dagger-paviseShield_attack_56x30_24: 7518300524811912788
+      dagger-paviseShield_attack_56x30_25: 3249578902851735100
+      dagger-paviseShield_attack_56x30_26: -2338266963610121671
+      dagger-paviseShield_attack_56x30_27: 262363428369836316
+      dagger-paviseShield_attack_56x30_28: -3353146871269418907
+      dagger-paviseShield_attack_56x30_29: -7814069307263818098
+      dagger-paviseShield_attack_56x30_3: -8420641590935200448
+      dagger-paviseShield_attack_56x30_30: -1962190616660226571
+      dagger-paviseShield_attack_56x30_31: 2429393439687563373
+      dagger-paviseShield_attack_56x30_32: 5937991720721544477
+      dagger-paviseShield_attack_56x30_33: 8511676549637530390
+      dagger-paviseShield_attack_56x30_34: -3693276129273743788
+      dagger-paviseShield_attack_56x30_35: -2263450426990768269
+      dagger-paviseShield_attack_56x30_36: -1877447230099606306
+      dagger-paviseShield_attack_56x30_37: 4902116348129330830
+      dagger-paviseShield_attack_56x30_38: 6348944936909265130
+      dagger-paviseShield_attack_56x30_39: -2740897323804128565
+      dagger-paviseShield_attack_56x30_4: -6136365918779159351
+      dagger-paviseShield_attack_56x30_40: 5110801688660869269
+      dagger-paviseShield_attack_56x30_41: 8860171309912899819
+      dagger-paviseShield_attack_56x30_42: -8593776951363296280
+      dagger-paviseShield_attack_56x30_43: -3453856506944194806
+      dagger-paviseShield_attack_56x30_44: 5877035151026942503
+      dagger-paviseShield_attack_56x30_45: -7987026584373865637
+      dagger-paviseShield_attack_56x30_46: -2280897515593848898
+      dagger-paviseShield_attack_56x30_47: -3758672270734027092
+      dagger-paviseShield_attack_56x30_48: 5773583172651653524
+      dagger-paviseShield_attack_56x30_49: 5064667843815302926
+      dagger-paviseShield_attack_56x30_5: 9015941573416179941
+      dagger-paviseShield_attack_56x30_50: -2950278858616670713
+      dagger-paviseShield_attack_56x30_51: -50951004394439764
+      dagger-paviseShield_attack_56x30_52: -7829536288402642107
+      dagger-paviseShield_attack_56x30_53: 7279445940682320149
+      dagger-paviseShield_attack_56x30_54: 6321163110441120660
+      dagger-paviseShield_attack_56x30_55: -5535010730053559028
+      dagger-paviseShield_attack_56x30_56: -1375011754619247752
+      dagger-paviseShield_attack_56x30_57: -3170785761706332763
+      dagger-paviseShield_attack_56x30_58: -1573751330049664471
+      dagger-paviseShield_attack_56x30_59: 9135956195997246609
+      dagger-paviseShield_attack_56x30_6: 1258551198467314728
+      dagger-paviseShield_attack_56x30_60: 3537506003883545152
+      dagger-paviseShield_attack_56x30_61: 4656109781759930910
+      dagger-paviseShield_attack_56x30_62: -6802139059441698272
+      dagger-paviseShield_attack_56x30_63: -8809381956649749512
+      dagger-paviseShield_attack_56x30_64: 6042429271754374786
+      dagger-paviseShield_attack_56x30_65: -6674113531648876202
+      dagger-paviseShield_attack_56x30_66: 4991168717904961526
+      dagger-paviseShield_attack_56x30_67: -1899613427692696812
+      dagger-paviseShield_attack_56x30_68: -5930643590677095240
+      dagger-paviseShield_attack_56x30_69: -3195027708910236732
+      dagger-paviseShield_attack_56x30_7: -1012267477506926590
+      dagger-paviseShield_attack_56x30_70: 6418846519299433670
+      dagger-paviseShield_attack_56x30_71: 4638744913309992834
+      dagger-paviseShield_attack_56x30_72: 1326041684656155442
+      dagger-paviseShield_attack_56x30_73: -2911532569464392457
+      dagger-paviseShield_attack_56x30_74: 1034207710730918686
+      dagger-paviseShield_attack_56x30_75: 8430798372601891803
+      dagger-paviseShield_attack_56x30_76: -9161349435066961976
+      dagger-paviseShield_attack_56x30_77: 3962385471563545406
+      dagger-paviseShield_attack_56x30_78: 3872775628336635799
+      dagger-paviseShield_attack_56x30_79: -21315764166883748
+      dagger-paviseShield_attack_56x30_8: 7181183242768302568
+      dagger-paviseShield_attack_56x30_80: -2458166314289305200
+      dagger-paviseShield_attack_56x30_81: -4775807085659671025
+      dagger-paviseShield_attack_56x30_82: -2746374478827511547
+      dagger-paviseShield_attack_56x30_83: 9086161472379778450
+      dagger-paviseShield_attack_56x30_9: -4515739396064892954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: 222aecf2df614884a978c8bc0f06c119
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 178162292591732794
+    second: pike_spearwall_52x52_0
+  - first:
+      213: -1963395361255187492
+    second: pike_spearwall_52x52_1
+  - first:
+      213: -7718780743330535197
+    second: pike_spearwall_52x52_2
+  - first:
+      213: -9022219754737018193
+    second: pike_spearwall_52x52_3
+  - first:
+      213: -979298931240334978
+    second: pike_spearwall_52x52_4
+  - first:
+      213: -7988102605738531794
+    second: pike_spearwall_52x52_5
+  - first:
+      213: -679939717358361659
+    second: pike_spearwall_52x52_6
+  - first:
+      213: 9089221757443562538
+    second: pike_spearwall_52x52_7
+  - first:
+      213: 1465328693274926524
+    second: pike_spearwall_52x52_8
+  - first:
+      213: 5056456923779262046
+    second: pike_spearwall_52x52_9
+  - first:
+      213: 7344238689791589323
+    second: pike_spearwall_52x52_10
+  - first:
+      213: 2574172513969003757
+    second: pike_spearwall_52x52_11
+  - first:
+      213: -6857320364549179881
+    second: pike_spearwall_52x52_12
+  - first:
+      213: -8709684397985144438
+    second: pike_spearwall_52x52_13
+  - first:
+      213: -3731899013844277221
+    second: pike_spearwall_52x52_14
+  - first:
+      213: 2320152324180424190
+    second: pike_spearwall_52x52_15
+  - first:
+      213: -6673536769786938718
+    second: pike_spearwall_52x52_16
+  - first:
+      213: -4339679657706533358
+    second: pike_spearwall_52x52_17
+  - first:
+      213: -2577109651253985197
+    second: pike_spearwall_52x52_18
+  - first:
+      213: -2092319248748895289
+    second: pike_spearwall_52x52_19
+  - first:
+      213: -6827919399155317579
+    second: pike_spearwall_52x52_20
+  - first:
+      213: 3015086205941107330
+    second: pike_spearwall_52x52_21
+  - first:
+      213: 8101309980692244351
+    second: pike_spearwall_52x52_22
+  - first:
+      213: 6046627071185828795
+    second: pike_spearwall_52x52_23
+  - first:
+      213: -7203349721087465095
+    second: pike_spearwall_52x52_24
+  - first:
+      213: -5953361453688633568
+    second: pike_spearwall_52x52_25
+  - first:
+      213: -3663736638050456057
+    second: pike_spearwall_52x52_26
+  - first:
+      213: -36288412146029104
+    second: pike_spearwall_52x52_27
+  - first:
+      213: 6727658532164373505
+    second: pike_spearwall_52x52_28
+  - first:
+      213: -1348255234074427596
+    second: pike_spearwall_52x52_29
+  - first:
+      213: -2629786196721542639
+    second: pike_spearwall_52x52_30
+  - first:
+      213: -140249683554370531
+    second: pike_spearwall_52x52_31
+  - first:
+      213: 7610903633788930450
+    second: pike_spearwall_52x52_32
+  - first:
+      213: 1393823470625387355
+    second: pike_spearwall_52x52_33
+  - first:
+      213: 3368966029695392228
+    second: pike_spearwall_52x52_34
+  - first:
+      213: -9203621988149984016
+    second: pike_spearwall_52x52_35
+  - first:
+      213: -5825027642775434744
+    second: pike_spearwall_52x52_36
+  - first:
+      213: 5224120401277961732
+    second: pike_spearwall_52x52_37
+  - first:
+      213: -2429917088770007628
+    second: pike_spearwall_52x52_38
+  - first:
+      213: 4464459715191379456
+    second: pike_spearwall_52x52_39
+  - first:
+      213: -7130189440647534491
+    second: pike_spearwall_52x52_40
+  - first:
+      213: 6495838721619838251
+    second: pike_spearwall_52x52_41
+  - first:
+      213: 8690499442717663673
+    second: pike_spearwall_52x52_42
+  - first:
+      213: 32616241379971248
+    second: pike_spearwall_52x52_43
+  - first:
+      213: -198789012509041807
+    second: pike_spearwall_52x52_44
+  - first:
+      213: 1767669279272223054
+    second: pike_spearwall_52x52_45
+  - first:
+      213: -3278598741592463268
+    second: pike_spearwall_52x52_46
+  - first:
+      213: -9166092190377227375
+    second: pike_spearwall_52x52_47
+  - first:
+      213: -4399777695640454822
+    second: pike_spearwall_52x52_48
+  - first:
+      213: -3827819184249415428
+    second: pike_spearwall_52x52_49
+  - first:
+      213: -4411807407414715073
+    second: pike_spearwall_52x52_50
+  - first:
+      213: -3675694485118380035
+    second: pike_spearwall_52x52_51
+  - first:
+      213: -4303906576526612268
+    second: pike_spearwall_52x52_52
+  - first:
+      213: 6419710268397374258
+    second: pike_spearwall_52x52_53
+  - first:
+      213: -1755641377732543108
+    second: pike_spearwall_52x52_54
+  - first:
+      213: 4085909675863232410
+    second: pike_spearwall_52x52_55
+  - first:
+      213: -429471870359861725
+    second: pike_spearwall_52x52_56
+  - first:
+      213: -8009416092284572245
+    second: pike_spearwall_52x52_57
+  - first:
+      213: 4793369593500226184
+    second: pike_spearwall_52x52_58
+  - first:
+      213: -7663711114301047508
+    second: pike_spearwall_52x52_59
+  - first:
+      213: 4243197239720423192
+    second: pike_spearwall_52x52_60
+  - first:
+      213: -71164240056292876
+    second: pike_spearwall_52x52_61
+  - first:
+      213: -7707150725038966944
+    second: pike_spearwall_52x52_62
+  - first:
+      213: -2297178976946602035
+    second: pike_spearwall_52x52_63
+  - first:
+      213: 5410855014649293304
+    second: pike_spearwall_52x52_64
+  - first:
+      213: 7614470523724492174
+    second: pike_spearwall_52x52_65
+  - first:
+      213: 1814195496487896236
+    second: pike_spearwall_52x52_66
+  - first:
+      213: -3310884588609189537
+    second: pike_spearwall_52x52_67
+  - first:
+      213: -2319135866011008008
+    second: pike_spearwall_52x52_68
+  - first:
+      213: 8155988316933404991
+    second: pike_spearwall_52x52_69
+  - first:
+      213: 7453862330614934613
+    second: pike_spearwall_52x52_70
+  - first:
+      213: -4823647709340616336
+    second: pike_spearwall_52x52_71
+  - first:
+      213: -7128026712634996815
+    second: pike_spearwall_52x52_72
+  - first:
+      213: -9109087590360110130
+    second: pike_spearwall_52x52_73
+  - first:
+      213: 7115640073809396962
+    second: pike_spearwall_52x52_74
+  - first:
+      213: 5016324085320389237
+    second: pike_spearwall_52x52_75
+  - first:
+      213: 345030454150770071
+    second: pike_spearwall_52x52_76
+  - first:
+      213: 8997609244545336626
+    second: pike_spearwall_52x52_77
+  - first:
+      213: 2098222976990639525
+    second: pike_spearwall_52x52_78
+  - first:
+      213: 4238995180499850676
+    second: pike_spearwall_52x52_79
+  - first:
+      213: -3116025379792545689
+    second: pike_spearwall_52x52_80
+  - first:
+      213: 4258354330921122134
+    second: pike_spearwall_52x52_81
+  - first:
+      213: -5793095191792312619
+    second: pike_spearwall_52x52_82
+  - first:
+      213: -7081861827347017234
+    second: pike_spearwall_52x52_83
+  - first:
+      213: -6083561535227691829
+    second: pike_spearwall_52x52_84
+  - first:
+      213: 2654556300551989534
+    second: pike_spearwall_52x52_85
+  - first:
+      213: -1946583566571803925
+    second: pike_spearwall_52x52_86
+  - first:
+      213: -7743485976793840221
+    second: pike_spearwall_52x52_87
+  - first:
+      213: 1295838802589302165
+    second: pike_spearwall_52x52_88
+  - first:
+      213: 5529664797603443162
+    second: pike_spearwall_52x52_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38ac4249a5f87200800000000000000
+      internalID: 178162292591732794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 884
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb1cba425e90c4e0800000000000000
+      internalID: -1963395361255187492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 884
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e868ae4fc161e490800000000000000
+      internalID: -7718780743330535197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 884
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa53615fe2aac280800000000000000
+      internalID: -9022219754737018193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 884
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7900828fc4d862f0800000000000000
+      internalID: -979298931240334978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24259bb00f842190800000000000000
+      internalID: -7988102605738531794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 832
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3ec26fd6e5096f0800000000000000
+      internalID: -679939717358361659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 832
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cdc291807632e70800000000000000
+      internalID: 9089221757443562538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_8
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 832
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdd6d1dea4e55410800000000000000
+      internalID: 1465328693274926524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 832
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e566deb28c42c2640800000000000000
+      internalID: 5056456923779262046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb35ba4d2afbe560800000000000000
+      internalID: 7344238689791589323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 780
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec52bd434c49b320800000000000000
+      internalID: 2574172513969003757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 780
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7167ef7c577e5d0a0800000000000000
+      internalID: -6857320364549179881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 780
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8165589f2cf02780800000000000000
+      internalID: -8709684397985144438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 780
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b186e2e8e91a53cc0800000000000000
+      internalID: -3731899013844277221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef532930f36d23020800000000000000
+      internalID: 2320152324180424190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 728
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa77517aa5d263a0800000000000000
+      internalID: -6673536769786938718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_17
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 728
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec96b085c56c3c0800000000000000
+      internalID: -4339679657706533358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_18
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 728
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35086c12d644c3cd0800000000000000
+      internalID: -2577109651253985197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 728
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c32c959ab696f2e0800000000000000
+      internalID: -2092319248748895289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4495a7b7b5e31a0800000000000000
+      internalID: -6827919399155317579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 676
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28acc400eecb7d920800000000000000
+      internalID: 3015086205941107330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 676
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ec7e3182ad6070800000000000000
+      internalID: 8101309980692244351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 676
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbba4be84fe9e350800000000000000
+      internalID: 6046627071185828795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 676
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9792ca9f79f880c90800000000000000
+      internalID: -7203349721087465095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027c265dc49616da0800000000000000
+      internalID: -5953361453688633568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 624
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e2b6260fac72dc0800000000000000
+      internalID: -3663736638050456057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 624
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dda294a1e31f7ff0800000000000000
+      internalID: -36288412146029104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 624
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c88c35ac17d5d50800000000000000
+      internalID: 6727658532164373505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 624
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fbe6a02090a4de0800000000000000
+      internalID: -1348255234074427596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11adf25236f118bd0800000000000000
+      internalID: -2629786196721542639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 572
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c71e7e7abbd0ef0800000000000000
+      internalID: -140249683554370531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 572
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29908b7d78c5f9960800000000000000
+      internalID: 7610903633788930450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 572
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b537a3ecf0bd75310800000000000000
+      internalID: 1393823470625387355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 572
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e91a5421c8f0ce20800000000000000
+      internalID: 3368966029695392228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4885d809a264080800000000000000
+      internalID: -9203621988149984016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a0a81a838592fa0800000000000000
+      internalID: -5825027642775434744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4064b0e83ddcf7840800000000000000
+      internalID: 5224120401277961732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_38
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd56323843374ed0800000000000000
+      internalID: -2429917088770007628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 520
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006160e0572f4fd30800000000000000
+      internalID: 4464459715191379456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56866f82b7a7c0d90800000000000000
+      internalID: -7130189440647534491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 468
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c060a6ead52a50800000000000000
+      internalID: 6495838721619838251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 468
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1aaebe23bda9870800000000000000
+      internalID: 8690499442717663673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 468
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b09c597c40e37000800000000000000
+      internalID: 32616241379971248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 468
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bd5244272cd3df0800000000000000
+      internalID: -198789012509041807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41446f08d5088810800000000000000
+      internalID: 1767669279272223054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 416
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a656b0d31082d0800000000000000
+      internalID: -3278598741592463268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 416
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b451687bf7bc080800000000000000
+      internalID: -9166092190377227375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_48
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 416
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f9a03f79d0f2c0800000000000000
+      internalID: -4399777695640454822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 416
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8536a8bbad0eac0800000000000000
+      internalID: -3827819184249415428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ddb97a98c16c2c0800000000000000
+      internalID: -4411807407414715073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df718a7275f4dfcc0800000000000000
+      internalID: -3675694485118380035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e9af85c37544c0800000000000000
+      internalID: -4303906576526612268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_53
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc0ccd974671950800000000000000
+      internalID: 6419710268397374258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d364ff775b2a7e0800000000000000
+      internalID: -1755641377732543108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fc82eb33114b830800000000000000
+      internalID: 4085909675863232410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 312
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3268d2efb953a0af0800000000000000
+      internalID: -429471870359861725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_57
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 312
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bada411ff76d8d090800000000000000
+      internalID: -8009416092284572245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_58
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 312
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8825db9bf38758240800000000000000
+      internalID: 4793369593500226184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 312
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d7fda785705a590800000000000000
+      internalID: -7663711114301047508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f2479786dd2ea30800000000000000
+      internalID: 4243197239720423192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 260
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9ebbe208c230ff0800000000000000
+      internalID: -71164240056292876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 260
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06778a3ff33ba0590800000000000000
+      internalID: -7707150725038966944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_63
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 260
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf3a9534e7ce10e0800000000000000
+      internalID: -2297178976946602035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 260
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ef47c7f7371b40800000000000000
+      internalID: 5410855014649293304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de74f19980ca960800000000000000
+      internalID: 7614470523724492174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_66
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 208
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4464921315d2910800000000000000
+      internalID: 1814195496487896236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 208
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5942ab22006d02d0800000000000000
+      internalID: -3310884588609189537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 208
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3cb889736c0dfd0800000000000000
+      internalID: -2319135866011008008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393d077924ef2170800000000000000
+      internalID: 8155988316933404991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce7f42c40717760800000000000000
+      internalID: 7453862330614934613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 156
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079302317f5fe0db0800000000000000
+      internalID: -4823647709340616336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_72
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 156
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b745e38879241d90800000000000000
+      internalID: -7128026712634996815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_73
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbaaac3915069180800000000000000
+      internalID: -9109087590360110130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 156
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e481f462f4dfb260800000000000000
+      internalID: 7115640073809396962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57212cf8d209d9540800000000000000
+      internalID: 5016324085320389237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_76
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 104
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d2958be5bc9c400800000000000000
+      internalID: 345030454150770071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23545e0cfededdc70800000000000000
+      internalID: 8997609244545336626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_78
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 104
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f6134ea26e1d10800000000000000
+      internalID: 2098222976990639525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5594258afe3da30800000000000000
+      internalID: 4238995180499850676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7681d5e2d67a1c4d0800000000000000
+      internalID: -3116025379792545689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659bc46c3b6b81b30800000000000000
+      internalID: 4258354330921122134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 52
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de123fbd9aca9fa0800000000000000
+      internalID: -5793095191792312619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_83
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 52
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee11598703c28bd90800000000000000
+      internalID: -7081861827347017234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 52
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccf58b0409d29ba0800000000000000
+      internalID: -6083561535227691829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192da214e0e6d420800000000000000
+      internalID: 2654556300551989534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_86
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaefd44f885cf4e0800000000000000
+      internalID: -1946583566571803925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_87
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a50cf5e78c998490800000000000000
+      internalID: -7743485976793840221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_88
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59db08a768ebbf110800000000000000
+      internalID: 1295838802589302165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike_spearwall_52x52_89
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1b22406d05dbc40800000000000000
+      internalID: 5529664797603443162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pike_spearwall_52x52_0: 178162292591732794
+      pike_spearwall_52x52_1: -1963395361255187492
+      pike_spearwall_52x52_10: 7344238689791589323
+      pike_spearwall_52x52_11: 2574172513969003757
+      pike_spearwall_52x52_12: -6857320364549179881
+      pike_spearwall_52x52_13: -8709684397985144438
+      pike_spearwall_52x52_14: -3731899013844277221
+      pike_spearwall_52x52_15: 2320152324180424190
+      pike_spearwall_52x52_16: -6673536769786938718
+      pike_spearwall_52x52_17: -4339679657706533358
+      pike_spearwall_52x52_18: -2577109651253985197
+      pike_spearwall_52x52_19: -2092319248748895289
+      pike_spearwall_52x52_2: -7718780743330535197
+      pike_spearwall_52x52_20: -6827919399155317579
+      pike_spearwall_52x52_21: 3015086205941107330
+      pike_spearwall_52x52_22: 8101309980692244351
+      pike_spearwall_52x52_23: 6046627071185828795
+      pike_spearwall_52x52_24: -7203349721087465095
+      pike_spearwall_52x52_25: -5953361453688633568
+      pike_spearwall_52x52_26: -3663736638050456057
+      pike_spearwall_52x52_27: -36288412146029104
+      pike_spearwall_52x52_28: 6727658532164373505
+      pike_spearwall_52x52_29: -1348255234074427596
+      pike_spearwall_52x52_3: -9022219754737018193
+      pike_spearwall_52x52_30: -2629786196721542639
+      pike_spearwall_52x52_31: -140249683554370531
+      pike_spearwall_52x52_32: 7610903633788930450
+      pike_spearwall_52x52_33: 1393823470625387355
+      pike_spearwall_52x52_34: 3368966029695392228
+      pike_spearwall_52x52_35: -9203621988149984016
+      pike_spearwall_52x52_36: -5825027642775434744
+      pike_spearwall_52x52_37: 5224120401277961732
+      pike_spearwall_52x52_38: -2429917088770007628
+      pike_spearwall_52x52_39: 4464459715191379456
+      pike_spearwall_52x52_4: -979298931240334978
+      pike_spearwall_52x52_40: -7130189440647534491
+      pike_spearwall_52x52_41: 6495838721619838251
+      pike_spearwall_52x52_42: 8690499442717663673
+      pike_spearwall_52x52_43: 32616241379971248
+      pike_spearwall_52x52_44: -198789012509041807
+      pike_spearwall_52x52_45: 1767669279272223054
+      pike_spearwall_52x52_46: -3278598741592463268
+      pike_spearwall_52x52_47: -9166092190377227375
+      pike_spearwall_52x52_48: -4399777695640454822
+      pike_spearwall_52x52_49: -3827819184249415428
+      pike_spearwall_52x52_5: -7988102605738531794
+      pike_spearwall_52x52_50: -4411807407414715073
+      pike_spearwall_52x52_51: -3675694485118380035
+      pike_spearwall_52x52_52: -4303906576526612268
+      pike_spearwall_52x52_53: 6419710268397374258
+      pike_spearwall_52x52_54: -1755641377732543108
+      pike_spearwall_52x52_55: 4085909675863232410
+      pike_spearwall_52x52_56: -429471870359861725
+      pike_spearwall_52x52_57: -8009416092284572245
+      pike_spearwall_52x52_58: 4793369593500226184
+      pike_spearwall_52x52_59: -7663711114301047508
+      pike_spearwall_52x52_6: -679939717358361659
+      pike_spearwall_52x52_60: 4243197239720423192
+      pike_spearwall_52x52_61: -71164240056292876
+      pike_spearwall_52x52_62: -7707150725038966944
+      pike_spearwall_52x52_63: -2297178976946602035
+      pike_spearwall_52x52_64: 5410855014649293304
+      pike_spearwall_52x52_65: 7614470523724492174
+      pike_spearwall_52x52_66: 1814195496487896236
+      pike_spearwall_52x52_67: -3310884588609189537
+      pike_spearwall_52x52_68: -2319135866011008008
+      pike_spearwall_52x52_69: 8155988316933404991
+      pike_spearwall_52x52_7: 9089221757443562538
+      pike_spearwall_52x52_70: 7453862330614934613
+      pike_spearwall_52x52_71: -4823647709340616336
+      pike_spearwall_52x52_72: -7128026712634996815
+      pike_spearwall_52x52_73: -9109087590360110130
+      pike_spearwall_52x52_74: 7115640073809396962
+      pike_spearwall_52x52_75: 5016324085320389237
+      pike_spearwall_52x52_76: 345030454150770071
+      pike_spearwall_52x52_77: 8997609244545336626
+      pike_spearwall_52x52_78: 2098222976990639525
+      pike_spearwall_52x52_79: 4238995180499850676
+      pike_spearwall_52x52_8: 1465328693274926524
+      pike_spearwall_52x52_80: -3116025379792545689
+      pike_spearwall_52x52_81: 4258354330921122134
+      pike_spearwall_52x52_82: -5793095191792312619
+      pike_spearwall_52x52_83: -7081861827347017234
+      pike_spearwall_52x52_84: -6083561535227691829
+      pike_spearwall_52x52_85: 2654556300551989534
+      pike_spearwall_52x52_86: -1946583566571803925
+      pike_spearwall_52x52_87: -7743485976793840221
+      pike_spearwall_52x52_88: 1295838802589302165
+      pike_spearwall_52x52_89: 5529664797603443162
+      pike_spearwall_52x52_9: 5056456923779262046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

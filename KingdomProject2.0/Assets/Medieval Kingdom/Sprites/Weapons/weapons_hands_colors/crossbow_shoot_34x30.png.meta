@@ -1,0 +1,3414 @@
+fileFormatVersion: 2
+guid: 9be4815b38dc4504fa9024724a71c9b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7716986874110756356
+    second: crossbow_shoot_34x30_0
+  - first:
+      213: 9071531599896178862
+    second: crossbow_shoot_34x30_1
+  - first:
+      213: 5581146674251297502
+    second: crossbow_shoot_34x30_2
+  - first:
+      213: -4076564646032150366
+    second: crossbow_shoot_34x30_3
+  - first:
+      213: -4196623122673687525
+    second: crossbow_shoot_34x30_4
+  - first:
+      213: -259072645420214369
+    second: crossbow_shoot_34x30_5
+  - first:
+      213: -8171170815541895109
+    second: crossbow_shoot_34x30_6
+  - first:
+      213: 3474565575273964810
+    second: crossbow_shoot_34x30_7
+  - first:
+      213: 5719699552817071311
+    second: crossbow_shoot_34x30_8
+  - first:
+      213: -7330270101773454000
+    second: crossbow_shoot_34x30_9
+  - first:
+      213: -189514839984018553
+    second: crossbow_shoot_34x30_10
+  - first:
+      213: 2190798338221339336
+    second: crossbow_shoot_34x30_11
+  - first:
+      213: -8955567631058489400
+    second: crossbow_shoot_34x30_12
+  - first:
+      213: -5349879753197817783
+    second: crossbow_shoot_34x30_13
+  - first:
+      213: 4574784857832371135
+    second: crossbow_shoot_34x30_14
+  - first:
+      213: -8095622094035114382
+    second: crossbow_shoot_34x30_15
+  - first:
+      213: 2866710486900040247
+    second: crossbow_shoot_34x30_16
+  - first:
+      213: -5548911521478209497
+    second: crossbow_shoot_34x30_17
+  - first:
+      213: -5484221571217617032
+    second: crossbow_shoot_34x30_18
+  - first:
+      213: 5690746089715828709
+    second: crossbow_shoot_34x30_19
+  - first:
+      213: 3744030790501022942
+    second: crossbow_shoot_34x30_20
+  - first:
+      213: 3715504717370167983
+    second: crossbow_shoot_34x30_21
+  - first:
+      213: -2718259798036970069
+    second: crossbow_shoot_34x30_22
+  - first:
+      213: -7459106935799717048
+    second: crossbow_shoot_34x30_23
+  - first:
+      213: -4421227699125857873
+    second: crossbow_shoot_34x30_24
+  - first:
+      213: 7328232719625804564
+    second: crossbow_shoot_34x30_25
+  - first:
+      213: -4393744060802792882
+    second: crossbow_shoot_34x30_26
+  - first:
+      213: 3608692744875975954
+    second: crossbow_shoot_34x30_27
+  - first:
+      213: -3631603217079087538
+    second: crossbow_shoot_34x30_28
+  - first:
+      213: 884200586110888679
+    second: crossbow_shoot_34x30_29
+  - first:
+      213: 5471190150151439873
+    second: crossbow_shoot_34x30_30
+  - first:
+      213: 5944031740076732179
+    second: crossbow_shoot_34x30_31
+  - first:
+      213: -7222502080973914691
+    second: crossbow_shoot_34x30_32
+  - first:
+      213: -3341086261413883308
+    second: crossbow_shoot_34x30_33
+  - first:
+      213: 8217989374875144064
+    second: crossbow_shoot_34x30_34
+  - first:
+      213: 4216874753324309894
+    second: crossbow_shoot_34x30_35
+  - first:
+      213: -5280857476561866388
+    second: crossbow_shoot_34x30_36
+  - first:
+      213: -6931126103097090584
+    second: crossbow_shoot_34x30_37
+  - first:
+      213: 5188046332264319279
+    second: crossbow_shoot_34x30_38
+  - first:
+      213: 4372490004299245480
+    second: crossbow_shoot_34x30_39
+  - first:
+      213: 8667169760925093053
+    second: crossbow_shoot_34x30_40
+  - first:
+      213: 4062315987315354829
+    second: crossbow_shoot_34x30_41
+  - first:
+      213: -5560286713777740199
+    second: crossbow_shoot_34x30_42
+  - first:
+      213: 724426773289027962
+    second: crossbow_shoot_34x30_43
+  - first:
+      213: -1747620374483481657
+    second: crossbow_shoot_34x30_44
+  - first:
+      213: 4420391303807910653
+    second: crossbow_shoot_34x30_45
+  - first:
+      213: -1066962517409204896
+    second: crossbow_shoot_34x30_46
+  - first:
+      213: 5363454098363852953
+    second: crossbow_shoot_34x30_47
+  - first:
+      213: -2488895631733458598
+    second: crossbow_shoot_34x30_48
+  - first:
+      213: -2380790918557677191
+    second: crossbow_shoot_34x30_49
+  - first:
+      213: 2319447935881291162
+    second: crossbow_shoot_34x30_50
+  - first:
+      213: 4237608841898196084
+    second: crossbow_shoot_34x30_51
+  - first:
+      213: 8276870055425446149
+    second: crossbow_shoot_34x30_52
+  - first:
+      213: -2016525302017030082
+    second: crossbow_shoot_34x30_53
+  - first:
+      213: -8618144557083151129
+    second: crossbow_shoot_34x30_54
+  - first:
+      213: 8217206150550507446
+    second: crossbow_shoot_34x30_55
+  - first:
+      213: -5681165113663399592
+    second: crossbow_shoot_34x30_56
+  - first:
+      213: 8547659084730269901
+    second: crossbow_shoot_34x30_57
+  - first:
+      213: -7810555413581557712
+    second: crossbow_shoot_34x30_58
+  - first:
+      213: -3765647661503643333
+    second: crossbow_shoot_34x30_59
+  - first:
+      213: -6034167193368133797
+    second: crossbow_shoot_34x30_60
+  - first:
+      213: -1927329465632418932
+    second: crossbow_shoot_34x30_61
+  - first:
+      213: -3167496504179297211
+    second: crossbow_shoot_34x30_62
+  - first:
+      213: -2960251051481833040
+    second: crossbow_shoot_34x30_63
+  - first:
+      213: -1664580092597622490
+    second: crossbow_shoot_34x30_64
+  - first:
+      213: 2534430537955217669
+    second: crossbow_shoot_34x30_65
+  - first:
+      213: -2184790324956775594
+    second: crossbow_shoot_34x30_66
+  - first:
+      213: -2472184627379053852
+    second: crossbow_shoot_34x30_67
+  - first:
+      213: -817468233412553012
+    second: crossbow_shoot_34x30_68
+  - first:
+      213: -3509749526031852904
+    second: crossbow_shoot_34x30_69
+  - first:
+      213: -6177322445371923311
+    second: crossbow_shoot_34x30_70
+  - first:
+      213: 3992106995328919081
+    second: crossbow_shoot_34x30_71
+  - first:
+      213: 98436789845645210
+    second: crossbow_shoot_34x30_72
+  - first:
+      213: -8911557788456509484
+    second: crossbow_shoot_34x30_73
+  - first:
+      213: -184931532587082911
+    second: crossbow_shoot_34x30_74
+  - first:
+      213: -1712371007338364255
+    second: crossbow_shoot_34x30_75
+  - first:
+      213: 6274993744546883371
+    second: crossbow_shoot_34x30_76
+  - first:
+      213: -2362253525370038875
+    second: crossbow_shoot_34x30_77
+  - first:
+      213: 3780654321626873708
+    second: crossbow_shoot_34x30_78
+  - first:
+      213: -3845049986659009891
+    second: crossbow_shoot_34x30_79
+  - first:
+      213: 8086732688378413329
+    second: crossbow_shoot_34x30_80
+  - first:
+      213: -5193000604950097217
+    second: crossbow_shoot_34x30_81
+  - first:
+      213: -4195901496313936129
+    second: crossbow_shoot_34x30_82
+  - first:
+      213: -3893304118962224942
+    second: crossbow_shoot_34x30_83
+  - first:
+      213: -3216416900300537748
+    second: crossbow_shoot_34x30_84
+  - first:
+      213: 4769484702089711659
+    second: crossbow_shoot_34x30_85
+  - first:
+      213: 9306047865356270
+    second: crossbow_shoot_34x30_86
+  - first:
+      213: 3694353657666910646
+    second: crossbow_shoot_34x30_87
+  - first:
+      213: -5729831277517138068
+    second: crossbow_shoot_34x30_88
+  - first:
+      213: 3351005752537024981
+    second: crossbow_shoot_34x30_89
+  - first:
+      213: -7644508149961712808
+    second: crossbow_shoot_34x30_90
+  - first:
+      213: -6656897232324395063
+    second: crossbow_shoot_34x30_91
+  - first:
+      213: 2184376681194900998
+    second: crossbow_shoot_34x30_92
+  - first:
+      213: 383448701329338799
+    second: crossbow_shoot_34x30_93
+  - first:
+      213: 800356014892481360
+    second: crossbow_shoot_34x30_94
+  - first:
+      213: 8500846628065813142
+    second: crossbow_shoot_34x30_95
+  - first:
+      213: 6809317631868705201
+    second: crossbow_shoot_34x30_96
+  - first:
+      213: -7628576189878861784
+    second: crossbow_shoot_34x30_97
+  - first:
+      213: 1269230589983713285
+    second: crossbow_shoot_34x30_98
+  - first:
+      213: -1156461404428068106
+    second: crossbow_shoot_34x30_99
+  - first:
+      213: 1388129895913756216
+    second: crossbow_shoot_34x30_100
+  - first:
+      213: 281717004355201576
+    second: crossbow_shoot_34x30_101
+  - first:
+      213: 205142174006873442
+    second: crossbow_shoot_34x30_102
+  - first:
+      213: 24501978502183992
+    second: crossbow_shoot_34x30_103
+  - first:
+      213: 4417551882699942047
+    second: crossbow_shoot_34x30_104
+  - first:
+      213: 6044869197521868041
+    second: crossbow_shoot_34x30_105
+  - first:
+      213: 1579423613929074464
+    second: crossbow_shoot_34x30_106
+  - first:
+      213: 7962117082849386069
+    second: crossbow_shoot_34x30_107
+  - first:
+      213: -8534705900069696421
+    second: crossbow_shoot_34x30_108
+  - first:
+      213: 1645242143291256909
+    second: crossbow_shoot_34x30_109
+  - first:
+      213: 9174143944645042943
+    second: crossbow_shoot_34x30_110
+  - first:
+      213: 7525944426679535477
+    second: crossbow_shoot_34x30_111
+  - first:
+      213: 6856832814604287777
+    second: crossbow_shoot_34x30_112
+  - first:
+      213: 1000744937479452403
+    second: crossbow_shoot_34x30_113
+  - first:
+      213: 192134000318948309
+    second: crossbow_shoot_34x30_114
+  - first:
+      213: 2318581751909375252
+    second: crossbow_shoot_34x30_115
+  - first:
+      213: -8353378443375653689
+    second: crossbow_shoot_34x30_116
+  - first:
+      213: 3744168827368558972
+    second: crossbow_shoot_34x30_117
+  - first:
+      213: 2379441509810404336
+    second: crossbow_shoot_34x30_118
+  - first:
+      213: 1101568178494132326
+    second: crossbow_shoot_34x30_119
+  - first:
+      213: -3730204464605871388
+    second: crossbow_shoot_34x30_120
+  - first:
+      213: 8455065372768452260
+    second: crossbow_shoot_34x30_121
+  - first:
+      213: -8701741159078779535
+    second: crossbow_shoot_34x30_122
+  - first:
+      213: -7464584334441839951
+    second: crossbow_shoot_34x30_123
+  - first:
+      213: -6221989601919338800
+    second: crossbow_shoot_34x30_124
+  - first:
+      213: 1442244343562667495
+    second: crossbow_shoot_34x30_125
+  - first:
+      213: 3583332034773461364
+    second: crossbow_shoot_34x30_126
+  - first:
+      213: -116413823617404858
+    second: crossbow_shoot_34x30_127
+  - first:
+      213: 4752070488679927552
+    second: crossbow_shoot_34x30_128
+  - first:
+      213: -8711998571229898237
+    second: crossbow_shoot_34x30_129
+  - first:
+      213: 2700145950999640330
+    second: crossbow_shoot_34x30_130
+  - first:
+      213: -2096440983690316451
+    second: crossbow_shoot_34x30_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b6480351c7e490800000000000000
+      internalID: -7716986874110756356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0fa845ded84ed70800000000000000
+      internalID: 9071531599896178862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2f91e7457347d40800000000000000
+      internalID: 5581146674251297502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a076519d022d67c0800000000000000
+      internalID: -4076564646032150366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1428dc218992c5c0800000000000000
+      internalID: -4196623122673687525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9715b63dc6976cf0800000000000000
+      internalID: -259072645420214369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30269c9f6b2a9e80800000000000000
+      internalID: -8171170815541895109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05610f4bf2283030800000000000000
+      internalID: 3474565575273964810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44f936074706f40800000000000000
+      internalID: 5719699552817071311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055702c0e26a54a90800000000000000
+      internalID: -7330270101773454000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b6613d145be5df0800000000000000
+      internalID: -189514839984018553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f2343b77476e10800000000000000
+      internalID: 2190798338221339336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfa5cc20be67b380800000000000000
+      internalID: -8955567631058489400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940f69795b861c5b0800000000000000
+      internalID: -5349879753197817783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb33fe60796ec7f30800000000000000
+      internalID: 4574784857832371135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276ab31199296af80800000000000000
+      internalID: -8095622094035114382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7326095dff998c720800000000000000
+      internalID: 2866710486900040247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_17
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7201830ee5e4ef2b0800000000000000
+      internalID: -5548911521478209497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f0a02a98124e3b0800000000000000
+      internalID: -5484221571217617032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_19
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e78470fa6799fe40800000000000000
+      internalID: 5690746089715828709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc30ffca2875f330800000000000000
+      internalID: 3744030790501022942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 150
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa21328dadf109330800000000000000
+      internalID: 3715504717370167983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba508ca9d1dc64ad0800000000000000
+      internalID: -2718259798036970069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843610e03cdeb7890800000000000000
+      internalID: -7459106935799717048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa15c7215d4a4a2c0800000000000000
+      internalID: -4421227699125857873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bd0b4f4dc13b560800000000000000
+      internalID: 7328232719625804564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e420ed54e094603c0800000000000000
+      internalID: -4393744060802792882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215acd98ee6a41230800000000000000
+      internalID: 3608692744875975954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ec5d87d14f99dc0800000000000000
+      internalID: -3631603217079087538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae4559fbf454c00800000000000000
+      internalID: 884200586110888679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106846634729deb40800000000000000
+      internalID: 5471190150151439873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fabe0ff517d7250800000000000000
+      internalID: 5944031740076732179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdb702bf9484cb90800000000000000
+      internalID: -7222502080973914691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452dc704fb312a1d0800000000000000
+      internalID: -3341086261413883308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f0e51bbc92c0270800000000000000
+      internalID: 8217989374875144064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_35
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d55360f39558a30800000000000000
+      internalID: 4216874753324309894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_36
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c617010ba10a6b6b0800000000000000
+      internalID: -5280857476561866388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_37
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd57b2881bfcf90800000000000000
+      internalID: -6931126103097090584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2902e8d6a4aff740800000000000000
+      internalID: 5188046332264319279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_39
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e3321e743eac30800000000000000
+      internalID: 4372490004299245480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc82f71af8f74870800000000000000
+      internalID: 8667169760925093053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_41
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc625d0ede306830800000000000000
+      internalID: 4062315987315354829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_42
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95624f781b4e5d2b0800000000000000
+      internalID: -5560286713777740199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_43
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 120
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79cca7ef4ead0a00800000000000000
+      internalID: 724426773289027962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb4da857843fb7e0800000000000000
+      internalID: -1747620374483481657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df242b77872685d30800000000000000
+      internalID: 4420391303807910653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065fa215e336131f0800000000000000
+      internalID: -1066962517409204896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998271ee511de6a40800000000000000
+      internalID: 5363454098363852953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5971831c9aa57dd0800000000000000
+      internalID: -2488895631733458598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c4e6064bb5fed0800000000000000
+      internalID: -2380790918557677191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_50
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95a735db95503020800000000000000
+      internalID: 2319447935881291162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_51
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c75663ac20fca30800000000000000
+      internalID: 4237608841898196084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_52
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50193b176795dd270800000000000000
+      internalID: 8276870055425446149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3800bcfbecd304e0800000000000000
+      internalID: -2016525302017030082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_54
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b71caf23366880800000000000000
+      internalID: -8618144557083151129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_55
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfc7b11571690270800000000000000
+      internalID: 8217206150550507446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85950c1ed627821b0800000000000000
+      internalID: -5681165113663399592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_57
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc00d7e66a26f9670800000000000000
+      internalID: 8547659084730269901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_58
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03097f2cb355b9390800000000000000
+      internalID: -7810555413581557712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_59
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b318bc2376bbdbbc0800000000000000
+      internalID: -3765647661503643333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_60
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ff9f378e4524ca0800000000000000
+      internalID: -6034167193368133797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_61
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8316dbff00c045e0800000000000000
+      internalID: -1927329465632418932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_62
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544f91926baca04d0800000000000000
+      internalID: -3167496504179297211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_63
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e27e4a531be6d0800000000000000
+      internalID: -2960251051481833040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_64
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6292880a93936e8e0800000000000000
+      internalID: -1664580092597622490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_65
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 90
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50119b2752b1c2320800000000000000
+      internalID: 2534430537955217669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bbd3466c01ea1e0800000000000000
+      internalID: -2184790324956775594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ead3e9fd2901bdd0800000000000000
+      internalID: -2472184627379053852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6574c09f4c7a4f0800000000000000
+      internalID: -817468233412553012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a964ac66dda4fc0800000000000000
+      internalID: -3509749526031852904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_70
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1942f8cf6fdb54aa0800000000000000
+      internalID: -6177322445371923311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926aee14920d66730800000000000000
+      internalID: 3992106995328919081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9754932db7bd5100800000000000000
+      internalID: 98436789845645210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df1fa72869c35480800000000000000
+      internalID: -8911557788456509484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bd06c30cdfe6df0800000000000000
+      internalID: -184931532587082911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_75
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a24bef24af6c38e0800000000000000
+      internalID: -1712371007338364255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27e3877091451750800000000000000
+      internalID: 6274993744546883371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_77
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a597e63fe6973fd0800000000000000
+      internalID: -2362253525370038875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_78
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f7d132315977430800000000000000
+      internalID: 3780654321626873708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_79
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ab199b863a3aac0800000000000000
+      internalID: -3845049986659009891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_80
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111c554e888d93070800000000000000
+      internalID: 8086732688378413329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_81
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb29f87a671cee7b0800000000000000
+      internalID: -5193000604950097217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_82
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff68da7e1d925c5c0800000000000000
+      internalID: -4195901496313936129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_83
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d001ba088438f9c0800000000000000
+      internalID: -3893304118962224942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_84
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c600608deddfc53d0800000000000000
+      internalID: -3216416900300537748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_85
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2097b5111d903240800000000000000
+      internalID: 4769484702089711659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_86
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeff64d1dcf012000800000000000000
+      internalID: 9306047865356270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_87
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 60
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9b6eff31bf44330800000000000000
+      internalID: 3694353657666910646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c671ba0afcc8b70b0800000000000000
+      internalID: -5729831277517138068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d982404af9218e20800000000000000
+      internalID: 3351005752537024981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_90
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b14f6075049e590800000000000000
+      internalID: -7644508149961712808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cff509ac33fd93a0800000000000000
+      internalID: -6656897232324395063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_92
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec44aa407705e10800000000000000
+      internalID: 2184376681194900998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_93
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f150ff88425500800000000000000
+      internalID: 383448701329338799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_94
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b73891e8f6b1b00800000000000000
+      internalID: 800356014892481360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692a0f308f219f570800000000000000
+      internalID: 8500846628065813142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b996521f4e8f7e50800000000000000
+      internalID: 6809317631868705201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_97
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820844c8f5ad12690800000000000000
+      internalID: -7628576189878861784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_98
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508e9063f763d9110800000000000000
+      internalID: 1269230589983713285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_99
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa9d98da7c63ffe0800000000000000
+      internalID: -1156461404428068106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_100
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8361a0429c0a34310800000000000000
+      internalID: 1388129895913756216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_101
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a67c37f1cd8e300800000000000000
+      internalID: 281717004355201576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_102
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d812a68bfc8d200800000000000000
+      internalID: 205142174006873442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_103
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cbaec6b6c075000800000000000000
+      internalID: 24501978502183992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_104
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f982039380c4e4d30800000000000000
+      internalID: 4417551882699942047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_105
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905ddff0280b3e350800000000000000
+      internalID: 6044869197521868041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_106
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f2b12a86d3be510800000000000000
+      internalID: 1579423613929074464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_107
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e9e4f3d4f1f7e60800000000000000
+      internalID: 7962117082849386069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_108
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c4ae3e332ae8980800000000000000
+      internalID: -8534705900069696421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_109
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 30
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40b060330315d610800000000000000
+      internalID: 1645242143291256909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff26eda9f4b115f70800000000000000
+      internalID: 9174143944645042943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5778097f496817860800000000000000
+      internalID: 7525944426679535477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_112
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ffab6ad1d582f50800000000000000
+      internalID: 6856832814604287777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_113
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6bb3de73c53ed00800000000000000
+      internalID: 1000744937479452403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_114
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d32946fad89aa200800000000000000
+      internalID: 192134000318948309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_115
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dd249a1d14d2020800000000000000
+      internalID: 2318581751909375252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_116
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc40385096d21c80800000000000000
+      internalID: -8353378443375653689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_117
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71d46606b5f5f330800000000000000
+      internalID: 3744168827368558972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_118
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb71144279750120800000000000000
+      internalID: 2379441509810404336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_119
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66054070c6e894f00800000000000000
+      internalID: 1101568178494132326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_120
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2479b8dc6ab3cc0800000000000000
+      internalID: -3730204464605871388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_121
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb190e82d665570800000000000000
+      internalID: 8455065372768452260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_122
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175a6b505843d3780800000000000000
+      internalID: -8701741159078779535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_123
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b206adc818786890800000000000000
+      internalID: -7464584334441839951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_124
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d67c6d2c6d07a9a0800000000000000
+      internalID: -6221989601919338800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_125
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e58e51d691e30410800000000000000
+      internalID: 1442244343562667495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_126
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47923f4108d8ab130800000000000000
+      internalID: 3583332034773461364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_127
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f6548e3a626ef0800000000000000
+      internalID: -116413823617404858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_128
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f42619eeeb2f140800000000000000
+      internalID: 4752070488679927552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_129
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a91262573c81780800000000000000
+      internalID: -8711998571229898237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_130
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09fa0bbf68d87520800000000000000
+      internalID: 2700145950999640330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crossbow_shoot_34x30_131
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5571926802f7e2e0800000000000000
+      internalID: -2096440983690316451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      crossbow_shoot_34x30_0: -7716986874110756356
+      crossbow_shoot_34x30_1: 9071531599896178862
+      crossbow_shoot_34x30_10: -189514839984018553
+      crossbow_shoot_34x30_100: 1388129895913756216
+      crossbow_shoot_34x30_101: 281717004355201576
+      crossbow_shoot_34x30_102: 205142174006873442
+      crossbow_shoot_34x30_103: 24501978502183992
+      crossbow_shoot_34x30_104: 4417551882699942047
+      crossbow_shoot_34x30_105: 6044869197521868041
+      crossbow_shoot_34x30_106: 1579423613929074464
+      crossbow_shoot_34x30_107: 7962117082849386069
+      crossbow_shoot_34x30_108: -8534705900069696421
+      crossbow_shoot_34x30_109: 1645242143291256909
+      crossbow_shoot_34x30_11: 2190798338221339336
+      crossbow_shoot_34x30_110: 9174143944645042943
+      crossbow_shoot_34x30_111: 7525944426679535477
+      crossbow_shoot_34x30_112: 6856832814604287777
+      crossbow_shoot_34x30_113: 1000744937479452403
+      crossbow_shoot_34x30_114: 192134000318948309
+      crossbow_shoot_34x30_115: 2318581751909375252
+      crossbow_shoot_34x30_116: -8353378443375653689
+      crossbow_shoot_34x30_117: 3744168827368558972
+      crossbow_shoot_34x30_118: 2379441509810404336
+      crossbow_shoot_34x30_119: 1101568178494132326
+      crossbow_shoot_34x30_12: -8955567631058489400
+      crossbow_shoot_34x30_120: -3730204464605871388
+      crossbow_shoot_34x30_121: 8455065372768452260
+      crossbow_shoot_34x30_122: -8701741159078779535
+      crossbow_shoot_34x30_123: -7464584334441839951
+      crossbow_shoot_34x30_124: -6221989601919338800
+      crossbow_shoot_34x30_125: 1442244343562667495
+      crossbow_shoot_34x30_126: 3583332034773461364
+      crossbow_shoot_34x30_127: -116413823617404858
+      crossbow_shoot_34x30_128: 4752070488679927552
+      crossbow_shoot_34x30_129: -8711998571229898237
+      crossbow_shoot_34x30_13: -5349879753197817783
+      crossbow_shoot_34x30_130: 2700145950999640330
+      crossbow_shoot_34x30_131: -2096440983690316451
+      crossbow_shoot_34x30_14: 4574784857832371135
+      crossbow_shoot_34x30_15: -8095622094035114382
+      crossbow_shoot_34x30_16: 2866710486900040247
+      crossbow_shoot_34x30_17: -5548911521478209497
+      crossbow_shoot_34x30_18: -5484221571217617032
+      crossbow_shoot_34x30_19: 5690746089715828709
+      crossbow_shoot_34x30_2: 5581146674251297502
+      crossbow_shoot_34x30_20: 3744030790501022942
+      crossbow_shoot_34x30_21: 3715504717370167983
+      crossbow_shoot_34x30_22: -2718259798036970069
+      crossbow_shoot_34x30_23: -7459106935799717048
+      crossbow_shoot_34x30_24: -4421227699125857873
+      crossbow_shoot_34x30_25: 7328232719625804564
+      crossbow_shoot_34x30_26: -4393744060802792882
+      crossbow_shoot_34x30_27: 3608692744875975954
+      crossbow_shoot_34x30_28: -3631603217079087538
+      crossbow_shoot_34x30_29: 884200586110888679
+      crossbow_shoot_34x30_3: -4076564646032150366
+      crossbow_shoot_34x30_30: 5471190150151439873
+      crossbow_shoot_34x30_31: 5944031740076732179
+      crossbow_shoot_34x30_32: -7222502080973914691
+      crossbow_shoot_34x30_33: -3341086261413883308
+      crossbow_shoot_34x30_34: 8217989374875144064
+      crossbow_shoot_34x30_35: 4216874753324309894
+      crossbow_shoot_34x30_36: -5280857476561866388
+      crossbow_shoot_34x30_37: -6931126103097090584
+      crossbow_shoot_34x30_38: 5188046332264319279
+      crossbow_shoot_34x30_39: 4372490004299245480
+      crossbow_shoot_34x30_4: -4196623122673687525
+      crossbow_shoot_34x30_40: 8667169760925093053
+      crossbow_shoot_34x30_41: 4062315987315354829
+      crossbow_shoot_34x30_42: -5560286713777740199
+      crossbow_shoot_34x30_43: 724426773289027962
+      crossbow_shoot_34x30_44: -1747620374483481657
+      crossbow_shoot_34x30_45: 4420391303807910653
+      crossbow_shoot_34x30_46: -1066962517409204896
+      crossbow_shoot_34x30_47: 5363454098363852953
+      crossbow_shoot_34x30_48: -2488895631733458598
+      crossbow_shoot_34x30_49: -2380790918557677191
+      crossbow_shoot_34x30_5: -259072645420214369
+      crossbow_shoot_34x30_50: 2319447935881291162
+      crossbow_shoot_34x30_51: 4237608841898196084
+      crossbow_shoot_34x30_52: 8276870055425446149
+      crossbow_shoot_34x30_53: -2016525302017030082
+      crossbow_shoot_34x30_54: -8618144557083151129
+      crossbow_shoot_34x30_55: 8217206150550507446
+      crossbow_shoot_34x30_56: -5681165113663399592
+      crossbow_shoot_34x30_57: 8547659084730269901
+      crossbow_shoot_34x30_58: -7810555413581557712
+      crossbow_shoot_34x30_59: -3765647661503643333
+      crossbow_shoot_34x30_6: -8171170815541895109
+      crossbow_shoot_34x30_60: -6034167193368133797
+      crossbow_shoot_34x30_61: -1927329465632418932
+      crossbow_shoot_34x30_62: -3167496504179297211
+      crossbow_shoot_34x30_63: -2960251051481833040
+      crossbow_shoot_34x30_64: -1664580092597622490
+      crossbow_shoot_34x30_65: 2534430537955217669
+      crossbow_shoot_34x30_66: -2184790324956775594
+      crossbow_shoot_34x30_67: -2472184627379053852
+      crossbow_shoot_34x30_68: -817468233412553012
+      crossbow_shoot_34x30_69: -3509749526031852904
+      crossbow_shoot_34x30_7: 3474565575273964810
+      crossbow_shoot_34x30_70: -6177322445371923311
+      crossbow_shoot_34x30_71: 3992106995328919081
+      crossbow_shoot_34x30_72: 98436789845645210
+      crossbow_shoot_34x30_73: -8911557788456509484
+      crossbow_shoot_34x30_74: -184931532587082911
+      crossbow_shoot_34x30_75: -1712371007338364255
+      crossbow_shoot_34x30_76: 6274993744546883371
+      crossbow_shoot_34x30_77: -2362253525370038875
+      crossbow_shoot_34x30_78: 3780654321626873708
+      crossbow_shoot_34x30_79: -3845049986659009891
+      crossbow_shoot_34x30_8: 5719699552817071311
+      crossbow_shoot_34x30_80: 8086732688378413329
+      crossbow_shoot_34x30_81: -5193000604950097217
+      crossbow_shoot_34x30_82: -4195901496313936129
+      crossbow_shoot_34x30_83: -3893304118962224942
+      crossbow_shoot_34x30_84: -3216416900300537748
+      crossbow_shoot_34x30_85: 4769484702089711659
+      crossbow_shoot_34x30_86: 9306047865356270
+      crossbow_shoot_34x30_87: 3694353657666910646
+      crossbow_shoot_34x30_88: -5729831277517138068
+      crossbow_shoot_34x30_89: 3351005752537024981
+      crossbow_shoot_34x30_9: -7330270101773454000
+      crossbow_shoot_34x30_90: -7644508149961712808
+      crossbow_shoot_34x30_91: -6656897232324395063
+      crossbow_shoot_34x30_92: 2184376681194900998
+      crossbow_shoot_34x30_93: 383448701329338799
+      crossbow_shoot_34x30_94: 800356014892481360
+      crossbow_shoot_34x30_95: 8500846628065813142
+      crossbow_shoot_34x30_96: 6809317631868705201
+      crossbow_shoot_34x30_97: -7628576189878861784
+      crossbow_shoot_34x30_98: 1269230589983713285
+      crossbow_shoot_34x30_99: -1156461404428068106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

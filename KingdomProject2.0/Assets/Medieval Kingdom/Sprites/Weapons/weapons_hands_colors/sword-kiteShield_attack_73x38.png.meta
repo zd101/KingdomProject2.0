@@ -1,0 +1,5214 @@
+fileFormatVersion: 2
+guid: 734e55044c1eb08439210757543f62be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6469925350011376497
+    second: sword-kiteShield_attack_73x38_0
+  - first:
+      213: 1129783328250913747
+    second: sword-kiteShield_attack_73x38_1
+  - first:
+      213: 7406808705633972953
+    second: sword-kiteShield_attack_73x38_2
+  - first:
+      213: 7976358621620397829
+    second: sword-kiteShield_attack_73x38_3
+  - first:
+      213: -4065001819080771404
+    second: sword-kiteShield_attack_73x38_4
+  - first:
+      213: 4245397265949743172
+    second: sword-kiteShield_attack_73x38_5
+  - first:
+      213: 679256364933262372
+    second: sword-kiteShield_attack_73x38_6
+  - first:
+      213: 2320354804974019345
+    second: sword-kiteShield_attack_73x38_7
+  - first:
+      213: -8370075728928208593
+    second: sword-kiteShield_attack_73x38_8
+  - first:
+      213: -4628860798747517205
+    second: sword-kiteShield_attack_73x38_9
+  - first:
+      213: -5812387789077976925
+    second: sword-kiteShield_attack_73x38_10
+  - first:
+      213: -5816593806065279439
+    second: sword-kiteShield_attack_73x38_11
+  - first:
+      213: -967890930264170084
+    second: sword-kiteShield_attack_73x38_12
+  - first:
+      213: 7206875989184084546
+    second: sword-kiteShield_attack_73x38_13
+  - first:
+      213: 8280089222250211579
+    second: sword-kiteShield_attack_73x38_14
+  - first:
+      213: 4489092590013433725
+    second: sword-kiteShield_attack_73x38_15
+  - first:
+      213: 5852001890702174641
+    second: sword-kiteShield_attack_73x38_16
+  - first:
+      213: -1874495543837255798
+    second: sword-kiteShield_attack_73x38_17
+  - first:
+      213: -5151868214973389701
+    second: sword-kiteShield_attack_73x38_18
+  - first:
+      213: 5538847484219309197
+    second: sword-kiteShield_attack_73x38_19
+  - first:
+      213: 4496579718198356893
+    second: sword-kiteShield_attack_73x38_20
+  - first:
+      213: 2972609367940706349
+    second: sword-kiteShield_attack_73x38_21
+  - first:
+      213: 2439058397859239777
+    second: sword-kiteShield_attack_73x38_22
+  - first:
+      213: 7036341605314801164
+    second: sword-kiteShield_attack_73x38_23
+  - first:
+      213: -8148129447605958975
+    second: sword-kiteShield_attack_73x38_24
+  - first:
+      213: -5487873459993311527
+    second: sword-kiteShield_attack_73x38_25
+  - first:
+      213: -3687809263175542050
+    second: sword-kiteShield_attack_73x38_26
+  - first:
+      213: -6046570055497524143
+    second: sword-kiteShield_attack_73x38_27
+  - first:
+      213: 2921670317796397085
+    second: sword-kiteShield_attack_73x38_28
+  - first:
+      213: 7101135321787527598
+    second: sword-kiteShield_attack_73x38_29
+  - first:
+      213: -5848360509465331126
+    second: sword-kiteShield_attack_73x38_30
+  - first:
+      213: -4403041277720553395
+    second: sword-kiteShield_attack_73x38_31
+  - first:
+      213: 1515988964053666554
+    second: sword-kiteShield_attack_73x38_32
+  - first:
+      213: -8057124312122277089
+    second: sword-kiteShield_attack_73x38_33
+  - first:
+      213: 2519436573774588141
+    second: sword-kiteShield_attack_73x38_34
+  - first:
+      213: -9134522517215567926
+    second: sword-kiteShield_attack_73x38_35
+  - first:
+      213: -4185658406972568643
+    second: sword-kiteShield_attack_73x38_36
+  - first:
+      213: -765269624063921662
+    second: sword-kiteShield_attack_73x38_37
+  - first:
+      213: 1859073812679742253
+    second: sword-kiteShield_attack_73x38_38
+  - first:
+      213: -2831466377139882444
+    second: sword-kiteShield_attack_73x38_39
+  - first:
+      213: 643451286226453203
+    second: sword-kiteShield_attack_73x38_40
+  - first:
+      213: 3829195062575562470
+    second: sword-kiteShield_attack_73x38_41
+  - first:
+      213: -7926238853365995809
+    second: sword-kiteShield_attack_73x38_42
+  - first:
+      213: 9150439909536969093
+    second: sword-kiteShield_attack_73x38_43
+  - first:
+      213: -2596552332956334491
+    second: sword-kiteShield_attack_73x38_44
+  - first:
+      213: 5767464106614975230
+    second: sword-kiteShield_attack_73x38_45
+  - first:
+      213: -1903243720261017633
+    second: sword-kiteShield_attack_73x38_46
+  - first:
+      213: -6111004163785410211
+    second: sword-kiteShield_attack_73x38_47
+  - first:
+      213: -4696704647868938097
+    second: sword-kiteShield_attack_73x38_48
+  - first:
+      213: -7204707720455016063
+    second: sword-kiteShield_attack_73x38_49
+  - first:
+      213: -2455771680161765155
+    second: sword-kiteShield_attack_73x38_50
+  - first:
+      213: 5195414227729757858
+    second: sword-kiteShield_attack_73x38_51
+  - first:
+      213: -1686496306906551763
+    second: sword-kiteShield_attack_73x38_52
+  - first:
+      213: 975074562227442175
+    second: sword-kiteShield_attack_73x38_53
+  - first:
+      213: 5547121634637314532
+    second: sword-kiteShield_attack_73x38_54
+  - first:
+      213: 7489513729148979266
+    second: sword-kiteShield_attack_73x38_55
+  - first:
+      213: -336565434825263130
+    second: sword-kiteShield_attack_73x38_56
+  - first:
+      213: -4109533758534114779
+    second: sword-kiteShield_attack_73x38_57
+  - first:
+      213: 8091354139231240495
+    second: sword-kiteShield_attack_73x38_58
+  - first:
+      213: 5370245057464461911
+    second: sword-kiteShield_attack_73x38_59
+  - first:
+      213: 2819233741322139201
+    second: sword-kiteShield_attack_73x38_60
+  - first:
+      213: -7855165875062190359
+    second: sword-kiteShield_attack_73x38_61
+  - first:
+      213: 7747253742679133772
+    second: sword-kiteShield_attack_73x38_62
+  - first:
+      213: -4518029850376894207
+    second: sword-kiteShield_attack_73x38_63
+  - first:
+      213: -4101014606225584017
+    second: sword-kiteShield_attack_73x38_64
+  - first:
+      213: -3046026597087239350
+    second: sword-kiteShield_attack_73x38_65
+  - first:
+      213: -9143619828620433552
+    second: sword-kiteShield_attack_73x38_66
+  - first:
+      213: -3157318565627678955
+    second: sword-kiteShield_attack_73x38_67
+  - first:
+      213: 97438239209529749
+    second: sword-kiteShield_attack_73x38_68
+  - first:
+      213: 3991535034480149657
+    second: sword-kiteShield_attack_73x38_69
+  - first:
+      213: 7576579143361956093
+    second: sword-kiteShield_attack_73x38_70
+  - first:
+      213: 7476289078300114454
+    second: sword-kiteShield_attack_73x38_71
+  - first:
+      213: -3613661673248405784
+    second: sword-kiteShield_attack_73x38_72
+  - first:
+      213: -7847738171551290278
+    second: sword-kiteShield_attack_73x38_73
+  - first:
+      213: 1900197962373208113
+    second: sword-kiteShield_attack_73x38_74
+  - first:
+      213: -8722725667263531581
+    second: sword-kiteShield_attack_73x38_75
+  - first:
+      213: 6737579529954311445
+    second: sword-kiteShield_attack_73x38_76
+  - first:
+      213: 1394488560128169546
+    second: sword-kiteShield_attack_73x38_77
+  - first:
+      213: 1052692092858242625
+    second: sword-kiteShield_attack_73x38_78
+  - first:
+      213: -58545503031599289
+    second: sword-kiteShield_attack_73x38_79
+  - first:
+      213: 741142825661930042
+    second: sword-kiteShield_attack_73x38_80
+  - first:
+      213: -4850411955442711608
+    second: sword-kiteShield_attack_73x38_81
+  - first:
+      213: -3748113327842148368
+    second: sword-kiteShield_attack_73x38_82
+  - first:
+      213: -6975774605489847800
+    second: sword-kiteShield_attack_73x38_83
+  - first:
+      213: 2187124247769443717
+    second: sword-kiteShield_attack_73x38_84
+  - first:
+      213: -3530413876597034026
+    second: sword-kiteShield_attack_73x38_85
+  - first:
+      213: 7040681405051117113
+    second: sword-kiteShield_attack_73x38_86
+  - first:
+      213: -3979857706246903142
+    second: sword-kiteShield_attack_73x38_87
+  - first:
+      213: 8983629301219068102
+    second: sword-kiteShield_attack_73x38_88
+  - first:
+      213: -8171347022437755670
+    second: sword-kiteShield_attack_73x38_89
+  - first:
+      213: 1847626519086678252
+    second: sword-kiteShield_attack_73x38_90
+  - first:
+      213: 4207084513705872673
+    second: sword-kiteShield_attack_73x38_91
+  - first:
+      213: -4019999266927482638
+    second: sword-kiteShield_attack_73x38_92
+  - first:
+      213: 9096976341773723842
+    second: sword-kiteShield_attack_73x38_93
+  - first:
+      213: -5549873028334203097
+    second: sword-kiteShield_attack_73x38_94
+  - first:
+      213: -343956060479660015
+    second: sword-kiteShield_attack_73x38_95
+  - first:
+      213: 8127402611913928839
+    second: sword-kiteShield_attack_73x38_96
+  - first:
+      213: -432911859136225028
+    second: sword-kiteShield_attack_73x38_97
+  - first:
+      213: -6875429655183467054
+    second: sword-kiteShield_attack_73x38_98
+  - first:
+      213: 8164045416854821423
+    second: sword-kiteShield_attack_73x38_99
+  - first:
+      213: 1229632639752529499
+    second: sword-kiteShield_attack_73x38_100
+  - first:
+      213: 4143390050184937033
+    second: sword-kiteShield_attack_73x38_101
+  - first:
+      213: 5694128452211507207
+    second: sword-kiteShield_attack_73x38_102
+  - first:
+      213: 1660465764390428312
+    second: sword-kiteShield_attack_73x38_103
+  - first:
+      213: -5070210220578673114
+    second: sword-kiteShield_attack_73x38_104
+  - first:
+      213: -8240199007569704809
+    second: sword-kiteShield_attack_73x38_105
+  - first:
+      213: 4966412055603176838
+    second: sword-kiteShield_attack_73x38_106
+  - first:
+      213: -5160704373502096471
+    second: sword-kiteShield_attack_73x38_107
+  - first:
+      213: 4738959716771154625
+    second: sword-kiteShield_attack_73x38_108
+  - first:
+      213: -8553971394811994913
+    second: sword-kiteShield_attack_73x38_109
+  - first:
+      213: 6086322328991269200
+    second: sword-kiteShield_attack_73x38_110
+  - first:
+      213: -4852522266351071518
+    second: sword-kiteShield_attack_73x38_111
+  - first:
+      213: 5444930226848617395
+    second: sword-kiteShield_attack_73x38_112
+  - first:
+      213: 5734956361136175549
+    second: sword-kiteShield_attack_73x38_113
+  - first:
+      213: -7601678738375744368
+    second: sword-kiteShield_attack_73x38_114
+  - first:
+      213: -10805215817857790
+    second: sword-kiteShield_attack_73x38_115
+  - first:
+      213: 1902948466328000455
+    second: sword-kiteShield_attack_73x38_116
+  - first:
+      213: 3507634416284229295
+    second: sword-kiteShield_attack_73x38_117
+  - first:
+      213: -648924684361895914
+    second: sword-kiteShield_attack_73x38_118
+  - first:
+      213: 216153851255915034
+    second: sword-kiteShield_attack_73x38_119
+  - first:
+      213: -1921564818413856382
+    second: sword-kiteShield_attack_73x38_120
+  - first:
+      213: -4550961149390157864
+    second: sword-kiteShield_attack_73x38_121
+  - first:
+      213: -2773213740002165787
+    second: sword-kiteShield_attack_73x38_122
+  - first:
+      213: -6153595509510303804
+    second: sword-kiteShield_attack_73x38_123
+  - first:
+      213: -781506622903917340
+    second: sword-kiteShield_attack_73x38_124
+  - first:
+      213: -3280205947352266588
+    second: sword-kiteShield_attack_73x38_125
+  - first:
+      213: 837879932337004831
+    second: sword-kiteShield_attack_73x38_126
+  - first:
+      213: 6225059376759308053
+    second: sword-kiteShield_attack_73x38_127
+  - first:
+      213: -8761917253514300955
+    second: sword-kiteShield_attack_73x38_128
+  - first:
+      213: 2737664147783099143
+    second: sword-kiteShield_attack_73x38_129
+  - first:
+      213: -6601540815520724163
+    second: sword-kiteShield_attack_73x38_130
+  - first:
+      213: 1028787033871428203
+    second: sword-kiteShield_attack_73x38_131
+  - first:
+      213: -4699506775270563300
+    second: sword-kiteShield_attack_73x38_132
+  - first:
+      213: 363732123674251770
+    second: sword-kiteShield_attack_73x38_133
+  - first:
+      213: 1895292028485580243
+    second: sword-kiteShield_attack_73x38_134
+  - first:
+      213: 1768826024164788676
+    second: sword-kiteShield_attack_73x38_135
+  - first:
+      213: -2148491328267332363
+    second: sword-kiteShield_attack_73x38_136
+  - first:
+      213: 4822763890817950390
+    second: sword-kiteShield_attack_73x38_137
+  - first:
+      213: -5744702390141689003
+    second: sword-kiteShield_attack_73x38_138
+  - first:
+      213: -6999559283651940126
+    second: sword-kiteShield_attack_73x38_139
+  - first:
+      213: 7823553786823758675
+    second: sword-kiteShield_attack_73x38_140
+  - first:
+      213: -8951854667157401920
+    second: sword-kiteShield_attack_73x38_141
+  - first:
+      213: -3320546726402638416
+    second: sword-kiteShield_attack_73x38_142
+  - first:
+      213: -6735971121308738520
+    second: sword-kiteShield_attack_73x38_143
+  - first:
+      213: 5838613327849912214
+    second: sword-kiteShield_attack_73x38_144
+  - first:
+      213: 1222356922896255633
+    second: sword-kiteShield_attack_73x38_145
+  - first:
+      213: 1231516858456768293
+    second: sword-kiteShield_attack_73x38_146
+  - first:
+      213: -6655993307060738351
+    second: sword-kiteShield_attack_73x38_147
+  - first:
+      213: 1136499496026068351
+    second: sword-kiteShield_attack_73x38_148
+  - first:
+      213: 7930720022004619388
+    second: sword-kiteShield_attack_73x38_149
+  - first:
+      213: -9171428666097005730
+    second: sword-kiteShield_attack_73x38_150
+  - first:
+      213: -7001676324571644354
+    second: sword-kiteShield_attack_73x38_151
+  - first:
+      213: 8328188891316126674
+    second: sword-kiteShield_attack_73x38_152
+  - first:
+      213: -4865296174603778052
+    second: sword-kiteShield_attack_73x38_153
+  - first:
+      213: 4280534562748530497
+    second: sword-kiteShield_attack_73x38_154
+  - first:
+      213: -1896462591951647371
+    second: sword-kiteShield_attack_73x38_155
+  - first:
+      213: 2266396020936158791
+    second: sword-kiteShield_attack_73x38_156
+  - first:
+      213: -6887766674137994510
+    second: sword-kiteShield_attack_73x38_157
+  - first:
+      213: 8176132296759478455
+    second: sword-kiteShield_attack_73x38_158
+  - first:
+      213: 309289730972834769
+    second: sword-kiteShield_attack_73x38_159
+  - first:
+      213: -6183322352557652733
+    second: sword-kiteShield_attack_73x38_160
+  - first:
+      213: 8532590399062217539
+    second: sword-kiteShield_attack_73x38_161
+  - first:
+      213: -1435127391285573441
+    second: sword-kiteShield_attack_73x38_162
+  - first:
+      213: -8325837806645884581
+    second: sword-kiteShield_attack_73x38_163
+  - first:
+      213: 6350296555687519662
+    second: sword-kiteShield_attack_73x38_164
+  - first:
+      213: 2222619577219430356
+    second: sword-kiteShield_attack_73x38_165
+  - first:
+      213: -8969329652982161131
+    second: sword-kiteShield_attack_73x38_166
+  - first:
+      213: 8458904297722610734
+    second: sword-kiteShield_attack_73x38_167
+  - first:
+      213: 5550305654066872494
+    second: sword-kiteShield_attack_73x38_168
+  - first:
+      213: 1232871565876581541
+    second: sword-kiteShield_attack_73x38_169
+  - first:
+      213: 6951429122916592235
+    second: sword-kiteShield_attack_73x38_170
+  - first:
+      213: -7958602919342796843
+    second: sword-kiteShield_attack_73x38_171
+  - first:
+      213: 9044745526947555422
+    second: sword-kiteShield_attack_73x38_172
+  - first:
+      213: -6508143185566656086
+    second: sword-kiteShield_attack_73x38_173
+  - first:
+      213: 6870819576270736501
+    second: sword-kiteShield_attack_73x38_174
+  - first:
+      213: -1820632076156686402
+    second: sword-kiteShield_attack_73x38_175
+  - first:
+      213: -413072263659525075
+    second: sword-kiteShield_attack_73x38_176
+  - first:
+      213: -4909201121749505619
+    second: sword-kiteShield_attack_73x38_177
+  - first:
+      213: -4303643254655260898
+    second: sword-kiteShield_attack_73x38_178
+  - first:
+      213: 6146008442250222677
+    second: sword-kiteShield_attack_73x38_179
+  - first:
+      213: -5680797190263344957
+    second: sword-kiteShield_attack_73x38_180
+  - first:
+      213: 2103403071517252294
+    second: sword-kiteShield_attack_73x38_181
+  - first:
+      213: 21951276353910471
+    second: sword-kiteShield_attack_73x38_182
+  - first:
+      213: 3879779865536991325
+    second: sword-kiteShield_attack_73x38_183
+  - first:
+      213: 6891614420241306220
+    second: sword-kiteShield_attack_73x38_184
+  - first:
+      213: -1871378129840985633
+    second: sword-kiteShield_attack_73x38_185
+  - first:
+      213: -9138661945703227427
+    second: sword-kiteShield_attack_73x38_186
+  - first:
+      213: -9031196351177937704
+    second: sword-kiteShield_attack_73x38_187
+  - first:
+      213: -123788389028533384
+    second: sword-kiteShield_attack_73x38_188
+  - first:
+      213: 4622178070287039959
+    second: sword-kiteShield_attack_73x38_189
+  - first:
+      213: 6901304027989139724
+    second: sword-kiteShield_attack_73x38_190
+  - first:
+      213: 5694356871881786745
+    second: sword-kiteShield_attack_73x38_191
+  - first:
+      213: -410055308203632532
+    second: sword-kiteShield_attack_73x38_192
+  - first:
+      213: -1435800759638171779
+    second: sword-kiteShield_attack_73x38_193
+  - first:
+      213: -8671338044093247806
+    second: sword-kiteShield_attack_73x38_194
+  - first:
+      213: -4901092933108677980
+    second: sword-kiteShield_attack_73x38_195
+  - first:
+      213: 5351460189166774743
+    second: sword-kiteShield_attack_73x38_196
+  - first:
+      213: -3207704599753576208
+    second: sword-kiteShield_attack_73x38_197
+  - first:
+      213: -195671522275653119
+    second: sword-kiteShield_attack_73x38_198
+  - first:
+      213: 1411368845720588349
+    second: sword-kiteShield_attack_73x38_199
+  - first:
+      213: 1378244051316662482
+    second: sword-kiteShield_attack_73x38_200
+  - first:
+      213: -2595707878891144373
+    second: sword-kiteShield_attack_73x38_201
+  - first:
+      213: 4886707290197998271
+    second: sword-kiteShield_attack_73x38_202
+  - first:
+      213: 4450114493738127887
+    second: sword-kiteShield_attack_73x38_203
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ce64d5c253636a0800000000000000
+      internalID: -6469925350011376497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3ed8183fbcdaf00800000000000000
+      internalID: 1129783328250913747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2759a56454ac660800000000000000
+      internalID: 7406808705633972953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507eec2e7e7b1be60800000000000000
+      internalID: 7976358621620397829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8bf5202663697c0800000000000000
+      internalID: -4065001819080771404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448595ff15eaaea30800000000000000
+      internalID: 4245397265949743172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c2547a0143d6900800000000000000
+      internalID: 679256364933262372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e85fb66e833020800000000000000
+      internalID: 2320354804974019345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f298d1a987487db80800000000000000
+      internalID: -8370075728928208593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 646
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5ce7d0abf2cfb0800000000000000
+      internalID: -4628860798747517205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a86037e910465fa0800000000000000
+      internalID: -5812387789077976925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eddb240ce474fa0800000000000000
+      internalID: -5816593806065279439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c912848b35c5192f0800000000000000
+      internalID: -967890930264170084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24afb9b4787f30460800000000000000
+      internalID: 7206875989184084546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8a3c02749c8e270800000000000000
+      internalID: 8280089222250211579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_15
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77c6972de57c4e30800000000000000
+      internalID: 4489092590013433725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a730e6bc763150800000000000000
+      internalID: 5852001890702174641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8717800c347cf5e0800000000000000
+      internalID: -1874495543837255798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a2ec7723e088b0800000000000000
+      internalID: -5151868214973389701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c35f9d070fddc40800000000000000
+      internalID: 5538847484219309197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b60770e6f076e30800000000000000
+      internalID: 4496579718198356893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_21
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20ba187874d04920800000000000000
+      internalID: 2972609367940706349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_22
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16755dea0b649d120800000000000000
+      internalID: 2439058397859239777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_23
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 608
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e271fe86b16a160800000000000000
+      internalID: 7036341605314801164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c60c8320770cee80800000000000000
+      internalID: -8148129447605958975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d60ec40a2827d3b0800000000000000
+      internalID: -5487873459993311527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edad605930542dcc0800000000000000
+      internalID: -3687809263175542050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_27
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c5e841294461ca0800000000000000
+      internalID: -6046570055497524143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d109e03acabdb8820800000000000000
+      internalID: 2921670317796397085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1ff15a3fc4c8260800000000000000
+      internalID: 7101135321787527598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a75e24a1376dea0800000000000000
+      internalID: -5848360509465331126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_31
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d489516494145e2c0800000000000000
+      internalID: -4403041277720553395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac4d54eefd90510800000000000000
+      internalID: 1515988964053666554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_33
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 570
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13c9c860285f2090800000000000000
+      internalID: -8057124312122277089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de826fd1736d6f220800000000000000
+      internalID: 2519436573774588141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf1f88da28ab3180800000000000000
+      internalID: -9134522517215567926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbc54dfadd89e5c0800000000000000
+      internalID: -4185658406972568643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202f54cd4573165f0800000000000000
+      internalID: -765269624063921662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d10868c1ccc910800000000000000
+      internalID: 1859073812679742253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_39
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4367d1de45c94b8d0800000000000000
+      internalID: -2831466377139882444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_40
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2cbc1298ffde800800000000000000
+      internalID: 643451286226453203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_41
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eefe781f98042530800000000000000
+      internalID: 3829195062575562470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6683402c7500290800000000000000
+      internalID: -7926238853365995809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_43
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 532
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581328add94ecfe70800000000000000
+      internalID: 9150439909536969093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5660d69096137fbd0800000000000000
+      internalID: -2596552332956334491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efae9913c062a0050800000000000000
+      internalID: 5767464106614975230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf59d49be15695e0800000000000000
+      internalID: -1903243720261017633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5933ac271a513ba0800000000000000
+      internalID: -6111004163785410211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8888d8c104f1deb0800000000000000
+      internalID: -4696704647868938097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_49
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181b3cb108cb30c90800000000000000
+      internalID: -7204707720455016063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_50
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd86e7a0ba85bedd0800000000000000
+      internalID: -2455771680161765155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_51
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6b7d0b6b1d91840800000000000000
+      internalID: 5195414227729757858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa3d75b8c5898e0800000000000000
+      internalID: -1686496306906551763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_53
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1161fe529288d00800000000000000
+      internalID: 975074562227442175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_54
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9f07e9cb55bfc40800000000000000
+      internalID: 5547121634637314532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_55
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24806563e0910f760800000000000000
+      internalID: 7489513729148979266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_56
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7b09d2587445bf0800000000000000
+      internalID: -336565434825263130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_57
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 494
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5222912e1d008f6c0800000000000000
+      internalID: -4109533758534114779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21c3c448b34a4070800000000000000
+      internalID: 8091354139231240495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a67fe4d61f68a40800000000000000
+      internalID: 5370245057464461911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1463d4a962eef1720800000000000000
+      internalID: 2819233741322139201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eec52d4148dcf290800000000000000
+      internalID: -7855165875062190359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e84357b36c38b60800000000000000
+      internalID: 7747253742679133772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_63
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1098ca3e9cbbc41c0800000000000000
+      internalID: -4518029850376894207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_64
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f605c3991f44617c0800000000000000
+      internalID: -4101014606225584017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a432930d2f65ab5d0800000000000000
+      internalID: -3046026597087239350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_66
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0776cd9f5365b1180800000000000000
+      internalID: -9143619828620433552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_67
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 456
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f24052e73fe24d0800000000000000
+      internalID: -3157318565627678955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591af93ff8b2a5100800000000000000
+      internalID: 97438239209529749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99447be37f7c46730800000000000000
+      internalID: 3991535034480149657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_70
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df809b4a69a652960800000000000000
+      internalID: 7576579143361956093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_71
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ef53e3e4d11c760800000000000000
+      internalID: 7476289078300114454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_72
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c59baad1b9ddc0800000000000000
+      internalID: -3613661673248405784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_73
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c696a46bb371390800000000000000
+      internalID: -7847738171551290278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_74
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1381d26aafbde5a10800000000000000
+      internalID: 1900197962373208113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_75
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c533997837a2f680800000000000000
+      internalID: -8722725667263531581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_76
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dbed0a2e0b08d50800000000000000
+      internalID: 6737579529954311445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_77
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 418
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4619c505f73a5310800000000000000
+      internalID: 1394488560128169546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1469dac81e9eb9e00800000000000000
+      internalID: 1052692092858242625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_79
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fda98dc21003ff0800000000000000
+      internalID: -58545503031599289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a98632971194a00800000000000000
+      internalID: 741142825661930042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_81
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3878d6600efacb0800000000000000
+      internalID: -4850411955442711608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_82
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffbf0469c60cfbc0800000000000000
+      internalID: -3748113327842148368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_83
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802469e94f1113f90800000000000000
+      internalID: -6975774605489847800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_84
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de0fb5ae93a5e10800000000000000
+      internalID: 2187124247769443717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_85
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f25fb843710fc0800000000000000
+      internalID: -3530413876597034026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_86
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e15cc4f6685b160800000000000000
+      internalID: 7040681405051117113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_87
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a6d8a9084b4c8c0800000000000000
+      internalID: -3979857706246903142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_88
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c804fc80434cac70800000000000000
+      internalID: 8983629301219068102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_89
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d62f3d2b899e80800000000000000
+      internalID: -8171347022437755670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_90
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0c0cba78614a910800000000000000
+      internalID: 1847626519086678252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_91
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 380
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4c7b3311926a30800000000000000
+      internalID: 4207084513705872673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8e47137f71638c0800000000000000
+      internalID: -4019999266927482638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_93
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c82e85f8c3fe3e70800000000000000
+      internalID: 9096976341773723842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f4e9d92e3eaf2b0800000000000000
+      internalID: -5549873028334203097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11064cc09c50a3bf0800000000000000
+      internalID: -343956060479660015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_96
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78036bd5d955ac070800000000000000
+      internalID: 8127402611913928839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_97
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a12135fcfdf9f0800000000000000
+      internalID: -432911859136225028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_98
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd5a9cf7219590a0800000000000000
+      internalID: -6875429655183467054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_99
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a99c93d048c4170800000000000000
+      internalID: 8164045416854821423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_100
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56eca8fe58801110800000000000000
+      internalID: 1229632639752529499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_101
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 342
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e392b4c47408930800000000000000
+      internalID: 4143390050184937033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700038398ab950f40800000000000000
+      internalID: 5694128452211507207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_103
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e5030b0d82b0710800000000000000
+      internalID: 1660465764390428312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e6ad1eaaef2a9b0800000000000000
+      internalID: -5070210220578673114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_105
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798084b39aee4ad80800000000000000
+      internalID: -8240199007569704809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e17e837d3ce440800000000000000
+      internalID: 4966412055603176838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_107
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab4a9207be7168b0800000000000000
+      internalID: -5160704373502096471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_108
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac70b11ca24c140800000000000000
+      internalID: 4738959716771154625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_109
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcd06956503a4980800000000000000
+      internalID: -8553971394811994913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_110
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0518d0859e5f67450800000000000000
+      internalID: 6086322328991269200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_111
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 304
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee887165b068acb0800000000000000
+      internalID: -4852522266351071518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3591e5137409b40800000000000000
+      internalID: 5444930226848617395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_113
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db973e3ec68a69f40800000000000000
+      internalID: 5734956361136175549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094697e7679618690800000000000000
+      internalID: -7601678738375744368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_115
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2058475a6bc99dff0800000000000000
+      internalID: -10805215817857790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_116
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7da514c81a86a10800000000000000
+      internalID: 1902948466328000455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_117
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5e88daee9da030800000000000000
+      internalID: 3507634416284229295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_118
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61070ae007e8ef6f0800000000000000
+      internalID: -648924684361895914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_119
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1201f058ceeff200800000000000000
+      internalID: 216153851255915034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_120
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289dd818afa3555e0800000000000000
+      internalID: -1921564818413856382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_121
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d70ff752fcb7d0c0800000000000000
+      internalID: -4550961149390157864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_122
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb30fcebc09389d0800000000000000
+      internalID: -2773213740002165787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_123
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf033cbc790a9aa0800000000000000
+      internalID: -6153595509510303804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_124
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e46238fdd78725f0800000000000000
+      internalID: -781506622903917340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_125
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 266
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8c1f5f11e5a72d0800000000000000
+      internalID: -3280205947352266588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112063fb5fb0ab00800000000000000
+      internalID: 837879932337004831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_127
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ff379758ad36650800000000000000
+      internalID: 6225059376759308053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_128
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1f9e83eaa676680800000000000000
+      internalID: -8761917253514300955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_129
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7032fe2a9032ef520800000000000000
+      internalID: 2737664147783099143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_130
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b05a0da9d9264a0800000000000000
+      internalID: -6601540815520724163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_131
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a2f674b5cf64e00800000000000000
+      internalID: 1028787033871428203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_132
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e478ac7ff7ceb0800000000000000
+      internalID: -4699506775270563300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_133
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af19009707c3c0500800000000000000
+      internalID: 363732123674251770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d53387ee0e6d4a10800000000000000
+      internalID: 1895292028485580243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_135
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 228
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c90fc7b5e12c8810800000000000000
+      internalID: 1768826024164788676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45e9725860f22e0800000000000000
+      internalID: -2148491328267332363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2e8c3e436ede240800000000000000
+      internalID: 4822763890817950390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_138
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5536447ec97b640b0800000000000000
+      internalID: -5744702390141689003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_139
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e073a1bae19cde90800000000000000
+      internalID: -6999559283651940126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_140
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353dac8d7b8d29c60800000000000000
+      internalID: 7823553786823758675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_141
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce0923fb9f94c380800000000000000
+      internalID: -8951854667157401920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_142
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd3fa8685c0be1d0800000000000000
+      internalID: -3320546726402638416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_143
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5a1134f50582a0800000000000000
+      internalID: -6735971121308738520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_144
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697fa5b23ebe60150800000000000000
+      internalID: 5838613327849912214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_145
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 190
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a88f1252fa6f010800000000000000
+      internalID: 1222356922896255633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f7833de0a371110800000000000000
+      internalID: 1231516858456768293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_147
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d664492a5921a3a0800000000000000
+      internalID: -6655993307060738351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f755b0c2548a5cf00800000000000000
+      internalID: 1136499496026068351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_149
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78d9ac57d39f0e60800000000000000
+      internalID: 7930720022004619388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_150
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b0472783a88b080800000000000000
+      internalID: -9171428666097005730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_151
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ef4a1ba7c05de90800000000000000
+      internalID: -7001676324571644354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_152
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d380490caba39370800000000000000
+      internalID: 8328188891316126674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_153
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7cca918eefa7cb0800000000000000
+      internalID: -4865296174603778052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_154
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f786d6183876b30800000000000000
+      internalID: 4280534562748530497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_155
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dc7ec02596ea5e0800000000000000
+      internalID: -1896462591951647371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_156
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e22445c2bd37f10800000000000000
+      internalID: 2266396020936158791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_157
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa2b3ce3bcb960a0800000000000000
+      internalID: -6887766674137994510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_158
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b882f04105777170800000000000000
+      internalID: 8176132296759478455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_159
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 152
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbdf432f51da4400800000000000000
+      internalID: 309289730972834769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305811cb41d603aa0800000000000000
+      internalID: -6183322352557652733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_161
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3431306a2c9d96670800000000000000
+      internalID: 8532590399062217539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_162
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb88df2cd37651ce0800000000000000
+      internalID: -1435127391285573441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_163
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ca5580aea47c80800000000000000
+      internalID: -8325837806645884581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_164
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea524247219c02850800000000000000
+      internalID: 6350296555687519662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_165
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d73ef2cab458de10800000000000000
+      internalID: 2222619577219430356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_166
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511ee90c33a868380800000000000000
+      internalID: -8969329652982161131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_167
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2408ce34a0146570800000000000000
+      internalID: 8458904297722610734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_168
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea08f79e595a60d40800000000000000
+      internalID: 5550305654066872494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 114
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4d0c9382a0c1110800000000000000
+      internalID: 1232871565876581541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aafb005ff687060800000000000000
+      internalID: 6951429122916592235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_171
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df8f24bfcc5d8190800000000000000
+      internalID: -7958602919342796843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_172
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582389b224658d70800000000000000
+      internalID: 9044745526947555422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_173
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa99bec114e6ea5a0800000000000000
+      internalID: -6508143185566656086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_174
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cca6f500e0a5f50800000000000000
+      internalID: 6870819576270736501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_175
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfaff9d5c0dbb6e0800000000000000
+      internalID: -1820632076156686402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_176
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ce10af6f8744af0800000000000000
+      internalID: -413072263659525075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_177
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9eb2ff6930fdbb0800000000000000
+      internalID: -4909201121749505619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_178
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e176446f2436644c0800000000000000
+      internalID: -4303643254655260898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_179
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 76
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c50e28d120b4550800000000000000
+      internalID: 6146008442250222677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0f059bd01c921b0800000000000000
+      internalID: -5680797190263344957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_181
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca504103f9c03d10800000000000000
+      internalID: 2103403071517252294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_182
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6f07dc19cfd4000800000000000000
+      internalID: 21951276353910471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_183
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d509b045b3fb7d530800000000000000
+      internalID: 3879779865536991325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_184
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6251774dcee3af50800000000000000
+      internalID: 6891614420241306220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_185
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9a46281878706e0800000000000000
+      internalID: -1871378129840985633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_186
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9afb0163fc2180800000000000000
+      internalID: -9138661945703227427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_187
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc2c3794cebaa280800000000000000
+      internalID: -9031196351177937704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_188
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87be2a4bd17384ef0800000000000000
+      internalID: -123788389028533384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_189
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd3f003776452040800000000000000
+      internalID: 4622178070287039959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_190
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e343e27b56cf50800000000000000
+      internalID: 6901304027989139724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_191
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97581dca76b660f40800000000000000
+      internalID: 5694356871881786745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_192
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c685248aed03f4af0800000000000000
+      internalID: -410055308203632532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_193
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 38
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fd789f0d2031ce0800000000000000
+      internalID: -1435800759638171779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cecd7addf739a780800000000000000
+      internalID: -8671338044093247806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_195
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a241e6c1f1dbfbb0800000000000000
+      internalID: -4901092933108677980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_196
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d92ee450b4344a40800000000000000
+      internalID: 5351460189166774743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_197
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f03d4369a1fb73d0800000000000000
+      internalID: -3207704599753576208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_198
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a891689c5d84df0800000000000000
+      internalID: -195671522275653119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_199
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d309a38cc70369310800000000000000
+      internalID: 1411368845720588349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_200
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0668499a1802310800000000000000
+      internalID: 1378244051316662482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_201
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bb202df613afbd0800000000000000
+      internalID: -2595707878891144373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_202
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba3099b36211d340800000000000000
+      internalID: 4886707290197998271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword-kiteShield_attack_73x38_203
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f021419ed8bf1cd30800000000000000
+      internalID: 4450114493738127887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sword-kiteShield_attack_73x38_0: -6469925350011376497
+      sword-kiteShield_attack_73x38_1: 1129783328250913747
+      sword-kiteShield_attack_73x38_10: -5812387789077976925
+      sword-kiteShield_attack_73x38_100: 1229632639752529499
+      sword-kiteShield_attack_73x38_101: 4143390050184937033
+      sword-kiteShield_attack_73x38_102: 5694128452211507207
+      sword-kiteShield_attack_73x38_103: 1660465764390428312
+      sword-kiteShield_attack_73x38_104: -5070210220578673114
+      sword-kiteShield_attack_73x38_105: -8240199007569704809
+      sword-kiteShield_attack_73x38_106: 4966412055603176838
+      sword-kiteShield_attack_73x38_107: -5160704373502096471
+      sword-kiteShield_attack_73x38_108: 4738959716771154625
+      sword-kiteShield_attack_73x38_109: -8553971394811994913
+      sword-kiteShield_attack_73x38_11: -5816593806065279439
+      sword-kiteShield_attack_73x38_110: 6086322328991269200
+      sword-kiteShield_attack_73x38_111: -4852522266351071518
+      sword-kiteShield_attack_73x38_112: 5444930226848617395
+      sword-kiteShield_attack_73x38_113: 5734956361136175549
+      sword-kiteShield_attack_73x38_114: -7601678738375744368
+      sword-kiteShield_attack_73x38_115: -10805215817857790
+      sword-kiteShield_attack_73x38_116: 1902948466328000455
+      sword-kiteShield_attack_73x38_117: 3507634416284229295
+      sword-kiteShield_attack_73x38_118: -648924684361895914
+      sword-kiteShield_attack_73x38_119: 216153851255915034
+      sword-kiteShield_attack_73x38_12: -967890930264170084
+      sword-kiteShield_attack_73x38_120: -1921564818413856382
+      sword-kiteShield_attack_73x38_121: -4550961149390157864
+      sword-kiteShield_attack_73x38_122: -2773213740002165787
+      sword-kiteShield_attack_73x38_123: -6153595509510303804
+      sword-kiteShield_attack_73x38_124: -781506622903917340
+      sword-kiteShield_attack_73x38_125: -3280205947352266588
+      sword-kiteShield_attack_73x38_126: 837879932337004831
+      sword-kiteShield_attack_73x38_127: 6225059376759308053
+      sword-kiteShield_attack_73x38_128: -8761917253514300955
+      sword-kiteShield_attack_73x38_129: 2737664147783099143
+      sword-kiteShield_attack_73x38_13: 7206875989184084546
+      sword-kiteShield_attack_73x38_130: -6601540815520724163
+      sword-kiteShield_attack_73x38_131: 1028787033871428203
+      sword-kiteShield_attack_73x38_132: -4699506775270563300
+      sword-kiteShield_attack_73x38_133: 363732123674251770
+      sword-kiteShield_attack_73x38_134: 1895292028485580243
+      sword-kiteShield_attack_73x38_135: 1768826024164788676
+      sword-kiteShield_attack_73x38_136: -2148491328267332363
+      sword-kiteShield_attack_73x38_137: 4822763890817950390
+      sword-kiteShield_attack_73x38_138: -5744702390141689003
+      sword-kiteShield_attack_73x38_139: -6999559283651940126
+      sword-kiteShield_attack_73x38_14: 8280089222250211579
+      sword-kiteShield_attack_73x38_140: 7823553786823758675
+      sword-kiteShield_attack_73x38_141: -8951854667157401920
+      sword-kiteShield_attack_73x38_142: -3320546726402638416
+      sword-kiteShield_attack_73x38_143: -6735971121308738520
+      sword-kiteShield_attack_73x38_144: 5838613327849912214
+      sword-kiteShield_attack_73x38_145: 1222356922896255633
+      sword-kiteShield_attack_73x38_146: 1231516858456768293
+      sword-kiteShield_attack_73x38_147: -6655993307060738351
+      sword-kiteShield_attack_73x38_148: 1136499496026068351
+      sword-kiteShield_attack_73x38_149: 7930720022004619388
+      sword-kiteShield_attack_73x38_15: 4489092590013433725
+      sword-kiteShield_attack_73x38_150: -9171428666097005730
+      sword-kiteShield_attack_73x38_151: -7001676324571644354
+      sword-kiteShield_attack_73x38_152: 8328188891316126674
+      sword-kiteShield_attack_73x38_153: -4865296174603778052
+      sword-kiteShield_attack_73x38_154: 4280534562748530497
+      sword-kiteShield_attack_73x38_155: -1896462591951647371
+      sword-kiteShield_attack_73x38_156: 2266396020936158791
+      sword-kiteShield_attack_73x38_157: -6887766674137994510
+      sword-kiteShield_attack_73x38_158: 8176132296759478455
+      sword-kiteShield_attack_73x38_159: 309289730972834769
+      sword-kiteShield_attack_73x38_16: 5852001890702174641
+      sword-kiteShield_attack_73x38_160: -6183322352557652733
+      sword-kiteShield_attack_73x38_161: 8532590399062217539
+      sword-kiteShield_attack_73x38_162: -1435127391285573441
+      sword-kiteShield_attack_73x38_163: -8325837806645884581
+      sword-kiteShield_attack_73x38_164: 6350296555687519662
+      sword-kiteShield_attack_73x38_165: 2222619577219430356
+      sword-kiteShield_attack_73x38_166: -8969329652982161131
+      sword-kiteShield_attack_73x38_167: 8458904297722610734
+      sword-kiteShield_attack_73x38_168: 5550305654066872494
+      sword-kiteShield_attack_73x38_169: 1232871565876581541
+      sword-kiteShield_attack_73x38_17: -1874495543837255798
+      sword-kiteShield_attack_73x38_170: 6951429122916592235
+      sword-kiteShield_attack_73x38_171: -7958602919342796843
+      sword-kiteShield_attack_73x38_172: 9044745526947555422
+      sword-kiteShield_attack_73x38_173: -6508143185566656086
+      sword-kiteShield_attack_73x38_174: 6870819576270736501
+      sword-kiteShield_attack_73x38_175: -1820632076156686402
+      sword-kiteShield_attack_73x38_176: -413072263659525075
+      sword-kiteShield_attack_73x38_177: -4909201121749505619
+      sword-kiteShield_attack_73x38_178: -4303643254655260898
+      sword-kiteShield_attack_73x38_179: 6146008442250222677
+      sword-kiteShield_attack_73x38_18: -5151868214973389701
+      sword-kiteShield_attack_73x38_180: -5680797190263344957
+      sword-kiteShield_attack_73x38_181: 2103403071517252294
+      sword-kiteShield_attack_73x38_182: 21951276353910471
+      sword-kiteShield_attack_73x38_183: 3879779865536991325
+      sword-kiteShield_attack_73x38_184: 6891614420241306220
+      sword-kiteShield_attack_73x38_185: -1871378129840985633
+      sword-kiteShield_attack_73x38_186: -9138661945703227427
+      sword-kiteShield_attack_73x38_187: -9031196351177937704
+      sword-kiteShield_attack_73x38_188: -123788389028533384
+      sword-kiteShield_attack_73x38_189: 4622178070287039959
+      sword-kiteShield_attack_73x38_19: 5538847484219309197
+      sword-kiteShield_attack_73x38_190: 6901304027989139724
+      sword-kiteShield_attack_73x38_191: 5694356871881786745
+      sword-kiteShield_attack_73x38_192: -410055308203632532
+      sword-kiteShield_attack_73x38_193: -1435800759638171779
+      sword-kiteShield_attack_73x38_194: -8671338044093247806
+      sword-kiteShield_attack_73x38_195: -4901092933108677980
+      sword-kiteShield_attack_73x38_196: 5351460189166774743
+      sword-kiteShield_attack_73x38_197: -3207704599753576208
+      sword-kiteShield_attack_73x38_198: -195671522275653119
+      sword-kiteShield_attack_73x38_199: 1411368845720588349
+      sword-kiteShield_attack_73x38_2: 7406808705633972953
+      sword-kiteShield_attack_73x38_20: 4496579718198356893
+      sword-kiteShield_attack_73x38_200: 1378244051316662482
+      sword-kiteShield_attack_73x38_201: -2595707878891144373
+      sword-kiteShield_attack_73x38_202: 4886707290197998271
+      sword-kiteShield_attack_73x38_203: 4450114493738127887
+      sword-kiteShield_attack_73x38_21: 2972609367940706349
+      sword-kiteShield_attack_73x38_22: 2439058397859239777
+      sword-kiteShield_attack_73x38_23: 7036341605314801164
+      sword-kiteShield_attack_73x38_24: -8148129447605958975
+      sword-kiteShield_attack_73x38_25: -5487873459993311527
+      sword-kiteShield_attack_73x38_26: -3687809263175542050
+      sword-kiteShield_attack_73x38_27: -6046570055497524143
+      sword-kiteShield_attack_73x38_28: 2921670317796397085
+      sword-kiteShield_attack_73x38_29: 7101135321787527598
+      sword-kiteShield_attack_73x38_3: 7976358621620397829
+      sword-kiteShield_attack_73x38_30: -5848360509465331126
+      sword-kiteShield_attack_73x38_31: -4403041277720553395
+      sword-kiteShield_attack_73x38_32: 1515988964053666554
+      sword-kiteShield_attack_73x38_33: -8057124312122277089
+      sword-kiteShield_attack_73x38_34: 2519436573774588141
+      sword-kiteShield_attack_73x38_35: -9134522517215567926
+      sword-kiteShield_attack_73x38_36: -4185658406972568643
+      sword-kiteShield_attack_73x38_37: -765269624063921662
+      sword-kiteShield_attack_73x38_38: 1859073812679742253
+      sword-kiteShield_attack_73x38_39: -2831466377139882444
+      sword-kiteShield_attack_73x38_4: -4065001819080771404
+      sword-kiteShield_attack_73x38_40: 643451286226453203
+      sword-kiteShield_attack_73x38_41: 3829195062575562470
+      sword-kiteShield_attack_73x38_42: -7926238853365995809
+      sword-kiteShield_attack_73x38_43: 9150439909536969093
+      sword-kiteShield_attack_73x38_44: -2596552332956334491
+      sword-kiteShield_attack_73x38_45: 5767464106614975230
+      sword-kiteShield_attack_73x38_46: -1903243720261017633
+      sword-kiteShield_attack_73x38_47: -6111004163785410211
+      sword-kiteShield_attack_73x38_48: -4696704647868938097
+      sword-kiteShield_attack_73x38_49: -7204707720455016063
+      sword-kiteShield_attack_73x38_5: 4245397265949743172
+      sword-kiteShield_attack_73x38_50: -2455771680161765155
+      sword-kiteShield_attack_73x38_51: 5195414227729757858
+      sword-kiteShield_attack_73x38_52: -1686496306906551763
+      sword-kiteShield_attack_73x38_53: 975074562227442175
+      sword-kiteShield_attack_73x38_54: 5547121634637314532
+      sword-kiteShield_attack_73x38_55: 7489513729148979266
+      sword-kiteShield_attack_73x38_56: -336565434825263130
+      sword-kiteShield_attack_73x38_57: -4109533758534114779
+      sword-kiteShield_attack_73x38_58: 8091354139231240495
+      sword-kiteShield_attack_73x38_59: 5370245057464461911
+      sword-kiteShield_attack_73x38_6: 679256364933262372
+      sword-kiteShield_attack_73x38_60: 2819233741322139201
+      sword-kiteShield_attack_73x38_61: -7855165875062190359
+      sword-kiteShield_attack_73x38_62: 7747253742679133772
+      sword-kiteShield_attack_73x38_63: -4518029850376894207
+      sword-kiteShield_attack_73x38_64: -4101014606225584017
+      sword-kiteShield_attack_73x38_65: -3046026597087239350
+      sword-kiteShield_attack_73x38_66: -9143619828620433552
+      sword-kiteShield_attack_73x38_67: -3157318565627678955
+      sword-kiteShield_attack_73x38_68: 97438239209529749
+      sword-kiteShield_attack_73x38_69: 3991535034480149657
+      sword-kiteShield_attack_73x38_7: 2320354804974019345
+      sword-kiteShield_attack_73x38_70: 7576579143361956093
+      sword-kiteShield_attack_73x38_71: 7476289078300114454
+      sword-kiteShield_attack_73x38_72: -3613661673248405784
+      sword-kiteShield_attack_73x38_73: -7847738171551290278
+      sword-kiteShield_attack_73x38_74: 1900197962373208113
+      sword-kiteShield_attack_73x38_75: -8722725667263531581
+      sword-kiteShield_attack_73x38_76: 6737579529954311445
+      sword-kiteShield_attack_73x38_77: 1394488560128169546
+      sword-kiteShield_attack_73x38_78: 1052692092858242625
+      sword-kiteShield_attack_73x38_79: -58545503031599289
+      sword-kiteShield_attack_73x38_8: -8370075728928208593
+      sword-kiteShield_attack_73x38_80: 741142825661930042
+      sword-kiteShield_attack_73x38_81: -4850411955442711608
+      sword-kiteShield_attack_73x38_82: -3748113327842148368
+      sword-kiteShield_attack_73x38_83: -6975774605489847800
+      sword-kiteShield_attack_73x38_84: 2187124247769443717
+      sword-kiteShield_attack_73x38_85: -3530413876597034026
+      sword-kiteShield_attack_73x38_86: 7040681405051117113
+      sword-kiteShield_attack_73x38_87: -3979857706246903142
+      sword-kiteShield_attack_73x38_88: 8983629301219068102
+      sword-kiteShield_attack_73x38_89: -8171347022437755670
+      sword-kiteShield_attack_73x38_9: -4628860798747517205
+      sword-kiteShield_attack_73x38_90: 1847626519086678252
+      sword-kiteShield_attack_73x38_91: 4207084513705872673
+      sword-kiteShield_attack_73x38_92: -4019999266927482638
+      sword-kiteShield_attack_73x38_93: 9096976341773723842
+      sword-kiteShield_attack_73x38_94: -5549873028334203097
+      sword-kiteShield_attack_73x38_95: -343956060479660015
+      sword-kiteShield_attack_73x38_96: 8127402611913928839
+      sword-kiteShield_attack_73x38_97: -432911859136225028
+      sword-kiteShield_attack_73x38_98: -6875429655183467054
+      sword-kiteShield_attack_73x38_99: 8164045416854821423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

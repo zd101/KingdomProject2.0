@@ -1,0 +1,1714 @@
+fileFormatVersion: 2
+guid: 26622120f7c71424aafbd5617357fddc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3785879366303359550
+    second: brew_43x46_0
+  - first:
+      213: 5067282482285618497
+    second: brew_43x46_1
+  - first:
+      213: -7505499305969973353
+    second: brew_43x46_2
+  - first:
+      213: 1650550081416423408
+    second: brew_43x46_3
+  - first:
+      213: -425185650382375575
+    second: brew_43x46_4
+  - first:
+      213: 4114910120080436455
+    second: brew_43x46_5
+  - first:
+      213: 2317165018716191120
+    second: brew_43x46_6
+  - first:
+      213: -6339071079840729489
+    second: brew_43x46_7
+  - first:
+      213: -4006406410701725323
+    second: brew_43x46_8
+  - first:
+      213: 5953663932135507072
+    second: brew_43x46_9
+  - first:
+      213: -4086399417897270704
+    second: brew_43x46_10
+  - first:
+      213: -9209762419430854144
+    second: brew_43x46_11
+  - first:
+      213: -8812220579245824695
+    second: brew_43x46_12
+  - first:
+      213: 3239012472567767340
+    second: brew_43x46_13
+  - first:
+      213: 3408927246163363472
+    second: brew_43x46_14
+  - first:
+      213: 9157893785212625543
+    second: brew_43x46_15
+  - first:
+      213: -8081681531069677444
+    second: brew_43x46_16
+  - first:
+      213: 607140401236193472
+    second: brew_43x46_17
+  - first:
+      213: 2598403286469407555
+    second: brew_43x46_18
+  - first:
+      213: -4768822716717016576
+    second: brew_43x46_19
+  - first:
+      213: 3946743289887014036
+    second: brew_43x46_20
+  - first:
+      213: -8971554333751945074
+    second: brew_43x46_21
+  - first:
+      213: 6412345744706104258
+    second: brew_43x46_22
+  - first:
+      213: -1503358009831158033
+    second: brew_43x46_23
+  - first:
+      213: -7134612787108585888
+    second: brew_43x46_24
+  - first:
+      213: -4490463366071872275
+    second: brew_43x46_25
+  - first:
+      213: 4148910176720590289
+    second: brew_43x46_26
+  - first:
+      213: 6437901820597898076
+    second: brew_43x46_27
+  - first:
+      213: -3088443807734850887
+    second: brew_43x46_28
+  - first:
+      213: -7527187256755621691
+    second: brew_43x46_29
+  - first:
+      213: 4481458780431447085
+    second: brew_43x46_30
+  - first:
+      213: 8455474196292654729
+    second: brew_43x46_31
+  - first:
+      213: 2356677264605911172
+    second: brew_43x46_32
+  - first:
+      213: 8417671121520013592
+    second: brew_43x46_33
+  - first:
+      213: -7416217695609246673
+    second: brew_43x46_34
+  - first:
+      213: -541433081541838636
+    second: brew_43x46_35
+  - first:
+      213: -572948630398191232
+    second: brew_43x46_36
+  - first:
+      213: 3523519573957663138
+    second: brew_43x46_37
+  - first:
+      213: -6653285268575617115
+    second: brew_43x46_38
+  - first:
+      213: -277863706691117199
+    second: brew_43x46_39
+  - first:
+      213: -1393638135359440884
+    second: brew_43x46_40
+  - first:
+      213: -5633861047075062653
+    second: brew_43x46_41
+  - first:
+      213: -8045794072372208652
+    second: brew_43x46_42
+  - first:
+      213: 1450303921909089120
+    second: brew_43x46_43
+  - first:
+      213: -4475131516960029412
+    second: brew_43x46_44
+  - first:
+      213: 4633597903869174413
+    second: brew_43x46_45
+  - first:
+      213: -1528591249791264242
+    second: brew_43x46_46
+  - first:
+      213: -4650826523247358262
+    second: brew_43x46_47
+  - first:
+      213: 3309614323023249423
+    second: brew_43x46_48
+  - first:
+      213: -1223230369462714640
+    second: brew_43x46_49
+  - first:
+      213: 6403879792307342578
+    second: brew_43x46_50
+  - first:
+      213: -3863977255830615164
+    second: brew_43x46_51
+  - first:
+      213: -3253091021931296610
+    second: brew_43x46_52
+  - first:
+      213: 2302203627229099508
+    second: brew_43x46_53
+  - first:
+      213: 5936407091081172677
+    second: brew_43x46_54
+  - first:
+      213: 5526151518489906792
+    second: brew_43x46_55
+  - first:
+      213: -1663536060945162301
+    second: brew_43x46_56
+  - first:
+      213: -756073386878496996
+    second: brew_43x46_57
+  - first:
+      213: -2776014897296717631
+    second: brew_43x46_58
+  - first:
+      213: -6711402510982025972
+    second: brew_43x46_59
+  - first:
+      213: 9127311906182934431
+    second: brew_43x46_60
+  - first:
+      213: 344693495152262880
+    second: brew_43x46_61
+  - first:
+      213: 5057000224355546227
+    second: brew_43x46_62
+  - first:
+      213: -6528861980223777807
+    second: brew_43x46_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brew_43x46_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdd10956cad57bc0800000000000000
+      internalID: -3785879366303359550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145a13de19a925640800000000000000
+      internalID: 5067282482285618497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79708b5a52c17d790800000000000000
+      internalID: -7505499305969973353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f761d6dd8ee7e610800000000000000
+      internalID: 1650550081416423408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9657d5957ef691af0800000000000000
+      internalID: -425185650382375575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eced06d3f81b1930800000000000000
+      internalID: 4114910120080436455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0993a82ce49382020800000000000000
+      internalID: 2317165018716191120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66342050781708a0800000000000000
+      internalID: -6339071079840729489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a648a8926668c0800000000000000
+      internalID: -4006406410701725323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0840efa6dc9af9250800000000000000
+      internalID: 5953663932135507072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052cedd41613a47c0800000000000000
+      internalID: -4086399417897270704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_11
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002f41cffd9503080800000000000000
+      internalID: -9209762419430854144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456aa38214b4b580800000000000000
+      internalID: -8812220579245824695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_13
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21267acea843fc20800000000000000
+      internalID: 3239012472567767340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096c7b4e441fe4f20800000000000000
+      internalID: 3408927246163363472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_15
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 138
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7822b5680ef571f70800000000000000
+      internalID: 9157893785212625543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70c1c0577918df80800000000000000
+      internalID: -8081681531069677444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_17
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0b8786afefc6800800000000000000
+      internalID: 607140401236193472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3437739a5026f0420800000000000000
+      internalID: 2598403286469407555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ad445610db1ddb0800000000000000
+      internalID: -4768822716717016576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c3f558c16a5c630800000000000000
+      internalID: 3946743289887014036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_21
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e885995edd2ae7380800000000000000
+      internalID: -8971554333751945074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbe1321b7a3df850800000000000000
+      internalID: 6412345744706104258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_23
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee86cdeadff22be0800000000000000
+      internalID: -1503358009831158033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ede6e8873ccfc90800000000000000
+      internalID: -7134612787108585888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4916c2c5baea1c0800000000000000
+      internalID: -4490463366071872275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_26
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d51f68e2d3e39930800000000000000
+      internalID: 4148910176720590289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_27
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b049ba895085950800000000000000
+      internalID: 6437901820597898076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_28
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba953b58b4a325d0800000000000000
+      internalID: -3088443807734850887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_29
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0fb3b121f0a8790800000000000000
+      internalID: -7527187256755621691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24fb2b5407513e30800000000000000
+      internalID: 4481458780431447085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_31
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 92
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98651858bf0e75570800000000000000
+      internalID: 8455474196292654729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48813176c7994b020800000000000000
+      internalID: 2356677264605911172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_33
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811b34a494391d470800000000000000
+      internalID: 8417671121520013592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cae347c4d441990800000000000000
+      internalID: -7416217695609246673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8bd012b717c78f0800000000000000
+      internalID: -541433081541838636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b19a914a7c08f0800000000000000
+      internalID: -572948630398191232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_37
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d1e4526e06e030800000000000000
+      internalID: 3523519573957663138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff5318c48caa3a0800000000000000
+      internalID: -6653285268575617115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_39
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fd3b25e64d42cf0800000000000000
+      internalID: -277863706691117199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_40
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08767cef7dc8ace0800000000000000
+      internalID: -1393638135359440884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_41
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c3e272a3180d1b0800000000000000
+      internalID: -5633861047075062653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_42
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb9f4c6be8975090800000000000000
+      internalID: -8045794072372208652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_43
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0634fb1abb3802410800000000000000
+      internalID: 1450303921909089120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_44
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c154178789325e1c0800000000000000
+      internalID: -4475131516960029412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ed146eb8dd4040800000000000000
+      internalID: 4633597903869174413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_46
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0adb6d6b5a59cae0800000000000000
+      internalID: -1528591249791264242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_47
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 46
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace40e11be1f47fb0800000000000000
+      internalID: -4650826523247358262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00885311bc1eed20800000000000000
+      internalID: 3309614323023249423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe74bdb576360fe0800000000000000
+      internalID: -1223230369462714640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_50
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc08ccedb62fd850800000000000000
+      internalID: 6403879792307342578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b07067825606ac0800000000000000
+      internalID: -3863977255830615164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_52
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c5cf73f2bad2d0800000000000000
+      internalID: -3253091021931296610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_53
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53b99500213ff10800000000000000
+      internalID: 2302203627229099508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6d0020cca526250800000000000000
+      internalID: 5936407091081172677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e839af685d0bc40800000000000000
+      internalID: 5526151518489906792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_56
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf9f4034cee9e8e0800000000000000
+      internalID: -1663536060945162301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_57
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f0bfea243e185f0800000000000000
+      internalID: -756073386878496996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_58
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8cf6ba82d9979d0800000000000000
+      internalID: -2776014897296717631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_59
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d604c89fe4cd2a0800000000000000
+      internalID: -6711402510982025972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_60
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f2a32f1d9baae70800000000000000
+      internalID: 9127311906182934431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_61
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee30f658e898c400800000000000000
+      internalID: 344693495152262880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_62
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37478c139e21e2640800000000000000
+      internalID: 5057000224355546227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brew_43x46_63
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f35531de92d465a0800000000000000
+      internalID: -6528861980223777807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      brew_43x46_0: -3785879366303359550
+      brew_43x46_1: 5067282482285618497
+      brew_43x46_10: -4086399417897270704
+      brew_43x46_11: -9209762419430854144
+      brew_43x46_12: -8812220579245824695
+      brew_43x46_13: 3239012472567767340
+      brew_43x46_14: 3408927246163363472
+      brew_43x46_15: 9157893785212625543
+      brew_43x46_16: -8081681531069677444
+      brew_43x46_17: 607140401236193472
+      brew_43x46_18: 2598403286469407555
+      brew_43x46_19: -4768822716717016576
+      brew_43x46_2: -7505499305969973353
+      brew_43x46_20: 3946743289887014036
+      brew_43x46_21: -8971554333751945074
+      brew_43x46_22: 6412345744706104258
+      brew_43x46_23: -1503358009831158033
+      brew_43x46_24: -7134612787108585888
+      brew_43x46_25: -4490463366071872275
+      brew_43x46_26: 4148910176720590289
+      brew_43x46_27: 6437901820597898076
+      brew_43x46_28: -3088443807734850887
+      brew_43x46_29: -7527187256755621691
+      brew_43x46_3: 1650550081416423408
+      brew_43x46_30: 4481458780431447085
+      brew_43x46_31: 8455474196292654729
+      brew_43x46_32: 2356677264605911172
+      brew_43x46_33: 8417671121520013592
+      brew_43x46_34: -7416217695609246673
+      brew_43x46_35: -541433081541838636
+      brew_43x46_36: -572948630398191232
+      brew_43x46_37: 3523519573957663138
+      brew_43x46_38: -6653285268575617115
+      brew_43x46_39: -277863706691117199
+      brew_43x46_4: -425185650382375575
+      brew_43x46_40: -1393638135359440884
+      brew_43x46_41: -5633861047075062653
+      brew_43x46_42: -8045794072372208652
+      brew_43x46_43: 1450303921909089120
+      brew_43x46_44: -4475131516960029412
+      brew_43x46_45: 4633597903869174413
+      brew_43x46_46: -1528591249791264242
+      brew_43x46_47: -4650826523247358262
+      brew_43x46_48: 3309614323023249423
+      brew_43x46_49: -1223230369462714640
+      brew_43x46_5: 4114910120080436455
+      brew_43x46_50: 6403879792307342578
+      brew_43x46_51: -3863977255830615164
+      brew_43x46_52: -3253091021931296610
+      brew_43x46_53: 2302203627229099508
+      brew_43x46_54: 5936407091081172677
+      brew_43x46_55: 5526151518489906792
+      brew_43x46_56: -1663536060945162301
+      brew_43x46_57: -756073386878496996
+      brew_43x46_58: -2776014897296717631
+      brew_43x46_59: -6711402510982025972
+      brew_43x46_6: 2317165018716191120
+      brew_43x46_60: 9127311906182934431
+      brew_43x46_61: 344693495152262880
+      brew_43x46_62: 5057000224355546227
+      brew_43x46_63: -6528861980223777807
+      brew_43x46_7: -6339071079840729489
+      brew_43x46_8: -4006406410701725323
+      brew_43x46_9: 5953663932135507072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: 53c5d25a7fbdbc741b73ece8325319c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 215790600816433401
+    second: pike-buckler_spearwall_56x53_0
+  - first:
+      213: 7577956502764633971
+    second: pike-buckler_spearwall_56x53_1
+  - first:
+      213: 3861671521895336669
+    second: pike-buckler_spearwall_56x53_2
+  - first:
+      213: -4284796927897554613
+    second: pike-buckler_spearwall_56x53_3
+  - first:
+      213: 7779739103045112994
+    second: pike-buckler_spearwall_56x53_4
+  - first:
+      213: -6496619901885500560
+    second: pike-buckler_spearwall_56x53_5
+  - first:
+      213: -4140081732554586487
+    second: pike-buckler_spearwall_56x53_6
+  - first:
+      213: -8209112395734254853
+    second: pike-buckler_spearwall_56x53_7
+  - first:
+      213: -2758128598766834623
+    second: pike-buckler_spearwall_56x53_8
+  - first:
+      213: 3512431518668602420
+    second: pike-buckler_spearwall_56x53_9
+  - first:
+      213: -3880607588816308448
+    second: pike-buckler_spearwall_56x53_10
+  - first:
+      213: -9132995801061647274
+    second: pike-buckler_spearwall_56x53_11
+  - first:
+      213: -2807495934467559655
+    second: pike-buckler_spearwall_56x53_12
+  - first:
+      213: -9064737776613235727
+    second: pike-buckler_spearwall_56x53_13
+  - first:
+      213: 4995816900698246140
+    second: pike-buckler_spearwall_56x53_14
+  - first:
+      213: 6756850906786566764
+    second: pike-buckler_spearwall_56x53_15
+  - first:
+      213: 667315192895641189
+    second: pike-buckler_spearwall_56x53_16
+  - first:
+      213: 4977648240679898698
+    second: pike-buckler_spearwall_56x53_17
+  - first:
+      213: 6887424842669860445
+    second: pike-buckler_spearwall_56x53_18
+  - first:
+      213: 8342302460136779714
+    second: pike-buckler_spearwall_56x53_19
+  - first:
+      213: 7646109160126503875
+    second: pike-buckler_spearwall_56x53_20
+  - first:
+      213: 4724524730921650511
+    second: pike-buckler_spearwall_56x53_21
+  - first:
+      213: 4043262622159960548
+    second: pike-buckler_spearwall_56x53_22
+  - first:
+      213: -529805365994615308
+    second: pike-buckler_spearwall_56x53_23
+  - first:
+      213: 3044577215123734924
+    second: pike-buckler_spearwall_56x53_24
+  - first:
+      213: 4267031761387567969
+    second: pike-buckler_spearwall_56x53_25
+  - first:
+      213: 3987092917106458548
+    second: pike-buckler_spearwall_56x53_26
+  - first:
+      213: -2277041426620412359
+    second: pike-buckler_spearwall_56x53_27
+  - first:
+      213: -2244012399467748227
+    second: pike-buckler_spearwall_56x53_28
+  - first:
+      213: -7956122201729466399
+    second: pike-buckler_spearwall_56x53_29
+  - first:
+      213: 8200457772245787750
+    second: pike-buckler_spearwall_56x53_30
+  - first:
+      213: -5507725972555664081
+    second: pike-buckler_spearwall_56x53_31
+  - first:
+      213: -4969378008462473874
+    second: pike-buckler_spearwall_56x53_32
+  - first:
+      213: 7705140470764174760
+    second: pike-buckler_spearwall_56x53_33
+  - first:
+      213: 3665685342353980854
+    second: pike-buckler_spearwall_56x53_34
+  - first:
+      213: 3436537525817014442
+    second: pike-buckler_spearwall_56x53_35
+  - first:
+      213: 2003159819924995172
+    second: pike-buckler_spearwall_56x53_36
+  - first:
+      213: 7204914907517574631
+    second: pike-buckler_spearwall_56x53_37
+  - first:
+      213: 5309313906337268466
+    second: pike-buckler_spearwall_56x53_38
+  - first:
+      213: -4463229925120453551
+    second: pike-buckler_spearwall_56x53_39
+  - first:
+      213: 5965521538027998782
+    second: pike-buckler_spearwall_56x53_40
+  - first:
+      213: 8068267388458108324
+    second: pike-buckler_spearwall_56x53_41
+  - first:
+      213: 6457802982413041247
+    second: pike-buckler_spearwall_56x53_42
+  - first:
+      213: 7961283000295985259
+    second: pike-buckler_spearwall_56x53_43
+  - first:
+      213: -7715213768771303599
+    second: pike-buckler_spearwall_56x53_44
+  - first:
+      213: -8274037799031353085
+    second: pike-buckler_spearwall_56x53_45
+  - first:
+      213: -8923576371457110589
+    second: pike-buckler_spearwall_56x53_46
+  - first:
+      213: -4689442864131086657
+    second: pike-buckler_spearwall_56x53_47
+  - first:
+      213: -7846613653204918294
+    second: pike-buckler_spearwall_56x53_48
+  - first:
+      213: 6943500995092494604
+    second: pike-buckler_spearwall_56x53_49
+  - first:
+      213: -6643710522989248942
+    second: pike-buckler_spearwall_56x53_50
+  - first:
+      213: -4941968145961682616
+    second: pike-buckler_spearwall_56x53_51
+  - first:
+      213: 4359756694011834044
+    second: pike-buckler_spearwall_56x53_52
+  - first:
+      213: 481490740820167330
+    second: pike-buckler_spearwall_56x53_53
+  - first:
+      213: 5609997043916899630
+    second: pike-buckler_spearwall_56x53_54
+  - first:
+      213: -3123723917216647273
+    second: pike-buckler_spearwall_56x53_55
+  - first:
+      213: -8097427368251846564
+    second: pike-buckler_spearwall_56x53_56
+  - first:
+      213: 2568312009133692320
+    second: pike-buckler_spearwall_56x53_57
+  - first:
+      213: 5453310708763923973
+    second: pike-buckler_spearwall_56x53_58
+  - first:
+      213: 5707016030155724584
+    second: pike-buckler_spearwall_56x53_59
+  - first:
+      213: -1212079050204229538
+    second: pike-buckler_spearwall_56x53_60
+  - first:
+      213: 1295388672780728255
+    second: pike-buckler_spearwall_56x53_61
+  - first:
+      213: -675963860189788519
+    second: pike-buckler_spearwall_56x53_62
+  - first:
+      213: -4624922359489859825
+    second: pike-buckler_spearwall_56x53_63
+  - first:
+      213: -1152609556875227374
+    second: pike-buckler_spearwall_56x53_64
+  - first:
+      213: -6165531597333132325
+    second: pike-buckler_spearwall_56x53_65
+  - first:
+      213: 2048973681623423594
+    second: pike-buckler_spearwall_56x53_66
+  - first:
+      213: -2017636423973044128
+    second: pike-buckler_spearwall_56x53_67
+  - first:
+      213: -1848762253103532671
+    second: pike-buckler_spearwall_56x53_68
+  - first:
+      213: -9050347176327022864
+    second: pike-buckler_spearwall_56x53_69
+  - first:
+      213: 7963345439464413511
+    second: pike-buckler_spearwall_56x53_70
+  - first:
+      213: -7629767736344345218
+    second: pike-buckler_spearwall_56x53_71
+  - first:
+      213: 698442276378869537
+    second: pike-buckler_spearwall_56x53_72
+  - first:
+      213: -7097075306741936184
+    second: pike-buckler_spearwall_56x53_73
+  - first:
+      213: 7673101043886076705
+    second: pike-buckler_spearwall_56x53_74
+  - first:
+      213: -5886778060448579540
+    second: pike-buckler_spearwall_56x53_75
+  - first:
+      213: -5009903286696240884
+    second: pike-buckler_spearwall_56x53_76
+  - first:
+      213: -7743930603543086474
+    second: pike-buckler_spearwall_56x53_77
+  - first:
+      213: -2004862765635955669
+    second: pike-buckler_spearwall_56x53_78
+  - first:
+      213: -6682679424500659775
+    second: pike-buckler_spearwall_56x53_79
+  - first:
+      213: -4565512321609536431
+    second: pike-buckler_spearwall_56x53_80
+  - first:
+      213: -162544400330877409
+    second: pike-buckler_spearwall_56x53_81
+  - first:
+      213: 3613746137840696191
+    second: pike-buckler_spearwall_56x53_82
+  - first:
+      213: 6864666318870299251
+    second: pike-buckler_spearwall_56x53_83
+  - first:
+      213: 4075674665471532575
+    second: pike-buckler_spearwall_56x53_84
+  - first:
+      213: 6806335675964506953
+    second: pike-buckler_spearwall_56x53_85
+  - first:
+      213: 940105309501219825
+    second: pike-buckler_spearwall_56x53_86
+  - first:
+      213: 4694385068341547244
+    second: pike-buckler_spearwall_56x53_87
+  - first:
+      213: -4254102101310342367
+    second: pike-buckler_spearwall_56x53_88
+  - first:
+      213: 3317850784860834086
+    second: pike-buckler_spearwall_56x53_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8188b7864aef200800000000000000
+      internalID: 215790600816433401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fb5ae1a4f4a2960800000000000000
+      internalID: 7577956502764633971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda40d50ac9679530800000000000000
+      internalID: 3861671521895336669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b413bf955e75984c0800000000000000
+      internalID: -4284796927897554613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 901
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a45832de7f27fb60800000000000000
+      internalID: 7779739103045112994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073b16bae9e57d5a0800000000000000
+      internalID: -6496619901885500560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986000e69997b86c0800000000000000
+      internalID: -4140081732554586487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf00315cf531e80800000000000000
+      internalID: -8209112395734254853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c28a117a829b9d0800000000000000
+      internalID: -2758128598766834623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 848
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb0284bd9aeb030800000000000000
+      internalID: 3512431518668602420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0273be355ff452ac0800000000000000
+      internalID: -3880607588816308448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c169625b4114180800000000000000
+      internalID: -9132995801061647274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f25b58255c909d0800000000000000
+      internalID: -2807495934467559655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f367eae405933280800000000000000
+      internalID: -9064737776613235727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 795
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb03019005b45540800000000000000
+      internalID: 4995816900698246140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c621a43b91825cd50800000000000000
+      internalID: 6756850906786566764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56614c1e1a7c24900800000000000000
+      internalID: 667315192895641189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ec292c3b8241540800000000000000
+      internalID: 4977648240679898698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56a98c376c059f50800000000000000
+      internalID: 6887424842669860445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 742
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfe15953efc5c370800000000000000
+      internalID: 8342302460136779714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb533335cf6c1a60800000000000000
+      internalID: 7646109160126503875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49022f0632e09140800000000000000
+      internalID: 4724524730921650511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e97577ceed8c1830800000000000000
+      internalID: 4043262622159960548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd8bcf93d0c5a8f0800000000000000
+      internalID: -529805365994615308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 689
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c2b6a8d2804a20800000000000000
+      internalID: 3044577215123734924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bb0de77ca873b30800000000000000
+      internalID: 4267031761387567969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf3b9232eff45730800000000000000
+      internalID: 3987092917106458548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e017303e25660e0800000000000000
+      internalID: -2277041426620412359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_28
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74272aac9aabd0e0800000000000000
+      internalID: -2244012399467748227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 636
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff058c20d269190800000000000000
+      internalID: -7956122201729466399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6642d4e55e0edc170800000000000000
+      internalID: 8200457772245787750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2570adb860a093b0800000000000000
+      internalID: -5507725972555664081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65c4fab709390bb0800000000000000
+      internalID: -4969378008462473874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad72604f682eea60800000000000000
+      internalID: 7705140470764174760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 583
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd7d51b5612fd230800000000000000
+      internalID: 3665685342353980854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa87f931ca801bf20800000000000000
+      internalID: 3436537525817014442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_36
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cf6f63e37accb10800000000000000
+      internalID: 2003159819924995172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed50836feffcf360800000000000000
+      internalID: 7204914907517574631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2464c2ed87ea940800000000000000
+      internalID: 5309313906337268466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 530
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1545d42c70c6f02c0800000000000000
+      internalID: -4463229925120453551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ec91e6b3ac9c250800000000000000
+      internalID: 5965521538027998782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50ae9317e38ff60800000000000000
+      internalID: 8068267388458108324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eff2cf899be9950800000000000000
+      internalID: 6457802982413041247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b609ff445b82c7e60800000000000000
+      internalID: 7961283000295985259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 477
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1570f2a44fd0ee490800000000000000
+      internalID: -7715213768771303599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301d492a576bc2d80800000000000000
+      internalID: -8274037799031353085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdca3db196192480800000000000000
+      internalID: -8923576371457110589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6e9f09f80cbeeb0800000000000000
+      internalID: -4689442864131086657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_48
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef9dfe947a3b1390800000000000000
+      internalID: -7846613653204918294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 424
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c093f06ed554c5060800000000000000
+      internalID: 6943500995092494604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e73beaa7cccc3a0800000000000000
+      internalID: -6643710522989248942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_51
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84978a8a72a9a6bb0800000000000000
+      internalID: -4941968145961682616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee4bd3d97f08c30800000000000000
+      internalID: 4359756694011834044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aac93917499ea600800000000000000
+      internalID: 481490740820167330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 371
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2588a1a696badd40800000000000000
+      internalID: 5609997043916899630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797f8e1c5ad46a4d0800000000000000
+      internalID: -3123723917216647273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_56
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5092d8e5b820af80800000000000000
+      internalID: -8097427368251846564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a598c03a2a74a320800000000000000
+      internalID: 2568312009133692320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50615bd523d0eab40800000000000000
+      internalID: 5453310708763923973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 318
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82754e4a7d4633f40800000000000000
+      internalID: 5707016030155724584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5052e49684dd2fe0800000000000000
+      internalID: -1212079050204229538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f82772252af110800000000000000
+      internalID: 1295388672780728255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996c268537e7e96f0800000000000000
+      internalID: -675963860189788519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f68d03e99f0dfb0800000000000000
+      internalID: -4624922359489859825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_64
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 265
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f4bbdf6bb1100f0800000000000000
+      internalID: -1152609556875227374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb0389bda1af6aa0800000000000000
+      internalID: -6165531597333132325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ad94f15ba6f6c10800000000000000
+      internalID: 2048973681623423594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060823fbc5aeff3e0800000000000000
+      internalID: -2017636423973044128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185fc95a680e756e0800000000000000
+      internalID: -1848762253103532671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 212
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f67115a135b66280800000000000000
+      internalID: -9050347176327022864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749d00f4c7c738e60800000000000000
+      internalID: 7963345439464413511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7585740bae9d1690800000000000000
+      internalID: -7629767736344345218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f7da3cc8d51b900800000000000000
+      internalID: 698442276378869537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_73
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf43754c9f128d90800000000000000
+      internalID: -7097075306741936184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 159
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123328edeb45c7a60800000000000000
+      internalID: 7673101043886076705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2046632b86fd4ea0800000000000000
+      internalID: -5886778060448579540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09986d118f397ab0800000000000000
+      internalID: -5009903286696240884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab98a2528088490800000000000000
+      internalID: -7743930603543086474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b249cd6dfeb4d24e0800000000000000
+      internalID: -2004862765635955669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 106
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c983d2487a5243a0800000000000000
+      internalID: -6682679424500659775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c6bcc8bba04a0c0800000000000000
+      internalID: -4565512321609536431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_81
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f169c06aab68ebdf0800000000000000
+      internalID: -162544400330877409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b3f6647fa962230800000000000000
+      internalID: 3613746137840696191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3724add75a1344f50800000000000000
+      internalID: 6864666318870299251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 53
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e5d7fa384bf8830800000000000000
+      internalID: 4075674665471532575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943ceeb5c36f47e50800000000000000
+      internalID: 6806335675964506953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_86
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f367405ccceb0d00800000000000000
+      internalID: 940105309501219825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce05565095ec52140800000000000000
+      internalID: 4694385068341547244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b77259da466f4c0800000000000000
+      internalID: -4254102101310342367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pike-buckler_spearwall_56x53_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6298169c5bf5b0e20800000000000000
+      internalID: 3317850784860834086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pike-buckler_spearwall_56x53_0: 215790600816433401
+      pike-buckler_spearwall_56x53_1: 7577956502764633971
+      pike-buckler_spearwall_56x53_10: -3880607588816308448
+      pike-buckler_spearwall_56x53_11: -9132995801061647274
+      pike-buckler_spearwall_56x53_12: -2807495934467559655
+      pike-buckler_spearwall_56x53_13: -9064737776613235727
+      pike-buckler_spearwall_56x53_14: 4995816900698246140
+      pike-buckler_spearwall_56x53_15: 6756850906786566764
+      pike-buckler_spearwall_56x53_16: 667315192895641189
+      pike-buckler_spearwall_56x53_17: 4977648240679898698
+      pike-buckler_spearwall_56x53_18: 6887424842669860445
+      pike-buckler_spearwall_56x53_19: 8342302460136779714
+      pike-buckler_spearwall_56x53_2: 3861671521895336669
+      pike-buckler_spearwall_56x53_20: 7646109160126503875
+      pike-buckler_spearwall_56x53_21: 4724524730921650511
+      pike-buckler_spearwall_56x53_22: 4043262622159960548
+      pike-buckler_spearwall_56x53_23: -529805365994615308
+      pike-buckler_spearwall_56x53_24: 3044577215123734924
+      pike-buckler_spearwall_56x53_25: 4267031761387567969
+      pike-buckler_spearwall_56x53_26: 3987092917106458548
+      pike-buckler_spearwall_56x53_27: -2277041426620412359
+      pike-buckler_spearwall_56x53_28: -2244012399467748227
+      pike-buckler_spearwall_56x53_29: -7956122201729466399
+      pike-buckler_spearwall_56x53_3: -4284796927897554613
+      pike-buckler_spearwall_56x53_30: 8200457772245787750
+      pike-buckler_spearwall_56x53_31: -5507725972555664081
+      pike-buckler_spearwall_56x53_32: -4969378008462473874
+      pike-buckler_spearwall_56x53_33: 7705140470764174760
+      pike-buckler_spearwall_56x53_34: 3665685342353980854
+      pike-buckler_spearwall_56x53_35: 3436537525817014442
+      pike-buckler_spearwall_56x53_36: 2003159819924995172
+      pike-buckler_spearwall_56x53_37: 7204914907517574631
+      pike-buckler_spearwall_56x53_38: 5309313906337268466
+      pike-buckler_spearwall_56x53_39: -4463229925120453551
+      pike-buckler_spearwall_56x53_4: 7779739103045112994
+      pike-buckler_spearwall_56x53_40: 5965521538027998782
+      pike-buckler_spearwall_56x53_41: 8068267388458108324
+      pike-buckler_spearwall_56x53_42: 6457802982413041247
+      pike-buckler_spearwall_56x53_43: 7961283000295985259
+      pike-buckler_spearwall_56x53_44: -7715213768771303599
+      pike-buckler_spearwall_56x53_45: -8274037799031353085
+      pike-buckler_spearwall_56x53_46: -8923576371457110589
+      pike-buckler_spearwall_56x53_47: -4689442864131086657
+      pike-buckler_spearwall_56x53_48: -7846613653204918294
+      pike-buckler_spearwall_56x53_49: 6943500995092494604
+      pike-buckler_spearwall_56x53_5: -6496619901885500560
+      pike-buckler_spearwall_56x53_50: -6643710522989248942
+      pike-buckler_spearwall_56x53_51: -4941968145961682616
+      pike-buckler_spearwall_56x53_52: 4359756694011834044
+      pike-buckler_spearwall_56x53_53: 481490740820167330
+      pike-buckler_spearwall_56x53_54: 5609997043916899630
+      pike-buckler_spearwall_56x53_55: -3123723917216647273
+      pike-buckler_spearwall_56x53_56: -8097427368251846564
+      pike-buckler_spearwall_56x53_57: 2568312009133692320
+      pike-buckler_spearwall_56x53_58: 5453310708763923973
+      pike-buckler_spearwall_56x53_59: 5707016030155724584
+      pike-buckler_spearwall_56x53_6: -4140081732554586487
+      pike-buckler_spearwall_56x53_60: -1212079050204229538
+      pike-buckler_spearwall_56x53_61: 1295388672780728255
+      pike-buckler_spearwall_56x53_62: -675963860189788519
+      pike-buckler_spearwall_56x53_63: -4624922359489859825
+      pike-buckler_spearwall_56x53_64: -1152609556875227374
+      pike-buckler_spearwall_56x53_65: -6165531597333132325
+      pike-buckler_spearwall_56x53_66: 2048973681623423594
+      pike-buckler_spearwall_56x53_67: -2017636423973044128
+      pike-buckler_spearwall_56x53_68: -1848762253103532671
+      pike-buckler_spearwall_56x53_69: -9050347176327022864
+      pike-buckler_spearwall_56x53_7: -8209112395734254853
+      pike-buckler_spearwall_56x53_70: 7963345439464413511
+      pike-buckler_spearwall_56x53_71: -7629767736344345218
+      pike-buckler_spearwall_56x53_72: 698442276378869537
+      pike-buckler_spearwall_56x53_73: -7097075306741936184
+      pike-buckler_spearwall_56x53_74: 7673101043886076705
+      pike-buckler_spearwall_56x53_75: -5886778060448579540
+      pike-buckler_spearwall_56x53_76: -5009903286696240884
+      pike-buckler_spearwall_56x53_77: -7743930603543086474
+      pike-buckler_spearwall_56x53_78: -2004862765635955669
+      pike-buckler_spearwall_56x53_79: -6682679424500659775
+      pike-buckler_spearwall_56x53_8: -2758128598766834623
+      pike-buckler_spearwall_56x53_80: -4565512321609536431
+      pike-buckler_spearwall_56x53_81: -162544400330877409
+      pike-buckler_spearwall_56x53_82: 3613746137840696191
+      pike-buckler_spearwall_56x53_83: 6864666318870299251
+      pike-buckler_spearwall_56x53_84: 4075674665471532575
+      pike-buckler_spearwall_56x53_85: 6806335675964506953
+      pike-buckler_spearwall_56x53_86: 940105309501219825
+      pike-buckler_spearwall_56x53_87: 4694385068341547244
+      pike-buckler_spearwall_56x53_88: -4254102101310342367
+      pike-buckler_spearwall_56x53_89: 3317850784860834086
+      pike-buckler_spearwall_56x53_9: 3512431518668602420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5364 @@
+fileFormatVersion: 2
+guid: 3b1c0363c1cf4444a9e9ebe6a83aa1bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 911969205683329860
+    second: mace-kiteShield_attack_72x41_0
+  - first:
+      213: 7561635924640178993
+    second: mace-kiteShield_attack_72x41_1
+  - first:
+      213: 1810782587782420584
+    second: mace-kiteShield_attack_72x41_2
+  - first:
+      213: -5815983335012273507
+    second: mace-kiteShield_attack_72x41_3
+  - first:
+      213: -8503027426653467608
+    second: mace-kiteShield_attack_72x41_4
+  - first:
+      213: -1305076482596910900
+    second: mace-kiteShield_attack_72x41_5
+  - first:
+      213: -3431638928557412985
+    second: mace-kiteShield_attack_72x41_6
+  - first:
+      213: -5455048212769635653
+    second: mace-kiteShield_attack_72x41_7
+  - first:
+      213: 7069738070609210099
+    second: mace-kiteShield_attack_72x41_8
+  - first:
+      213: 7479709882295993333
+    second: mace-kiteShield_attack_72x41_9
+  - first:
+      213: -8785448456628938768
+    second: mace-kiteShield_attack_72x41_10
+  - first:
+      213: 7992504886804236587
+    second: mace-kiteShield_attack_72x41_11
+  - first:
+      213: -1915747145362759937
+    second: mace-kiteShield_attack_72x41_12
+  - first:
+      213: 8191187814662890023
+    second: mace-kiteShield_attack_72x41_13
+  - first:
+      213: -3866474498829084170
+    second: mace-kiteShield_attack_72x41_14
+  - first:
+      213: 529314145091807778
+    second: mace-kiteShield_attack_72x41_15
+  - first:
+      213: 476106233840966176
+    second: mace-kiteShield_attack_72x41_16
+  - first:
+      213: -1398138476898927102
+    second: mace-kiteShield_attack_72x41_17
+  - first:
+      213: -1989835036201323464
+    second: mace-kiteShield_attack_72x41_18
+  - first:
+      213: -4311478347692488973
+    second: mace-kiteShield_attack_72x41_19
+  - first:
+      213: 8181803951630468895
+    second: mace-kiteShield_attack_72x41_20
+  - first:
+      213: 6976645385803721191
+    second: mace-kiteShield_attack_72x41_21
+  - first:
+      213: -210211456201108459
+    second: mace-kiteShield_attack_72x41_22
+  - first:
+      213: -8223633091228897465
+    second: mace-kiteShield_attack_72x41_23
+  - first:
+      213: 6074926458499911947
+    second: mace-kiteShield_attack_72x41_24
+  - first:
+      213: -5251826121597427453
+    second: mace-kiteShield_attack_72x41_25
+  - first:
+      213: 8847849586104304545
+    second: mace-kiteShield_attack_72x41_26
+  - first:
+      213: 465768235150925179
+    second: mace-kiteShield_attack_72x41_27
+  - first:
+      213: 4893762849384848096
+    second: mace-kiteShield_attack_72x41_28
+  - first:
+      213: -8927024517306544482
+    second: mace-kiteShield_attack_72x41_29
+  - first:
+      213: -5740335659632177615
+    second: mace-kiteShield_attack_72x41_30
+  - first:
+      213: -3161844965617365284
+    second: mace-kiteShield_attack_72x41_31
+  - first:
+      213: -1467896935643322494
+    second: mace-kiteShield_attack_72x41_32
+  - first:
+      213: 5562855474445663501
+    second: mace-kiteShield_attack_72x41_33
+  - first:
+      213: -9173115434066163497
+    second: mace-kiteShield_attack_72x41_34
+  - first:
+      213: -7452998292460649504
+    second: mace-kiteShield_attack_72x41_35
+  - first:
+      213: -6431012914954729704
+    second: mace-kiteShield_attack_72x41_36
+  - first:
+      213: 6590947179643874559
+    second: mace-kiteShield_attack_72x41_37
+  - first:
+      213: 5172052780845213911
+    second: mace-kiteShield_attack_72x41_38
+  - first:
+      213: 7280543832865583009
+    second: mace-kiteShield_attack_72x41_39
+  - first:
+      213: -3083883923807756613
+    second: mace-kiteShield_attack_72x41_40
+  - first:
+      213: 7095697373422075736
+    second: mace-kiteShield_attack_72x41_41
+  - first:
+      213: 1830450312088723123
+    second: mace-kiteShield_attack_72x41_42
+  - first:
+      213: 7469580316004405226
+    second: mace-kiteShield_attack_72x41_43
+  - first:
+      213: -6029284159848136556
+    second: mace-kiteShield_attack_72x41_44
+  - first:
+      213: 8133479014121063806
+    second: mace-kiteShield_attack_72x41_45
+  - first:
+      213: 6130423334319904752
+    second: mace-kiteShield_attack_72x41_46
+  - first:
+      213: 2099140000085167012
+    second: mace-kiteShield_attack_72x41_47
+  - first:
+      213: 3703695636300966477
+    second: mace-kiteShield_attack_72x41_48
+  - first:
+      213: 4431527958297602093
+    second: mace-kiteShield_attack_72x41_49
+  - first:
+      213: -8959671415826196674
+    second: mace-kiteShield_attack_72x41_50
+  - first:
+      213: 8967532861581834399
+    second: mace-kiteShield_attack_72x41_51
+  - first:
+      213: -8986393217291927474
+    second: mace-kiteShield_attack_72x41_52
+  - first:
+      213: -8342196134495600732
+    second: mace-kiteShield_attack_72x41_53
+  - first:
+      213: -6605430532704632381
+    second: mace-kiteShield_attack_72x41_54
+  - first:
+      213: -1881186081048608789
+    second: mace-kiteShield_attack_72x41_55
+  - first:
+      213: 530577683536097115
+    second: mace-kiteShield_attack_72x41_56
+  - first:
+      213: -1655797245891071708
+    second: mace-kiteShield_attack_72x41_57
+  - first:
+      213: 7522057093302925367
+    second: mace-kiteShield_attack_72x41_58
+  - first:
+      213: -3443123798139729483
+    second: mace-kiteShield_attack_72x41_59
+  - first:
+      213: -7098677418856433546
+    second: mace-kiteShield_attack_72x41_60
+  - first:
+      213: -3925899358013321745
+    second: mace-kiteShield_attack_72x41_61
+  - first:
+      213: -808565326348403289
+    second: mace-kiteShield_attack_72x41_62
+  - first:
+      213: 5608903666448947020
+    second: mace-kiteShield_attack_72x41_63
+  - first:
+      213: 7181503230678351546
+    second: mace-kiteShield_attack_72x41_64
+  - first:
+      213: -604859756606566462
+    second: mace-kiteShield_attack_72x41_65
+  - first:
+      213: -8567374098633757102
+    second: mace-kiteShield_attack_72x41_66
+  - first:
+      213: -9168680116857866414
+    second: mace-kiteShield_attack_72x41_67
+  - first:
+      213: -4787899286525849865
+    second: mace-kiteShield_attack_72x41_68
+  - first:
+      213: 4401396547076170066
+    second: mace-kiteShield_attack_72x41_69
+  - first:
+      213: -5596438315767559227
+    second: mace-kiteShield_attack_72x41_70
+  - first:
+      213: -1366110233672590951
+    second: mace-kiteShield_attack_72x41_71
+  - first:
+      213: 4687154853377781714
+    second: mace-kiteShield_attack_72x41_72
+  - first:
+      213: -2789794121130897984
+    second: mace-kiteShield_attack_72x41_73
+  - first:
+      213: 7974988240331210744
+    second: mace-kiteShield_attack_72x41_74
+  - first:
+      213: 2326738114896000386
+    second: mace-kiteShield_attack_72x41_75
+  - first:
+      213: -6604738598479274924
+    second: mace-kiteShield_attack_72x41_76
+  - first:
+      213: -1973768928388728693
+    second: mace-kiteShield_attack_72x41_77
+  - first:
+      213: -3851942910690205933
+    second: mace-kiteShield_attack_72x41_78
+  - first:
+      213: 8563081424684439177
+    second: mace-kiteShield_attack_72x41_79
+  - first:
+      213: 1952100428612560485
+    second: mace-kiteShield_attack_72x41_80
+  - first:
+      213: 2631050222717642452
+    second: mace-kiteShield_attack_72x41_81
+  - first:
+      213: 8010153312892463704
+    second: mace-kiteShield_attack_72x41_82
+  - first:
+      213: 5848625015540907651
+    second: mace-kiteShield_attack_72x41_83
+  - first:
+      213: 5298000211160844704
+    second: mace-kiteShield_attack_72x41_84
+  - first:
+      213: 1740446208501264789
+    second: mace-kiteShield_attack_72x41_85
+  - first:
+      213: 4100957787637151660
+    second: mace-kiteShield_attack_72x41_86
+  - first:
+      213: -6079095792880364443
+    second: mace-kiteShield_attack_72x41_87
+  - first:
+      213: 6006539476168381368
+    second: mace-kiteShield_attack_72x41_88
+  - first:
+      213: -6320423936742268575
+    second: mace-kiteShield_attack_72x41_89
+  - first:
+      213: -7801339723508417018
+    second: mace-kiteShield_attack_72x41_90
+  - first:
+      213: 3256969605410463104
+    second: mace-kiteShield_attack_72x41_91
+  - first:
+      213: -3396808954521373461
+    second: mace-kiteShield_attack_72x41_92
+  - first:
+      213: -7373245553305646108
+    second: mace-kiteShield_attack_72x41_93
+  - first:
+      213: -562277860029589114
+    second: mace-kiteShield_attack_72x41_94
+  - first:
+      213: 797436627705259710
+    second: mace-kiteShield_attack_72x41_95
+  - first:
+      213: -7510852956992286886
+    second: mace-kiteShield_attack_72x41_96
+  - first:
+      213: 6931743000428594321
+    second: mace-kiteShield_attack_72x41_97
+  - first:
+      213: -3463015264606894578
+    second: mace-kiteShield_attack_72x41_98
+  - first:
+      213: -7936883107817633043
+    second: mace-kiteShield_attack_72x41_99
+  - first:
+      213: -8904929965004096372
+    second: mace-kiteShield_attack_72x41_100
+  - first:
+      213: -5052751815148985364
+    second: mace-kiteShield_attack_72x41_101
+  - first:
+      213: 449284082533562392
+    second: mace-kiteShield_attack_72x41_102
+  - first:
+      213: -4998188877609344471
+    second: mace-kiteShield_attack_72x41_103
+  - first:
+      213: -4448321973769144807
+    second: mace-kiteShield_attack_72x41_104
+  - first:
+      213: 2023440352815971818
+    second: mace-kiteShield_attack_72x41_105
+  - first:
+      213: 8657341426819193876
+    second: mace-kiteShield_attack_72x41_106
+  - first:
+      213: 7770090726565306205
+    second: mace-kiteShield_attack_72x41_107
+  - first:
+      213: 991183022278373752
+    second: mace-kiteShield_attack_72x41_108
+  - first:
+      213: -2962692163940843101
+    second: mace-kiteShield_attack_72x41_109
+  - first:
+      213: -6265046894124817834
+    second: mace-kiteShield_attack_72x41_110
+  - first:
+      213: -7765436587005589757
+    second: mace-kiteShield_attack_72x41_111
+  - first:
+      213: -6373436520013304455
+    second: mace-kiteShield_attack_72x41_112
+  - first:
+      213: -7245182217917834330
+    second: mace-kiteShield_attack_72x41_113
+  - first:
+      213: 7393900228593642642
+    second: mace-kiteShield_attack_72x41_114
+  - first:
+      213: -2238558649259576031
+    second: mace-kiteShield_attack_72x41_115
+  - first:
+      213: 8516540851530141256
+    second: mace-kiteShield_attack_72x41_116
+  - first:
+      213: -7016145679145649292
+    second: mace-kiteShield_attack_72x41_117
+  - first:
+      213: 5469629277146469102
+    second: mace-kiteShield_attack_72x41_118
+  - first:
+      213: 5635110561708048881
+    second: mace-kiteShield_attack_72x41_119
+  - first:
+      213: 2636102388779940497
+    second: mace-kiteShield_attack_72x41_120
+  - first:
+      213: -3258997026894100774
+    second: mace-kiteShield_attack_72x41_121
+  - first:
+      213: -5463111727882134857
+    second: mace-kiteShield_attack_72x41_122
+  - first:
+      213: -6391390526880055902
+    second: mace-kiteShield_attack_72x41_123
+  - first:
+      213: 5550315829755198331
+    second: mace-kiteShield_attack_72x41_124
+  - first:
+      213: 6871660786083811715
+    second: mace-kiteShield_attack_72x41_125
+  - first:
+      213: -4098440883912116859
+    second: mace-kiteShield_attack_72x41_126
+  - first:
+      213: -4550811571715896331
+    second: mace-kiteShield_attack_72x41_127
+  - first:
+      213: 3769871670965206866
+    second: mace-kiteShield_attack_72x41_128
+  - first:
+      213: 8391431460208612042
+    second: mace-kiteShield_attack_72x41_129
+  - first:
+      213: -4189217546540189447
+    second: mace-kiteShield_attack_72x41_130
+  - first:
+      213: 7645489757315705142
+    second: mace-kiteShield_attack_72x41_131
+  - first:
+      213: -568216739862712104
+    second: mace-kiteShield_attack_72x41_132
+  - first:
+      213: -5296962805186045525
+    second: mace-kiteShield_attack_72x41_133
+  - first:
+      213: -927115620391444180
+    second: mace-kiteShield_attack_72x41_134
+  - first:
+      213: 2058504253838866165
+    second: mace-kiteShield_attack_72x41_135
+  - first:
+      213: 1965464455420988844
+    second: mace-kiteShield_attack_72x41_136
+  - first:
+      213: -5198219966464759247
+    second: mace-kiteShield_attack_72x41_137
+  - first:
+      213: -4538642467438685936
+    second: mace-kiteShield_attack_72x41_138
+  - first:
+      213: -4072264202161587810
+    second: mace-kiteShield_attack_72x41_139
+  - first:
+      213: 8811469058923820319
+    second: mace-kiteShield_attack_72x41_140
+  - first:
+      213: 2972087531997804758
+    second: mace-kiteShield_attack_72x41_141
+  - first:
+      213: -2314839798574192836
+    second: mace-kiteShield_attack_72x41_142
+  - first:
+      213: -7507850087538635863
+    second: mace-kiteShield_attack_72x41_143
+  - first:
+      213: 1062614541448548031
+    second: mace-kiteShield_attack_72x41_144
+  - first:
+      213: 3989794232724028284
+    second: mace-kiteShield_attack_72x41_145
+  - first:
+      213: -4661537273953425248
+    second: mace-kiteShield_attack_72x41_146
+  - first:
+      213: 5916446976518384770
+    second: mace-kiteShield_attack_72x41_147
+  - first:
+      213: -654894230002362072
+    second: mace-kiteShield_attack_72x41_148
+  - first:
+      213: -6805095270474232986
+    second: mace-kiteShield_attack_72x41_149
+  - first:
+      213: -6992040447135149575
+    second: mace-kiteShield_attack_72x41_150
+  - first:
+      213: 4479500868216562817
+    second: mace-kiteShield_attack_72x41_151
+  - first:
+      213: -9031285097893837158
+    second: mace-kiteShield_attack_72x41_152
+  - first:
+      213: 8522141823061954944
+    second: mace-kiteShield_attack_72x41_153
+  - first:
+      213: 3794678702307925749
+    second: mace-kiteShield_attack_72x41_154
+  - first:
+      213: -250189317324703766
+    second: mace-kiteShield_attack_72x41_155
+  - first:
+      213: 5482612404073155573
+    second: mace-kiteShield_attack_72x41_156
+  - first:
+      213: -4689592894533621364
+    second: mace-kiteShield_attack_72x41_157
+  - first:
+      213: -4853467992090358692
+    second: mace-kiteShield_attack_72x41_158
+  - first:
+      213: 6955724691561674020
+    second: mace-kiteShield_attack_72x41_159
+  - first:
+      213: -3901211654746381935
+    second: mace-kiteShield_attack_72x41_160
+  - first:
+      213: -6671825726512936727
+    second: mace-kiteShield_attack_72x41_161
+  - first:
+      213: -1954852470919245102
+    second: mace-kiteShield_attack_72x41_162
+  - first:
+      213: 3097761652188926964
+    second: mace-kiteShield_attack_72x41_163
+  - first:
+      213: 254431544214825433
+    second: mace-kiteShield_attack_72x41_164
+  - first:
+      213: 4867566748182491812
+    second: mace-kiteShield_attack_72x41_165
+  - first:
+      213: 104766244163995201
+    second: mace-kiteShield_attack_72x41_166
+  - first:
+      213: -2820936101807904185
+    second: mace-kiteShield_attack_72x41_167
+  - first:
+      213: -7368244470252844208
+    second: mace-kiteShield_attack_72x41_168
+  - first:
+      213: -6209574823246860544
+    second: mace-kiteShield_attack_72x41_169
+  - first:
+      213: 2854529194050207396
+    second: mace-kiteShield_attack_72x41_170
+  - first:
+      213: -2157515789340959216
+    second: mace-kiteShield_attack_72x41_171
+  - first:
+      213: -4467917095618471070
+    second: mace-kiteShield_attack_72x41_172
+  - first:
+      213: 4477766746838154499
+    second: mace-kiteShield_attack_72x41_173
+  - first:
+      213: 324656705710756966
+    second: mace-kiteShield_attack_72x41_174
+  - first:
+      213: -2788099172033089270
+    second: mace-kiteShield_attack_72x41_175
+  - first:
+      213: -3064830145232923632
+    second: mace-kiteShield_attack_72x41_176
+  - first:
+      213: -376608513567648314
+    second: mace-kiteShield_attack_72x41_177
+  - first:
+      213: -7210208046572507967
+    second: mace-kiteShield_attack_72x41_178
+  - first:
+      213: -3359723273813303579
+    second: mace-kiteShield_attack_72x41_179
+  - first:
+      213: 6127947936989317796
+    second: mace-kiteShield_attack_72x41_180
+  - first:
+      213: 7793209809004826359
+    second: mace-kiteShield_attack_72x41_181
+  - first:
+      213: -3267589376048509354
+    second: mace-kiteShield_attack_72x41_182
+  - first:
+      213: -4102117760991156845
+    second: mace-kiteShield_attack_72x41_183
+  - first:
+      213: -5329575027851108466
+    second: mace-kiteShield_attack_72x41_184
+  - first:
+      213: -8132860340550486307
+    second: mace-kiteShield_attack_72x41_185
+  - first:
+      213: -2137862281079953498
+    second: mace-kiteShield_attack_72x41_186
+  - first:
+      213: 315396557014952118
+    second: mace-kiteShield_attack_72x41_187
+  - first:
+      213: -8327037730478756035
+    second: mace-kiteShield_attack_72x41_188
+  - first:
+      213: -5347461872157365332
+    second: mace-kiteShield_attack_72x41_189
+  - first:
+      213: -3407702822206482840
+    second: mace-kiteShield_attack_72x41_190
+  - first:
+      213: -2155465036399458599
+    second: mace-kiteShield_attack_72x41_191
+  - first:
+      213: 2757324469449347341
+    second: mace-kiteShield_attack_72x41_192
+  - first:
+      213: -7980059168693337938
+    second: mace-kiteShield_attack_72x41_193
+  - first:
+      213: 1357835438599183018
+    second: mace-kiteShield_attack_72x41_194
+  - first:
+      213: -51772934449395368
+    second: mace-kiteShield_attack_72x41_195
+  - first:
+      213: -1597880418572116939
+    second: mace-kiteShield_attack_72x41_196
+  - first:
+      213: 8347280101470159497
+    second: mace-kiteShield_attack_72x41_197
+  - first:
+      213: -6499723171462553302
+    second: mace-kiteShield_attack_72x41_198
+  - first:
+      213: -7300066206892823616
+    second: mace-kiteShield_attack_72x41_199
+  - first:
+      213: 2572174374287377442
+    second: mace-kiteShield_attack_72x41_200
+  - first:
+      213: 2429563407457076512
+    second: mace-kiteShield_attack_72x41_201
+  - first:
+      213: -7973247465021109392
+    second: mace-kiteShield_attack_72x41_202
+  - first:
+      213: -6154378177840792182
+    second: mace-kiteShield_attack_72x41_203
+  - first:
+      213: 4527665358938743781
+    second: mace-kiteShield_attack_72x41_204
+  - first:
+      213: 8902473843422604618
+    second: mace-kiteShield_attack_72x41_205
+  - first:
+      213: -7292593240287192009
+    second: mace-kiteShield_attack_72x41_206
+  - first:
+      213: -8673171827630504618
+    second: mace-kiteShield_attack_72x41_207
+  - first:
+      213: -5433540110229021002
+    second: mace-kiteShield_attack_72x41_208
+  - first:
+      213: 374902791822103993
+    second: mace-kiteShield_attack_72x41_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b99d62927f7ac00800000000000000
+      internalID: 911969205683329860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a2096fc350f860800000000000000
+      internalID: 7561635924640178993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868db3e6b21312910800000000000000
+      internalID: 1810782587782420584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d927001a8f9794fa0800000000000000
+      internalID: -5815983335012273507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c8aee3b9d2ff980800000000000000
+      internalID: -8503027426653467608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8481a8adf63ede0800000000000000
+      internalID: -1305076482596910900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78deee9739e5060d0800000000000000
+      internalID: -3431638928557412985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb28c357d86cb44b0800000000000000
+      internalID: -5455048212769635653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faa7b17151cc1260800000000000000
+      internalID: 7069738070609210099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f34b3d32844dc760800000000000000
+      internalID: 7479709882295993333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7d02e0d21d31680800000000000000
+      internalID: -8785448456628938768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 697
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294a8339d41bee60800000000000000
+      internalID: 7992504886804236587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe1f211f16e965e0800000000000000
+      internalID: -1915747145362759937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7226d7d2be1fca170800000000000000
+      internalID: 8191187814662890023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f99f24cde5875ac0800000000000000
+      internalID: -3866474498829084170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a69c81960885700800000000000000
+      internalID: 529314145091807778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a907fd8187b9600800000000000000
+      internalID: 476106233840966176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e32a18670d89ce0800000000000000
+      internalID: -1398138476898927102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f791c39fa264e0800000000000000
+      internalID: -1989835036201323464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_19
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f64005394d8a24c0800000000000000
+      internalID: -4311478347692488973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1742de485b9b8170800000000000000
+      internalID: 8181803951630468895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e2b8b30602d060800000000000000
+      internalID: 6976645385803721191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5145a695bcd251df0800000000000000
+      internalID: -210211456201108459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f67223649cfdd80800000000000000
+      internalID: -8223633091228897465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_24
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 656
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01528b7d697e4450800000000000000
+      internalID: 6074926458499911947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3016110c7f3cd17b0800000000000000
+      internalID: -5251826121597427453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a385d51250e9ca70800000000000000
+      internalID: 8847849586104304545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd4dbfdbdb67600800000000000000
+      internalID: 465768235150925179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea569c12632ae340800000000000000
+      internalID: 4893762849384848096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e8db8bf76dc1480800000000000000
+      internalID: -8927024517306544482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ecd14912b3650b0800000000000000
+      internalID: -5740335659632177615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde058581cede14d0800000000000000
+      internalID: -3161844965617365284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2876818a38bf0abe0800000000000000
+      internalID: -1467896935643322494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dbb2ba49b333d40800000000000000
+      internalID: 5562855474445663501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 615
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d845dc2d1c82b080800000000000000
+      internalID: -9173115434066163497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e34a4a6a81a19890800000000000000
+      internalID: -7452998292460649504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8178c2aa3d370c6a0800000000000000
+      internalID: -6431012914954729704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc29002a8fb77b50800000000000000
+      internalID: 6590947179643874559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a9d9f992d6c740800000000000000
+      internalID: 5172052780845213911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af2d91ca00b90560800000000000000
+      internalID: 7280543832865583009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe96e019e7d335d0800000000000000
+      internalID: -3083883923807756613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fbe70aa2bf87260800000000000000
+      internalID: 7095697373422075736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_42
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be1d075cd0176910800000000000000
+      internalID: 1830450312088723123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef41bcc8b749a760800000000000000
+      internalID: 7469580316004405226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_44
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490cc5a400ea35ca0800000000000000
+      internalID: -6029284159848136556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75c7c0021cefd070800000000000000
+      internalID: 8133479014121063806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_46
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 574
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f757ecca83a31550800000000000000
+      internalID: 6130423334319904752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abc3e655b4a12d10800000000000000
+      internalID: 2099140000085167012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a22e5ee8b266330800000000000000
+      internalID: 3703695636300966477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d286a86e233ff7d30800000000000000
+      internalID: 4431527958297602093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e375573515ad8a380800000000000000
+      internalID: -8959671415826196674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f983a3620a3137c70800000000000000
+      internalID: 8967532861581834399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40c5571bfae94380800000000000000
+      internalID: -8986393217291927474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afb0c480d09a3c80800000000000000
+      internalID: -8342196134495600732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c10f957debc454a0800000000000000
+      internalID: -6605430532704632381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef30bae93fa4e5e0800000000000000
+      internalID: -1881186081048608789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_56
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f2be0979dfc5700800000000000000
+      internalID: 530577683536097115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b79a7d2d6509e0800000000000000
+      internalID: -1655797245891071708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_58
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383782a217b36860800000000000000
+      internalID: 7522057093302925367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 533
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b90036e5219730d0800000000000000
+      internalID: -3443123798139729483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678b9f97f7e6c7d90800000000000000
+      internalID: -7098677418856433546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed8ead85576489c0800000000000000
+      internalID: -3925899358013321745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad3e41ae1667c4f0800000000000000
+      internalID: -808565326348403289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47531ada24d6dd40800000000000000
+      internalID: 5608903666448947020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe37e99323d9a360800000000000000
+      internalID: 7181503230678351546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf498c814b1b97f0800000000000000
+      internalID: -604859756606566462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6d0136a29a1980800000000000000
+      internalID: -8567374098633757102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257ff7fe20e42c080800000000000000
+      internalID: -9168680116857866414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fec74e57f6fd8db0800000000000000
+      internalID: -4787899286525849865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 492
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2512b1807d6e41d30800000000000000
+      internalID: 4401396547076170066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb0a45c0057552b0800000000000000
+      internalID: -5596438315767559227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9995bedfaf99a0de0800000000000000
+      internalID: -1366110233672590951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa4da618e1c0140800000000000000
+      internalID: 4687154853377781714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd058d1709a849d0800000000000000
+      internalID: -2789794121130897984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fffbd02d89dcae60800000000000000
+      internalID: 7974988240331210744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285fcb7ecfb3a4020800000000000000
+      internalID: 2326738114896000386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cd453fc314754a0800000000000000
+      internalID: -6604738598479274924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88bfaafd93cb94e0800000000000000
+      internalID: -1973768928388728693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fd939c4562b8ac0800000000000000
+      internalID: -3851942910690205933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_79
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986df05cf2d26d670800000000000000
+      internalID: 8563081424684439177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566e6554ff0471b10800000000000000
+      internalID: 1952100428612560485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_81
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 451
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62c47dc3e538420800000000000000
+      internalID: 2631050222717642452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aaf5b9ff7c92f60800000000000000
+      internalID: 8010153312892463704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e77cbd67d7a2150800000000000000
+      internalID: 5848625015540907651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9cf2e3f17468940800000000000000
+      internalID: 5298000211160844704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b468fa9e472810800000000000000
+      internalID: 1740446208501264789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7fbfa416789e830800000000000000
+      internalID: 4100957787637151660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5645bc5b596b2aba0800000000000000
+      internalID: -6079095792880364443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3906e54d38b5350800000000000000
+      internalID: 6006539476168381368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_89
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e994aae75948a0800000000000000
+      internalID: -6320423936742268575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ef220dad21cb390800000000000000
+      internalID: -7801339723508417018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_91
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d1cb69994133d20800000000000000
+      internalID: 3256969605410463104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_92
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be433efb04c1cd0d0800000000000000
+      internalID: -3396808954521373461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_93
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb0d710c38fca990800000000000000
+      internalID: -7373245553305646108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_94
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 410
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6899edfe3436238f0800000000000000
+      internalID: -562277860029589114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6e14d4360111b00800000000000000
+      internalID: 797436627705259710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_96
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4842a70714c790800000000000000
+      internalID: -7510852956992286886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194c8de688f723060800000000000000
+      internalID: 6931743000428594321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06c955f6f5e0ffc0800000000000000
+      internalID: -3463015264606894578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea4bb66dd68ad190800000000000000
+      internalID: -7936883107817633043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_100
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cf23e80655b6480800000000000000
+      internalID: -8904929965004096372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3a5d7aef401e9b0800000000000000
+      internalID: -5052751815148985364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_102
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81876ae1e7d2c3600800000000000000
+      internalID: 449284082533562392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_103
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92269c582bdd2aab0800000000000000
+      internalID: -4998188877609344471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_104
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 369
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916fceaabb26442c0800000000000000
+      internalID: -4448321973769144807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed79cdb744b41c10800000000000000
+      internalID: 2023440352815971818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd4dcb82e052870800000000000000
+      internalID: 8657341426819193876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f5b7d1958e4db60800000000000000
+      internalID: 7770090726565306205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_108
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871fc4e05b361cd00800000000000000
+      internalID: 991183022278373752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a109758c2762e6d0800000000000000
+      internalID: -2962692163940843101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652a68e1b051e09a0800000000000000
+      internalID: -6265046894124817834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c5b13190ab3490800000000000000
+      internalID: -7765436587005589757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_112
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dea12c0410d87a0800000000000000
+      internalID: -6373436520013304455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abd700d821f37b90800000000000000
+      internalID: -7245182217917834330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_114
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce00655196c9660800000000000000
+      internalID: 7393900228593642642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_115
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1253106d4ca0fe0e0800000000000000
+      internalID: -2238558649259576031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_116
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 328
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e8e8a28c4d03670800000000000000
+      internalID: 8516540851530141256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bb12e8da4a1ae90800000000000000
+      internalID: -7016145679145649292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2546529d608eb40800000000000000
+      internalID: 5469629277146469102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f109a4233fe33e40800000000000000
+      internalID: 5635110561708048881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_120
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a79cae721559420800000000000000
+      internalID: 2636102388779940497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad64cef8877b5c2d0800000000000000
+      internalID: -3258997026894100774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_122
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba905b04d02f24b0800000000000000
+      internalID: -5463111727882134857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_123
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad7488cd283d47a0800000000000000
+      internalID: -6391390526880055902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_124
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b39cf17dea60d40800000000000000
+      internalID: 5550315829755198331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_125
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381d18bc31b0d5f50800000000000000
+      internalID: 6871660786083811715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_126
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585fa750bb96f17c0800000000000000
+      internalID: -4098440883912116859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb032c9cf448d0c0800000000000000
+      internalID: -4550811571715896331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_128
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f70b4af46415430800000000000000
+      internalID: 3769871670965206866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_129
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 287
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac295ce047a547470800000000000000
+      internalID: 8391431460208612042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f873ab36d8ecd5c0800000000000000
+      internalID: -4189217546540189447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_131
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639a0be3d6c3a1a60800000000000000
+      internalID: 7645489757315705142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d07d09b2e94d18f0800000000000000
+      internalID: -568216739862712104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_133
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9dd68a4686d76b0800000000000000
+      internalID: -5296962805186045525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_134
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c212adc51493223f0800000000000000
+      internalID: -927115620391444180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_135
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f632b266b6419c10800000000000000
+      internalID: 2058504253838866165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad460c328bb64b10800000000000000
+      internalID: 1965464455420988844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_137
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a668a5b763cd7b0800000000000000
+      internalID: -5198219966464759247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01190ddf8b08301c0800000000000000
+      internalID: -4538642467438685936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_139
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 246
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e997e9ea8496c77c0800000000000000
+      internalID: -4072264202161587810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15ff768c60a84a70800000000000000
+      internalID: 8811469058923820319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b8121dd9fe3920800000000000000
+      internalID: 2972087531997804758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c376c0eb77900efd0800000000000000
+      internalID: -2314839798574192836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_143
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abcf59af12cec790800000000000000
+      internalID: -7507850087538635863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe8434ab4a2fbe00800000000000000
+      internalID: 1062614541448548031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_145
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bfa6047b89e5730800000000000000
+      internalID: 3989794232724028284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_146
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a863c61c84ee4fb0800000000000000
+      internalID: -4661537273953425248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_147
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cefcfad217b1250800000000000000
+      internalID: 5916446976518384770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_148
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299147ea2959e6f0800000000000000
+      internalID: -654894230002362072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_149
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b41bc08e17f81a0800000000000000
+      internalID: -6805095270474232986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_150
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1985d324847fe90800000000000000
+      internalID: -6992040447135149575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_151
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 205
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842a156e426a2e30800000000000000
+      internalID: 4479500868216562817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9642c2ad0e6aa280800000000000000
+      internalID: -9031285097893837158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_153
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0819b19f5dab44670800000000000000
+      internalID: 8522141823061954944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_154
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feddc7bc2869a430800000000000000
+      internalID: 3794678702307925749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_155
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae773463426278cf0800000000000000
+      internalID: -250189317324703766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_156
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb4ee1fee6261c40800000000000000
+      internalID: 5482612404073155573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_157
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89a024eb183beeb0800000000000000
+      internalID: -4689592894533621364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cc9b2739405acb0800000000000000
+      internalID: -4853467992090358692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_159
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42572f301c2b78060800000000000000
+      internalID: 6955724691561674020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_160
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916a356bac1cd9c0800000000000000
+      internalID: -3901211654746381935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_161
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e842efb9d9e863a0800000000000000
+      internalID: -6671825726512936727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_162
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d25092f808fed4e0800000000000000
+      internalID: -1954852470919245102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_163
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f35c8d5fc57dfa20800000000000000
+      internalID: 3097761652188926964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_164
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 164
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92494342ce78300800000000000000
+      internalID: 254431544214825433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2bbe10b221d8340800000000000000
+      internalID: 4867566748182491812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_166
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146c8df0854347100800000000000000
+      internalID: 104766244163995201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a2aa5bf850ad8d0800000000000000
+      internalID: -2820936101807904185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_168
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc75461bcbeb990800000000000000
+      internalID: -7368244470252844208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f6926199823d9a0800000000000000
+      internalID: -6209574823246860544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_170
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae38549d235d9720800000000000000
+      internalID: 2854529194050207396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_171
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e190312d6fe02e0800000000000000
+      internalID: -2157515789340959216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_172
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b14c5d215cef1c0800000000000000
+      internalID: -4467917095618471070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_173
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d385cc129342e30800000000000000
+      internalID: 4477766746838154499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_174
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 123
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66496d1cd89618400800000000000000
+      internalID: 324656705710756966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a013864339eae49d0800000000000000
+      internalID: -2788099172033089270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_176
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0149b7898398775d0800000000000000
+      internalID: -3064830145232923632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c599616d8406caf0800000000000000
+      internalID: -376608513567648314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_178
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce163abf130fb90800000000000000
+      internalID: -7210208046572507967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_179
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eedeb8ab7ddf51d0800000000000000
+      internalID: -3359723273813303579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_180
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa06527e28da0550800000000000000
+      internalID: 6127947936989317796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_181
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe82d5f70b072c60800000000000000
+      internalID: 7793209809004826359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_182
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec9c066c037a2d0800000000000000
+      internalID: -3267589376048509354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_183
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3952d4d51a95217c0800000000000000
+      internalID: -4102117760991156845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_184
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f542ddfbb8906b0800000000000000
+      internalID: -5329575027851108466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_185
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd630a92c96422f80800000000000000
+      internalID: -8132860340550486307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_186
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 82
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7e58d0599c452e0800000000000000
+      internalID: -2137862281079953498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8e1406f73806400800000000000000
+      internalID: 315396557014952118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_188
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe98b7d4b607c80800000000000000
+      internalID: -8327037730478756035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab6d1462cff9c5b0800000000000000
+      internalID: -5347461872157365332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_190
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8665946865865b0d0800000000000000
+      internalID: -3407702822206482840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6c2a338ff3612e0800000000000000
+      internalID: -2155465036399458599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_192
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01550cfefbf34620800000000000000
+      internalID: 2757324469449347341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_193
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea04f6b5772214190800000000000000
+      internalID: -7980059168693337938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_194
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa1425232008d210800000000000000
+      internalID: 1357835438599183018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_195
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8590a295ac0184ff0800000000000000
+      internalID: -51772934449395368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_196
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cd479a93033d9e0800000000000000
+      internalID: -1597880418572116939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_197
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982c0d8c60f77d370800000000000000
+      internalID: 8347280101470159497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_198
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21699a66385cc5a0800000000000000
+      internalID: -6499723171462553302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_199
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 41
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbe1555674f0ba90800000000000000
+      internalID: -7300066206892823616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22403c727f232b320800000000000000
+      internalID: 2572174374287377442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02544c4fb0b87b120800000000000000
+      internalID: 2429563407457076512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0225bca5595190800000000000000
+      internalID: -7973247465021109392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_203
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d326097a1479aa0800000000000000
+      internalID: -6154378177840792182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a265c7af75de30800000000000000
+      internalID: 4527665358938743781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_205
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d29631bc0fb8b70800000000000000
+      internalID: 8902473843422604618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_206
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c5445f5118bca90800000000000000
+      internalID: -7292593240287192009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_207
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655882adc24b2a780800000000000000
+      internalID: -8673171827630504618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_208
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be56f0de003894b0800000000000000
+      internalID: -5433540110229021002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mace-kiteShield_attack_72x41_209
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5dbd35a1ce33500800000000000000
+      internalID: 374902791822103993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mace-kiteShield_attack_72x41_0: 911969205683329860
+      mace-kiteShield_attack_72x41_1: 7561635924640178993
+      mace-kiteShield_attack_72x41_10: -8785448456628938768
+      mace-kiteShield_attack_72x41_100: -8904929965004096372
+      mace-kiteShield_attack_72x41_101: -5052751815148985364
+      mace-kiteShield_attack_72x41_102: 449284082533562392
+      mace-kiteShield_attack_72x41_103: -4998188877609344471
+      mace-kiteShield_attack_72x41_104: -4448321973769144807
+      mace-kiteShield_attack_72x41_105: 2023440352815971818
+      mace-kiteShield_attack_72x41_106: 8657341426819193876
+      mace-kiteShield_attack_72x41_107: 7770090726565306205
+      mace-kiteShield_attack_72x41_108: 991183022278373752
+      mace-kiteShield_attack_72x41_109: -2962692163940843101
+      mace-kiteShield_attack_72x41_11: 7992504886804236587
+      mace-kiteShield_attack_72x41_110: -6265046894124817834
+      mace-kiteShield_attack_72x41_111: -7765436587005589757
+      mace-kiteShield_attack_72x41_112: -6373436520013304455
+      mace-kiteShield_attack_72x41_113: -7245182217917834330
+      mace-kiteShield_attack_72x41_114: 7393900228593642642
+      mace-kiteShield_attack_72x41_115: -2238558649259576031
+      mace-kiteShield_attack_72x41_116: 8516540851530141256
+      mace-kiteShield_attack_72x41_117: -7016145679145649292
+      mace-kiteShield_attack_72x41_118: 5469629277146469102
+      mace-kiteShield_attack_72x41_119: 5635110561708048881
+      mace-kiteShield_attack_72x41_12: -1915747145362759937
+      mace-kiteShield_attack_72x41_120: 2636102388779940497
+      mace-kiteShield_attack_72x41_121: -3258997026894100774
+      mace-kiteShield_attack_72x41_122: -5463111727882134857
+      mace-kiteShield_attack_72x41_123: -6391390526880055902
+      mace-kiteShield_attack_72x41_124: 5550315829755198331
+      mace-kiteShield_attack_72x41_125: 6871660786083811715
+      mace-kiteShield_attack_72x41_126: -4098440883912116859
+      mace-kiteShield_attack_72x41_127: -4550811571715896331
+      mace-kiteShield_attack_72x41_128: 3769871670965206866
+      mace-kiteShield_attack_72x41_129: 8391431460208612042
+      mace-kiteShield_attack_72x41_13: 8191187814662890023
+      mace-kiteShield_attack_72x41_130: -4189217546540189447
+      mace-kiteShield_attack_72x41_131: 7645489757315705142
+      mace-kiteShield_attack_72x41_132: -568216739862712104
+      mace-kiteShield_attack_72x41_133: -5296962805186045525
+      mace-kiteShield_attack_72x41_134: -927115620391444180
+      mace-kiteShield_attack_72x41_135: 2058504253838866165
+      mace-kiteShield_attack_72x41_136: 1965464455420988844
+      mace-kiteShield_attack_72x41_137: -5198219966464759247
+      mace-kiteShield_attack_72x41_138: -4538642467438685936
+      mace-kiteShield_attack_72x41_139: -4072264202161587810
+      mace-kiteShield_attack_72x41_14: -3866474498829084170
+      mace-kiteShield_attack_72x41_140: 8811469058923820319
+      mace-kiteShield_attack_72x41_141: 2972087531997804758
+      mace-kiteShield_attack_72x41_142: -2314839798574192836
+      mace-kiteShield_attack_72x41_143: -7507850087538635863
+      mace-kiteShield_attack_72x41_144: 1062614541448548031
+      mace-kiteShield_attack_72x41_145: 3989794232724028284
+      mace-kiteShield_attack_72x41_146: -4661537273953425248
+      mace-kiteShield_attack_72x41_147: 5916446976518384770
+      mace-kiteShield_attack_72x41_148: -654894230002362072
+      mace-kiteShield_attack_72x41_149: -6805095270474232986
+      mace-kiteShield_attack_72x41_15: 529314145091807778
+      mace-kiteShield_attack_72x41_150: -6992040447135149575
+      mace-kiteShield_attack_72x41_151: 4479500868216562817
+      mace-kiteShield_attack_72x41_152: -9031285097893837158
+      mace-kiteShield_attack_72x41_153: 8522141823061954944
+      mace-kiteShield_attack_72x41_154: 3794678702307925749
+      mace-kiteShield_attack_72x41_155: -250189317324703766
+      mace-kiteShield_attack_72x41_156: 5482612404073155573
+      mace-kiteShield_attack_72x41_157: -4689592894533621364
+      mace-kiteShield_attack_72x41_158: -4853467992090358692
+      mace-kiteShield_attack_72x41_159: 6955724691561674020
+      mace-kiteShield_attack_72x41_16: 476106233840966176
+      mace-kiteShield_attack_72x41_160: -3901211654746381935
+      mace-kiteShield_attack_72x41_161: -6671825726512936727
+      mace-kiteShield_attack_72x41_162: -1954852470919245102
+      mace-kiteShield_attack_72x41_163: 3097761652188926964
+      mace-kiteShield_attack_72x41_164: 254431544214825433
+      mace-kiteShield_attack_72x41_165: 4867566748182491812
+      mace-kiteShield_attack_72x41_166: 104766244163995201
+      mace-kiteShield_attack_72x41_167: -2820936101807904185
+      mace-kiteShield_attack_72x41_168: -7368244470252844208
+      mace-kiteShield_attack_72x41_169: -6209574823246860544
+      mace-kiteShield_attack_72x41_17: -1398138476898927102
+      mace-kiteShield_attack_72x41_170: 2854529194050207396
+      mace-kiteShield_attack_72x41_171: -2157515789340959216
+      mace-kiteShield_attack_72x41_172: -4467917095618471070
+      mace-kiteShield_attack_72x41_173: 4477766746838154499
+      mace-kiteShield_attack_72x41_174: 324656705710756966
+      mace-kiteShield_attack_72x41_175: -2788099172033089270
+      mace-kiteShield_attack_72x41_176: -3064830145232923632
+      mace-kiteShield_attack_72x41_177: -376608513567648314
+      mace-kiteShield_attack_72x41_178: -7210208046572507967
+      mace-kiteShield_attack_72x41_179: -3359723273813303579
+      mace-kiteShield_attack_72x41_18: -1989835036201323464
+      mace-kiteShield_attack_72x41_180: 6127947936989317796
+      mace-kiteShield_attack_72x41_181: 7793209809004826359
+      mace-kiteShield_attack_72x41_182: -3267589376048509354
+      mace-kiteShield_attack_72x41_183: -4102117760991156845
+      mace-kiteShield_attack_72x41_184: -5329575027851108466
+      mace-kiteShield_attack_72x41_185: -8132860340550486307
+      mace-kiteShield_attack_72x41_186: -2137862281079953498
+      mace-kiteShield_attack_72x41_187: 315396557014952118
+      mace-kiteShield_attack_72x41_188: -8327037730478756035
+      mace-kiteShield_attack_72x41_189: -5347461872157365332
+      mace-kiteShield_attack_72x41_19: -4311478347692488973
+      mace-kiteShield_attack_72x41_190: -3407702822206482840
+      mace-kiteShield_attack_72x41_191: -2155465036399458599
+      mace-kiteShield_attack_72x41_192: 2757324469449347341
+      mace-kiteShield_attack_72x41_193: -7980059168693337938
+      mace-kiteShield_attack_72x41_194: 1357835438599183018
+      mace-kiteShield_attack_72x41_195: -51772934449395368
+      mace-kiteShield_attack_72x41_196: -1597880418572116939
+      mace-kiteShield_attack_72x41_197: 8347280101470159497
+      mace-kiteShield_attack_72x41_198: -6499723171462553302
+      mace-kiteShield_attack_72x41_199: -7300066206892823616
+      mace-kiteShield_attack_72x41_2: 1810782587782420584
+      mace-kiteShield_attack_72x41_20: 8181803951630468895
+      mace-kiteShield_attack_72x41_200: 2572174374287377442
+      mace-kiteShield_attack_72x41_201: 2429563407457076512
+      mace-kiteShield_attack_72x41_202: -7973247465021109392
+      mace-kiteShield_attack_72x41_203: -6154378177840792182
+      mace-kiteShield_attack_72x41_204: 4527665358938743781
+      mace-kiteShield_attack_72x41_205: 8902473843422604618
+      mace-kiteShield_attack_72x41_206: -7292593240287192009
+      mace-kiteShield_attack_72x41_207: -8673171827630504618
+      mace-kiteShield_attack_72x41_208: -5433540110229021002
+      mace-kiteShield_attack_72x41_209: 374902791822103993
+      mace-kiteShield_attack_72x41_21: 6976645385803721191
+      mace-kiteShield_attack_72x41_22: -210211456201108459
+      mace-kiteShield_attack_72x41_23: -8223633091228897465
+      mace-kiteShield_attack_72x41_24: 6074926458499911947
+      mace-kiteShield_attack_72x41_25: -5251826121597427453
+      mace-kiteShield_attack_72x41_26: 8847849586104304545
+      mace-kiteShield_attack_72x41_27: 465768235150925179
+      mace-kiteShield_attack_72x41_28: 4893762849384848096
+      mace-kiteShield_attack_72x41_29: -8927024517306544482
+      mace-kiteShield_attack_72x41_3: -5815983335012273507
+      mace-kiteShield_attack_72x41_30: -5740335659632177615
+      mace-kiteShield_attack_72x41_31: -3161844965617365284
+      mace-kiteShield_attack_72x41_32: -1467896935643322494
+      mace-kiteShield_attack_72x41_33: 5562855474445663501
+      mace-kiteShield_attack_72x41_34: -9173115434066163497
+      mace-kiteShield_attack_72x41_35: -7452998292460649504
+      mace-kiteShield_attack_72x41_36: -6431012914954729704
+      mace-kiteShield_attack_72x41_37: 6590947179643874559
+      mace-kiteShield_attack_72x41_38: 5172052780845213911
+      mace-kiteShield_attack_72x41_39: 7280543832865583009
+      mace-kiteShield_attack_72x41_4: -8503027426653467608
+      mace-kiteShield_attack_72x41_40: -3083883923807756613
+      mace-kiteShield_attack_72x41_41: 7095697373422075736
+      mace-kiteShield_attack_72x41_42: 1830450312088723123
+      mace-kiteShield_attack_72x41_43: 7469580316004405226
+      mace-kiteShield_attack_72x41_44: -6029284159848136556
+      mace-kiteShield_attack_72x41_45: 8133479014121063806
+      mace-kiteShield_attack_72x41_46: 6130423334319904752
+      mace-kiteShield_attack_72x41_47: 2099140000085167012
+      mace-kiteShield_attack_72x41_48: 3703695636300966477
+      mace-kiteShield_attack_72x41_49: 4431527958297602093
+      mace-kiteShield_attack_72x41_5: -1305076482596910900
+      mace-kiteShield_attack_72x41_50: -8959671415826196674
+      mace-kiteShield_attack_72x41_51: 8967532861581834399
+      mace-kiteShield_attack_72x41_52: -8986393217291927474
+      mace-kiteShield_attack_72x41_53: -8342196134495600732
+      mace-kiteShield_attack_72x41_54: -6605430532704632381
+      mace-kiteShield_attack_72x41_55: -1881186081048608789
+      mace-kiteShield_attack_72x41_56: 530577683536097115
+      mace-kiteShield_attack_72x41_57: -1655797245891071708
+      mace-kiteShield_attack_72x41_58: 7522057093302925367
+      mace-kiteShield_attack_72x41_59: -3443123798139729483
+      mace-kiteShield_attack_72x41_6: -3431638928557412985
+      mace-kiteShield_attack_72x41_60: -7098677418856433546
+      mace-kiteShield_attack_72x41_61: -3925899358013321745
+      mace-kiteShield_attack_72x41_62: -808565326348403289
+      mace-kiteShield_attack_72x41_63: 5608903666448947020
+      mace-kiteShield_attack_72x41_64: 7181503230678351546
+      mace-kiteShield_attack_72x41_65: -604859756606566462
+      mace-kiteShield_attack_72x41_66: -8567374098633757102
+      mace-kiteShield_attack_72x41_67: -9168680116857866414
+      mace-kiteShield_attack_72x41_68: -4787899286525849865
+      mace-kiteShield_attack_72x41_69: 4401396547076170066
+      mace-kiteShield_attack_72x41_7: -5455048212769635653
+      mace-kiteShield_attack_72x41_70: -5596438315767559227
+      mace-kiteShield_attack_72x41_71: -1366110233672590951
+      mace-kiteShield_attack_72x41_72: 4687154853377781714
+      mace-kiteShield_attack_72x41_73: -2789794121130897984
+      mace-kiteShield_attack_72x41_74: 7974988240331210744
+      mace-kiteShield_attack_72x41_75: 2326738114896000386
+      mace-kiteShield_attack_72x41_76: -6604738598479274924
+      mace-kiteShield_attack_72x41_77: -1973768928388728693
+      mace-kiteShield_attack_72x41_78: -3851942910690205933
+      mace-kiteShield_attack_72x41_79: 8563081424684439177
+      mace-kiteShield_attack_72x41_8: 7069738070609210099
+      mace-kiteShield_attack_72x41_80: 1952100428612560485
+      mace-kiteShield_attack_72x41_81: 2631050222717642452
+      mace-kiteShield_attack_72x41_82: 8010153312892463704
+      mace-kiteShield_attack_72x41_83: 5848625015540907651
+      mace-kiteShield_attack_72x41_84: 5298000211160844704
+      mace-kiteShield_attack_72x41_85: 1740446208501264789
+      mace-kiteShield_attack_72x41_86: 4100957787637151660
+      mace-kiteShield_attack_72x41_87: -6079095792880364443
+      mace-kiteShield_attack_72x41_88: 6006539476168381368
+      mace-kiteShield_attack_72x41_89: -6320423936742268575
+      mace-kiteShield_attack_72x41_9: 7479709882295993333
+      mace-kiteShield_attack_72x41_90: -7801339723508417018
+      mace-kiteShield_attack_72x41_91: 3256969605410463104
+      mace-kiteShield_attack_72x41_92: -3396808954521373461
+      mace-kiteShield_attack_72x41_93: -7373245553305646108
+      mace-kiteShield_attack_72x41_94: -562277860029589114
+      mace-kiteShield_attack_72x41_95: 797436627705259710
+      mace-kiteShield_attack_72x41_96: -7510852956992286886
+      mace-kiteShield_attack_72x41_97: 6931743000428594321
+      mace-kiteShield_attack_72x41_98: -3463015264606894578
+      mace-kiteShield_attack_72x41_99: -7936883107817633043
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: 199b53d7b09ff6143900266408599ed7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2003097468663358172
+    second: spear-heaterShield_spearwall_44x42_0
+  - first:
+      213: 6920646036487377592
+    second: spear-heaterShield_spearwall_44x42_1
+  - first:
+      213: -5612013269886963625
+    second: spear-heaterShield_spearwall_44x42_2
+  - first:
+      213: 489596163333852272
+    second: spear-heaterShield_spearwall_44x42_3
+  - first:
+      213: 1521360945275639544
+    second: spear-heaterShield_spearwall_44x42_4
+  - first:
+      213: -2543314240665246253
+    second: spear-heaterShield_spearwall_44x42_5
+  - first:
+      213: -3551857261039377197
+    second: spear-heaterShield_spearwall_44x42_6
+  - first:
+      213: -1616061853233939048
+    second: spear-heaterShield_spearwall_44x42_7
+  - first:
+      213: 6921643151229348145
+    second: spear-heaterShield_spearwall_44x42_8
+  - first:
+      213: -4119730329256680313
+    second: spear-heaterShield_spearwall_44x42_9
+  - first:
+      213: 1106399789824187445
+    second: spear-heaterShield_spearwall_44x42_10
+  - first:
+      213: 3651314270823253938
+    second: spear-heaterShield_spearwall_44x42_11
+  - first:
+      213: -8029250848283906475
+    second: spear-heaterShield_spearwall_44x42_12
+  - first:
+      213: -9178527282221165850
+    second: spear-heaterShield_spearwall_44x42_13
+  - first:
+      213: -5105819345173705898
+    second: spear-heaterShield_spearwall_44x42_14
+  - first:
+      213: -6590484380228390315
+    second: spear-heaterShield_spearwall_44x42_15
+  - first:
+      213: -150937289763882021
+    second: spear-heaterShield_spearwall_44x42_16
+  - first:
+      213: -2673429432648485174
+    second: spear-heaterShield_spearwall_44x42_17
+  - first:
+      213: 7215776185177947691
+    second: spear-heaterShield_spearwall_44x42_18
+  - first:
+      213: 1913984513091138891
+    second: spear-heaterShield_spearwall_44x42_19
+  - first:
+      213: 3616461628446040027
+    second: spear-heaterShield_spearwall_44x42_20
+  - first:
+      213: -7231320402948021052
+    second: spear-heaterShield_spearwall_44x42_21
+  - first:
+      213: 1949816361109731685
+    second: spear-heaterShield_spearwall_44x42_22
+  - first:
+      213: 1322095162187988285
+    second: spear-heaterShield_spearwall_44x42_23
+  - first:
+      213: 3424017733503169808
+    second: spear-heaterShield_spearwall_44x42_24
+  - first:
+      213: 87735966480984021
+    second: spear-heaterShield_spearwall_44x42_25
+  - first:
+      213: -489007394563691348
+    second: spear-heaterShield_spearwall_44x42_26
+  - first:
+      213: 6227397378893639592
+    second: spear-heaterShield_spearwall_44x42_27
+  - first:
+      213: 6574008179004316318
+    second: spear-heaterShield_spearwall_44x42_28
+  - first:
+      213: -4466765780799448837
+    second: spear-heaterShield_spearwall_44x42_29
+  - first:
+      213: -3162149244993345382
+    second: spear-heaterShield_spearwall_44x42_30
+  - first:
+      213: 1864829894425367204
+    second: spear-heaterShield_spearwall_44x42_31
+  - first:
+      213: 7389256976351753290
+    second: spear-heaterShield_spearwall_44x42_32
+  - first:
+      213: 814583737596558754
+    second: spear-heaterShield_spearwall_44x42_33
+  - first:
+      213: 1931690945498984427
+    second: spear-heaterShield_spearwall_44x42_34
+  - first:
+      213: -7793385158640949515
+    second: spear-heaterShield_spearwall_44x42_35
+  - first:
+      213: 8633724661575485672
+    second: spear-heaterShield_spearwall_44x42_36
+  - first:
+      213: -6036154996130727455
+    second: spear-heaterShield_spearwall_44x42_37
+  - first:
+      213: 3637621311438274821
+    second: spear-heaterShield_spearwall_44x42_38
+  - first:
+      213: -2954498379114491454
+    second: spear-heaterShield_spearwall_44x42_39
+  - first:
+      213: -270028258212690060
+    second: spear-heaterShield_spearwall_44x42_40
+  - first:
+      213: -7280465228625621224
+    second: spear-heaterShield_spearwall_44x42_41
+  - first:
+      213: 7611300370508942585
+    second: spear-heaterShield_spearwall_44x42_42
+  - first:
+      213: 1904118159277466717
+    second: spear-heaterShield_spearwall_44x42_43
+  - first:
+      213: -1427683700039201502
+    second: spear-heaterShield_spearwall_44x42_44
+  - first:
+      213: -6999743777889915633
+    second: spear-heaterShield_spearwall_44x42_45
+  - first:
+      213: -3887629603841331190
+    second: spear-heaterShield_spearwall_44x42_46
+  - first:
+      213: -2719811483154791781
+    second: spear-heaterShield_spearwall_44x42_47
+  - first:
+      213: -1938544212955881179
+    second: spear-heaterShield_spearwall_44x42_48
+  - first:
+      213: 5509186694472956134
+    second: spear-heaterShield_spearwall_44x42_49
+  - first:
+      213: 2684590317782171111
+    second: spear-heaterShield_spearwall_44x42_50
+  - first:
+      213: -1593582815777320070
+    second: spear-heaterShield_spearwall_44x42_51
+  - first:
+      213: -1455485664878283683
+    second: spear-heaterShield_spearwall_44x42_52
+  - first:
+      213: -1513213959596847688
+    second: spear-heaterShield_spearwall_44x42_53
+  - first:
+      213: 6986788445162467688
+    second: spear-heaterShield_spearwall_44x42_54
+  - first:
+      213: 2989368993508861500
+    second: spear-heaterShield_spearwall_44x42_55
+  - first:
+      213: 1800827049753876058
+    second: spear-heaterShield_spearwall_44x42_56
+  - first:
+      213: -752987838720699833
+    second: spear-heaterShield_spearwall_44x42_57
+  - first:
+      213: 9124000960105448739
+    second: spear-heaterShield_spearwall_44x42_58
+  - first:
+      213: 1539386889097783183
+    second: spear-heaterShield_spearwall_44x42_59
+  - first:
+      213: 7838006127432854690
+    second: spear-heaterShield_spearwall_44x42_60
+  - first:
+      213: -5993728690527022933
+    second: spear-heaterShield_spearwall_44x42_61
+  - first:
+      213: -4555562205024476624
+    second: spear-heaterShield_spearwall_44x42_62
+  - first:
+      213: 928992583686158538
+    second: spear-heaterShield_spearwall_44x42_63
+  - first:
+      213: 7919541365443885747
+    second: spear-heaterShield_spearwall_44x42_64
+  - first:
+      213: 4360219342711760837
+    second: spear-heaterShield_spearwall_44x42_65
+  - first:
+      213: 901736819507855575
+    second: spear-heaterShield_spearwall_44x42_66
+  - first:
+      213: -5709674439317879742
+    second: spear-heaterShield_spearwall_44x42_67
+  - first:
+      213: -5925396441099421734
+    second: spear-heaterShield_spearwall_44x42_68
+  - first:
+      213: 7148327316950954918
+    second: spear-heaterShield_spearwall_44x42_69
+  - first:
+      213: 8876312285950107754
+    second: spear-heaterShield_spearwall_44x42_70
+  - first:
+      213: -1450972755606138323
+    second: spear-heaterShield_spearwall_44x42_71
+  - first:
+      213: 1273882985320788540
+    second: spear-heaterShield_spearwall_44x42_72
+  - first:
+      213: 5368961913845960719
+    second: spear-heaterShield_spearwall_44x42_73
+  - first:
+      213: 5102852223560721413
+    second: spear-heaterShield_spearwall_44x42_74
+  - first:
+      213: -5052713977314645349
+    second: spear-heaterShield_spearwall_44x42_75
+  - first:
+      213: -8040879440927121378
+    second: spear-heaterShield_spearwall_44x42_76
+  - first:
+      213: -6380626893875436035
+    second: spear-heaterShield_spearwall_44x42_77
+  - first:
+      213: -508737068523223413
+    second: spear-heaterShield_spearwall_44x42_78
+  - first:
+      213: 3584154907340993438
+    second: spear-heaterShield_spearwall_44x42_79
+  - first:
+      213: -2085172099303489676
+    second: spear-heaterShield_spearwall_44x42_80
+  - first:
+      213: -3561837812696343111
+    second: spear-heaterShield_spearwall_44x42_81
+  - first:
+      213: -8747270276340420853
+    second: spear-heaterShield_spearwall_44x42_82
+  - first:
+      213: 6750069345488335602
+    second: spear-heaterShield_spearwall_44x42_83
+  - first:
+      213: -2041773856810698824
+    second: spear-heaterShield_spearwall_44x42_84
+  - first:
+      213: -2702346643400211366
+    second: spear-heaterShield_spearwall_44x42_85
+  - first:
+      213: -1523244546878458837
+    second: spear-heaterShield_spearwall_44x42_86
+  - first:
+      213: -672635447626780279
+    second: spear-heaterShield_spearwall_44x42_87
+  - first:
+      213: 6316148081480137747
+    second: spear-heaterShield_spearwall_44x42_88
+  - first:
+      213: 7108590695349902960
+    second: spear-heaterShield_spearwall_44x42_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d16d117719334e0800000000000000
+      internalID: -2003097468663358172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b29b0d27e21b0060800000000000000
+      internalID: 6920646036487377592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750fb9d2aaf1e12b0800000000000000
+      internalID: -5612013269886963625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c88e6dd156bc600800000000000000
+      internalID: 489596163333852272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f69e4e18b5fc1510800000000000000
+      internalID: 1521360945275639544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5a4f45c2554bcd0800000000000000
+      internalID: -2543314240665246253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d42bdeb3a445bec0800000000000000
+      internalID: -3551857261039377197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d7ee68e489299e0800000000000000
+      internalID: -1616061853233939048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1396a0b06cd9e0060800000000000000
+      internalID: 6921643151229348145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784a042c717c3d6c0800000000000000
+      internalID: -4119730329256680313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c99043fb8ba5f00800000000000000
+      internalID: 1106399789824187445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b70cbbdbf21ca230800000000000000
+      internalID: 3651314270823253938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea88fe4ee529090800000000000000
+      internalID: -8029250848283906475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2d9f511125f9080800000000000000
+      internalID: -9178527282221165850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b8a9b7b5c7429b0800000000000000
+      internalID: -5105819345173705898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552f9b2cf55e984a0800000000000000
+      internalID: -6590484380228390315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb734ca553c7edf0800000000000000
+      internalID: -150937289763882021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6b9ee681216ead0800000000000000
+      internalID: -2673429432648485174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e3148a536932460800000000000000
+      internalID: 7215776185177947691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45756026c6df8a10800000000000000
+      internalID: 1913984513091138891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf5b53b0b0403230800000000000000
+      internalID: 3616461628446040027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4af3d186035ab90800000000000000
+      internalID: -7231320402948021052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569b03d56a32f0b10800000000000000
+      internalID: 1949816361109731685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d3a759b86095210800000000000000
+      internalID: 1322095162187988285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0153816ccfd848f20800000000000000
+      internalID: 3424017733503169808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ef1c8563b73100800000000000000
+      internalID: 87735966480984021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caced729d52b639f0800000000000000
+      internalID: -489007394563691348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af67240ce82c6650800000000000000
+      internalID: 6227397378893639592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a9014bb919b3b50800000000000000
+      internalID: 6574008179004316318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf81494303cd202c0800000000000000
+      internalID: -4466765780799448837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98e665f30acd14d0800000000000000
+      internalID: -3162149244993345382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2d0cf98e431e910800000000000000
+      internalID: 1864829894425367204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44f58de11aeb8660800000000000000
+      internalID: 7389256976351753290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adb04fe79bfd4b00800000000000000
+      internalID: 814583737596558754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef2e4e2eaebeca10800000000000000
+      internalID: 1931690945498984427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6a7654d7558d390800000000000000
+      internalID: -7793385158640949515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e88cb516d621d770800000000000000
+      internalID: 8633724661575485672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9bd6e03054b3ca0800000000000000
+      internalID: -6036154996130727455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5014baf4f4d6b7230800000000000000
+      internalID: 3637621311438274821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1d967b0638ff6d0800000000000000
+      internalID: -2954498379114491454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4774ae5dabaa04cf0800000000000000
+      internalID: -270028258212690060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fcf28b27796fa90800000000000000
+      internalID: -7280465228625621224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc0cfe4c55c0a960800000000000000
+      internalID: 7611300370508942585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54aa1e9069cc6a10800000000000000
+      internalID: 1904118159277466717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d4c8f2d39df2ce0800000000000000
+      internalID: -1427683700039201502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dee18ce1aebde90800000000000000
+      internalID: -6999743777889915633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00bebc097d5c0ac0800000000000000
+      internalID: -3887629603841331190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_47
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c782cdd9414ad0800000000000000
+      internalID: -2719811483154791781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52120652f48e815e0800000000000000
+      internalID: -1938544212955881179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e87e551c10947c40800000000000000
+      internalID: 5509186694472956134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edfbd2aba4914520800000000000000
+      internalID: 2684590317782171111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a731d694fd472e9e0800000000000000
+      internalID: -1593582815777320070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b141df731dcbe0800000000000000
+      internalID: -1455485664878283683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_53
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd411dcbebfffae0800000000000000
+      internalID: -1513213959596847688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86176b2c21f06f060800000000000000
+      internalID: 6986788445162467688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36a9a0e24f5c7920800000000000000
+      internalID: 2989368993508861500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a569e7a19a2ddf810800000000000000
+      internalID: 1800827049753876058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7421dd8dc89dc85f0800000000000000
+      internalID: -752987838720699833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325886d3886fe9e70800000000000000
+      internalID: 9124000960105448739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87219838300d5510800000000000000
+      internalID: 1539386889097783183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac68fc9b0136cc60800000000000000
+      internalID: 7838006127432854690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0d119138ff1dca0800000000000000
+      internalID: -5993728690527022933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03222599f4467c0c0800000000000000
+      internalID: -4555562205024476624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8f59535d174ec00800000000000000
+      internalID: 928992583686158538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba7b4f89ecd7ed60800000000000000
+      internalID: 7919541365443885747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c72f19046c928c30800000000000000
+      internalID: 4360219342711760837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d008a71cdc938c00800000000000000
+      internalID: 901736819507855575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244845d395923c0b0800000000000000
+      internalID: -5709674439317879742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7b7e6b453c4cda0800000000000000
+      internalID: -5925396441099421734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3351142d5f33360800000000000000
+      internalID: 7148327316950954918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ed7fcefefe2b70800000000000000
+      internalID: 8876312285950107754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22935367fb1ddbe0800000000000000
+      internalID: -1450972755606138323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_72
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32b57963ddbda110800000000000000
+      internalID: 1273882985320788540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00d3672a62628a40800000000000000
+      internalID: 5368961913845960719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50426aeaf09f0d640800000000000000
+      internalID: 5102852223560721413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a6286786721e9b0800000000000000
+      internalID: -5052713977314645349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e102cc930ce096090800000000000000
+      internalID: -8040879440927121378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_77
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5204265a57377a0800000000000000
+      internalID: -6380626893875436035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b868992e45a90f8f0800000000000000
+      internalID: -508737068523223413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93780806e97db130800000000000000
+      internalID: 3584154907340993438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fb57df50bff03e0800000000000000
+      internalID: -2085172099303489676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd1eaa716fc19ec0800000000000000
+      internalID: -3561837812696343111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_82
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f656857047b9680800000000000000
+      internalID: -8747270276340420853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_83
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2f51b6e401dad50800000000000000
+      internalID: 6750069345488335602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b77e19be792aa3e0800000000000000
+      internalID: -2041773856810698824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a544924ab065f7ad0800000000000000
+      internalID: -2702346643400211366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_86
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b243245b7295cdae0800000000000000
+      internalID: -1523244546878458837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_87
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981bed8cf915aa6f0800000000000000
+      internalID: -672635447626780279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c7369373777a750800000000000000
+      internalID: 6316148081480137747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-heaterShield_spearwall_44x42_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e5af11399c6a260800000000000000
+      internalID: 7108590695349902960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spear-heaterShield_spearwall_44x42_0: -2003097468663358172
+      spear-heaterShield_spearwall_44x42_1: 6920646036487377592
+      spear-heaterShield_spearwall_44x42_10: 1106399789824187445
+      spear-heaterShield_spearwall_44x42_11: 3651314270823253938
+      spear-heaterShield_spearwall_44x42_12: -8029250848283906475
+      spear-heaterShield_spearwall_44x42_13: -9178527282221165850
+      spear-heaterShield_spearwall_44x42_14: -5105819345173705898
+      spear-heaterShield_spearwall_44x42_15: -6590484380228390315
+      spear-heaterShield_spearwall_44x42_16: -150937289763882021
+      spear-heaterShield_spearwall_44x42_17: -2673429432648485174
+      spear-heaterShield_spearwall_44x42_18: 7215776185177947691
+      spear-heaterShield_spearwall_44x42_19: 1913984513091138891
+      spear-heaterShield_spearwall_44x42_2: -5612013269886963625
+      spear-heaterShield_spearwall_44x42_20: 3616461628446040027
+      spear-heaterShield_spearwall_44x42_21: -7231320402948021052
+      spear-heaterShield_spearwall_44x42_22: 1949816361109731685
+      spear-heaterShield_spearwall_44x42_23: 1322095162187988285
+      spear-heaterShield_spearwall_44x42_24: 3424017733503169808
+      spear-heaterShield_spearwall_44x42_25: 87735966480984021
+      spear-heaterShield_spearwall_44x42_26: -489007394563691348
+      spear-heaterShield_spearwall_44x42_27: 6227397378893639592
+      spear-heaterShield_spearwall_44x42_28: 6574008179004316318
+      spear-heaterShield_spearwall_44x42_29: -4466765780799448837
+      spear-heaterShield_spearwall_44x42_3: 489596163333852272
+      spear-heaterShield_spearwall_44x42_30: -3162149244993345382
+      spear-heaterShield_spearwall_44x42_31: 1864829894425367204
+      spear-heaterShield_spearwall_44x42_32: 7389256976351753290
+      spear-heaterShield_spearwall_44x42_33: 814583737596558754
+      spear-heaterShield_spearwall_44x42_34: 1931690945498984427
+      spear-heaterShield_spearwall_44x42_35: -7793385158640949515
+      spear-heaterShield_spearwall_44x42_36: 8633724661575485672
+      spear-heaterShield_spearwall_44x42_37: -6036154996130727455
+      spear-heaterShield_spearwall_44x42_38: 3637621311438274821
+      spear-heaterShield_spearwall_44x42_39: -2954498379114491454
+      spear-heaterShield_spearwall_44x42_4: 1521360945275639544
+      spear-heaterShield_spearwall_44x42_40: -270028258212690060
+      spear-heaterShield_spearwall_44x42_41: -7280465228625621224
+      spear-heaterShield_spearwall_44x42_42: 7611300370508942585
+      spear-heaterShield_spearwall_44x42_43: 1904118159277466717
+      spear-heaterShield_spearwall_44x42_44: -1427683700039201502
+      spear-heaterShield_spearwall_44x42_45: -6999743777889915633
+      spear-heaterShield_spearwall_44x42_46: -3887629603841331190
+      spear-heaterShield_spearwall_44x42_47: -2719811483154791781
+      spear-heaterShield_spearwall_44x42_48: -1938544212955881179
+      spear-heaterShield_spearwall_44x42_49: 5509186694472956134
+      spear-heaterShield_spearwall_44x42_5: -2543314240665246253
+      spear-heaterShield_spearwall_44x42_50: 2684590317782171111
+      spear-heaterShield_spearwall_44x42_51: -1593582815777320070
+      spear-heaterShield_spearwall_44x42_52: -1455485664878283683
+      spear-heaterShield_spearwall_44x42_53: -1513213959596847688
+      spear-heaterShield_spearwall_44x42_54: 6986788445162467688
+      spear-heaterShield_spearwall_44x42_55: 2989368993508861500
+      spear-heaterShield_spearwall_44x42_56: 1800827049753876058
+      spear-heaterShield_spearwall_44x42_57: -752987838720699833
+      spear-heaterShield_spearwall_44x42_58: 9124000960105448739
+      spear-heaterShield_spearwall_44x42_59: 1539386889097783183
+      spear-heaterShield_spearwall_44x42_6: -3551857261039377197
+      spear-heaterShield_spearwall_44x42_60: 7838006127432854690
+      spear-heaterShield_spearwall_44x42_61: -5993728690527022933
+      spear-heaterShield_spearwall_44x42_62: -4555562205024476624
+      spear-heaterShield_spearwall_44x42_63: 928992583686158538
+      spear-heaterShield_spearwall_44x42_64: 7919541365443885747
+      spear-heaterShield_spearwall_44x42_65: 4360219342711760837
+      spear-heaterShield_spearwall_44x42_66: 901736819507855575
+      spear-heaterShield_spearwall_44x42_67: -5709674439317879742
+      spear-heaterShield_spearwall_44x42_68: -5925396441099421734
+      spear-heaterShield_spearwall_44x42_69: 7148327316950954918
+      spear-heaterShield_spearwall_44x42_7: -1616061853233939048
+      spear-heaterShield_spearwall_44x42_70: 8876312285950107754
+      spear-heaterShield_spearwall_44x42_71: -1450972755606138323
+      spear-heaterShield_spearwall_44x42_72: 1273882985320788540
+      spear-heaterShield_spearwall_44x42_73: 5368961913845960719
+      spear-heaterShield_spearwall_44x42_74: 5102852223560721413
+      spear-heaterShield_spearwall_44x42_75: -5052713977314645349
+      spear-heaterShield_spearwall_44x42_76: -8040879440927121378
+      spear-heaterShield_spearwall_44x42_77: -6380626893875436035
+      spear-heaterShield_spearwall_44x42_78: -508737068523223413
+      spear-heaterShield_spearwall_44x42_79: 3584154907340993438
+      spear-heaterShield_spearwall_44x42_8: 6921643151229348145
+      spear-heaterShield_spearwall_44x42_80: -2085172099303489676
+      spear-heaterShield_spearwall_44x42_81: -3561837812696343111
+      spear-heaterShield_spearwall_44x42_82: -8747270276340420853
+      spear-heaterShield_spearwall_44x42_83: 6750069345488335602
+      spear-heaterShield_spearwall_44x42_84: -2041773856810698824
+      spear-heaterShield_spearwall_44x42_85: -2702346643400211366
+      spear-heaterShield_spearwall_44x42_86: -1523244546878458837
+      spear-heaterShield_spearwall_44x42_87: -672635447626780279
+      spear-heaterShield_spearwall_44x42_88: 6316148081480137747
+      spear-heaterShield_spearwall_44x42_89: 7108590695349902960
+      spear-heaterShield_spearwall_44x42_9: -4119730329256680313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

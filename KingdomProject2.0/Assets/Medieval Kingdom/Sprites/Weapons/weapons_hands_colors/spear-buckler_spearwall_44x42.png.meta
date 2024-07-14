@@ -1,0 +1,2364 @@
+fileFormatVersion: 2
+guid: 66b10aafbe09748448354614255724eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8553888145608810286
+    second: spear-buckler_spearwall_44x42_0
+  - first:
+      213: 2463100802139377531
+    second: spear-buckler_spearwall_44x42_1
+  - first:
+      213: 1499070107788433942
+    second: spear-buckler_spearwall_44x42_2
+  - first:
+      213: 4583199512049096122
+    second: spear-buckler_spearwall_44x42_3
+  - first:
+      213: 4948212583797458281
+    second: spear-buckler_spearwall_44x42_4
+  - first:
+      213: -3426262242645363072
+    second: spear-buckler_spearwall_44x42_5
+  - first:
+      213: -7393244082545694097
+    second: spear-buckler_spearwall_44x42_6
+  - first:
+      213: -4815101610111759045
+    second: spear-buckler_spearwall_44x42_7
+  - first:
+      213: -4934643168298107
+    second: spear-buckler_spearwall_44x42_8
+  - first:
+      213: -5332161180862789911
+    second: spear-buckler_spearwall_44x42_9
+  - first:
+      213: 768689980482150349
+    second: spear-buckler_spearwall_44x42_10
+  - first:
+      213: -9155429176375705657
+    second: spear-buckler_spearwall_44x42_11
+  - first:
+      213: -6917595714214788889
+    second: spear-buckler_spearwall_44x42_12
+  - first:
+      213: -1393195132746540834
+    second: spear-buckler_spearwall_44x42_13
+  - first:
+      213: -2171340268480697011
+    second: spear-buckler_spearwall_44x42_14
+  - first:
+      213: -5992983593263071065
+    second: spear-buckler_spearwall_44x42_15
+  - first:
+      213: 5672921766827942511
+    second: spear-buckler_spearwall_44x42_16
+  - first:
+      213: -8588071084132565379
+    second: spear-buckler_spearwall_44x42_17
+  - first:
+      213: 8075157295033017661
+    second: spear-buckler_spearwall_44x42_18
+  - first:
+      213: 8761822065201102957
+    second: spear-buckler_spearwall_44x42_19
+  - first:
+      213: 9192739501476877751
+    second: spear-buckler_spearwall_44x42_20
+  - first:
+      213: -6979155615491358605
+    second: spear-buckler_spearwall_44x42_21
+  - first:
+      213: 7799644878856034341
+    second: spear-buckler_spearwall_44x42_22
+  - first:
+      213: 1527751711461153933
+    second: spear-buckler_spearwall_44x42_23
+  - first:
+      213: 7573383212031000827
+    second: spear-buckler_spearwall_44x42_24
+  - first:
+      213: -481859163252804926
+    second: spear-buckler_spearwall_44x42_25
+  - first:
+      213: -6267033676754922650
+    second: spear-buckler_spearwall_44x42_26
+  - first:
+      213: -61242705761842683
+    second: spear-buckler_spearwall_44x42_27
+  - first:
+      213: 4216056522417716961
+    second: spear-buckler_spearwall_44x42_28
+  - first:
+      213: -8412155077743635883
+    second: spear-buckler_spearwall_44x42_29
+  - first:
+      213: -3923419364199157108
+    second: spear-buckler_spearwall_44x42_30
+  - first:
+      213: -1244368760630529935
+    second: spear-buckler_spearwall_44x42_31
+  - first:
+      213: 6979453658470163396
+    second: spear-buckler_spearwall_44x42_32
+  - first:
+      213: 8730002929739993444
+    second: spear-buckler_spearwall_44x42_33
+  - first:
+      213: -1572646410816909706
+    second: spear-buckler_spearwall_44x42_34
+  - first:
+      213: -3438935863450796350
+    second: spear-buckler_spearwall_44x42_35
+  - first:
+      213: 5182779998707082439
+    second: spear-buckler_spearwall_44x42_36
+  - first:
+      213: -1551201563871506280
+    second: spear-buckler_spearwall_44x42_37
+  - first:
+      213: 5651686055124586549
+    second: spear-buckler_spearwall_44x42_38
+  - first:
+      213: 8276123243939781712
+    second: spear-buckler_spearwall_44x42_39
+  - first:
+      213: 1851176320180132948
+    second: spear-buckler_spearwall_44x42_40
+  - first:
+      213: 4849655070172335689
+    second: spear-buckler_spearwall_44x42_41
+  - first:
+      213: 5802642749497686738
+    second: spear-buckler_spearwall_44x42_42
+  - first:
+      213: -4203567010422371375
+    second: spear-buckler_spearwall_44x42_43
+  - first:
+      213: -6384924510558157836
+    second: spear-buckler_spearwall_44x42_44
+  - first:
+      213: 175838377098927829
+    second: spear-buckler_spearwall_44x42_45
+  - first:
+      213: -6141392232818865801
+    second: spear-buckler_spearwall_44x42_46
+  - first:
+      213: -5602095216397599164
+    second: spear-buckler_spearwall_44x42_47
+  - first:
+      213: 2558101498247831342
+    second: spear-buckler_spearwall_44x42_48
+  - first:
+      213: -9019231320967161726
+    second: spear-buckler_spearwall_44x42_49
+  - first:
+      213: 9058768976085874952
+    second: spear-buckler_spearwall_44x42_50
+  - first:
+      213: 2284588922331224914
+    second: spear-buckler_spearwall_44x42_51
+  - first:
+      213: -4337259167511681857
+    second: spear-buckler_spearwall_44x42_52
+  - first:
+      213: -570845105946650469
+    second: spear-buckler_spearwall_44x42_53
+  - first:
+      213: -5092322950263153908
+    second: spear-buckler_spearwall_44x42_54
+  - first:
+      213: 3069507392166438876
+    second: spear-buckler_spearwall_44x42_55
+  - first:
+      213: 8713660333954304064
+    second: spear-buckler_spearwall_44x42_56
+  - first:
+      213: 8704084589226711094
+    second: spear-buckler_spearwall_44x42_57
+  - first:
+      213: 4581923974101711277
+    second: spear-buckler_spearwall_44x42_58
+  - first:
+      213: -1533304263669106027
+    second: spear-buckler_spearwall_44x42_59
+  - first:
+      213: -1573071314660063802
+    second: spear-buckler_spearwall_44x42_60
+  - first:
+      213: -860907206732362043
+    second: spear-buckler_spearwall_44x42_61
+  - first:
+      213: 7810492872797612643
+    second: spear-buckler_spearwall_44x42_62
+  - first:
+      213: -175314937498636654
+    second: spear-buckler_spearwall_44x42_63
+  - first:
+      213: 3239309650135746817
+    second: spear-buckler_spearwall_44x42_64
+  - first:
+      213: 6458589477205026166
+    second: spear-buckler_spearwall_44x42_65
+  - first:
+      213: 1316544851360018429
+    second: spear-buckler_spearwall_44x42_66
+  - first:
+      213: -4849158258423970153
+    second: spear-buckler_spearwall_44x42_67
+  - first:
+      213: -3745422290828097239
+    second: spear-buckler_spearwall_44x42_68
+  - first:
+      213: -1409059952420320873
+    second: spear-buckler_spearwall_44x42_69
+  - first:
+      213: -1952945984792639541
+    second: spear-buckler_spearwall_44x42_70
+  - first:
+      213: 7125057676656815731
+    second: spear-buckler_spearwall_44x42_71
+  - first:
+      213: -1577222409417988374
+    second: spear-buckler_spearwall_44x42_72
+  - first:
+      213: -454839885857763731
+    second: spear-buckler_spearwall_44x42_73
+  - first:
+      213: 8555859834511285128
+    second: spear-buckler_spearwall_44x42_74
+  - first:
+      213: -4686616353764745737
+    second: spear-buckler_spearwall_44x42_75
+  - first:
+      213: -5840825044339410242
+    second: spear-buckler_spearwall_44x42_76
+  - first:
+      213: 8450474647582668279
+    second: spear-buckler_spearwall_44x42_77
+  - first:
+      213: -4798567628046522935
+    second: spear-buckler_spearwall_44x42_78
+  - first:
+      213: 7798679384651607016
+    second: spear-buckler_spearwall_44x42_79
+  - first:
+      213: 6719126079633330330
+    second: spear-buckler_spearwall_44x42_80
+  - first:
+      213: 3859320503765160806
+    second: spear-buckler_spearwall_44x42_81
+  - first:
+      213: 7527343916070620047
+    second: spear-buckler_spearwall_44x42_82
+  - first:
+      213: 2739055114307318519
+    second: spear-buckler_spearwall_44x42_83
+  - first:
+      213: -7718793605146534909
+    second: spear-buckler_spearwall_44x42_84
+  - first:
+      213: 4562300515490873353
+    second: spear-buckler_spearwall_44x42_85
+  - first:
+      213: 1155456423110492164
+    second: spear-buckler_spearwall_44x42_86
+  - first:
+      213: 5072427709884338820
+    second: spear-buckler_spearwall_44x42_87
+  - first:
+      213: -3426441571997020422
+    second: spear-buckler_spearwall_44x42_88
+  - first:
+      213: 5452481409482987046
+    second: spear-buckler_spearwall_44x42_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f107fa2f385b670800000000000000
+      internalID: 8553888145608810286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f4f752121be2220800000000000000
+      internalID: 2463100802139377531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad2241254cdc410800000000000000
+      internalID: 1499070107788433942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab51e626cabca9f30800000000000000
+      internalID: 4583199512049096122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 714
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9658d52d0259ba440800000000000000
+      internalID: 4948212583797458281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863ac7b4a87370d0800000000000000
+      internalID: -3426262242645363072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6aea129dabe56990800000000000000
+      internalID: -7393244082545694097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d80ebd8925d2db0800000000000000
+      internalID: -4815101610111759045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b3cdad7f77eeff0800000000000000
+      internalID: -4934643168298107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6cb8138ab5006b0800000000000000
+      internalID: -5332161180862789911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf5a0de67feaaa00800000000000000
+      internalID: 768689980482150349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cff0efeba161f080800000000000000
+      internalID: -9155429176375705657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_12
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e086725953cfff90800000000000000
+      internalID: -6917595714214788889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8d6d188606aace0800000000000000
+      internalID: -1393195132746540834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 630
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4de4b2b789ddd1e0800000000000000
+      internalID: -2171340268480697011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a08fc29c25a4dca0800000000000000
+      internalID: -5992983593263071065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f626c5e5a444abe40800000000000000
+      internalID: 5672921766827942511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e797cb9da01d880800000000000000
+      internalID: -8588071084132565379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35e8db96c8b01070800000000000000
+      internalID: 8075157295033017661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 588
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60cd750fbe389970800000000000000
+      internalID: 8761822065201102957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51b321fdb239f70800000000000000
+      internalID: 9192739501476877751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3700772e1fe052f90800000000000000
+      internalID: -6979155615491358605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528986a61b7ed3c60800000000000000
+      internalID: 7799644878856034341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c13a2561aa33510800000000000000
+      internalID: 1527751711461153933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 546
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0c305e7ef0a1960800000000000000
+      internalID: 7573383212031000827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2bc8ed4a71059f0800000000000000
+      internalID: -481859163252804926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663dc9d33160709a0800000000000000
+      internalID: -6267033676754922650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a4bf5651c662ff0800000000000000
+      internalID: -61242705761842683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee3dabc111728a30800000000000000
+      internalID: 4216056522417716961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 504
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552979bb685024b80800000000000000
+      internalID: -8412155077743635883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82350c10e63d89c0800000000000000
+      internalID: -3923419364199157108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1703605843d1bbee0800000000000000
+      internalID: -1244368760630529935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c32a67af100cd060800000000000000
+      internalID: 6979453658470163396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_33
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461954b3963372970800000000000000
+      internalID: 8730002929739993444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 462
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e07fdeb66dc2ae0800000000000000
+      internalID: -1572646410816909706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cef9ad6d027640d0800000000000000
+      internalID: -3438935863450796350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c46fe303feece740800000000000000
+      internalID: 5182779998707082439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89098627566097ae0800000000000000
+      internalID: -1551201563871506280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530dab1f582de6e40800000000000000
+      internalID: 5651686055124586549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 420
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c5268dd32bad270800000000000000
+      internalID: 8276123243939781712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c93f42e03b0b910800000000000000
+      internalID: 1851176320180132948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e4bcc779f6d4340800000000000000
+      internalID: 4849655070172335689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da3e4246d0278050800000000000000
+      internalID: 5802642749497686738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db4932531ee9a5c0800000000000000
+      internalID: -4203567010422371375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 378
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f30f768cf03467a0800000000000000
+      internalID: -6384924510558157836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dedcd48214b07200800000000000000
+      internalID: 175838377098927829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790d708d4465caa0800000000000000
+      internalID: -6141392232818865801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_47
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eb4b4f41c5142b0800000000000000
+      internalID: -5602095216397599164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fd47e52c3308320800000000000000
+      internalID: 2558101498247831342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288dca646e045d280800000000000000
+      internalID: -9019231320967161726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8097de9636637bd70800000000000000
+      internalID: 9058768976085874952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_51
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5855458d74bf10800000000000000
+      internalID: 2284588922331224914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e8a554c5fec3c0800000000000000
+      internalID: -4337259167511681857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_53
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98974e8663f318f0800000000000000
+      internalID: -570845105946650469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 294
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bdefbc14f6459b0800000000000000
+      internalID: -5092322950263153908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd72481d5b4199a20800000000000000
+      internalID: 3069507392166438876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04802c228e32de870800000000000000
+      internalID: 8713660333954304064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385fc351de1bc870800000000000000
+      internalID: 8704084589226711094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9bd201493469f30800000000000000
+      internalID: 4581923974101711277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 252
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a396f55eb98bae0800000000000000
+      internalID: -1533304263669106027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5845b49f35b2ae0800000000000000
+      internalID: -1573071314660063802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cec42ee4717d04f0800000000000000
+      internalID: -860907206732362043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_62
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a62d3d2e1746c60800000000000000
+      internalID: 7810492872797612643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ee2924ef7219df0800000000000000
+      internalID: -175314937498636654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_64
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 210
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10906d5d6f654fc20800000000000000
+      internalID: 3239309650135746817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675a1e219e481a950800000000000000
+      internalID: 6458589477205026166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_66
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffee24219e454210800000000000000
+      internalID: 1316544851360018429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796ccf2814454bcb0800000000000000
+      internalID: -4849158258423970153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9298c554546950cc0800000000000000
+      internalID: -3745422290828097239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79902c45073027ce0800000000000000
+      internalID: -1409059952420320873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7c8e659fdb5e4e0800000000000000
+      internalID: -1952945984792639541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_71
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eac4de43a41e260800000000000000
+      internalID: 7125057676656815731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_72
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6eada33949c1ae0800000000000000
+      internalID: -1577222409417988374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_73
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ec4cd988510b9f0800000000000000
+      internalID: -454839885857763731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 126
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bd31840358cb670800000000000000
+      internalID: 8555859834511285128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdd05bc14bc5feb0800000000000000
+      internalID: -4686616353764745737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebab1f4719831fea0800000000000000
+      internalID: -5840825044339410242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_77
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5fb906bed164570800000000000000
+      internalID: 8450474647582668279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_78
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5299b8a20186db0800000000000000
+      internalID: -4798567628046522935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 84
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb2257c4997a3c60800000000000000
+      internalID: 7798679384651607016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a909b99e1912f3d50800000000000000
+      internalID: 6719126079633330330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663dd45fc8f0f8530800000000000000
+      internalID: 3859320503765160806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_82
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b469bf86f767860800000000000000
+      internalID: 7527343916070620047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_83
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f231844d14130620800000000000000
+      internalID: 2739055114307318519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 42
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1faeac1651e490800000000000000
+      internalID: -7718793605146534909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9004a60952c805f30800000000000000
+      internalID: 4562300515490873353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_86
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c1f4be71090010800000000000000
+      internalID: 1155456423110492164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_87
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48211849022e46640800000000000000
+      internalID: 5072427709884338820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_88
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe8c795b85d270d0800000000000000
+      internalID: -3426441571997020422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spear-buckler_spearwall_44x42_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62697a414fa1bab40800000000000000
+      internalID: 5452481409482987046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spear-buckler_spearwall_44x42_0: 8553888145608810286
+      spear-buckler_spearwall_44x42_1: 2463100802139377531
+      spear-buckler_spearwall_44x42_10: 768689980482150349
+      spear-buckler_spearwall_44x42_11: -9155429176375705657
+      spear-buckler_spearwall_44x42_12: -6917595714214788889
+      spear-buckler_spearwall_44x42_13: -1393195132746540834
+      spear-buckler_spearwall_44x42_14: -2171340268480697011
+      spear-buckler_spearwall_44x42_15: -5992983593263071065
+      spear-buckler_spearwall_44x42_16: 5672921766827942511
+      spear-buckler_spearwall_44x42_17: -8588071084132565379
+      spear-buckler_spearwall_44x42_18: 8075157295033017661
+      spear-buckler_spearwall_44x42_19: 8761822065201102957
+      spear-buckler_spearwall_44x42_2: 1499070107788433942
+      spear-buckler_spearwall_44x42_20: 9192739501476877751
+      spear-buckler_spearwall_44x42_21: -6979155615491358605
+      spear-buckler_spearwall_44x42_22: 7799644878856034341
+      spear-buckler_spearwall_44x42_23: 1527751711461153933
+      spear-buckler_spearwall_44x42_24: 7573383212031000827
+      spear-buckler_spearwall_44x42_25: -481859163252804926
+      spear-buckler_spearwall_44x42_26: -6267033676754922650
+      spear-buckler_spearwall_44x42_27: -61242705761842683
+      spear-buckler_spearwall_44x42_28: 4216056522417716961
+      spear-buckler_spearwall_44x42_29: -8412155077743635883
+      spear-buckler_spearwall_44x42_3: 4583199512049096122
+      spear-buckler_spearwall_44x42_30: -3923419364199157108
+      spear-buckler_spearwall_44x42_31: -1244368760630529935
+      spear-buckler_spearwall_44x42_32: 6979453658470163396
+      spear-buckler_spearwall_44x42_33: 8730002929739993444
+      spear-buckler_spearwall_44x42_34: -1572646410816909706
+      spear-buckler_spearwall_44x42_35: -3438935863450796350
+      spear-buckler_spearwall_44x42_36: 5182779998707082439
+      spear-buckler_spearwall_44x42_37: -1551201563871506280
+      spear-buckler_spearwall_44x42_38: 5651686055124586549
+      spear-buckler_spearwall_44x42_39: 8276123243939781712
+      spear-buckler_spearwall_44x42_4: 4948212583797458281
+      spear-buckler_spearwall_44x42_40: 1851176320180132948
+      spear-buckler_spearwall_44x42_41: 4849655070172335689
+      spear-buckler_spearwall_44x42_42: 5802642749497686738
+      spear-buckler_spearwall_44x42_43: -4203567010422371375
+      spear-buckler_spearwall_44x42_44: -6384924510558157836
+      spear-buckler_spearwall_44x42_45: 175838377098927829
+      spear-buckler_spearwall_44x42_46: -6141392232818865801
+      spear-buckler_spearwall_44x42_47: -5602095216397599164
+      spear-buckler_spearwall_44x42_48: 2558101498247831342
+      spear-buckler_spearwall_44x42_49: -9019231320967161726
+      spear-buckler_spearwall_44x42_5: -3426262242645363072
+      spear-buckler_spearwall_44x42_50: 9058768976085874952
+      spear-buckler_spearwall_44x42_51: 2284588922331224914
+      spear-buckler_spearwall_44x42_52: -4337259167511681857
+      spear-buckler_spearwall_44x42_53: -570845105946650469
+      spear-buckler_spearwall_44x42_54: -5092322950263153908
+      spear-buckler_spearwall_44x42_55: 3069507392166438876
+      spear-buckler_spearwall_44x42_56: 8713660333954304064
+      spear-buckler_spearwall_44x42_57: 8704084589226711094
+      spear-buckler_spearwall_44x42_58: 4581923974101711277
+      spear-buckler_spearwall_44x42_59: -1533304263669106027
+      spear-buckler_spearwall_44x42_6: -7393244082545694097
+      spear-buckler_spearwall_44x42_60: -1573071314660063802
+      spear-buckler_spearwall_44x42_61: -860907206732362043
+      spear-buckler_spearwall_44x42_62: 7810492872797612643
+      spear-buckler_spearwall_44x42_63: -175314937498636654
+      spear-buckler_spearwall_44x42_64: 3239309650135746817
+      spear-buckler_spearwall_44x42_65: 6458589477205026166
+      spear-buckler_spearwall_44x42_66: 1316544851360018429
+      spear-buckler_spearwall_44x42_67: -4849158258423970153
+      spear-buckler_spearwall_44x42_68: -3745422290828097239
+      spear-buckler_spearwall_44x42_69: -1409059952420320873
+      spear-buckler_spearwall_44x42_7: -4815101610111759045
+      spear-buckler_spearwall_44x42_70: -1952945984792639541
+      spear-buckler_spearwall_44x42_71: 7125057676656815731
+      spear-buckler_spearwall_44x42_72: -1577222409417988374
+      spear-buckler_spearwall_44x42_73: -454839885857763731
+      spear-buckler_spearwall_44x42_74: 8555859834511285128
+      spear-buckler_spearwall_44x42_75: -4686616353764745737
+      spear-buckler_spearwall_44x42_76: -5840825044339410242
+      spear-buckler_spearwall_44x42_77: 8450474647582668279
+      spear-buckler_spearwall_44x42_78: -4798567628046522935
+      spear-buckler_spearwall_44x42_79: 7798679384651607016
+      spear-buckler_spearwall_44x42_8: -4934643168298107
+      spear-buckler_spearwall_44x42_80: 6719126079633330330
+      spear-buckler_spearwall_44x42_81: 3859320503765160806
+      spear-buckler_spearwall_44x42_82: 7527343916070620047
+      spear-buckler_spearwall_44x42_83: 2739055114307318519
+      spear-buckler_spearwall_44x42_84: -7718793605146534909
+      spear-buckler_spearwall_44x42_85: 4562300515490873353
+      spear-buckler_spearwall_44x42_86: 1155456423110492164
+      spear-buckler_spearwall_44x42_87: 5072427709884338820
+      spear-buckler_spearwall_44x42_88: -3426441571997020422
+      spear-buckler_spearwall_44x42_89: 5452481409482987046
+      spear-buckler_spearwall_44x42_9: -5332161180862789911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1214 @@
+fileFormatVersion: 2
+guid: 41d7b859fc596264481e7956f5d75952
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2357823070408628911
+    second: plow_35x32_0
+  - first:
+      213: -8416286896062057181
+    second: plow_35x32_1
+  - first:
+      213: 2989091252594015260
+    second: plow_35x32_2
+  - first:
+      213: -2544747858739970781
+    second: plow_35x32_3
+  - first:
+      213: -1322750571383886627
+    second: plow_35x32_4
+  - first:
+      213: -1798625158604996332
+    second: plow_35x32_5
+  - first:
+      213: 7221380195681722387
+    second: plow_35x32_6
+  - first:
+      213: -5259669517718493213
+    second: plow_35x32_7
+  - first:
+      213: -4288823152788904417
+    second: plow_35x32_8
+  - first:
+      213: -343352131069580765
+    second: plow_35x32_9
+  - first:
+      213: -4347079945639268828
+    second: plow_35x32_10
+  - first:
+      213: -6607327796186408291
+    second: plow_35x32_11
+  - first:
+      213: -8162694577185994098
+    second: plow_35x32_12
+  - first:
+      213: 5849620782634321219
+    second: plow_35x32_13
+  - first:
+      213: -4253903020799348014
+    second: plow_35x32_14
+  - first:
+      213: 3356374549782536746
+    second: plow_35x32_15
+  - first:
+      213: -836515742033441204
+    second: plow_35x32_16
+  - first:
+      213: 2413845648064876434
+    second: plow_35x32_17
+  - first:
+      213: -4204516207866510785
+    second: plow_35x32_18
+  - first:
+      213: 9096910626621940544
+    second: plow_35x32_19
+  - first:
+      213: 6079264780315048736
+    second: plow_35x32_20
+  - first:
+      213: 6022680972127447449
+    second: plow_35x32_21
+  - first:
+      213: 2737791613170009549
+    second: plow_35x32_22
+  - first:
+      213: -1051941996068650780
+    second: plow_35x32_23
+  - first:
+      213: 2082312823871744807
+    second: plow_35x32_24
+  - first:
+      213: 1631792983555121522
+    second: plow_35x32_25
+  - first:
+      213: -5801137737672213749
+    second: plow_35x32_26
+  - first:
+      213: 8529769411289160347
+    second: plow_35x32_27
+  - first:
+      213: -6424729263087857185
+    second: plow_35x32_28
+  - first:
+      213: 973949154408205276
+    second: plow_35x32_29
+  - first:
+      213: -9082489901220246826
+    second: plow_35x32_30
+  - first:
+      213: 1767142275865107939
+    second: plow_35x32_31
+  - first:
+      213: 6110223476057938078
+    second: plow_35x32_32
+  - first:
+      213: 4336071523752339970
+    second: plow_35x32_33
+  - first:
+      213: 7977345992214288392
+    second: plow_35x32_34
+  - first:
+      213: -9148179340191496176
+    second: plow_35x32_35
+  - first:
+      213: 6503002278687125244
+    second: plow_35x32_36
+  - first:
+      213: 7420738447663092611
+    second: plow_35x32_37
+  - first:
+      213: -8213774391605623216
+    second: plow_35x32_38
+  - first:
+      213: 549499250821744718
+    second: plow_35x32_39
+  - first:
+      213: 76051738817403063
+    second: plow_35x32_40
+  - first:
+      213: 6417996851654692936
+    second: plow_35x32_41
+  - first:
+      213: 6156070491783908890
+    second: plow_35x32_42
+  - first:
+      213: -9009711896310566503
+    second: plow_35x32_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plow_35x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a215e864574fd0800000000000000
+      internalID: -2357823070408628911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3253270d8a7533b80800000000000000
+      internalID: -8416286896062057181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf71848a26b7920800000000000000
+      internalID: 2989091252594015260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d3edc1e4d3facd0800000000000000
+      internalID: -2544747858739970781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddce7321d55a4ade0800000000000000
+      internalID: -1322750571383886627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411c441a2fff907e0800000000000000
+      internalID: -1798625158604996332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31066a7070f773460800000000000000
+      internalID: 7221380195681722387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e76078c076e107b0800000000000000
+      internalID: -5259669517718493213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16eb81d01a0b74c0800000000000000
+      internalID: -4288823152788904417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a69b25e0b2c3bf0800000000000000
+      internalID: -343352131069580765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 96
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e62fd32d11ca3c0800000000000000
+      internalID: -4347079945639268828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a9eb1606e0e44a0800000000000000
+      internalID: -6607327796186408291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a42d4a78848be80800000000000000
+      internalID: -8162694577185994098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34549a3fb170e2150800000000000000
+      internalID: 5849620782634321219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d23b40adb917f4c0800000000000000
+      internalID: -4253903020799348014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2223f4cedc349e20800000000000000
+      internalID: 3356374549782536746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e031b5d591464f0800000000000000
+      internalID: -836515742033441204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_17
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f878be3d3bf7120800000000000000
+      internalID: 2413845648064876434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f328eb119ce86a5c0800000000000000
+      internalID: -4204516207866510785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043e6457408be3e70800000000000000
+      internalID: 9096910626621940544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_20
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb83ebb13ed5450800000000000000
+      internalID: 6079264780315048736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99929234f6cd49350800000000000000
+      internalID: 6022680972127447449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ca0c77f69ef520800000000000000
+      internalID: 2737791613170009549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04308f350c661f0800000000000000
+      internalID: -1051941996068650780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bad121b7cd5ec10800000000000000
+      internalID: 2082312823871744807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27127cba21b45a610800000000000000
+      internalID: 1631792983555121522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b3fec96f73e7fa0800000000000000
+      internalID: -5801137737672213749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a12ef3614df5670800000000000000
+      internalID: 8529769411289160347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1579f56c6c6d6a0800000000000000
+      internalID: -6424729263087857185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb0bc18899248d00800000000000000
+      internalID: 973949154408205276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dac1b15e8384f180800000000000000
+      internalID: -9082489901220246826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_31
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edd3848986268810800000000000000
+      internalID: 1767142275865107939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 32
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e989facc0efdbc450800000000000000
+      internalID: 6110223476057938078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ae1fdc312dc2c30800000000000000
+      internalID: 4336071523752339970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80891540ae935be60800000000000000
+      internalID: 7977345992214288392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0188156fb532b0180800000000000000
+      internalID: -9148179340191496176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea3ba3e1e4f3a50800000000000000
+      internalID: 6503002278687125244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383da082d42cbf660800000000000000
+      internalID: 7420738447663092611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056852395bfc20e80800000000000000
+      internalID: -8213774391605623216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48c29148a630a700800000000000000
+      internalID: 549499250821744718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b813cc47a03e0100800000000000000
+      internalID: 76051738817403063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8401470f12e411950800000000000000
+      internalID: 6417996851654692936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4b0bfe71ce6550800000000000000
+      internalID: 6156070491783908890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plow_35x32_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9913ccb04c217f280800000000000000
+      internalID: -9009711896310566503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      plow_35x32_0: -2357823070408628911
+      plow_35x32_1: -8416286896062057181
+      plow_35x32_10: -4347079945639268828
+      plow_35x32_11: -6607327796186408291
+      plow_35x32_12: -8162694577185994098
+      plow_35x32_13: 5849620782634321219
+      plow_35x32_14: -4253903020799348014
+      plow_35x32_15: 3356374549782536746
+      plow_35x32_16: -836515742033441204
+      plow_35x32_17: 2413845648064876434
+      plow_35x32_18: -4204516207866510785
+      plow_35x32_19: 9096910626621940544
+      plow_35x32_2: 2989091252594015260
+      plow_35x32_20: 6079264780315048736
+      plow_35x32_21: 6022680972127447449
+      plow_35x32_22: 2737791613170009549
+      plow_35x32_23: -1051941996068650780
+      plow_35x32_24: 2082312823871744807
+      plow_35x32_25: 1631792983555121522
+      plow_35x32_26: -5801137737672213749
+      plow_35x32_27: 8529769411289160347
+      plow_35x32_28: -6424729263087857185
+      plow_35x32_29: 973949154408205276
+      plow_35x32_3: -2544747858739970781
+      plow_35x32_30: -9082489901220246826
+      plow_35x32_31: 1767142275865107939
+      plow_35x32_32: 6110223476057938078
+      plow_35x32_33: 4336071523752339970
+      plow_35x32_34: 7977345992214288392
+      plow_35x32_35: -9148179340191496176
+      plow_35x32_36: 6503002278687125244
+      plow_35x32_37: 7420738447663092611
+      plow_35x32_38: -8213774391605623216
+      plow_35x32_39: 549499250821744718
+      plow_35x32_4: -1322750571383886627
+      plow_35x32_40: 76051738817403063
+      plow_35x32_41: 6417996851654692936
+      plow_35x32_42: 6156070491783908890
+      plow_35x32_43: -9009711896310566503
+      plow_35x32_5: -1798625158604996332
+      plow_35x32_6: 7221380195681722387
+      plow_35x32_7: -5259669517718493213
+      plow_35x32_8: -4288823152788904417
+      plow_35x32_9: -343352131069580765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
