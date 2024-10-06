@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Knight
+  - Enemy
+  - PlayerTroops
+  - Obstacles
   layers:
   - Default
   - TransparentFX
@@ -12,8 +15,8 @@ TagManager:
   - NPC
   - Water
   - UI
-  - 
-  - 
+  - Enemy
+  - Obstacles
   - 
   - 
   - 

@@ -2,27 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyHealth : MonoBehaviour
+public class EnemyAttackLogic : MonoBehaviour
 {
-    //public float health;
-    //private float currentHealth;
+    public float health;
+    public float currentHealth;
     private Animator anim;
 
     public GameObject attackPoint; // Reference to the attack point GameObject
     public float radius;
-    public LayerMask enemies;
+    public LayerMask goodNPCS;
     public float damage;
-    public AudioSource woodWall;
-
+    
     void Start()
     {
         anim = GetComponent<Animator>();
-       // currentHealth = health;
+        currentHealth = health;
     }
 
     void Update()
     {
-        /*
         if (health < currentHealth)
         {
             currentHealth = health;
@@ -33,21 +31,19 @@ public class EnemyHealth : MonoBehaviour
         {
             //Debug.Log("Enemy is dead");
         }
-        */
     }
 
-    public void Attacking()
+    public void EnemyAttack()
     {
-        Collider2D[] enemiesHit = Physics2D.OverlapCircleAll(attackPoint.transform.position, radius, enemies);
+        Collider2D[] goodNPCSHit = Physics2D.OverlapCircleAll(attackPoint.transform.position, radius, goodNPCS);
 
-        foreach (Collider2D enemyCollider in enemiesHit)
+        foreach (Collider2D goodNPCSCollider in goodNPCSHit)
         {
-            Debug.Log("Hit enemy");
+            Debug.Log("Hit goodNPCS");
 
             // Call StartFlashing on all descendants of the enemy
-            CallStartFlashingRecursively(enemyCollider.transform);
-            enemyCollider.GetComponent<EnemyAttack>().EnemyHealth -=damage;
-            enemyCollider.GetComponent<EnemyAttack>().Hit.Play();
+            CallStartFlashingRecursively(goodNPCSCollider.transform);
+            goodNPCSCollider.GetComponent<SoldierFollow>().SoldierHealth -=damage;
         }
     }
 

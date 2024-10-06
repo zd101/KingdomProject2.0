@@ -7,48 +7,80 @@ public class CharacterMovement : MonoBehaviour
     public float moveSpeed = 5f; // Adjust this value to set the movement speed
     float moveInput;
     private Rigidbody2D rb;
-    Animator animator;
+    private Animator animator;
     bool isFacingRight = false;
-
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
+
+        // Find the Animator component on the child GameObject
+        animator = GetComponentInChildren<Animator>();
+
+        if (rb == null)
+        {
+            Debug.LogError("Rigidbody2D not found on the child GameObject.");
+        }
+
+        if (animator == null)
+        {
+            Debug.LogError("Animator not found on the child GameObject.");
+        }
     }
 
     void Update()
     {
         // Get input from the horizontal axis (left and right arrow keys)
         moveInput = Input.GetAxis("Horizontal");
-        Flipsprite();
 
-        if (moveInput > .1f || moveInput < -.1f) {
+        if (moveInput != 0)
+        {
             animator.SetBool("isWalking", true);
-        } else {
+        }
+        else
+        {
             animator.SetBool("isWalking", false);
         }
+
+        FlipSprite();
     }
-    private void FixedUpdate() {
+
+    private void FixedUpdate()
+    {
         rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
+
         animator.SetFloat("xVelocity", Mathf.Abs(rb.velocity.x));
 
-        if(Input.GetMouseButtonDown(0)) {
+        if (Input.GetMouseButtonDown(0))
+        {
             animator.SetBool("isAttacking", true);
         }
-         
     }
-    void Flipsprite() {
-        if (isFacingRight && moveInput < 0f || !isFacingRight && moveInput > 0f) {
-            isFacingRight = !isFacingRight;
-            Vector3 ls = transform.localScale;
-            ls.x *= -1f;
-            transform.localScale = ls;
+
+    void FlipSprite()
+    {
+        if (isFacingRight && moveInput < 0f || !isFacingRight && moveInput > 0f)
+        {
+             isFacingRight = !isFacingRight;
+
+            // Flip the sprite of the parent GameObject
+            Transform parentTransform = transform.parent;
+            if (parentTransform != null)
+            {
+                Vector3 ls = parentTransform.localScale;
+                ls.x *= -1f;
+                parentTransform.localScale = ls;
+                Debug.Log("Flipping sprite, new parent localScale: " + parentTransform.localScale);
+            }
+            else
+            {
+                Debug.LogError("Parent GameObject not found.");
+            }
         }
     }
 
-    public void EndAttack() {
+    public void EndAttack()
+    {
         animator.SetBool("isAttacking", false);
     }
-    }
-
+}

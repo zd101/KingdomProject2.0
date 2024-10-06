@@ -100,13 +100,14 @@ public class KingScript : MonoBehaviour
             knightGameObject.transform.localScale = ls;
         }
     }
+    
 
     public void Attack() {
         Collider2D[] enemy = Physics2D.OverlapCircleAll(AttackPoint.transform.position, radius, enemies);
 
         foreach (Collider2D enemyGameObject in enemy) {
             Debug.Log("Hit enemy");
-            enemyGameObject.GetComponent<EnemyHealth>().health -= 10;
+            //enemyGameObject.GetComponent<EnemyHealth>().health -= 10;
         }
     }
 
