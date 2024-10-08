@@ -4,20 +4,23 @@ using UnityEngine;
 
 public class WarriorArrow : MonoBehaviour
 {
-    public float lifetime = 5f; // Time before the arrow disappears if it doesn't hit anything
+    
+    public float lifetime = 0.1f; // Time before the arrow disappears if it doesn't hit anything
 
     void Start()
     {
-        // Destroy the arrow after 'lifetime' seconds if it doesn't hit anything
-        StartCoroutine(DestroyAfterDelay(lifetime));
+        // Destroy the arrow after a set time (e.g., 5 seconds) if it doesn't hit anything
+        //Destroy(gameObject, lifetime);
+        StartCoroutine(DestroyAfterDelay(1f));
+
     }
 
     // Detect when the arrow collides with an object
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        // Check if the object collided with has the "Enemy" or "Obstacles" tag
+        // Check if the object collided with has the "PlayerTroops" tag
         if (collision.gameObject.CompareTag("Enemy") || 
-            collision.gameObject.CompareTag("Obstacles"))
+        collision.gameObject.CompareTag("Obstacles") )
         {
             // Destroy the arrow on impact
             Destroy(gameObject);
@@ -27,7 +30,7 @@ public class WarriorArrow : MonoBehaviour
         }
     }
 
-    IEnumerator DestroyAfterDelay(float delay)
+       IEnumerator DestroyAfterDelay(float delay)
     {
         yield return new WaitForSeconds(delay);
         Destroy(gameObject);

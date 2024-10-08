@@ -6,6 +6,7 @@ public class FlagController : MonoBehaviour
 {
     public GameObject flagPrefab;  // The flag prefab to be instantiated
     public GameObject capsulePrefab;  // The capsule prefab to be instantiated
+    public GameObject player;  // Reference to the player GameObject (assigned in Inspector)
     public float flagSpawnHeightOffset = -1.0f;  // Adjustable height offset for flag spawn
     public float moveSpeed = 5f;   // Speed at which the capsules move towards the flag
     public KeyCode flagControlKey = KeyCode.LeftShift;  // Key to activate flag placement mode
@@ -21,11 +22,15 @@ public class FlagController : MonoBehaviour
     private GameObject currentFlag = null;  // Store the flag that's currently placed
     private bool isPlacingFlag = false;
     private Vector3 lastFlagPosition;  // Store the last position of the flag
+    private bool isFlagPlacedOnce = false;  // Check if the flag has been placed once
 
     void Start()
     {
+        // Spawn the flag near the player's position on game start
+        Vector3 playerPosition = player.transform.position;  // Get the player's position
+        lastFlagPosition = new Vector3(playerPosition.x + 2f, playerPosition.y + flagSpawnHeightOffset, playerPosition.z);  // Default spawn close to player
+
         currentFlag = null;  // Ensure no flag exists at game start
-        lastFlagPosition = new Vector3(transform.position.x, groundYPosition + flagSpawnHeightOffset, transform.position.z); // Default starting position
         Debug.Log("Selected Group: " + (currentGroupIndex == -1 ? "All Groups" : "Group " + currentGroupIndex));
     }
 
@@ -36,18 +41,6 @@ public class FlagController : MonoBehaviour
 
         // Move units based on the selected group
         MoveSelectedGroupUnits();
-
-        // Spawn a new capsule in the current group when 'K' is pressed
-        /*
-        if (Input.GetKeyDown(spawnCapsuleKey))
-        {
-            if (currentGroupIndex != -1)  // Only spawn in the selected group
-            {
-                SpawnNewUnitInCurrentGroup();
-                Debug.Log("Spawned new unit in Group " + currentGroupIndex);
-            }
-        }
-        */
 
         // Handle group selection
         HandleGroupSelection();
@@ -78,15 +71,22 @@ public class FlagController : MonoBehaviour
     {
         isPlacingFlag = true;
 
+        // On first flag placement, spawn near the player, but after the first placement, retain the last position
+        if (!isFlagPlacedOnce)
+        {
+            Vector3 playerPosition = player.transform.position;  // Get the player's position
+            lastFlagPosition = new Vector3(playerPosition.x + 2f, playerPosition.y + flagSpawnHeightOffset, playerPosition.z);  // Spawn near the player
+        }
+
         // Instantiate the flag if it doesn't exist, or make it visible if it was hidden
         if (currentFlag == null)
         {
-            currentFlag = Instantiate(flagPrefab, lastFlagPosition, Quaternion.identity);
+            currentFlag = Instantiate(flagPrefab, lastFlagPosition, Quaternion.identity);  // Use lastFlagPosition
         }
         else
         {
             // Make sure the flag is active and visible
-            currentFlag.transform.position = lastFlagPosition;
+            currentFlag.transform.position = lastFlagPosition;  // Move the flag to the lastFlagPosition
             currentFlag.SetActive(true);  // Re-enable the flag
         }
     }
@@ -101,6 +101,9 @@ public class FlagController : MonoBehaviour
             SetTargetPositionForSelectedGroup();
             lastFlagPosition = currentFlag.transform.position;  // Store the flag's last position
             currentFlag.SetActive(false);  // Hide the flag (disable it visually but keep its position)
+
+            // After the first placement, flag will now retain its position
+            isFlagPlacedOnce = true;
         }
     }
 
@@ -164,11 +167,6 @@ public class FlagController : MonoBehaviour
         }
     }
 
-    void SpawnNewUnitInCurrentGroup()
-    {
-        groups[currentGroupIndex].SpawnNewUnit(capsulePrefab, groundYPosition);
-    }
-
     public void CreateNewGroup()
     {
         Group newGroup = new Group(groundYPosition); // Don't create a flag here
@@ -194,7 +192,6 @@ public class FlagController : MonoBehaviour
             Debug.Log("Selected Group 2");
         }
         // Add more group selection keys as needed (Alpha3, Alpha4, etc.)
-        // Ensure that the selected group number does not exceed the number of groups
         else if (Input.GetKeyDown(KeyCode.Alpha3) && groups.Count >= 3)
         {
             currentGroupIndex = 2;  // Select Group 3

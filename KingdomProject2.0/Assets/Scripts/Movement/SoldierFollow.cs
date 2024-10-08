@@ -8,8 +8,6 @@ public class SoldierFollow : MonoBehaviour
     public float speed = 5f; // Speed at which the GameObject will move towards the target
     public float stopRange = 1f; // Adjustable range within which the soldier will stop when following the target
     public float enemyStopRange = 0f; // Adjustable range within which the soldier will stop when following the enemy (set to 0 to go all the way)
-    public float separationDistance = 1f; // Distance between soldiers to avoid stacking
-    public float separationStrength = 1f; // Strength of the separation force applied
     private Rigidbody2D rb;
     private Animator animator;
     private bool isFacingRight = false; // Indicates whether the soldier is facing right
@@ -65,7 +63,7 @@ public class SoldierFollow : MonoBehaviour
         }
 
         // Check if 'N' is pressed to enter No Target mode (stationary)
-        if (Input.GetKeyDown(KeyCode.N))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             noTarget = true; // Enable no target mode
             targetingEnemies = false; // Disable targeting enemies
@@ -76,10 +74,11 @@ public class SoldierFollow : MonoBehaviour
         {
             if (noTarget)
             {
-                // **No target mode**: The soldier won't follow any target, but can still move on its own
-                // No target-following logic here, just allow other movement systems
-                // You can still move them through other means, such as manual controls
-                animator.SetFloat("xVelocity", Mathf.Abs(rb.velocity.x));
+                // No target mode: The soldier won't follow any target, but can still move on its own
+                if (Mathf.Abs(rb.velocity.x) > 0.01f)  // Only update xVelocity when the soldier is moving
+                {
+                    animator.SetFloat("xVelocity", Mathf.Abs(rb.velocity.x));
+                }
             }
             else if (targetingEnemies && enemyTargets.Count > 0)
             {
@@ -112,9 +111,6 @@ public class SoldierFollow : MonoBehaviour
             rb.velocity = Vector2.zero;
             animator.SetFloat("xVelocity", 0);
         }
-
-        // Apply separation logic to avoid stacking soldiers
-        //ApplySeparation();
     }
 
     Transform FindClosestEnemy()
@@ -153,7 +149,11 @@ public class SoldierFollow : MonoBehaviour
 
             rb.velocity = new Vector2(smoothedVelocityX, rb.velocity.y);
 
-            animator.SetFloat("xVelocity", Mathf.Abs(rb.velocity.x));
+            // Only update xVelocity in the animator if the soldier is actually moving
+            if (Mathf.Abs(rb.velocity.x) > 0.01f)
+            {
+                animator.SetFloat("xVelocity", Mathf.Abs(rb.velocity.x));
+            }
             animator.SetBool("isAttacking", false);
 
             Flipsprite();
@@ -162,7 +162,6 @@ public class SoldierFollow : MonoBehaviour
         {
             rb.velocity = Vector2.zero;
             animator.SetFloat("xVelocity", 0);
-            //animator.SetBool("isAttacking", true);
         }
     }
 
@@ -205,6 +204,7 @@ public class SoldierFollow : MonoBehaviour
     public void SetNoTarget(bool value)
     {
         noTarget = value;  // Set the noTarget mode to the given value
+        targetingEnemies = false;
         Debug.Log("NoTarget enabled: " + noTarget);
     }
 }

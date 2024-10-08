@@ -27,7 +27,7 @@ public class Group
             SoldierFollow soldierFollow = capsule.GetComponent<SoldierFollow>();
             if (soldierFollow != null)
             {
-                soldierFollow.SetNoTarget(true);  // Disable noTarget mode so soldiers can move to the flag
+                soldierFollow.SetNoTarget(false);  // Disable noTarget mode so soldiers can move to the flag
             }
         }
     }
@@ -44,24 +44,52 @@ public class Group
         for (int i = 0; i < capsuleCount; i++)
         {
             GameObject capsule = capsules[i];
-            Rigidbody2D rb = capsule.GetComponent<Rigidbody2D>();
-            if (rb == null) continue;
+
+            // If Rigidbody2D and Animator are on the child (first child, index 0)
+            Transform childTransform = capsule.transform.GetChild(0);  // Get the first (and only) child
+            Rigidbody2D rb = childTransform.GetComponent<Rigidbody2D>();  // Get Rigidbody2D from child
+            Animator animator = childTransform.GetComponent<Animator>();  // Get Animator from child
+
+            // Debugging: Ensure Rigidbody and Animator exist
+            if (rb == null)
+            {
+                Debug.LogError("Rigidbody2D not found on child of capsule: " + capsule.name);
+                continue;
+            }
+            if (animator == null)
+            {
+                Debug.LogError("Animator not found on child of capsule: " + capsule.name);
+                continue;
+            }
 
             Vector3 formationPosition = formationStart + new Vector3(i * formationSpacing, 0, 0);
             float distanceToTarget = Vector2.Distance(capsule.transform.position, formationPosition);
 
             if (distanceToTarget > 0.1f)
             {
+                // Move capsule towards the formation position
                 Vector2 direction = (formationPosition - capsule.transform.position).normalized;
                 float targetVelocityX = direction.x * speed;
                 rb.velocity = new Vector2(targetVelocityX, rb.velocity.y);
+
+                // Debugging: Check velocity changes
+                Debug.Log("Capsule " + capsule.name + " moving with velocity X: " + rb.velocity.x);
             }
             else
             {
+                // Stop the capsule if it's close enough to the target
                 rb.velocity = new Vector2(0, rb.velocity.y);
+                Debug.Log("Capsule " + capsule.name + " stopped.");
             }
+
+            // Update the animator with the current velocity
+            animator.SetFloat("xVelocity", Mathf.Abs(rb.velocity.x)); // Set the velocity to the animator
+
+            // Debugging: Ensure Animator xVelocity is being updated
+            Debug.Log("Animator xVelocity for capsule " + capsule.name + ": " + Mathf.Abs(rb.velocity.x));
         }
 
+        // Check if all capsules have reached their formation positions
         if (capsules.TrueForAll(c => Vector3.Distance(c.transform.position, formationStart + new Vector3(capsules.IndexOf(c) * formationSpacing, 0, 0)) < 0.1f))
         {
             isTargetPositionSet = false;
