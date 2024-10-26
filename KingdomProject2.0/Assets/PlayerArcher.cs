@@ -3,17 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerArcher : MonoBehaviour
-{
+{  
     public GameObject arrowPrefab; // The arrow projectile prefab
     public Transform shootingPoint; // The point from which the arrow will be shot
-    public float shootingRange = 10f; // The range within which the archer will shoot at PlayerTroops
-    public float arrowSpeed = 10f; // The initial speed of the arrow projectile
+    public float arrowSpeed = 10f; // The base speed of the arrow projectile
+    public float strengthMultiplier = 1.0f; // Adjustable multiplier to increase the strength of the arrow
     public float timeBetweenShots = 1f; // Delay between shots
+    public float shootingRange = 10f; // Range within which the archer will detect and shoot at enemies
     private float lastShotTime;
     private Transform currentTarget; // To store the current target for shooting
     private Animator animator; // Reference to the Animator component
     public AudioSource ArrowSound;
-    private bool isFacingRight = true; // To track the direction the archer is facing
+    private bool isFacingRight = false; // Tracks the direction the archer is facing
 
     void Start()
     {
@@ -23,50 +24,68 @@ public class PlayerArcher : MonoBehaviour
 
     void Update()
     {
+        // Check if currentTarget is disabled or null
+        if (currentTarget == null || !currentTarget.gameObject.activeInHierarchy)
+        {
+            // Reset current target if it's disabled
+            currentTarget = null;
+            FindNewTarget();
+        }
+
+        // Check if there's a valid target and it's time to shoot
+        if (currentTarget != null && Time.time >= lastShotTime + timeBetweenShots)
+        {
+            animator.SetBool("isAttacking", true); // Trigger attack animation
+            lastShotTime = Time.time; // Update the time of the last shot
+            
+            // Flip the archer to face the target
+            FlipTowardsTarget(currentTarget);
+        }
+    }
+
+    // Function to find a new target within the shooting range
+    private void FindNewTarget()
+    {
         // Find all GameObjects with the 'Enemy' tag
-        GameObject[] Enemies = GameObject.FindGameObjectsWithTag("Enemy");
+        GameObject[] playerTroops = GameObject.FindGameObjectsWithTag("Enemy");
 
         // Check each enemy and look for the closest one within shooting range
-        foreach (GameObject enemy in Enemies)
+        foreach (GameObject troop in playerTroops)
         {
-            // Check the distance between the archer and the Enemy
-            float distance = Vector2.Distance(transform.position, enemy.transform.position);
+            // Check the distance between the archer and the PlayerTroops
+            float distance = Vector2.Distance(transform.position, troop.transform.position);
 
-            if (distance <= shootingRange && Time.time >= lastShotTime + timeBetweenShots)
+            // Only shoot if the enemy is within the shooting range
+            if (distance <= shootingRange)
             {
-                animator.SetBool("isAttacking", true); // Trigger attack animation
-                currentTarget = enemy.transform; // Store the current target
-                lastShotTime = Time.time; // Update the time of the last shot
-
-                // Face towards the target
-                FaceTarget(enemy.transform);
-                break; // Stop checking other enemies once a valid target is found
+                currentTarget = troop.transform; // Store the new target
+                break; // Stop checking once a valid target is found
             }
         }
     }
 
-    // Function to make the archer face the target
-    private void FaceTarget(Transform target)
+    // Function to flip the archer based on the target's position
+    private void FlipTowardsTarget(Transform target)
     {
-        // Check the direction of the target
+        if (target == null) return;
+
+        // Check if the target is to the right or left of the archer
         if (target.position.x < transform.position.x && isFacingRight)
         {
-            // If the enemy is to the left and the archer is facing right, flip the archer
+            // Target is to the left, but archer is facing right, so flip
             Flip();
         }
         else if (target.position.x > transform.position.x && !isFacingRight)
         {
-            // If the enemy is to the right and the archer is facing left, flip the archer
+            // Target is to the right, but archer is facing left, so flip
             Flip();
         }
     }
 
-    // Function to flip the archer
+    // Simple function to flip the archer's sprite
     private void Flip()
     {
         isFacingRight = !isFacingRight;
-
-        // Multiply the archer's localScale by -1 to flip it
         Vector3 scaler = transform.localScale;
         scaler.x *= -1;
         transform.localScale = scaler;
@@ -76,7 +95,7 @@ public class PlayerArcher : MonoBehaviour
     public void ShootArrow()
     {
         // Only shoot if there's a valid target
-        if (currentTarget != null)
+        if (currentTarget != null && currentTarget.gameObject.activeInHierarchy)
         {
             // Instantiate the arrow at the shooting point
             GameObject arrow = Instantiate(arrowPrefab, shootingPoint.position, Quaternion.identity);
@@ -86,20 +105,23 @@ public class PlayerArcher : MonoBehaviour
             float distance = direction.magnitude;
             float heightDifference = direction.y;
 
-            // Set an angle for the projectile launch (in degrees)
-            float launchAngle = 45f; // You can tweak this angle for different arcs
+            // Adjust the launch angle for projectile arc
+            float launchAngle = 30f; // A slightly lower angle than 45 to ensure faster flight for distance
 
             // Convert angle to radians for calculation
             float launchAngleRad = launchAngle * Mathf.Deg2Rad;
 
-            // Increase the arrow's initial velocity to ensure it has enough power
+            // Calculate velocity with gravity and the distance
             float gravity = Mathf.Abs(Physics2D.gravity.y);
             float velocity = Mathf.Sqrt((gravity * distance * distance) / (2 * (distance * Mathf.Tan(launchAngleRad) - heightDifference)));
 
             // If velocity is zero or invalid, set a minimum velocity to avoid weak shots
-            if (float.IsNaN(velocity) || velocity <= 0) velocity = 20f; // A fallback to ensure the arrow still shoots
+            if (float.IsNaN(velocity) || velocity <= 0) velocity = arrowSpeed;
 
-            // Calculate the velocity components
+            // Apply the strength multiplier to adjust the arrow's speed and strength
+            velocity *= strengthMultiplier;
+
+            // Calculate the velocity components based on the angle
             float velocityX = velocity * Mathf.Cos(launchAngleRad);
             float velocityY = velocity * Mathf.Sin(launchAngleRad);
 
@@ -107,6 +129,7 @@ public class PlayerArcher : MonoBehaviour
             Rigidbody2D rb = arrow.GetComponent<Rigidbody2D>();
             if (rb != null)
             {
+                // Apply the velocity with the direction towards the target
                 rb.velocity = new Vector2(velocityX * Mathf.Sign(direction.x), velocityY);
 
                 // Rotate the arrow to point in the direction of its velocity

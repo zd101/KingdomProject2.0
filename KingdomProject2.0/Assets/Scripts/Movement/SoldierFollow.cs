@@ -4,22 +4,23 @@ using UnityEngine;
 
 public class SoldierFollow : MonoBehaviour
 {
-    public Transform target; // The target that this GameObject will follow
-    public float speed = 5f; // Speed at which the GameObject will move towards the target
-    public float stopRange = 1f; // Adjustable range within which the soldier will stop when following the target
-    public float enemyStopRange = 0f; // Adjustable range within which the soldier will stop when following the enemy (set to 0 to go all the way)
+    public Transform target;
+    public float speed = 5f;
+    public float stopRange = 1f;
+    public float enemyStopRange = 0f;
     private Rigidbody2D rb;
     private Animator animator;
-    private bool isFacingRight = false; // Indicates whether the soldier is facing right
-    private float moveInput; // Stores the horizontal movement input
+    private bool isFacingRight = false;
+    private float moveInput;
     private KingScript KingScript;
-    public GameObject targetGameObject; // Reference to the GameObject with the target script
-    private List<Transform> enemyTargets = new List<Transform>(); // List of enemy targets
-    private bool moveToEnemy = false; // Tracks whether the soldier should move towards the enemy
-    private bool isSpeedZero = false; // Tracks whether the speed is set to 0
+    public GameObject targetGameObject;
+    private List<Transform> enemyTargets = new List<Transform>();
+    private bool moveToEnemy = false;
+    private bool isSpeedZero = false;
     public float SoldierHealth;
-    private bool targetingEnemies = false; // Tracks if currently targeting enemies or default target
-    private bool noTarget = false; // Tracks whether the soldier should follow no target
+    private bool targetingEnemies = false;
+    private bool noTarget = false;
+    float inputHorizontal;
 
     void Start()
     {
@@ -30,6 +31,7 @@ public class SoldierFollow : MonoBehaviour
 
     void Update()
     {
+        inputHorizontal = Input.GetAxisRaw("Horizontal");
         if (SoldierHealth <= 0)
         {
             Debug.Log("Soldier is dead");
@@ -37,79 +39,58 @@ public class SoldierFollow : MonoBehaviour
             return;
         }
 
-        // Toggle speed between 0 and 1 when 'Q' is pressed
         if (Input.GetKeyDown(KeyCode.Q))
         {
             ToggleSpeed();
         }
 
-        // Check if 'G' is pressed to toggle between enemy and default target
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            SetNoTarget(true);
+        }
+
         if (Input.GetKeyDown(KeyCode.G))
         {
-            targetingEnemies = !targetingEnemies; // Toggle targeting between enemies and default target
+            targetingEnemies = !targetingEnemies;
             moveToEnemy = targetingEnemies;
-            noTarget = false; // Disable noTarget mode when switching to enemy or default target
 
             if (targetingEnemies)
             {
-                // Find all enemies with the "Enemy" tag and store them in the list
                 enemyTargets.Clear();
                 GameObject[] enemies = GameObject.FindGameObjectsWithTag("Enemy");
                 foreach (GameObject enemy in enemies)
                 {
                     enemyTargets.Add(enemy.transform);
                 }
+
+                SetNoTarget(false);
+            }
+            else
+            {
+                target = targetGameObject.transform;
+                Debug.Log("Returning to default target (Player/King).");
             }
         }
 
-        // Check if 'N' is pressed to enter No Target mode (stationary)
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (!noTarget && !isSpeedZero)
         {
-            noTarget = true; // Enable no target mode
-            targetingEnemies = false; // Disable targeting enemies
-        }
-
-        // Only move or follow targets when speed is not zero
-        if (!isSpeedZero)
-        {
-            if (noTarget)
+            if (targetingEnemies && enemyTargets.Count > 0)
             {
-                // No target mode: The soldier won't follow any target, but can still move on its own
-                if (Mathf.Abs(rb.velocity.x) > 0.01f)  // Only update xVelocity when the soldier is moving
-                {
-                    animator.SetFloat("xVelocity", Mathf.Abs(rb.velocity.x));
-                }
-            }
-            else if (targetingEnemies && enemyTargets.Count > 0)
-            {
-                // Move towards the closest enemy target
                 Transform closestEnemy = FindClosestEnemy();
                 if (closestEnemy != null)
                 {
                     MoveTowardsTarget(closestEnemy, enemyStopRange);
-                    if (Mathf.Abs(rb.velocity.x) == 0)
-                    {
-                        animator.SetBool("isAttacking", true);
-                    }
                 }
             }
-            else if (!targetingEnemies && target != null)
+            else if (target != null && !targetingEnemies)
             {
-                // Move towards the default target (e.g., the king or a base)
                 MoveTowardsTarget(target, stopRange);
             }
             else
             {
-                // Stop the character if there is no target
                 rb.velocity = Vector2.zero;
                 animator.SetFloat("xVelocity", 0);
             }
-        }
-        else
-        {
-            // If speed is zero, ensure the soldier stops
-            rb.velocity = Vector2.zero;
-            animator.SetFloat("xVelocity", 0);
         }
     }
 
@@ -140,71 +121,87 @@ public class SoldierFollow : MonoBehaviour
 
         if (distanceToTarget > stopDistance)
         {
-            Vector2 direction = (moveTarget.position - transform.position).normalized;
+            animator.SetBool("isAttacking", false);
 
+            Vector2 direction = (moveTarget.position - transform.position).normalized;
             moveInput = direction.x;
+
+            //Debug.Log("Move Input: " + moveInput);
 
             float targetVelocityX = moveInput * speed;
             float smoothedVelocityX = Mathf.Lerp(rb.velocity.x, targetVelocityX, Time.deltaTime * 10f);
 
             rb.velocity = new Vector2(smoothedVelocityX, rb.velocity.y);
 
-            // Only update xVelocity in the animator if the soldier is actually moving
             if (Mathf.Abs(rb.velocity.x) > 0.01f)
             {
                 animator.SetFloat("xVelocity", Mathf.Abs(rb.velocity.x));
             }
-            animator.SetBool("isAttacking", false);
 
-            Flipsprite();
+            Flipsprite(); // Flip the GameObject based on movement direction
         }
         else
         {
             rb.velocity = Vector2.zero;
             animator.SetFloat("xVelocity", 0);
+
+            if (targetingEnemies || moveTarget.CompareTag("Enemy"))
+            {
+                animator.SetBool("isAttacking", true);
+            }
         }
     }
 
+    // Flipping the entire GameObject based on direction by modifying the local scale
     void Flipsprite()
     {
-        if (isFacingRight && moveInput < 0f || !isFacingRight && moveInput > 0f)
-        {
-            isFacingRight = !isFacingRight;
+        //Debug.Log("Flipsprite() called - moveInput: " + moveInput + ", isFacingRight: " + isFacingRight);
 
-            Transform parentTransform = transform.parent;
-            if (parentTransform != null)
-            {
-                Vector3 ls = parentTransform.localScale;
-                ls.x *= -1f;
-                parentTransform.localScale = ls;
-                Debug.Log("Flipping sprite, new parent localScale: " + parentTransform.localScale);
-            }
-            else
-            {
-                Debug.LogError("Parent GameObject not found.");
-            }
+        // Check if the direction has significantly changed
+        if (isFacingRight && inputHorizontal < -0.01)
+        {
+            isFacingRight = false;
+            FlipGameObject(); // Flip the GameObject to face left   //only flips when soldier stops, if moveInput < - 0.1 (SOMETHING TO DO WITH SCALE OF CHILD AND PARENT MAYBE BEING OPPOSITE SOMETHING, rapid flipping)
+            Debug.Log("Flipped to face left");
         }
+        else if (!isFacingRight && inputHorizontal > 0.01)
+        {
+            isFacingRight = true;
+            FlipGameObject(); // Flip the GameObject to face right
+            Debug.Log("Flipped to face right");
+        }
+    }
+
+    // Flip the entire GameObject by changing its local scale
+    void FlipGameObject()
+    {
+        Vector3 localScale = transform.localScale;
+        localScale.x *= -1;  // Flip the x-axis scale to reverse the orientation
+        transform.localScale = localScale;  // Apply the new scale
     }
 
     void ToggleSpeed()
     {
         if (isSpeedZero)
         {
-            speed = 1f; // Restore speed to the original value
+            speed = 5f;
         }
         else
         {
-            speed = 0f; // Set speed to 0 and stop movement
-            rb.velocity = Vector2.zero; // Ensure the velocity is zero when speed is toggled off
-            animator.SetFloat("xVelocity", 0); // Ensure the animator reflects the stopped movement
+            speed = 0f;
+            rb.velocity = Vector2.zero;
+            animator.SetFloat("xVelocity", 0);
         }
         isSpeedZero = !isSpeedZero;
     }
 
     public void SetNoTarget(bool value)
     {
-        noTarget = value;  // Set the noTarget mode to the given value
-        targetingEnemies = false;
-        Debug.Log("NoTarget enabled: " + noTarget);
+        noTarget = value;
+
+        if (noTarget)
+        {
+            target = null;
+        }
     }
 }

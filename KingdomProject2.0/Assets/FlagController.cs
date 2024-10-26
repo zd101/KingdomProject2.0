@@ -31,7 +31,7 @@ public class FlagController : MonoBehaviour
         lastFlagPosition = new Vector3(playerPosition.x + 2f, playerPosition.y + flagSpawnHeightOffset, playerPosition.z);  // Default spawn close to player
 
         currentFlag = null;  // Ensure no flag exists at game start
-        Debug.Log("Selected Group: " + (currentGroupIndex == -1 ? "All Groups" : "Group " + currentGroupIndex));
+        //Debug.Log("Selected Group: " + (currentGroupIndex == -1 ? "All Groups" : "Group " + currentGroupIndex));
     }
 
     void Update()
@@ -145,7 +145,7 @@ public class FlagController : MonoBehaviour
             {
                 // Move only the selected group
                 groups[currentGroupIndex].SetTargetPosition(flagPosition);
-                Debug.Log("Group " + currentGroupIndex + " target position set at " + flagPosition);
+                //Debug.Log("Group " + currentGroupIndex + " target position set at " + flagPosition);
             }
         }
     }

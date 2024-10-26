@@ -9,97 +9,91 @@ public class Group
 
     public Vector3 targetPosition;
     public bool isTargetPositionSet = false;
-    public float formationSpacing = 1.0f;
+    public float formationSpacing =0.5f;
 
     public Group(float groundYPosition)
     {
         targetPosition = new Vector3(0, groundYPosition, 0);
     }
 
+    // Function to set the target position for the entire group
     public void SetTargetPosition(Vector3 newPosition)
     {
         targetPosition = newPosition;
         isTargetPositionSet = true;
 
-        // Disable the "noTarget" mode for each soldier in the group
+        // All soldiers are now set to move to the target
         foreach (GameObject capsule in capsules)
         {
             SoldierFollow soldierFollow = capsule.GetComponent<SoldierFollow>();
             if (soldierFollow != null)
             {
-                soldierFollow.SetNoTarget(false);  // Disable noTarget mode so soldiers can move to the flag
+                soldierFollow.SetNoTarget(false);  // Allow soldiers to move towards the target
             }
         }
     }
 
+    // Function to move the entire group towards the target at once (horizontal movement only)
     public void MoveUnits(float speed)
     {
         if (capsules.Count == 0 || !isTargetPositionSet)
             return;
 
-        int capsuleCount = capsules.Count;
-        float totalFormationWidth = (capsuleCount - 1) * formationSpacing;
+        // Calculate the width of the entire formation
+        float totalFormationWidth = (capsules.Count - 1) * formationSpacing;
         Vector3 formationStart = targetPosition - new Vector3(totalFormationWidth / 2, 0, 0);
 
-        for (int i = 0; i < capsuleCount; i++)
+        // Move each soldier in the group towards their calculated formation position (only left or right)
+        foreach (GameObject capsule in capsules)
         {
-            GameObject capsule = capsules[i];
+            Vector3 formationPosition = formationStart + new Vector3(capsules.IndexOf(capsule) * formationSpacing, 0, 0);
 
-            // If Rigidbody2D and Animator are on the child (first child, index 0)
-            Transform childTransform = capsule.transform.GetChild(0);  // Get the first (and only) child
-            Rigidbody2D rb = childTransform.GetComponent<Rigidbody2D>();  // Get Rigidbody2D from child
-            Animator animator = childTransform.GetComponent<Animator>();  // Get Animator from child
-
-            // Debugging: Ensure Rigidbody and Animator exist
-            if (rb == null)
-            {
-                Debug.LogError("Rigidbody2D not found on child of capsule: " + capsule.name);
-                continue;
-            }
-            if (animator == null)
-            {
-                Debug.LogError("Animator not found on child of capsule: " + capsule.name);
-                continue;
-            }
-
-            Vector3 formationPosition = formationStart + new Vector3(i * formationSpacing, 0, 0);
+            // Calculate distance to the target position
             float distanceToTarget = Vector2.Distance(capsule.transform.position, formationPosition);
 
-            if (distanceToTarget > 0.1f)
-            {
-                // Move capsule towards the formation position
-                Vector2 direction = (formationPosition - capsule.transform.position).normalized;
-                float targetVelocityX = direction.x * speed;
-                rb.velocity = new Vector2(targetVelocityX, rb.velocity.y);
+            // Get Animator and Rigidbody to update the movement and animation
+            Transform childTransform = capsule.transform.GetChild(0);  // Get the first (and only) child
+            Rigidbody2D rb = capsule.GetComponent<Rigidbody2D>();
+            Animator animator = childTransform.GetComponent<Animator>();  // Get Animator from child
 
-                // Debugging: Check velocity changes
-                Debug.Log("Capsule " + capsule.name + " moving with velocity X: " + rb.velocity.x);
+            // Move the soldier horizontally towards the formation position (X-axis only)
+            Vector3 horizontalTargetPosition = new Vector3(formationPosition.x, capsule.transform.position.y, capsule.transform.position.z);
+            capsule.transform.position = Vector3.MoveTowards(capsule.transform.position, horizontalTargetPosition, speed * Time.deltaTime);
+
+            // Calculate direction for sprite flipping
+            float direction = formationPosition.x - capsule.transform.position.x;
+
+            // Check if soldier has reached the target (within 0.1 units on the X-axis)
+            if (Mathf.Abs(direction) < 0.1f)
+            {
+                // Stop movement and set velocity to 0 if they are at the target
+                if (animator != null)
+                {
+                    animator.SetFloat("xVelocity", 0f);  // Stop animation once they reach the target
+                }
             }
             else
             {
-                // Stop the capsule if it's close enough to the target
-                rb.velocity = new Vector2(0, rb.velocity.y);
-                Debug.Log("Capsule " + capsule.name + " stopped.");
+                // Update the animator with the current movement speed
+                if (animator != null)
+                {
+                    float movementSpeed = Mathf.Abs(direction);
+                    animator.SetFloat("xVelocity", movementSpeed);  // Update animation based on movement
+                }
+
+                /*/ **Reversed Sprite Flipping**: Flip the sprite based on the opposite direction
+                if ((direction > 0 && capsule.transform.localScale.x > 0) || (direction < 0 && capsule.transform.localScale.x < 0))
+                {
+                    capsule.transform.localScale = new Vector3(-capsule.transform.localScale.x, capsule.transform.localScale.y, capsule.transform.localScale.z);
+                }
+                */
             }
-
-            // Update the animator with the current velocity
-            animator.SetFloat("xVelocity", Mathf.Abs(rb.velocity.x)); // Set the velocity to the animator
-
-            // Debugging: Ensure Animator xVelocity is being updated
-            Debug.Log("Animator xVelocity for capsule " + capsule.name + ": " + Mathf.Abs(rb.velocity.x));
         }
 
-        // Check if all capsules have reached their formation positions
-        if (capsules.TrueForAll(c => Vector3.Distance(c.transform.position, formationStart + new Vector3(capsules.IndexOf(c) * formationSpacing, 0, 0)) < 0.1f))
+        // Check if all soldiers have reached their formation positions
+        if (capsules.TrueForAll(c => Mathf.Abs(c.transform.position.x - (formationStart.x + capsules.IndexOf(c) * formationSpacing)) < 0.1f))
         {
-            isTargetPositionSet = false;
+            isTargetPositionSet = false;  // Reset flag if all soldiers are in position
         }
-    }
-
-    public void SpawnNewUnit(GameObject capsulePrefab, float groundYPosition)
-    {
-        Vector3 spawnPosition = new Vector3(capsules.Count * formationSpacing, groundYPosition, 0);
-        GameObject newCapsule = GameObject.Instantiate(capsulePrefab, spawnPosition, Quaternion.identity);
-        capsules.Add(newCapsule);
     }
 }
