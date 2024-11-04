@@ -4,9 +4,6 @@ using UnityEngine;
 [System.Serializable]
 public class Group
 {
-
-    //chris breezy
-
     [SerializeField] // Expose the capsules list to the Inspector
     public List<GameObject> capsules = new List<GameObject>();
 
